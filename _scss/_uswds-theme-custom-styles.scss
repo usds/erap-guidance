@@ -1,0 +1,99 @@
+/*
+* * * * * ==============================
+* * * * * ==============================
+* * * * * ==============================
+* * * * * ==============================
+========================================
+========================================
+========================================
+----------------------------------------
+USWDS THEME CUSTOM STYLES
+----------------------------------------
+!! Copy this file to your project's
+   sass root. Don't edit the version
+   in node_modules.
+----------------------------------------
+Custom project SASS goes here.
+
+i.e.
+@include u-padding-right('05');
+----------------------------------------
+*/
+
+
+.visually-hidden {
+  position: absolute!important;
+  height: 1px;
+  width: 1px;
+  clip: rect(1px 1px 1px 1px);
+  clip: rect(1px,1px,1px,1px);
+  clip-path: polygon(0 0,0 0,0 0,0 0);
+  -webkit-clip-path: polygon(0 0,0 0,0 0,0 0);
+  overflow: hidden!important;
+  word-wrap: normal
+}
+
+
+.main {
+  margin: 0px 20px;
+}
+
+@media (min-width: 768px) {
+  .main {
+    margin: 80px 50px;
+  }
+}
+
+
+.block {
+  padding-bottom: 20px;
+  margin-bottom: 20px
+}
+
+.block .sub-nav-group span.field--name-title,.block h2,.sub-nav-group .block span.field--name-title {
+  padding-bottom: .2em;
+  letter-spacing: -1px;
+  margin-bottom: 15px
+}
+
+.block-page-title-block .sub-nav-group span.field--name-title,.block-page-title-block h1,.block-page-title-block h2,.layoutmanager .sub-nav-group span.field--name-title,.layoutmanager h1,.layoutmanager h2,.sub-nav-group .block-page-title-block span.field--name-title,.sub-nav-group .layoutmanager span.field--name-title {
+  font-size: 24px;
+  line-height: 115%;
+  padding-bottom: 30px;
+  background-image: url(/assets/img/h1-underline.png);
+  background-repeat: no-repeat;
+  background-position: left bottom;
+  color: #393b3e;
+  font-weight: 300;
+  font-family: Merriweather,Cambria,serif;
+  margin: 0!important
+}
+
+@media (min-width: 768px) {
+    .block-page-title-block .sub-nav-group span.field--name-title,.block-page-title-block h1,.block-page-title-block h2,.layoutmanager .sub-nav-group span.field--name-title,.layoutmanager h1,.layoutmanager h2,.sub-nav-group .block-page-title-block span.field--name-title,.sub-nav-group .layoutmanager span.field--name-title {
+        font-size: 30px;
+    }
+}
+
+@media (min-width: 1025px) {
+    .block-page-title-block .sub-nav-group span.field--name-title,.block-page-title-block h1,.block-page-title-block h2,.layoutmanager .sub-nav-group span.field--name-title,.layoutmanager h1,.layoutmanager h2,.sub-nav-group .block-page-title-block span.field--name-title,.sub-nav-group .layoutmanager span.field--name-title {
+        font-size: 40px;
+    }
+}
+
+
+.abstract {
+    font-size: 1.6em;
+    padding-bottom: 20px;
+    border-bottom: 1px solid #e3e3e3;
+    font-weight: 200;
+    line-height: 1.4em;
+    margin-bottom: 20px
+}
+
+@media (max-width: 767px) {
+    .abstract {
+        font-size:22px;
+        line-height: 1.45
+    }
+}

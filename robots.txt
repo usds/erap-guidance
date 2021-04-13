@@ -1,0 +1,9 @@
+User-agent: usasearch
+Crawl-delay: 2
+disallow: /info/data-govwide/
+
+User-agent: *
+Crawl-delay: 10
+disallow: /info/data-govwide/
+
+Sitemap: https://smeqa.usds.gov/sitemap.xml

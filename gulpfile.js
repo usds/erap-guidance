@@ -1,143 +1,120 @@
-/*
-* * * * * ==============================
-* * * * * ==============================
-* * * * * ==============================
-* * * * * ==============================
-========================================
-========================================
-========================================
-----------------------------------------
-USWDS SASS GULPFILE
-----------------------------------------
-*/
+/*jshint node:true, esversion: 6 */
+"use strict";
 
 const autoprefixer = require("autoprefixer");
+const browsersync = require("browser-sync");
+const cp = require("child_process");
 const csso = require("postcss-csso");
+const del = require("del");
+const discardComments = require("postcss-discard-comments");
 const gulp = require("gulp");
-const pkg = require("./node_modules/uswds/package.json");
+const log = require("fancy-log");
 const postcss = require("gulp-postcss");
-const replace = require("gulp-replace");
+const rename = require("gulp-rename");
 const sass = require("gulp-sass");
 const sourcemaps = require("gulp-sourcemaps");
-const uswds = require("./node_modules/uswds-gulp/config/uswds");
+
+const env = process.env.NODE_ENV || "prod";
+console.log(`Environment set to ${env}`)
+const config = require("./config/gulp/config");
+
+const autoprefixerOptions = config.browsers;
+const browserSyncConfig = config.browsersync.development;
+const task = "sass";
+const watchConfig = config.watch;
 
 sass.compiler = require("sass");
 
-/*
-----------------------------------------
-PATHS
-----------------------------------------
-- All paths are relative to the
-  project root
-- Don't use a trailing `/` for path
-  names
-----------------------------------------
-*/
+function browserSync(done) {
+  browsersync.init(browserSyncConfig);
+  done();
+}
 
-// Project Sass source directory
-const PROJECT_SASS_SRC = './assets/uswds-theme';
+// Run build task and start a server with BrowserSync
+// gulp.task("browsersync", gulp.series('build', function() {
+//   browsersync(config);
+// }));
 
-// Site Sass
-const USDS_SASS_SRC = './assets/stylesheets/';
+// Reload task, that is used by jekyll-rebuild
+function browserSyncReload(done) {
+  browsersync.reload();
+  done();
+}
 
-// Images destination
-const IMG_DEST = './assets/img';
+// Clean assets
+function clean() {
+  return del(["./_site/assets/"]);
+}
 
-// Fonts destination
-const FONTS_DEST = './assets/fonts';
-
-// Javascript destination
-const JS_DEST = './assets/js/vendor';
-
-// Compiled CSS destination
-const CSS_DEST = './assets/uswds';
-
-// Site CSS destination
-// Like the _site/assets/css directory in Jekyll, if necessary.
-// If using, uncomment line 106
-//const SITE_CSS_DEST = "./_site/assets";
-
-/*
-----------------------------------------
-TASKS
-----------------------------------------
-*/
-
-gulp.task("copy-uswds-setup", () => {
-  return gulp
-    .src(`${uswds}/scss/theme/**/**`)
-    .pipe(gulp.dest(`${PROJECT_SASS_SRC}`));
-});
-
-gulp.task("copy-uswds-fonts", () => {
-  return gulp.src(`${uswds}/fonts/**/**`).pipe(gulp.dest(`${FONTS_DEST}`));
-});
-
-gulp.task("copy-uswds-images", () => {
-  return gulp.src(`${uswds}/img/**/**`).pipe(gulp.dest(`${IMG_DEST}`));
-});
-
-gulp.task("copy-uswds-js", () => {
-  return gulp.src(`${uswds}/js/**/**`).pipe(gulp.dest(`${JS_DEST}`));
-});
-
-gulp.task("build-sass", function(done) {
-  var plugins = [
+function css() {
+  const pluginsProcess = [
     // Autoprefix
-    autoprefixer({
-      cascade: false,
-      grid: true
-    }),
-    // Minify
-    csso({ forceMediaMerge: false }),
+    autoprefixer(autoprefixerOptions),
+    discardComments()
   ];
-  return (
-    gulp
-      .src([`${PROJECT_SASS_SRC}/*.scss`])
-      .pipe(sourcemaps.init({ largeFile: true }))
+  const pluginsMinify = [csso({ forceMediaMerge: false })];
+
+  return gulp
+    .src("_scss/**/*.scss")
+    .pipe(sourcemaps.init({ largeFile: true }))
+    .pipe(
+      sass
+      .sync({
+        includePaths: [
+          "node_modules/uswds/dist/scss",
+          "node_modules/uswds/dist/scss/packages",
+          "_scss"
+        ],
+        outputStyle: "expanded"
+      })
+      .on("error", sass.logError)
+    )
+    .pipe(postcss(pluginsProcess))
+    .pipe(gulp.dest("assets/stylesheets"))
+    .pipe(gulp.dest("_site/assets/stylesheets"))
+    .pipe(postcss(pluginsMinify))
       .pipe(
-        sass.sync({
-          includePaths: [
-            `${PROJECT_SASS_SRC}`,
-            `${uswds}/scss`,
-            `${uswds}/scss/packages`
-          ]
+        rename({
+          suffix: ".min"
         })
       )
-      .pipe(replace(/\buswds @version\b/g, "based on uswds v" + pkg.version))
-      .pipe(postcss(plugins))
       .pipe(sourcemaps.write("."))
-      // uncomment the next line if necessary for Jekyll to build properly
-      //.pipe(gulp.dest(`${SITE_CSS_DEST}`))
-      .pipe(gulp.dest(`${CSS_DEST}`))
-  );
-});
+      .pipe(gulp.dest("assets/stylesheets"))
+      .pipe(gulp.dest("_site/assets/stylesheets"));
+}
 
-gulp.task(
-  "init",
-  gulp.series(
-    "copy-uswds-setup",
-    "copy-uswds-fonts",
-    "copy-uswds-images",
-    "copy-uswds-js",
-    "build-sass"
-  )
-);
+function jekyll(done) {
+  log("Running buildJekyll");
 
-gulp.task(
-  "update",
-  gulp.series(
-    "copy-uswds-fonts",
-    "copy-uswds-images",
-    "copy-uswds-js",
-    "build-sass"
-  )
-);
+  if (env === "prod") {
+    log("Building for production");
+    return cp
+      .spawn("bundle", ["exec", "jekyll", "build"], { stdio: "inherit" })
+      .on("close", done);
+  } else {
+    log("Building for development");
+    return cp
+      .spawn(
+        "bundle",
+        ["exec", "jekyll", "build", "--config", "_config.yml,_config-dev.yml"],
+        { stdio: "inherit" }
+      )
+      .on("close", done);
+  }
+}
 
-gulp.task("watch-sass", function() {
-  gulp.watch(`${PROJECT_SASS_SRC}/**/*.scss`, gulp.series("build-sass"));
-});
+function watchFiles() {
+  gulp.watch(watchConfig.jekyll, gulp.series(jekyll, browserSyncReload));
+  gulp.watch(watchConfig.styles, gulp.series(css, browserSyncReload));
+}
 
-gulp.task("watch", gulp.series("build-sass", "watch-sass"));
+// Define complext tasks
+const build = gulp.series(clean, gulp.parallel(css, jekyll));
+const watch = gulp.parallel(watchFiles, browserSync);
 
-gulp.task("default", gulp.series("watch"));
+// Export tasks
+exports.css = css;
+exports.jekyll = jekyll;
+exports.build = build;
+exports.watch = watch;
+exports.default = build;

@@ -1,10 +1,38 @@
-<title>{% if page.title %}{{ page.title }}{% else %}{{ site.title }}{% endif %}</title>
-<meta name="viewport" content="width=device-width">
-<link rel="shortcut icon" type="image/x-icon" href="{{ relative }}assets/img/favicons/favicon.ico" />
+<head>
+  <meta charset="utf-8" />
+  <meta http-equiv="X-UA-Compatible" content="IE=Edge" />
+  <meta name="viewport" content="width=device-width, initial-scale=1">
 
-{% assign lvl = page.url | append:'X' | split:'/' | size %}
-{% capture relative %}{% for i in (3..lvl) %}../{% endfor %}{% endcapture %}
+  {% capture url_path %}{{site.domain}}{{site.baseurl}}{{page.url}}{% endcapture %}
+  {% capture page_title %}{%if page.title %}{{ page.title }} | {{ site.title }}{% endif %}{% endcapture %}
+  {% capture page_description %}{% if page.description %}{{ page.description }}{% else %}{{ content | newline_to_br | strip_newlines | replace: '<br />', ' ' | strip_html | strip | truncatewords: 30 }}{% endif %}{% endcapture %}
 
-<link rel="stylesheet" href="{{ relative }}assets/stylesheets/application.css">
+  <title>{{ site.title }}</title>
 
-<meta name="robots" content="noindex">
+  <meta name="description" content="{{ page_description }}" />
+  <!-- Block www search engines until site is cleared -->
+  <!-- doing this here instead of robots.txt so search.gov can still index the site -->
+  <meta name="googlebot" content="noindex" />
+  <meta name="bingbot" content="noindex" />
+
+  <link rel="canonical" href="{{ url_path }}" />
+  <meta property="og:title" content="{{ page_title }}" />
+  <meta property="og:title" content="{{ page_title }}" />
+  <meta property="og:locale" content="en_US" />
+  <meta property="og:description" content="{{ page_description }}" />
+  <meta property="og:url" content="{{ url_path }}" />
+  <meta property="og:site_name" content="{{ site.title }}" />
+  <meta property="og:type" content="article" />
+
+  <link rel="shortcut icon" href="{{ site.baseurl }}/assets/img/favicons/treasury.png" type="image/png">
+  <link rel="apple-touch-icon" sizes="180x180" href="{{ site.baseurl }}/assets/img/favicons/apple-touch-icon.png">
+  <link rel="icon" type="image/png" sizes="32x32" href="{{ site.baseurl }}/assets/img/favicons/favicon-32x32.png">
+  <link rel="icon" type="image/png" sizes="16x16" href="{{ site.baseurl }}/assets/img/favicons/favicon-16x16.png">
+  <link rel="manifest" href="{{ site.baseurl }}/assets/img/favicons/site.webmanifest">
+  <link rel="mask-icon" href="{{ site.baseurl }}/assets/img/favicons/safari-pinned-tab.svg" color="#5bbad5">
+  <meta name="msapplication-TileColor" content="#da532c">
+  <meta name="theme-color" content="#ffffff">
+
+  <link rel="stylesheet" media="all" href="{{ site.baseurl }}/assets/stylesheets/{{ site.styles }}"></link>
+  {{ include.append }}
+</head>

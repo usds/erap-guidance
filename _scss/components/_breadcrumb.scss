@@ -1,0 +1,107 @@
+
+.breadcrumb-container {
+    max-width: 100vw;
+}
+
+.breadcrumb-container .breadcrumb {
+    max-width: 1440px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.breadcrumb-container #block-hamilton-breadcrumbs {
+    background-color: #f1f2f2;
+    padding-bottom: 0;
+    margin-bottom: 80px;
+    position: relative;
+    // top: 40px
+}
+
+@media screen and (max-width: 1024px) {
+    .breadcrumb-container #block-hamilton-breadcrumbs {
+        margin-bottom:0;
+        top: 0;
+    }
+}
+
+body.toolbar-fixed .breadcrumb-container #block-hamilton-breadcrumbs {
+    // top: 40px;
+    margin-bottom: 80px;
+}
+
+@media screen and (max-width: 1024px) {
+    body.toolbar-fixed .breadcrumb-container #block-hamilton-breadcrumbs {
+        margin-bottom:0;
+        // top: -40px
+    }
+}
+
+nav.breadcrumb {
+    display: none;
+    margin-bottom: 5px;
+    text-transform: uppercase;
+    font-weight: 600;
+    background: #f1f2f2;
+}
+
+nav.breadcrumb ol {
+  margin: 0 0 0 20px;
+}
+
+@media (min-width: 768px) {
+    nav.breadcrumb {
+      display: block;
+    }
+
+    nav.breadcrumb ol {
+      // margin-left: 50px
+    }
+}
+
+@media (min-width: 1458px) {
+    nav.breadcrumb ol {
+        margin-left: 0;
+    }
+}
+
+nav.breadcrumb ol a,nav.breadcrumb ol a:active,nav.breadcrumb ol a:focus,nav.breadcrumb ol a:hover {
+    color: #49525C;
+}
+
+nav.breadcrumb ol li {
+    opacity: 1;
+    padding: 5px 0;
+    letter-spacing: 1px;
+    font-size: 14px;
+}
+
+nav.breadcrumb ol li:last-child {
+    opacity: 1;
+    color: #00498f;
+}
+
+nav.breadcrumb ol li:after {
+    content: " ";
+    background: url(/assets/img/breadcrumb-arrow.png) center center no-repeat;
+    background-size: 6px 8px;
+    color: #9c9999;
+    display: inline-block;
+    width: 6px;
+    height: 8px;
+    padding: 0 15px 0 3px;
+}
+
+nav.breadcrumb ol li:last-child:after {
+    content: " ";
+    background: 0 0;
+}
+
+.drupal-messages ol>li,.no-ul-list>li,.region-branding .block-system-menublock ul.menu>li,.social ul>li,.social--round ul>li,.social--small ul>li,footer #portal-footer .block-menu ul.menu>li,nav.breadcrumb ol>li {
+  display: inline-block;
+  list-style-type: none;
+  margin: 2px;
+}
+
+nav.breadcrumb ol li a {
+  text-decoration: none;
+}
