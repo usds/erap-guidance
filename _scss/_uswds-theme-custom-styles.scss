@@ -97,3 +97,29 @@ i.e.
         line-height: 1.45
     }
 }
+
+h3 {
+  font-family: "Source Sans Pro",Calibri,sans-serif;
+  text-transform: uppercase;
+  letter-spacing: 2px;
+  line-height: 1.18;
+  color: #0053a3;
+}
+
+.mq--t:after {
+  display: block;
+  clear: both;
+  content: " "
+}
+
+
+// New styles
+.era-sidenav__title {
+  font-family: "Source Sans Pro",Calibri,sans-serif;
+  text-transform: uppercase;
+  letter-spacing: 2px;
+  line-height: 1.18;
+  font-weight: 700;
+  margin: 0 0 20px;
+  color: #0053a3;
+}

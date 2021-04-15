@@ -1,8 +1,9 @@
 ---
-layout: article
+layout: default
 permalink: /allocation-of-funds/
-program: era
-section: about
+program: local
+section: era
+sub-section: allocation-of-funds
 sidenav: programs
 title: Allocation of funds
 ---

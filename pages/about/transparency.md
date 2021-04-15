@@ -1,8 +1,9 @@
 ---
-layout: article
+layout: default
 permalink: /about/transparency/
-program: era
-section: about
+program: local
+section: era
+sub-section: about
 sidenav: programs
 title: Transparency
 ---

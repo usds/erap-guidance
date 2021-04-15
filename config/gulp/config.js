@@ -27,7 +27,8 @@ module.exports = {
       "assets/js/*.js",
       "_layouts/*.html",
       "toolkit/**/*.{html,markdown,md,yml,json,txt,pptx}",
-      "pages/**/*.{html,markdown,md,yml,json,txt,xml}"
+      "pages/**/*.{html,markdown,md,yml,json,txt,xml}",
+      "index.html"
     ],
     styles: [
       "_scss/*.scss",

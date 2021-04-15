@@ -1,8 +1,9 @@
 ---
-layout: article
+layout: default
 permalink: /about/
-program: era
-section: about
+program: local
+section: era
+sub-section: about
 sidenav: programs
 title: About the program
 ---

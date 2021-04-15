@@ -8,65 +8,64 @@ programs:
   - text: Assistance for State, Local, and Tribal Governments
     href: https://home.treasury.gov/policy-issues/cares/assistance-for-small-businesses
     name: local
-  - text: Preserving Jobs for American Industry
-    href: https://home.treasury.gov/policy-issues/cares/preserving-jobs-for-american-industry
-    name: cares
-  - text: Emergency Rental Assistance Program
-    href: /
-    name: era
     subnav:
-    - text: About 
-      href: /about/
-      name: about
+    - text: Small Business Tax Credit Programs
+      href: https://home.treasury.gov/policy-issues/coronavirus/assistance-for-small-businesses/small-business-tax-credit-programs
+      name: investment
+    - text: Emergency Capital Investment Program
+      href: https://home.treasury.gov/policy-issues/cares/emergency-capital-investment-program
+      name: investment
+    - text: Emergency Rental Assistance Program
+      href: /
+      name: era
       subnav:
       - text: About the program
         href: /about/
-      - text: Transparency
-        href: /about/transparency/
-    - text: Allocation of funds
-      href: /allocation-of-funds/
-      name: allocation-of-funds
-      subnav:
-      - text: Application process
-        href: "/allocation-of-funds/application-process/"
-      - text: ERA-1 funding allocations 
-        href: "/allocation-of-funds/era-1-funding-allocations/"
-      - text: Preparing for reallocation of funds
-        href: "/allocation-of-funds/preparing-for-reallocation-of-funds/"
-    - text: Grant Eligibility
-      href: /grant-eligibility/
-      name: grant-eligibility
-      subnav:
-      - text: Census data
-        href: "/grant-eligibility/census-data/"
-      - text: Changes from ERA-1 to ERA-2
-        href: "/grant-eligibility/changes-from-era-1-to-era-2/"
-      - text: Eligible units of local government - Population
-        href: "/grant-eligibility/eligible-units-of-local-government-population/"
-      - text: Grantee award terms
-        href: "/grant-eligibility/grantee-award-terms/"
-      - text: Overlapping jurisdictions
-        href: "/grant-eligibility/overlapping-jurisdictions/"
-      - text: Statutory provisions
-        href: "/grant-eligibility/statutory-provisions/"
-    - text: Implementation Guidance
-      href: /implementation-guidance/
-      name: implementation-guidance
-      subnav:
-      - text: Administering an ERA program
-        href: "/implementation-guidance/administering-an-era-program/"
-      - text: Data collection for reporting to US Treasury
-        href: "/implementation-guidance/data-collection-for-reporting/"
-      - text: Determining household income
-        href: "/implementation-guidance/determining-household-income/"
-      - text: Determining risk of experiencing homelessness or housing instability
-        href: "/implementation-guidance/determining-risk/"
-      - text: "Determining tenant and landlord eligibility"
-        href: "/implementation-guidance/determining-tenant-and-landlord-eligibility/"
-  - text: Emergency Capital Investment Program
-    href: https://home.treasury.gov/policy-issues/cares/emergency-capital-investment-program
-    name: investment
-  - text: Coronavirus Economic Relief for Transportation Services Program
-    href: https://home.treasury.gov/policy-issues/cares/preserving-jobs-for-american-industry/certs
-    name: certs
+        name: about
+        subnav:
+        - text: Transparency
+          href: /about/transparency/
+      - text: Allocation of funds
+        href: /allocation-of-funds/
+        name: allocation-of-funds
+        subnav:
+        - text: Application process
+          href: "/allocation-of-funds/application-process/"
+        - text: ERA-1 funding allocations 
+          href: "/allocation-of-funds/era-1-funding-allocations/"
+        - text: Preparing for reallocation of funds
+          href: "/allocation-of-funds/preparing-for-reallocation-of-funds/"
+      - text: Grant Eligibility
+        href: /grant-eligibility/
+        name: grant-eligibility
+        subnav:
+        - text: Census data
+          href: "/grant-eligibility/census-data/"
+        - text: Changes from ERA-1 to ERA-2
+          href: "/grant-eligibility/changes-from-era-1-to-era-2/"
+        - text: Eligible units of local government - Population
+          href: "/grant-eligibility/eligible-units-of-local-government-population/"
+        - text: Grantee award terms
+          href: "/grant-eligibility/grantee-award-terms/"
+        - text: Overlapping jurisdictions
+          href: "/grant-eligibility/overlapping-jurisdictions/"
+        - text: Statutory provisions
+          href: "/grant-eligibility/statutory-provisions/"
+      - text: Implementation Guidance
+        href: /implementation-guidance/
+        name: implementation-guidance
+        subnav:
+        - text: Administering an ERA program
+          href: "/implementation-guidance/administering-an-era-program/"
+        - text: Data collection for reporting to US Treasury
+          href: "/implementation-guidance/data-collection-for-reporting/"
+        - text: Determining household income
+          href: "/implementation-guidance/determining-household-income/"
+        - text: Determining risk of experiencing homelessness or housing instability
+          href: "/implementation-guidance/determining-risk/"
+        - text: "Determining tenant and landlord eligibility"
+          href: "/implementation-guidance/determining-tenant-and-landlord-eligibility/"
+  - text: Assistance for American Industry
+    href: https://home.treasury.gov/policy-issues/coronavirus/assistance-for-american-industry
+    name: industry
 

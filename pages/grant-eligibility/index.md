@@ -1,8 +1,9 @@
 ---
-layout: article
+layout: default
 permalink: /grant-eligibility/
-program: era
-section: about
+program: local
+section: era
+sub-section: grant-eligibility
 sidenav: programs
 title: Grant Eligibility
 ---
