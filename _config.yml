@@ -38,6 +38,9 @@ logo: /img/usds-logo-onwhite.png
 # Google Analytics - Gov wide account
 # analytics_id: "UA-132706295-1"
 
+collections:
+  faqs:
+    sort_by: sort_number
 
 # Exclude from processing.
 exclude:

@@ -64,7 +64,7 @@ programs:
         - text: Determining risk of experiencing homelessness or housing instability
           href: "/implementation-guidance/determining-risk/"
         - text: "Determining tenant and landlord eligibility"
-          href: "/implementation-guidance/determining-tenant-and-landlord-eligibility/"
+          href: "/implementation-guidance/determining-eligibility/"
   - text: Assistance for American Industry
     href: https://home.treasury.gov/policy-issues/coronavirus/assistance-for-american-industry
     name: industry

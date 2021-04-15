@@ -98,12 +98,10 @@ i.e.
     }
 }
 
+h2,
 h3 {
-  font-family: "Source Sans Pro",Calibri,sans-serif;
-  text-transform: uppercase;
-  letter-spacing: 2px;
-  line-height: 1.18;
-  color: #0053a3;
+  font-family: "Source Sans Pro", Calibri, sans-serif;
+  color: color($theme-color-primary);
 }
 
 .mq--t:after {
@@ -122,4 +120,28 @@ h3 {
   font-weight: 700;
   margin: 0 0 20px;
   color: #0053a3;
+}
+
+.era-guidance {
+  &__placeholder {
+    color: color($theme-color-base-dark);
+  }
+
+  &__faq-reference {
+    display: block;
+    margin-bottom: units(4);
+  }
+
+  &__datestamp {
+    @include u-font('body', 'xs');
+    @include u-text('bold');
+  }
+}
+
+.usa-tag--new {
+  background-color: color($theme-color-success-dark);
+}
+
+sup a {
+  text-decoration: none;
 }

@@ -26891,12 +26891,10 @@ input[type=search]{
     line-height:1.45;
   }
 }
+h2,
 h3{
   font-family:"Source Sans Pro", Calibri, sans-serif;
-  text-transform:uppercase;
-  letter-spacing:2px;
-  line-height:1.18;
-  color:#0053a3;
+  color:#005ea2;
 }
 
 .mq--t:after{
@@ -26913,6 +26911,27 @@ h3{
   font-weight:700;
   margin:0 0 20px;
   color:#0053a3;
+}
+
+.era-guidance__placeholder{
+  color:#565c65;
+}
+.era-guidance__faq-reference{
+  display:block;
+  margin-bottom:2rem;
+}
+.era-guidance__datestamp{
+  font-family:Source Sans Pro Web, Helvetica Neue, Helvetica, Roboto, Arial, sans-serif;
+  font-size:1rem;
+  font-weight:700;
+}
+
+.usa-tag--new{
+  background-color:#4d8055;
+}
+
+sup a{
+  text-decoration:none;
 }
 
 @media (min-width: 1025px){

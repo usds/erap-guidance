@@ -7,3 +7,7 @@ sub-section: allocation-of-funds
 sidenav: programs
 title: ERA-1 funding allocations
 ---
+
+<span class="era-guidance__placeholder">
+  Content to be filled in from existing PDFs.
+</span>
