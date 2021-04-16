@@ -56,3 +56,11 @@ The guiding principles of our policies for the Emergency Rental Assistance progr
 *	Offer grantees flexibility on the documentation they require. Grantees can use photocopies or digital photographs of documents, e-malls, or attestations from employers, landlords, caseworkers, or others with knowledge of the household’s circumstances. 
 
 You must require all applications for assistance to include an attestation from the applicant that all information included is correct and complete. 
+
+### Main sections of guidance
+<div class="era-guidance-section-links">
+  <span class="era-guidance__placeholder">
+    This will be a list of what is in the side navigation with a description for each section.
+  </span>
+
+</div>

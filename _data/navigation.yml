@@ -64,7 +64,21 @@ programs:
         - text: Determining risk of experiencing homelessness or housing instability
           href: "/implementation-guidance/determining-risk/"
         - text: "Determining tenant and landlord eligibility"
-          href: "/implementation-guidance/determining-eligibility/"
+          href: "/implementation-guidance/determining--eligibility/"
+        - text: "Documentation & reporting requirements"
+          href: "/implementation-guidance/documentation-and-reporting/"
+        - text: "Ensuring Equity"
+          href: "/implementation-guidance/ensuring-equity/"
+        - text: "Preventing duplication of benefits"
+          href: "/implementation-guidance/preventing-duplication-of-benefits/"
+        - text: "Getting landlords and utility services to participate"
+          href: "/implementation-guidance/landlord-and-utility-participation/"
+        - text: "Guidance specific to Tribes and Tribally Designated Housing Entities (TDHE)"
+          href: "/implementation-guidance/tribes-and-tdhe/"
+        - text: "Preventing fraud and misuse of the program"
+          href: "/implementation-guidance/preventing-fraud-and-misuse/"
+        - text: "What an ERA program can pay for"
+          href: "/implementation-guidance/what-an-era-program-can-pay-for/"
   - text: Assistance for American Industry
     href: https://home.treasury.gov/policy-issues/coronavirus/assistance-for-american-industry
     name: industry

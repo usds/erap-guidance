@@ -123,6 +123,10 @@ h3 {
 }
 
 .era-guidance {
+  &-section-links {
+    margin-top: units(5);
+  }
+
   &__placeholder {
     color: color($theme-color-base-dark);
   }
