@@ -142,6 +142,13 @@ h3 {
   }
 }
 
+// temporary for demo purposes
+.era-guidance-section-links {
+  a:visited {
+    color: color($theme-color-primary);
+  }
+}
+
 .usa-tag--new {
   background-color: color($theme-color-success-dark);
 }

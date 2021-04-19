@@ -22,3 +22,6 @@ Eligible households that include an individual who has been unemployed for the 9
 
 Household income is determined as either the household’s total income for calendar year 2020 or the household’s monthly income at the time of application. For household incomes determined using the latter method, income eligibility must be redetermined every 3 months.
 
+## Eligibility of Local Governments
+
+A unit of local government eligible for receipt of direct payment includes a county, municipality, town, township, village, parish, borough, or other unit of general government below the State level with a population that exceeds 200,000. 

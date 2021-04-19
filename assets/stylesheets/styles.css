@@ -26929,6 +26929,10 @@ h3{
   font-weight:700;
 }
 
+.era-guidance-section-links a:visited{
+  color:#005ea2;
+}
+
 .usa-tag--new{
   background-color:#4d8055;
 }
