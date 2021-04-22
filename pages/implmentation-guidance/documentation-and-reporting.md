@@ -1,11 +1,11 @@
 ---
 layout: default
-permalink: /implementation-guidance/documentation-and-reporting/
+permalink: /implementation-guidance/documentation-requirements/
 program: local
 section: era
 sub-section: implementation-guidance
 sidenav: programs
-title: Documentation and Reporting
+title: Documentation Requirements
 ---
 
 ## Documenting rent and rental arrears

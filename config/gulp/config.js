@@ -29,7 +29,7 @@ module.exports = {
       "toolkit/**/*.{html,markdown,md,yml,json,txt,pptx}",
       "pages/**/*.{html,markdown,md,yml,json,txt,xml}",
       "index.html",
-      "_faqs/*.md"
+      "_faqs/*.{html,md}"
     ],
     styles: [
       "_scss/*.scss",

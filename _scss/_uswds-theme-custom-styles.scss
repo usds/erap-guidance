@@ -99,7 +99,8 @@ i.e.
 }
 
 h2,
-h3 {
+h3,
+h4 {
   font-family: "Source Sans Pro", Calibri, sans-serif;
   color: color($theme-color-primary);
 }
@@ -146,6 +147,10 @@ h3 {
 .era-guidance-section-links {
   a:visited {
     color: color($theme-color-primary);
+  }
+
+  h4 {
+    margin-top: units(5);
   }
 }
 

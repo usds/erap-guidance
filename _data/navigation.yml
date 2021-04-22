@@ -57,28 +57,43 @@ programs:
         subnav:
         - text: Administering an ERA program
           href: "/implementation-guidance/administering-an-era-program/"
+          desc: Provides details on administrative expenses, documenting policies, and using subrecipients.
         - text: Data collection for reporting to US Treasury
           href: "/implementation-guidance/data-collection-for-reporting/"
+          desc: Describes information that must be reported to Treasury including details on data that must be collected from households.
         - text: Determining household income
           href: "/implementation-guidance/determining-household-income/"
+          desc: Income eligibility for households.
         - text: Determining risk of experiencing homelessness or housing instability
           href: "/implementation-guidance/determining-risk/"
+          desc: Describes how tenants can demonstrate that they meet this requirement.
         - text: "Determining tenant and landlord eligibility"
           href: "/implementation-guidance/determining-eligibility/"
-        - text: "Documentation & reporting requirements"
-          href: "/implementation-guidance/documentation-and-reporting/"
+          desc: Describes criteria for household eligibility and applicant prioritization. 
+        - text: "Documentation Requirements"
+          href: "/implementation-guidance/documentation-requirements/"
+          desc: Describes what must be documented and provides details on written attestations.
         - text: "Ensuring Equity"
           href: "/implementation-guidance/ensuring-equity/"
+          desc: TBD
         - text: "Preventing duplication of benefits"
           href: "/implementation-guidance/preventing-duplication-of-benefits/"
+          desc: TBD
         - text: "Getting landlords and utility services to participate"
           href: "/implementation-guidance/landlord-and-utility-participation/"
+          desc: Describes ways in which jurisdictions should reach out to landlords and providers.
         - text: "Guidance specific to Tribes and Tribally Designated Housing Entities (TDHE)"
           href: "/implementation-guidance/tribes-and-tdhe/"
+          desc: Clarification on eligibility for members and non-members.
         - text: "Preventing fraud and misuse of the program"
           href: "/implementation-guidance/preventing-fraud-and-misuse/"
+          desc: Describes ways to prevent mistakes, internal fraud, and applicant fraud.
         - text: "What an ERA program can pay for"
           href: "/implementation-guidance/what-an-era-program-can-pay-for/"
+          desc: Gives an overview of what programs can cover including details on rental and utility arrears, types of housing covered, utilities, and internet. 
+        - text: "FAQs"
+          href: "/implementation-guidance/faqs/"
+          desc: The original format for this guidance provided here as reference.
   - text: Assistance for American Industry
     href: https://home.treasury.gov/policy-issues/coronavirus/assistance-for-american-industry
     name: industry

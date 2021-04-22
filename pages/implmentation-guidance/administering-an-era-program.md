@@ -44,13 +44,6 @@ Treasury encourages grantees to achieve administrative efficiency and fiduciary 
 
 <a href="{{ site.baseurl }}/implementation-guidance/faqs#21" class="era-guidance__faq-reference"><span class="usa-tag">FAQ #21</span></a>
 
-## Managing overlapping jurisdictions & preventing duplication of benefits
-
-<span class="era-guidance__placeholder">
-  New content needs to be written.
-</span>
-
-
 ## Your program will not be required to remit interest earned to Treasury
 
 ERA payments made by Treasury to states, territories, and the District of Columbia are not subject to the requirement of the Cash Management Improvement Act and Treasury’s implementing regulations at 31 CFR part 205 to remit interest to Treasury. ERA payments made by Treasury to local governments, Tribes, and TDHEs are not subject to the requirement of 2 CFR 200.305(b)(8)-(9) to maintain balances in an interest-bearing account and remit payments to Treasury. 

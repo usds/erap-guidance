@@ -57,10 +57,19 @@ The guiding principles of our policies for the Emergency Rental Assistance progr
 
 You must require all applications for assistance to include an attestation from the applicant that all information included is correct and complete. 
 
-### Main sections of guidance
+### Sections of guidance
 <div class="era-guidance-section-links">
-  <span class="era-guidance__placeholder">
-    This will be a list of what is in the side navigation with a description for each section.
-  </span>
+{% assign local = site.data.navigation['programs'] | where: 'name', 'local' %}
+{% assign subnav = local[0]['subnav'] %}
+{% assign era = subnav | where: 'name', 'era' %}
+{% assign nav = era[0]['subnav'] | where: 'name', 'implementation-guidance' %}
+{% assign guidance = nav[0]['subnav'] %}
 
+<div class="era-guidance-section-links">
+{% for link in guidance %}
+  <h4>
+    <a href="{{ site.baseurl }}{{ link.href }}">{{ link.text }}</a>
+  </h4>
+  <p>{{ link.desc }}</p>
+{% endfor %}
 </div>
