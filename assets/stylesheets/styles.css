@@ -26945,6 +26945,17 @@ sup a{
   text-decoration:none;
 }
 
+.era-guidance-example{
+  background-color:#f0f0f0;
+  border-left-color:#565c65;
+}
+.era-guidance-example__heading{
+  color:#1b1b1b;
+}
+.era-guidance-example__text{
+  margin-bottom:0.5rem;
+}
+
 @media (min-width: 1025px){
   #usa-header{
     display:block;

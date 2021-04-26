@@ -161,3 +161,17 @@ h4 {
 sup a {
   text-decoration: none;
 }
+
+.era-guidance-example {
+  background-color: color($theme-color-base-lightest);
+  border-left-color: color($theme-color-base-dark);
+
+  &__heading {
+   color: color($theme-color-base-darkest);
+
+  }
+
+  &__text {
+    margin-bottom: units(1);
+  }
+}
