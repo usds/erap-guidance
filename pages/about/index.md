@@ -19,3 +19,7 @@ Completed payment information and a signed acceptance of award terms form genera
 Not less than 90 percent of awarded funds must be used for direct financial assistance, including rent, rental arrears, utilities and home energy costs, utilities and home energy costs arrears, and other expenses related to housing.&nbsp; Remaining funds are available for housing stability services, including case management and other services intended to keep households stably housed.&nbsp; Funds generally expire on September 30, 2022.
 
 For ease of reference, the assistance listing number (CDFA number) assigned to the ERA program is 21.023.
+
+## Transparency
+
+The Department of the Treasury will issue public reports quarterly on the use of funds. The Treasury Office of Inspector General will conduct oversight of the program and may recoup funds from any government that fails to comply with the restrictions on the use of funds.

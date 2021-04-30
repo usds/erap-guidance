@@ -26956,6 +26956,15 @@ sup a{
   margin-bottom:0.5rem;
 }
 
+.era-guidance-sidenav .usa-sidenav .era-guidance-sidenav__back{
+  padding:0;
+  margin-bottom:1rem;
+}
+.era-guidance-sidenav .usa-sidenav .era-guidance-sidenav__back:hover{
+  text-decoration:underline;
+  background-color:#fff;
+}
+
 @media (min-width: 1025px){
   #usa-header{
     display:block;

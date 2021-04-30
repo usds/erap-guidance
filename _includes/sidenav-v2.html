@@ -1,0 +1,31 @@
+<nav class="era-guidance-sidenav" aria-label="Secondary navigation">
+  <ul class="usa-sidenav">
+     <a class="era-guidance-sidenav__back" href="https://home.treasury.gov/policy-issues/coronavirus/assistance-for-state-local-and-tribal-governments">
+      <svg class="usa-icon" aria-hidden="true" focusable="false" role="img">
+        <use xlink:href="/assets/img/sprite.svg#navigate_before"></use>
+      </svg>
+      Back to Assistance for State, Local, and Tribal Governments
+     </a>
+    <h4 class="era-sidenav__title">
+      Emergency Rental Assistance Program
+    </h4>
+    {% for link in include.links %}
+      {% assign _href = link.href %}
+      {% assign _current = false %}
+      {% if link.href == page.url or link.href == page.permalink or link.name == page.program %}
+        {% assign _current = true %}
+      {% endif %}
+    <li class="usa-sidenav__item">
+      <a href="{{ site.baseurl }}{{ link.href }}" {% if _current %} class="usa-current" {% endif %} {% if link.class %}class="{{ link.class }}" {% endif %}>
+        {{ link.text }}
+      </a>
+      {% if link.subnav and _current %}
+        {% assign _subnav = link.subnav %}
+      <ul class="usa-sidenav__sublist">
+        {% include subnav.html links=_subnav %}
+      </ul>
+      {% endif %}
+    </li>
+    {% endfor %}
+  </ul>
+</nav>

@@ -22,9 +22,6 @@ programs:
       - text: About the program
         href: /about/
         name: about
-        subnav:
-        - text: Transparency
-          href: /about/transparency/
       - text: Allocation of funds
         href: /allocation-of-funds/
         name: allocation-of-funds

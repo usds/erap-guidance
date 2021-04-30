@@ -175,3 +175,15 @@ sup a {
     margin-bottom: units(1);
   }
 }
+
+.era-guidance-sidenav .usa-sidenav {
+  .era-guidance-sidenav__back {
+    padding: 0;
+    margin-bottom: units(2);
+
+    &:hover {
+      text-decoration: underline;
+      background-color: #fff;
+    }
+  }
+}
