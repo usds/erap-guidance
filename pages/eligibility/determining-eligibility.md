@@ -1,9 +1,9 @@
 ---
 layout: default
-permalink: /implementation-guidance/determining-eligibility/
+permalink: /eligibility/
 program: local
 section: era
-sub-section: implementation-guidance
+sub-section: eligibility
 sidenav: programs
 title: Determining tenant and landlord eligibility
 ---
@@ -18,7 +18,7 @@ To be eligible, a household must be obligated to pay rent on a residential dwell
 *	One or more individuals within the household can demonstrate a risk of experiencing homelessness or housing instability; and
 *	The household has a household income at or below 80% of area median income.
 
-<a href="{{ site.baseurl }}/implementation-guidance/faqs#1" class="era-guidance__faq-reference"><span class="usa-tag">FAQ #1</span></a>
+<a href="{{ site.baseurl }}/faqs#1" class="era-guidance__faq-reference"><span class="usa-tag">FAQ #1</span></a>
 
 ## There are no time-based nor current residence-based restrictions
 
@@ -26,13 +26,13 @@ Eligible households need not have been living at their current address when the 
 
 There is no requirement regarding the length of time an applicant has lived at their current address. 
 
-<a href="{{ site.baseurl }}/implementation-guidance/faqs#13" class="era-guidance__faq-reference"><span class="usa-tag">FAQ #13</span></a>
+<a href="{{ site.baseurl }}/faqs#13" class="era-guidance__faq-reference"><span class="usa-tag">FAQ #13</span></a>
 
 ## Categorical eligibility 
 
 If a household’s income has been verified to be at or below 80% of area median income through another local, state, or federal assistance program, you can rely on a determination letter from the government agency that verified the household income. That determination must have been made on or after January 1, 2020. 
 
-<a href="{{ site.baseurl }}/implementation-guidance/faqs#4p5" class="era-guidance__faq-reference"><span class="usa-tag">FAQ #4</span></a>
+<a href="{{ site.baseurl }}/faqs#4p5" class="era-guidance__faq-reference"><span class="usa-tag">FAQ #4</span></a>
 
 ## Prioritize applicants with incomes less than 50% of area median income (AMI) 
 
@@ -40,7 +40,7 @@ Your ERA program should set up a preference system that prioritizes assistance t
 
 Document your system for prioritizing applicants in your policies and procedures. Tell applicants verbally and in writing what the priorities are and how you will decide on their assistance. 
 
-<a href="{{ site.baseurl }}/implementation-guidance/faqs#22" class="era-guidance__faq-reference"><span class="usa-tag">FAQ #22</span></a>
+<a href="{{ site.baseurl }}/faqs#22" class="era-guidance__faq-reference"><span class="usa-tag">FAQ #22</span></a>
 
 ## A formula for determining high need households
 

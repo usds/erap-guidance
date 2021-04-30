@@ -1,9 +1,8 @@
 ---
 layout: default
-permalink: /implementation-guidance/changes/
+permalink: /changes/
 program: local
 section: era
-sub-section: implementation-guidance
 sidenav: programs
 title: Change log
 ---

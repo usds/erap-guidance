@@ -1,9 +1,9 @@
 ---
 layout: default
-permalink: /implementation-guidance/determining-risk/
+permalink: /eligibility/determining-risk/
 program: local
 section: era
-sub-section: implementation-guidance
+sub-section: eligibility
 sidenav: programs
 title: Determining risk of experiencing homelessness or housing instability
 ---
@@ -19,4 +19,4 @@ A tenant applicant can demonstrate that they meet this requirement by showing:
 
 Make sure your policies and procedures address how your staff will determine the presence of unsafe or unhealthy living conditions and what evidence of risk to accept to support their determination that a household satisfies this requirement.
 
-<a href="{{ site.baseurl }}/implementation-guidance/faqs#3" class="era-guidance__faq-reference"><span class="usa-tag">FAQ #3</span></a>
+<a href="{{ site.baseurl }}/faqs#3" class="era-guidance__faq-reference"><span class="usa-tag">FAQ #3</span></a>

@@ -1,9 +1,9 @@
 ---
 layout: default
-permalink: /implementation-guidance/tribes-and-tdhe/
+permalink: /tribes-and-tdhe/
 program: local
 section: era
-sub-section: implementation-guidance
+sub-section: tribes
 sidenav: programs
 title: Guidance specific to Tribes and Tribally Designated Housing Entities (TDHE)
 ---

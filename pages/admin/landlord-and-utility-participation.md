@@ -1,9 +1,9 @@
 ---
 layout: default
-permalink: /implementation-guidance/landlord-and-utility-participation/
+permalink: /administering-an-era-program/landlord-and-utility-participation/
 program: local
 section: era
-sub-section: implementation-guidance
+sub-section: admin
 sidenav: programs
 title: Getting landlords and utility services to participate
 ---
@@ -23,4 +23,4 @@ Document your final outreach attempt or notice to the landlord.
 
 The cost of contacting landlords would be an eligible administrative cost.
 
-<a href="{{ site.baseurl }}/implementation-guidance/faqs#12" class="era-guidance__faq-reference"><span class="usa-tag">FAQ #12</span></a>
+<a href="{{ site.baseurl }}/faqs#12" class="era-guidance__faq-reference"><span class="usa-tag">FAQ #12</span></a>

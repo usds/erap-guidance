@@ -1,9 +1,9 @@
 ---
 layout: default
-permalink: /implementation-guidance/data-collection-for-reporting/
+permalink: /documentation-and-reporting/data-collection-for-reporting/
 program: local
 section: era
-sub-section: implementation-guidance
+sub-section: docs
 sidenav: programs
 title: Data collection for reporting to Treasury
 ---
@@ -30,4 +30,4 @@ Your program must establish data privacy and security requirements for informati
 
 The assistance listing number assigned to the ERA program is 21.023.  
 
-<a href="{{ site.baseurl }}/implementation-guidance/faqs#14" class="era-guidance__faq-reference"><span class="usa-tag">FAQ #14</span></a>
+<a href="{{ site.baseurl }}/faqs#14" class="era-guidance__faq-reference"><span class="usa-tag">FAQ #14</span></a>

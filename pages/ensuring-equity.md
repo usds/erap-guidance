@@ -1,9 +1,9 @@
 ---
 layout: default
-permalink: /implementation-guidance/ensuring-equity/
+permalink: /ensuring-equity/
 program: local
 section: era
-sub-section: implementation-guidance
+sub-section: equity
 sidenav: programs
 title: Ensuring Equity
 ---
@@ -11,6 +11,8 @@ title: Ensuring Equity
 <span class="era-guidance__placeholder">
   TODO: Write this content
 </span>
+
+<span class="usa-tag usa-tag--new">New</span> 
 
 ## Language access 
 

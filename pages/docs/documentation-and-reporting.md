@@ -1,9 +1,9 @@
 ---
 layout: default
-permalink: /implementation-guidance/documentation-requirements/
+permalink: /documentation-and-reporting/
 program: local
 section: era
-sub-section: implementation-guidance
+sub-section: docs
 sidenav: programs
 title: Documentation Requirements
 ---
@@ -28,7 +28,7 @@ Examples of reasonable documentation of rent:
 *	Anything that reasonably establishes a pattern of paying rent
 *	Written attestation by a verified landlord 
 
-<a href="{{ site.baseurl }}/implementation-guidance/faqs#5" class="era-guidance__faq-reference"><span class="usa-tag">FAQ #5</span></a>
+<a href="{{ site.baseurl }}/faqs#5" class="era-guidance__faq-reference"><span class="usa-tag">FAQ #5</span></a>
 
 ## Accepting a written attestation in place of documentation for income or rent obligations limits payments to 3 months
 
@@ -36,7 +36,7 @@ The most vulnerable households may have challenges providing supporting document
 
 If you do accept a written attestation rather than supporting documentation, you can provide assistance for only three months at a time. The idea is to give applicants the opportunity to gather additional documentation or negotiate with landlords to avoid eviction. 
 
-<a href="{{ site.baseurl }}/implementation-guidance/faqs#5p2" class="era-guidance__faq-reference"><span class="usa-tag">FAQ #5</span></a>
+<a href="{{ site.baseurl }}/faqs#5p2" class="era-guidance__faq-reference"><span class="usa-tag">FAQ #5</span></a>
 
 ## Written attestation for rent and rental arrears 
 
@@ -44,7 +44,7 @@ If an applicant shows evidence of residence but cannot produce documentation of 
 
 If you want to assist a household for longer than three months, you must obtain evidence of rent owed after three months. We expect that in most cases the household can provide documentation of the amount of the rental obligation in any applications for further assistance.
  
-<a href="{{ site.baseurl }}/implementation-guidance/faqs#5p2" class="era-guidance__faq-reference"><span class="usa-tag">FAQ #5</span></a>
+<a href="{{ site.baseurl }}/faqs#5p2" class="era-guidance__faq-reference"><span class="usa-tag">FAQ #5</span></a>
 
 ## Written attestation for income 
 
@@ -56,7 +56,7 @@ In appropriate cases, you can rely on an attestation from a caseworker or other 
 
 If you rely on a written attestation without supporting documentation of income, you must reassess income for that household every three months. 
 
-<a href="{{ site.baseurl }}/implementation-guidance/faqs#4p2" class="era-guidance__faq-reference"><span class="usa-tag">FAQ #4</span></a>
+<a href="{{ site.baseurl }}/faqs#4p2" class="era-guidance__faq-reference"><span class="usa-tag">FAQ #4</span></a>
 
 ## While documentation supporting a claim for rental assistance is important, prioritize assisting extremely vulnerable populations
 
@@ -70,7 +70,7 @@ You must require that all applications for assistance to include an attestation 
 
 You may decide to accept self-attestation in place of supporting documentation, as long as you document the criteria for allowing this and your staff who review cases and make determinations are trained to apply the criteria uniformly and consistently.  
 
-<a href="{{ site.baseurl }}/implementation-guidance/faqs#1p2" class="era-guidance__faq-reference"><span class="usa-tag">FAQ #1</span></a>
+<a href="{{ site.baseurl }}/faqs#1p2" class="era-guidance__faq-reference"><span class="usa-tag">FAQ #1</span></a>
 
 ## Collect only enough documentation to have a reasonable basis for determining income 
 
@@ -85,7 +85,7 @@ Collect documentation of income that is adequate for determining income. For exa
 
 You may provide waivers or exceptions to requirements for documentation for people with disabilities that would make it difficult to get documentation, or when there are extenuating circumstances related to the pandemic, or the applicant lacks access to technology that they could use to get documentation. 
 
-<a href="{{ site.baseurl }}/implementation-guidance/faqs#4p4" class="era-guidance__faq-reference"><span class="usa-tag">FAQ #4</span></a>
+<a href="{{ site.baseurl }}/faqs#4p4" class="era-guidance__faq-reference"><span class="usa-tag">FAQ #4</span></a>
 
 ## Documenting unemployment, loss of income, significant costs, or other COVID-related financial hardship
 
@@ -103,4 +103,4 @@ other relevant documentation regarding the household member’s qualification fo
 
 If the tenant claims reduction in household income, significant costs, or other financial hardship due to COVID-19, you must get a written attestation signed by the tenant applicant that one or more members of the household meets this condition.
 
-<a href="{{ site.baseurl }}/implementation-guidance/faqs#2" class="era-guidance__faq-reference"><span class="usa-tag">FAQ #2</span></a>
+<a href="{{ site.baseurl }}/faqs#2" class="era-guidance__faq-reference"><span class="usa-tag">FAQ #2</span></a>

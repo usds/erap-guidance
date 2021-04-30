@@ -1,9 +1,9 @@
 ---
 layout: default
-permalink: /implementation-guidance/determining-household-income/
+permalink: /eligibility/determining-household-income/
 program: local
 section: era
-sub-section: implementation-guidance
+sub-section: eligibility
 sidenav: programs
 title: Determining household income
 ---
@@ -32,4 +32,4 @@ If you use a household’s monthly income to determine eligibility, review use t
   </div>
 </div>
 
-<a href="{{ site.baseurl }}/implementation-guidance/faqs#4" class="era-guidance__faq-reference"><span class="usa-tag">FAQ #4</span></a>
+<a href="{{ site.baseurl }}/faqs#4" class="era-guidance__faq-reference"><span class="usa-tag">FAQ #4</span></a>
