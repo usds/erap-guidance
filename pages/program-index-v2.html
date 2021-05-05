@@ -1,0 +1,42 @@
+---
+layout: default-v3
+permalink: /program-index/v2/
+program: local
+section: era
+sidenav: programs
+title: Emergency Rental Assistance Programs
+---
+
+<h3>All programs by U.S. States and Territories</h3>
+
+{% assign states = site.data.grantee-urls | group_by: "state" %}
+{% for state in states %}
+  {% assign slug_id = state.name | slugify %}
+<div class="usa-accordion">
+  <h4 class="usa-accordion__heading">
+    <button class="usa-accordion__button"
+          aria-controls="{{ slug_id }}-{{ forloop.index }}">
+      {{ state.name }}
+    </button>
+  </h4>
+  <div id="{{ slug_id }}-{{ forloop.index }}" class="usa-accordion__content">
+  {% for program in state.items %}
+    {% if program.recipient-type == 'State/DC' %}
+    <h3 class="era-program__state">{{ program.name }}</h3>
+    <h4 class="era-program__state-url">
+      <a href="{{ program.URL }}" target="_blank">{{ program.URL }}</a>
+    </h4>
+    <p>Administered by {{ program.recipient-name }}.</p>
+    {% else %}
+    <dl class="era-program__list">
+      <dt class="era-program__name">{{program.name }} - {{ program.recipient-name }}</dt>
+      <dd class="era-program__url">
+        <a href="{{ program.URL | uri_escape }}" target="_blank">{{ program.URL }}</a>
+      </dd>
+    </dl>
+    {% endif %}
+  {% endfor %}
+ </div> 
+</div>
+{% endfor %}
+
