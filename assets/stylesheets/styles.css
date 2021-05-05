@@ -26898,6 +26898,34 @@ h4{
   color:#005ea2;
 }
 
+h3{
+  text-transform:uppercase;
+  letter-spacing:2px;
+  line-height:1.18;
+  font-size:24px;
+}
+
+h4{
+  color:#393B00;
+  font-size:22px;
+  padding:10px 0 20px;
+  text-transform:none;
+}
+
+h3,
+h4{
+  font-weight:700;
+}
+
+h3,
+h5{
+  margin:20px 0;
+}
+
+p{
+  margin:3px 0 10px;
+}
+
 .mq--t:after{
   display:block;
   clear:both;
@@ -26963,6 +26991,25 @@ sup a{
 .era-guidance-sidenav .usa-sidenav .era-guidance-sidenav__back:hover{
   text-decoration:underline;
   background-color:#fff;
+}
+
+.era-program__state{
+  margin-top:60px;
+}
+.era-program__state-url{
+  margin:8px 0;
+  padding:0;
+}
+.era-program__name{
+  text-transform:capitalize;
+}
+.era-program__list{
+  margin-bottom:16px;
+  font-size:1.1em;
+  line-height:160%;
+}
+.era-program__url{
+  margin:0;
 }
 
 @media (min-width: 1025px){

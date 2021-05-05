@@ -105,6 +105,35 @@ h4 {
   color: color($theme-color-primary);
 }
 
+// Matching the current site
+h3 {
+  text-transform: uppercase;
+  letter-spacing: 2px;
+  line-height: 1.18;
+  font-size: 24px;
+}
+
+h4 {
+  color: #393B00;
+  font-size: 22px;
+  padding: 10px 0 20px;
+  text-transform: none;
+}
+
+h3,
+h4 {
+  font-weight: 700;
+}
+
+h3, 
+h5 {
+  margin: 20px 0;
+}
+
+p {
+  margin: 3px 0 10px;
+}
+
 .mq--t:after {
   display: block;
   clear: both;
@@ -185,5 +214,31 @@ sup a {
       text-decoration: underline;
       background-color: #fff;
     }
+  }
+}
+
+// Program index styles
+.era-program {
+  &__state {
+    margin-top: 60px;
+  }
+
+  &__state-url {
+    margin: 8px 0;
+    padding: 0;
+  }
+
+  &__name {
+    text-transform: capitalize;
+  }
+
+  &__list {
+    margin-bottom: 16px;
+    font-size: 1.1em;
+    line-height: 160%;
+  }
+
+  &__url {
+    margin: 0;
   }
 }

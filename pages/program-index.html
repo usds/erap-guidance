@@ -1,0 +1,35 @@
+---
+layout: default-v3
+permalink: /program-index/
+program: local
+section: era
+sidenav: programs
+title: Emergency Rental Assistance Programs
+---
+
+<!--
+
+  recipient-name,name,URL,recipient-type,state-territory,state,locality,currently-accepting-applications-site,date-accepting- applications,apply-online,non-ERA-program-URL,assistance-phone-number,assistance-email,last-updated
+  {{ program| inspect }}
+{% assign states = site.data.grantee-urls | group_by: "state" %}
+  {% assign cities = site.data.grantee-urls | where: "state", state.name %}
+-->
+
+<h2>All programs by U.S. State</h2>
+{% assign programs = site.data.grantee-urls %}
+{% for program in programs %}
+  {% if program.recipient-type == 'State/DC' %}
+  <h3 class="era-program__state">{{ program.name }}</h3>
+  <h4 class="era-program__state-url">
+    <a href="{{ program.URL }}" target="_blank">{{ program.URL }}</a>
+  </h4>
+  <p>Administered by {{ program.recipient-name }}.</p>
+  {% else %}
+  <dl class="era-program__list">
+    <dt class="era-program__name">{{program.name }} - {{ program.recipient-name }}</dt>
+    <dd class="era-program__url">
+      <a href="{{ program.URL }}" target="_blank">{{ program.URL }}</a>
+    </dd>
+  </dl>
+  {% endif %}
+{% endfor %}
