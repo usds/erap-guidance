@@ -26857,7 +26857,7 @@ input[type=search]{
   font-size:24px;
   line-height:115%;
   padding-bottom:30px;
-  background-image:url(/assets/img/h1-underline.png);
+  background-image:url(assets/img/h1-underline.png);
   background-repeat:no-repeat;
   background-position:left bottom;
   color:#393b3e;
@@ -27623,7 +27623,7 @@ div.site-branding a.logo .treasury-logo{
   }
 
   .nav-item.mega-search #mega-search-link{
-    background:url(/assets/img/search-icon.svg) 0 4px no-repeat;
+    background:url(assets/img/search-icon.svg) 0 4px no-repeat;
     display:inline-block;
     position:relative;
     top:0;
@@ -28719,7 +28719,7 @@ nav.breadcrumb ol li:last-child{
 
 nav.breadcrumb ol li:after{
   content:" ";
-  background:url(/assets/img/breadcrumb-arrow.png) center center no-repeat;
+  background:url(assets/img/breadcrumb-arrow.png) center center no-repeat;
   background-size:6px 8px;
   color:#9c9999;
   display:inline-block;
