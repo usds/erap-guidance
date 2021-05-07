@@ -7,9 +7,12 @@ sidenav: programs
 title: Emergency Rental Assistance Programs
 ---
 
-<h3>All programs by U.S. States and Territories</h3>
+{% assign states = site.data.grantee-urls-states | group_by: "state" %}
+{% assign territories = site.data.grantee-urls-territories | sort_by: "name"  %}
+{% assign tribes = site.data.grantee-urls-tribes | sort_by: "name"  %}
 
-{% assign states = site.data.grantee-urls | group_by: "state" %}
+<h2 class="era-program__section">U.S. States</h2>
+
 {% for state in states %}
   {% assign slug_id = state.name | slugify %}
 <div class="usa-accordion">
@@ -22,14 +25,15 @@ title: Emergency Rental Assistance Programs
   <div id="{{ slug_id }}-{{ forloop.index }}" class="usa-accordion__content">
   {% for program in state.items %}
     {% if program.recipient-type == 'State/DC' %}
-    <h3 class="era-program__state">{{ program.name }}</h3>
     <h4 class="era-program__state-url">
       <a href="{{ program.URL }}" target="_blank">{{ program.URL }}</a>
     </h4>
-    <p>Administered by {{ program.recipient-name }}.</p>
+    <p class="era-program__admin">
+      Administered by {{ program.recipient-name | downcase }}.
+    </p>
     {% else %}
     <dl class="era-program__list">
-      <dt class="era-program__name">{{program.name }} - {{ program.recipient-name }}</dt>
+      <dt class="era-program__name">{{program.name | downcase }} - {{ program.recipient-name | downcase }}</dt>
       <dd class="era-program__url">
         <a href="{{ program.URL | uri_escape }}" target="_blank">{{ program.URL }}</a>
       </dd>
@@ -40,3 +44,56 @@ title: Emergency Rental Assistance Programs
 </div>
 {% endfor %}
 
+<h2 class="era-program__section">
+  U.S. Territories
+</h2>
+
+{% for territory in territories %}
+  <h4 class="era-program__territory">
+    {{ territory.name | downcase }}
+  </h4>
+  <h5 class="era-program__territory-url">
+    <a href="{{ territory.URL }}" target="_blank">
+      {{ territory.URL }}
+    </a>
+  </h5>
+  <p class="era-program__admin">
+    Administered by {{ territory.recipient-name }}.
+  </p>
+
+  {% if territory.non-ERA-program-URL != '' %}
+  <p><strong>This is a non-ERA program</strong></p>
+    {% if territory.non-ERA-program-URL == 'CDBG' %}
+  <p>
+    <a href="https://www.hudexchange.info/programs/cdbg/">Community Development Block Grant (CDBG) Programs</a> are administered by the Department of Housing and Urban Development (HUD). Jurisdictions may have been awarded funding via HUD and Treasury and thus may offer an ERA program after CDBG funding has been allocated.
+  </p>
+    {% endif %}
+  {% endif %}
+{% endfor %}
+
+<h2 class="era-program__section">
+  Tribes and Tribally Designated Housing Entities (TDHEs)
+</h2>
+<p>
+  If you are tribal member or a member of a tribal community, please contact your tribe of affiliation for more information.
+</p>
+
+{% for tribe in tribes %}
+  {% assign slug_id = tribe.name | slugify %}
+  <h4 class="era-program__tribe">
+    {{ tribe.recipient-name | downcase }}
+  </h4>
+  <h5 class="era-program__tribe-url">
+    <a href="{{ tribe.URL }}" target="_blank">
+      {{ tribe.URL }}
+    </a>
+  </h5>
+  {% if tribe.non-ERA-program-URL != '' %}
+  <p><strong>This is a non-ERA program</strong></p>
+    {% if tribe.non-ERA-program-URL == 'CDBG' %}
+  <p>
+    <a href="https://www.hudexchange.info/programs/cdbg/">Community Development Block Grant (CDBG) Programs</a> are administered by the Department of Housing and Urban Development (HUD). Jurisdictions may have been awarded funding via HUD and Treasury and thus may offer an ERA program after CDBG funding has been allocated.
+  </p>
+    {% endif %}
+  {% endif %}
+{% endfor %}
