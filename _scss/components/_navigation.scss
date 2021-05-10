@@ -235,7 +235,7 @@
     }
 
     .nav-item.mega-search #mega-search-link {
-        background: url(assets/img/search-icon.svg) 0 4px no-repeat;
+        background: url(../img/search-icon.svg) 0 4px no-repeat;
         display: inline-block;
         position: relative;
         top: 0;
@@ -1153,7 +1153,7 @@ ul.quik li>a.quick-link.active,ul.quik li>a.quick-link.active:hover,ul.quik li>a
     margin-right: 4px;
     position: relative;
     top: 1px;
-    background: url(/themes/custom/hamilton/sass/components/images/calendar-icon.svg) no-repeat
+    background: url(../img/calendar-icon.svg) no-repeat
 }
 
 @media (max-width: 767px) {
