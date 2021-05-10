@@ -1,6 +1,6 @@
 ---
 layout: default-v3
-permalink: /program-index/v2/
+permalink: /program-index/
 program: local
 section: era
 sidenav: programs
@@ -32,17 +32,44 @@ title: Emergency Rental Assistance Programs
   <div id="{{ slug_id }}-{{ forloop.index }}" class="usa-accordion__content">
   {% for program in state.items %}
     {% if program.recipient-type == 'State/DC' %}
-    <h4 class="era-program__state-url">
-      <a href="{{ program.URL }}" target="_blank">{{ program.URL }}</a>
+    <h4 class="era-program__state">
+      {{ state.name}}
     </h4>
+    <a class="era-program__state-url" href="{{ program.URL }}" target="_blank">
+      {{ program.URL }}
+    </a>
+    {% if program.currently-accepting-applications != '' %}
+    <p class="era-program__status">
+      {% if program.currently-accepting-applications == 'True' %}
+      <span class="era-program__app-status era-program__app-status--accepting">&bull;</span> 
+        {% if program.date-accepting-applications != '' %}
+        Currently accepting applications as of {{ program.date-accepting-applications }}
+        {% else %}
+        Currently accepting applications. 
+        {% endif %}
+      {% elsif program.currently-accepting-applications == 'False' %}
+        {% if program.date-accepting-applications != '' %}
+      <span class="era-program__app-status era-program__app-status--will-be-accepting">&bull;</span> 
+        Accepting applications as of {{ program.date-accepting-applications }}
+        {% else %}
+      <span class="era-program__app-status era-program__app-status--not-accepting">&bull;</span> 
+        Not currently accepting applications. 
+        {% endif %}
+      {% endif %}
+    </p>
+    {% endif %}
     <p class="era-program__admin">
       Administered by {{ program.recipient-name | downcase }}.
     </p>
     {% else %}
     <dl class="era-program__list">
-      <dt class="era-program__name">{{program.name | downcase }} - {{ program.recipient-name | downcase }}</dt>
+      <dt class="era-program__name">
+        <a href="{{ program.URL | uri_escape }}" target="_blank">
+          {{program.name | downcase }} - {{ program.recipient-name | downcase }}
+        </a>
+      </dt>
       <dd class="era-program__url">
-        <a href="{{ program.URL | uri_escape }}" target="_blank">{{ program.URL }}</a>
+        {{ program.description }}
       </dd>
     </dl>
     {% endif %}
@@ -57,13 +84,10 @@ title: Emergency Rental Assistance Programs
 
 {% for territory in territories %}
   <h4 class="era-program__territory">
-    {{ territory.name | downcase }}
-  </h4>
-  <h5 class="era-program__territory-url">
     <a href="{{ territory.URL }}" target="_blank">
-      {{ territory.URL }}
+      {{ territory.name | downcase }}
     </a>
-  </h5>
+  </h4>
   <p class="era-program__admin">
     Administered by {{ territory.recipient-name }}.
   </p>
@@ -88,13 +112,10 @@ title: Emergency Rental Assistance Programs
 {% for tribe in tribes %}
   {% assign slug_id = tribe.name | slugify %}
   <h4 class="era-program__tribe">
-    {{ tribe.recipient-name }}
-  </h4>
-  <h5 class="era-program__tribe-url">
     <a href="{{ tribe.URL }}" target="_blank">
-      {{ tribe.URL }}
+      {{ tribe.recipient-name }}
     </a>
-  </h5>
+  </h4>
   {% if tribe.non-ERA-program-URL != '' %}
   <p><strong>This is a non-ERA program</strong></p>
     {% if tribe.non-ERA-program-URL == 'CDBG' %}

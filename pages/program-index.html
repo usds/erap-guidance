@@ -7,29 +7,97 @@ sidenav: programs
 title: Emergency Rental Assistance Programs
 ---
 
-<!--
+{% assign states = site.data.grantee-urls-states | group_by: "state" %}
+{% assign territories = site.data.grantee-urls-territories | sort_by: "name"  %}
+{% assign tribes = site.data.grantee-urls-tribes | sort_by: "name"  %}
 
-  recipient-name,name,URL,recipient-type,state-territory,state,locality,currently-accepting-applications-site,date-accepting- applications,apply-online,non-ERA-program-URL,assistance-phone-number,assistance-email,last-updated
-  {{ program| inspect }}
-{% assign states = site.data.grantee-urls | group_by: "state" %}
-  {% assign cities = site.data.grantee-urls | where: "state", state.name %}
--->
+<div class="abstract field field--name-field-page-abstract field--type-text-long field--label-hidden field__item">
+  <p>
+    Treasury is providing an index of all Emergency Rental Assistance Programs below to make it easier for tenants and landlords to find local assistance. We encourage you to seek assistance from the local resource closest to you, when available, before seeking assistance from your state as your city and county may have funds available specifically for your location. 
+  </p>
+</div>
+<h3>Find programs in...</h3>
+<ul class="era-program__toc">
+   <li><a href="#us-states">U.S. States</a></li>
+   <li><a href="#us-territories">U.S. Territories</a></li>
+   <li><a href="#tribes">Tribes and Tribally Designated Housing Entities (TDHEs)</a></li>
+</ul>
+<p>
+  Note that the list below does contain some rental assistance programs that are currently operating in that location but are not specifically programs funded by Treasury. These links are provided in order to help tenants and landlords find the most immediately accessible assistance.
+</p>
+<p>
+  If you are a grantee and feel that the information on this page is incorrect, please send updates to <a href="mailto:PLACEHOLDER@treasury.gov?subject=Update to ERA programs index">PLACEHOLDER@treasury.gov</a>.
+</p>
 
-<h2>All programs by U.S. State</h2>
-{% assign programs = site.data.grantee-urls %}
-{% for program in programs %}
-  {% if program.recipient-type == 'State/DC' %}
-  <h3 class="era-program__state">{{ program.name }}</h3>
-  <h4 class="era-program__state-url">
-    <a href="{{ program.URL }}" target="_blank">{{ program.URL }}</a>
+
+<h2 id="us-states" class="era-program__section">U.S. States</h2>
+
+{% for state in states %}
+  {% assign slug_id = state.name | slugify %}
+<div class="usa-accordion">
+  <h4 class="usa-accordion__heading">
+    <button class="usa-accordion__button"
+          aria-controls="{{ slug_id }}-{{ forloop.index }}">
+      {{ state.name }}
+    </button>
   </h4>
-  <p>Administered by {{ program.recipient-name }}.</p>
-  {% else %}
-  <dl class="era-program__list">
-    <dt class="era-program__name">{{program.name }} - {{ program.recipient-name }}</dt>
-    <dd class="era-program__url">
-      <a href="{{ program.URL }}" target="_blank">{{ program.URL }}</a>
-    </dd>
-  </dl>
-  {% endif %}
+  <div id="{{ slug_id }}-{{ forloop.index }}" class="usa-accordion__content">
+  {% for program in state.items %}
+    {% if program.recipient-type == 'State/DC' %}
+    <h4 class="era-program__state">
+      {{ state.name}}
+    </h4>
+    <a class="era-program__state-url" href="{{ program.URL }}" target="_blank">
+      {{ program.URL }}
+    </a>
+    <p class="era-program__admin">
+      Administered by {{ program.recipient-name | downcase }}.
+    </p>
+    {% else %}
+    <dl class="era-program__list">
+      <dt class="era-program__name">
+        <a href="{{ program.URL | uri_escape }}" target="_blank">
+          {{program.name | downcase }} - {{ program.recipient-name | downcase }}
+        </a>
+      </dt>
+    </dl>
+    {% endif %}
+  {% endfor %}
+ </div> 
+</div>
 {% endfor %}
+
+<h2 id="us-territories" class="era-program__section">
+  U.S. Territories
+</h2>
+
+{% for territory in territories %}
+  <h4 class="era-program__territory">
+    <a href="{{ territory.URL }}" target="_blank">
+      {{ territory.name | downcase }}
+    </a>
+  </h4>
+  <p class="era-program__admin">
+    Administered by {{ territory.recipient-name }}.
+  </p>
+{% endfor %}
+
+<h2 id="tribes" class="era-program__section">
+  Tribes and Tribally Designated Housing Entities (TDHEs)
+</h2>
+<p>
+  If you are tribal member or a member of a tribal community, please contact your tribe of affiliation for more information.
+</p>
+
+{% for tribe in tribes %}
+  {% assign slug_id = tribe.name | slugify %}
+  <h4 class="era-program__tribe">
+    <a href="{{ tribe.URL }}" target="_blank">
+      {{ tribe.recipient-name }}
+    </a>
+  </h4>
+{% endfor %}
+
+<p class="era-program__open-data">
+  This data can also be accessed in JSON format for <a href="{{ site.baseurl }}/era-data/grantee-urls-states.json">states</a>, <a href="{{ site.baseurl }}/era-data/grantee-urls-territories.json">territories</a>, and <a href="{{ site.baseurl }}/era-data/grantee-urls-tribes">Tribes &amp; TDHEs</a>.
+</p>

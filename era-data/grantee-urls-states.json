@@ -1,22 +1,5 @@
 ﻿[
   {
-    "recipient-name": "State of Alabama",
-    "name": "Alabama",
-    "URL": "https://eraalabama.com/",
-    "recipient-type": "State/DC",
-    "state-territory": "AL",
-    "state": "Alabama",
-    "locality": "State",
-    "currently-accepting-applications": "",
-    "date-accepting-applications": "",
-    "apply-online": "",
-    "non-ERA-program-URL": "",
-    "assistance-phone-number": "",
-    "assistance-email": "",
-    "description": "On February 12, 2021, Governor Kay Ivey authorized AHFA to implement the State’s new COVID-19 emergency rental assistance program. Emergency Rental Assistance (ERA) Alabama is funded entirely by a $263 million congressional grant under the Consolidated Appropriations Act of 2021 (the “Act”). Issuing a declaration of public emergency, AHFA is presently developing a program for processing online applications statewide, by landlords and renters. The online and phone system opens for applications from landlords and tenants on March 1, 2021 at 8 a.m. Central Time.",
-    "last-updated": "5/3/2021 5:42pm"
-  },
-  {
     "recipient-name": "Baldwin County Commission",
     "name": "Baldwin",
     "URL": "https://www.baldwinaltogether.org/",
@@ -102,12 +85,12 @@
     "last-updated": "5/3/2021 6:10pm"
   },
   {
-    "recipient-name": "State of Alaska",
-    "name": "Alaska",
-    "URL": "https://www.alaskahousingrelief.org/",
+    "recipient-name": "State of Alabama",
+    "name": "Alabama",
+    "URL": "https://eraalabama.com/",
     "recipient-type": "State/DC",
-    "state-territory": "AK",
-    "state": "Alaska",
+    "state-territory": "AL",
+    "state": "Alabama",
     "locality": "State",
     "currently-accepting-applications": "",
     "date-accepting-applications": "",
@@ -115,8 +98,8 @@
     "non-ERA-program-URL": "",
     "assistance-phone-number": "",
     "assistance-email": "",
-    "description": "Are you struggling with rent and utility payments? Alaska Housing Rent Relief provides up to 12 months of rent and/or utility relief ​​​​​​to eligible Alaskans unable to pay rent and utilities due to the COVID-19 pandemic. Even if you've received rent relief from AHFC in the past, you can apply to this new program! The Alaska Housing Rent Relief application period ​opens on February 16th.",
-    "last-updated": "5/3/2021 5:47pm"
+    "description": "On February 12, 2021, Governor Kay Ivey authorized AHFA to implement the State’s new COVID-19 emergency rental assistance program. Emergency Rental Assistance (ERA) Alabama is funded entirely by a $263 million congressional grant under the Consolidated Appropriations Act of 2021 (the “Act”). Issuing a declaration of public emergency, AHFA is presently developing a program for processing online applications statewide, by landlords and renters. The online and phone system opens for applications from landlords and tenants on March 1, 2021 at 8 a.m. Central Time.",
+    "last-updated": "5/3/2021 5:42pm"
   },
   {
     "recipient-name": "Municipality of Anchorage",
@@ -136,12 +119,12 @@
     "last-updated": "5/3/2021 5:31pm"
   },
   {
-    "recipient-name": "Arizona Department of Economic Security",
-    "name": "Arizona",
-    "URL": "https://des.az.gov/ERAP",
+    "recipient-name": "State of Alaska",
+    "name": "Alaska",
+    "URL": "https://www.alaskahousingrelief.org/",
     "recipient-type": "State/DC",
-    "state-territory": "AZ",
-    "state": "Arizona",
+    "state-territory": "AK",
+    "state": "Alaska",
     "locality": "State",
     "currently-accepting-applications": "",
     "date-accepting-applications": "",
@@ -149,8 +132,8 @@
     "non-ERA-program-URL": "",
     "assistance-phone-number": "",
     "assistance-email": "",
-    "description": "In response to the COVID-19 pandemic, the federal Consolidated Appropriations Act, 2021 authorized financial rent and utility relief for Arizona renters and landlords to be administered at the state and local level. Beginning on Tuesday, February 23, 2021, renters and landlords in the twelve Arizona counties listed below will be able to apply for the Emergency Rental Assistance Program (ERAP) using the online ERAP portal. Applications will be accepted through the program’s expiration on December 31, 2021 or until funding is exhausted.",
-    "last-updated": "5/3/2021 5:42pm"
+    "description": "Are you struggling with rent and utility payments? Alaska Housing Rent Relief provides up to 12 months of rent and/or utility relief ​​​​​​to eligible Alaskans unable to pay rent and utilities due to the COVID-19 pandemic. Even if you've received rent relief from AHFC in the past, you can apply to this new program! The Alaska Housing Rent Relief application period ​opens on February 16th.",
+    "last-updated": "5/3/2021 5:47pm"
   },
   {
     "recipient-name": "City of Chandler",
@@ -272,21 +255,21 @@
     "last-updated": "5/3/2021 6:04pm"
   },
   {
-    "recipient-name": "State of Arkansas Department of Human Services",
-    "name": "Arkansas",
-    "URL": "https://humanservices.arkansas.gov/covid-19/dhs-response-to-covid-19/updates-for-clients/rental-assistance/",
+    "recipient-name": "Arizona Department of Economic Security",
+    "name": "Arizona",
+    "URL": "https://des.az.gov/ERAP",
     "recipient-type": "State/DC",
-    "state-territory": "AR",
-    "state": "Arkansas",
+    "state-territory": "AZ",
+    "state": "Arizona",
     "locality": "State",
-    "currently-accepting-applications": "True",
+    "currently-accepting-applications": "",
     "date-accepting-applications": "",
     "apply-online": "",
     "non-ERA-program-URL": "",
     "assistance-phone-number": "",
     "assistance-email": "",
-    "description": "",
-    "last-updated": "5/3/2021 4:32pm"
+    "description": "In response to the COVID-19 pandemic, the federal Consolidated Appropriations Act, 2021 authorized financial rent and utility relief for Arizona renters and landlords to be administered at the state and local level. Beginning on Tuesday, February 23, 2021, renters and landlords in the twelve Arizona counties listed below will be able to apply for the Emergency Rental Assistance Program (ERAP) using the online ERAP portal. Applications will be accepted through the program’s expiration on December 31, 2021 or until funding is exhausted.",
+    "last-updated": "5/3/2021 5:42pm"
   },
   {
     "recipient-name": "Benton County",
@@ -340,21 +323,21 @@
     "last-updated": "5/4/2021 2:58pm"
   },
   {
-    "recipient-name": "California Department of Housing and Community Development",
-    "name": "California",
-    "URL": "https://housing.ca.gov/covid_rr/index.html",
+    "recipient-name": "State of Arkansas Department of Human Services",
+    "name": "Arkansas",
+    "URL": "https://humanservices.arkansas.gov/covid-19/dhs-response-to-covid-19/updates-for-clients/rental-assistance/",
     "recipient-type": "State/DC",
-    "state-territory": "CA",
-    "state": "California",
+    "state-territory": "AR",
+    "state": "Arkansas",
     "locality": "State",
     "currently-accepting-applications": "True",
     "date-accepting-applications": "",
-    "apply-online": "True",
+    "apply-online": "",
     "non-ERA-program-URL": "",
     "assistance-phone-number": "",
     "assistance-email": "",
-    "description": "CA COVID-19 Rent Relief will help income-eligible households pay rent and utilities, both for arrears and future payment. The federal Consolidated Appropriations Act of 2021 provides funding to support the program and tenant protection laws signed by Governor Newsom. Both Landlords and Tenants can apply.",
-    "last-updated": "5/5/2021 3:14pm"
+    "description": "",
+    "last-updated": "5/3/2021 4:32pm"
   },
   {
     "recipient-name": "County of Alameda",
@@ -918,21 +901,21 @@
     "last-updated": "5/3/2021 6:13pm"
   },
   {
-    "recipient-name": "State of Colorado",
-    "name": "Colorado",
-    "URL": "https://cdola.colorado.gov/rental-mortgage-assistance",
+    "recipient-name": "California Department of Housing and Community Development",
+    "name": "California",
+    "URL": "https://housing.ca.gov/covid_rr/index.html",
     "recipient-type": "State/DC",
-    "state-territory": "CO",
-    "state": "Colorado",
+    "state-territory": "CA",
+    "state": "California",
     "locality": "State",
-    "currently-accepting-applications": "",
+    "currently-accepting-applications": "True",
     "date-accepting-applications": "",
-    "apply-online": "",
+    "apply-online": "True",
     "non-ERA-program-URL": "",
     "assistance-phone-number": "",
     "assistance-email": "",
-    "description": "The Program provides rental assistance on behalf of qualifying renter households to\nprevent housing instability, potential eviction, and financial hardships for tenants and\nlandlords as a result of the COVID-19 pandemic.",
-    "last-updated": "5/3/2021 5:45pm"
+    "description": "CA COVID-19 Rent Relief will help income-eligible households pay rent and utilities, both for arrears and future payment. The federal Consolidated Appropriations Act of 2021 provides funding to support the program and tenant protection laws signed by Governor Newsom. Both Landlords and Tenants can apply.",
+    "last-updated": "5/5/2021 3:14pm"
   },
   {
     "recipient-name": "Adams County Government",
@@ -1054,6 +1037,23 @@
     "last-updated": "5/3/2021 6:11pm"
   },
   {
+    "recipient-name": "State of Colorado",
+    "name": "Colorado",
+    "URL": "https://cdola.colorado.gov/rental-mortgage-assistance",
+    "recipient-type": "State/DC",
+    "state-territory": "CO",
+    "state": "Colorado",
+    "locality": "State",
+    "currently-accepting-applications": "",
+    "date-accepting-applications": "",
+    "apply-online": "",
+    "non-ERA-program-URL": "",
+    "assistance-phone-number": "",
+    "assistance-email": "",
+    "description": "The Program provides rental assistance on behalf of qualifying renter households to\nprevent housing instability, potential eviction, and financial hardships for tenants and\nlandlords as a result of the COVID-19 pandemic.",
+    "last-updated": "5/3/2021 5:45pm"
+  },
+  {
     "recipient-name": "Connecticut Office of Policy and Management",
     "name": "Connecticut",
     "URL": "https://portal.ct.gov/DOH/DOH/Programs/UniteCT",
@@ -1103,23 +1103,6 @@
     "assistance-email": "",
     "description": "STAY DC is a financial assistance program for D.C. renters and housing providers who are looking for support to cover housing and utility expenses and offset the loss of income. Apply today to receive money you can use to help you pay for your rent, gas, water, and electricity.",
     "last-updated": "5/3/2021 5:45pm"
-  },
-  {
-    "recipient-name": "State of Florida, Department of Financial Services",
-    "name": "Florida",
-    "URL": "https://www.myflfamilies.com/covid19/emergency-rental-assistance.shtml",
-    "recipient-type": "State/DC",
-    "state-territory": "FL",
-    "state": "Florida",
-    "locality": "State",
-    "currently-accepting-applications": "False",
-    "date-accepting-applications": "",
-    "apply-online": "Unknown",
-    "non-ERA-program-URL": "",
-    "assistance-phone-number": "",
-    "assistance-email": "",
-    "description": "",
-    "last-updated": "5/5/2021 10:52am"
   },
   {
     "recipient-name": "Alachua County Board of County Commissioners",
@@ -1598,21 +1581,21 @@
     "last-updated": "5/3/2021 6:04pm"
   },
   {
-    "recipient-name": "State of Georgia - Office of the Governor",
-    "name": "Georgia",
-    "URL": "https://www.dca.ga.gov/safe-affordable-housing/rental-housing-assistance/state-georgia-rental-assistance-program",
+    "recipient-name": "State of Florida, Department of Financial Services",
+    "name": "Florida",
+    "URL": "https://www.myflfamilies.com/covid19/emergency-rental-assistance.shtml",
     "recipient-type": "State/DC",
-    "state-territory": "GA",
-    "state": "Georgia",
+    "state-territory": "FL",
+    "state": "Florida",
     "locality": "State",
-    "currently-accepting-applications": "",
+    "currently-accepting-applications": "False",
     "date-accepting-applications": "",
-    "apply-online": "",
+    "apply-online": "Unknown",
     "non-ERA-program-URL": "",
     "assistance-phone-number": "",
     "assistance-email": "",
-    "description": "The Georgia Department of Community Affairs will begin administering the State of Georgia Rental Assistance Program (GRA) in early March 2021. GRA can help renters with their past due rent and utilities. Payment will be made directly to landlords and utility providers.",
-    "last-updated": "5/3/2021 5:36pm"
+    "description": "",
+    "last-updated": "5/5/2021 10:52am"
   },
   {
     "recipient-name": "Augusta",
@@ -1785,21 +1768,21 @@
     "last-updated": "5/4/2021 2:58pm"
   },
   {
-    "recipient-name": "State of Hawaii",
-    "name": "Hawaii",
-    "URL": "https://www.hawaiiancouncil.org/dhhl",
+    "recipient-name": "State of Georgia - Office of the Governor",
+    "name": "Georgia",
+    "URL": "https://www.dca.ga.gov/safe-affordable-housing/rental-housing-assistance/state-georgia-rental-assistance-program",
     "recipient-type": "State/DC",
-    "state-territory": "HI",
-    "state": "Hawaii",
+    "state-territory": "GA",
+    "state": "Georgia",
     "locality": "State",
-    "currently-accepting-applications": "True",
+    "currently-accepting-applications": "",
     "date-accepting-applications": "",
-    "apply-online": "True",
+    "apply-online": "",
     "non-ERA-program-URL": "",
     "assistance-phone-number": "",
     "assistance-email": "",
-    "description": "The State of Hawaii distributed the $125 million in Federal allocations to Hawaiian counties to run localized emergency rental assistance programs. Hawaii, Honolulu, Maui, and Kauai Counties have funding available through their ERA programs. Renters and Landlords are encouraged to find the program that serves their  jurisdiction.",
-    "last-updated": "5/5/2021 3:21pm"
+    "description": "The Georgia Department of Community Affairs will begin administering the State of Georgia Rental Assistance Program (GRA) in early March 2021. GRA can help renters with their past due rent and utilities. Payment will be made directly to landlords and utility providers.",
+    "last-updated": "5/3/2021 5:36pm"
   },
   {
     "recipient-name": "County of Hawaii",
@@ -1836,21 +1819,21 @@
     "last-updated": "5/3/2021 5:51pm"
   },
   {
-    "recipient-name": "State of Idaho",
-    "name": "Idaho",
-    "URL": "https://www.idahohousing.com/hpp/",
+    "recipient-name": "State of Hawaii",
+    "name": "Hawaii",
+    "URL": "https://www.hawaiiancouncil.org/dhhl",
     "recipient-type": "State/DC",
-    "state-territory": "ID",
-    "state": "Idaho",
+    "state-territory": "HI",
+    "state": "Hawaii",
     "locality": "State",
-    "currently-accepting-applications": "",
+    "currently-accepting-applications": "True",
     "date-accepting-applications": "",
-    "apply-online": "",
+    "apply-online": "True",
     "non-ERA-program-URL": "",
     "assistance-phone-number": "",
     "assistance-email": "",
-    "description": "The Housing Preservation Program was created to assist households with an inability to pay rent or utilities due to a COVID-19 related financial hardship.  The current funding source for this program will cover eligible costs April 1, 2020 and forward.  The application may be completed by a renter or by a housing or service provider action on behalf of a renter seeking assistance.",
-    "last-updated": "5/3/2021 5:47pm"
+    "description": "The State of Hawaii distributed the $125 million in Federal allocations to Hawaiian counties to run localized emergency rental assistance programs. Hawaii, Honolulu, Maui, and Kauai Counties have funding available through their ERA programs. Renters and Landlords are encouraged to find the program that serves their  jurisdiction.",
+    "last-updated": "5/5/2021 3:21pm"
   },
   {
     "recipient-name": "City of Boise",
@@ -1870,21 +1853,21 @@
     "last-updated": "5/3/2021 6:10pm"
   },
   {
-    "recipient-name": "Illinois Dept of Commerce & Economic Opportunity",
-    "name": "Illinois",
-    "URL": "https://www.ihda.org/about-ihda/illinois-rental-payment-program/",
+    "recipient-name": "State of Idaho",
+    "name": "Idaho",
+    "URL": "https://www.idahohousing.com/hpp/",
     "recipient-type": "State/DC",
-    "state-territory": "IL",
-    "state": "Illinois",
+    "state-territory": "ID",
+    "state": "Idaho",
     "locality": "State",
-    "currently-accepting-applications": "False",
-    "date-accepting-applications": "5/17/2021",
+    "currently-accepting-applications": "",
+    "date-accepting-applications": "",
     "apply-online": "",
     "non-ERA-program-URL": "",
     "assistance-phone-number": "",
     "assistance-email": "",
-    "description": "ILRPP is an emergency rental assistance program designed to support households in Illinois that are unable to pay rent due to the COVID-19 pandemic. We will launch the program in the near future. In the meantime, we have confirmed several program details that can help tenants and housing providers gather the information needed to apply when the program opens. As soon as the launch date is released, we will update this page, issue a press release, and post to our social media platforms.",
-    "last-updated": "5/3/2021 9:16pm"
+    "description": "The Housing Preservation Program was created to assist households with an inability to pay rent or utilities due to a COVID-19 related financial hardship.  The current funding source for this program will cover eligible costs April 1, 2020 and forward.  The application may be completed by a renter or by a housing or service provider action on behalf of a renter seeking assistance.",
+    "last-updated": "5/3/2021 5:47pm"
   },
   {
     "recipient-name": "Champaign County Regional Planning Commission",
@@ -2040,21 +2023,21 @@
     "last-updated": "5/3/2021 6:15pm"
   },
   {
-    "recipient-name": "State of Indiana",
-    "name": "Indiana",
-    "URL": "https://apply.ihcda.in.gov/submit",
+    "recipient-name": "Illinois Dept of Commerce & Economic Opportunity",
+    "name": "Illinois",
+    "URL": "https://www.ihda.org/about-ihda/illinois-rental-payment-program/",
     "recipient-type": "State/DC",
-    "state-territory": "IN",
-    "state": "Indiana",
+    "state-territory": "IL",
+    "state": "Illinois",
     "locality": "State",
-    "currently-accepting-applications": "",
-    "date-accepting-applications": "",
+    "currently-accepting-applications": "False",
+    "date-accepting-applications": "5/17/2021",
     "apply-online": "",
     "non-ERA-program-URL": "",
     "assistance-phone-number": "",
     "assistance-email": "",
-    "description": "The Indiana Emergency Rental Assistance (IERA) program can provide eligible renters with up to twelve (12) months of rental assistance. Qualifying applicants may also receive utility and/or home energy assistance for past due utilities (electric, gas, water, sewer, and trash) and home energy (fuel oil, wood, coal, pellets, and propane) expenses and internet/ broadband assistance for past due internet expenses.",
-    "last-updated": "5/3/2021 5:36pm"
+    "description": "ILRPP is an emergency rental assistance program designed to support households in Illinois that are unable to pay rent due to the COVID-19 pandemic. We will launch the program in the near future. In the meantime, we have confirmed several program details that can help tenants and housing providers gather the information needed to apply when the program opens. As soon as the launch date is released, we will update this page, issue a press release, and post to our social media platforms.",
+    "last-updated": "5/3/2021 9:16pm"
   },
   {
     "recipient-name": "Elkhart County Commissioners",
@@ -2159,12 +2142,12 @@
     "last-updated": "5/3/2021 6:16pm"
   },
   {
-    "recipient-name": "Iowa Finance Authority",
-    "name": "Iowa",
-    "URL": "https://www.iowafinance.com/iowa-rent-and-utility-assistance-program/",
+    "recipient-name": "State of Indiana",
+    "name": "Indiana",
+    "URL": "https://apply.ihcda.in.gov/submit",
     "recipient-type": "State/DC",
-    "state-territory": "IA",
-    "state": "Iowa",
+    "state-territory": "IN",
+    "state": "Indiana",
     "locality": "State",
     "currently-accepting-applications": "",
     "date-accepting-applications": "",
@@ -2172,8 +2155,8 @@
     "non-ERA-program-URL": "",
     "assistance-phone-number": "",
     "assistance-email": "",
-    "description": "Earlier this year, Hamilton County was awarded a $10 million Emergency Rental Assistance grant from the U.S. Department of Treasury for COVID-19 assistance. Specifically, this funding will assist renter households unable to pay rent and/or utilities due to loss of income from the COVID-19 pandemic.",
-    "last-updated": "5/3/2021 5:47pm"
+    "description": "The Indiana Emergency Rental Assistance (IERA) program can provide eligible renters with up to twelve (12) months of rental assistance. Qualifying applicants may also receive utility and/or home energy assistance for past due utilities (electric, gas, water, sewer, and trash) and home energy (fuel oil, wood, coal, pellets, and propane) expenses and internet/ broadband assistance for past due internet expenses.",
+    "last-updated": "5/3/2021 5:36pm"
   },
   {
     "recipient-name": "Polk County",
@@ -2193,12 +2176,12 @@
     "last-updated": "5/3/2021 6:16pm"
   },
   {
-    "recipient-name": "Kansas Housing Resources Corp for the State of Kansas",
-    "name": "Kansas",
-    "URL": "https://kshousingcorp.org/emergency-rental-assistance",
+    "recipient-name": "Iowa Finance Authority",
+    "name": "Iowa",
+    "URL": "https://www.iowafinance.com/iowa-rent-and-utility-assistance-program/",
     "recipient-type": "State/DC",
-    "state-territory": "KS",
-    "state": "Kansas",
+    "state-territory": "IA",
+    "state": "Iowa",
     "locality": "State",
     "currently-accepting-applications": "",
     "date-accepting-applications": "",
@@ -2206,7 +2189,7 @@
     "non-ERA-program-URL": "",
     "assistance-phone-number": "",
     "assistance-email": "",
-    "description": "The Kansas Emergency Rental Assistance (KERA) program provides rent, utility, and internet assistance to households experiencing financial hardship as a result of the COVID pandemic. Landlords and tenants apply via a joint online process. If the application is approved, the landlord or service provider receives funds directly from KERA and applies KERA funds to the applicant’s account. Approved applicants are eligible for up to 12 months of assistance.",
+    "description": "Earlier this year, Hamilton County was awarded a $10 million Emergency Rental Assistance grant from the U.S. Department of Treasury for COVID-19 assistance. Specifically, this funding will assist renter households unable to pay rent and/or utilities due to loss of income from the COVID-19 pandemic.",
     "last-updated": "5/3/2021 5:47pm"
   },
   {
@@ -2227,12 +2210,12 @@
     "last-updated": "5/3/2021 6:10pm"
   },
   {
-    "recipient-name": "Commonwealth of Kentucky - Fin & Adm Cabinet",
-    "name": "Kentucky",
-    "URL": "https://teamkyhherf.ky.gov/",
+    "recipient-name": "Kansas Housing Resources Corp for the State of Kansas",
+    "name": "Kansas",
+    "URL": "https://kshousingcorp.org/emergency-rental-assistance",
     "recipient-type": "State/DC",
-    "state-territory": "KY",
-    "state": "Kentucky",
+    "state-territory": "KS",
+    "state": "Kansas",
     "locality": "State",
     "currently-accepting-applications": "",
     "date-accepting-applications": "",
@@ -2240,8 +2223,8 @@
     "non-ERA-program-URL": "",
     "assistance-phone-number": "",
     "assistance-email": "",
-    "description": "Funding from the U.S. Treasury was sent to three Kentucky jurisdictions – the state of Kentucky, Lexington-Fayette Urban County Government, and Louisville-Jefferson County Metro Government. All three programs will offer the same rent assistance to approved applicants – 100 percent of past-due rent, dating back to April 2020, and up to three months of future payments.",
-    "last-updated": "5/3/2021 5:42pm"
+    "description": "The Kansas Emergency Rental Assistance (KERA) program provides rent, utility, and internet assistance to households experiencing financial hardship as a result of the COVID pandemic. Landlords and tenants apply via a joint online process. If the application is approved, the landlord or service provider receives funds directly from KERA and applies KERA funds to the applicant’s account. Approved applicants are eligible for up to 12 months of assistance.",
+    "last-updated": "5/3/2021 5:47pm"
   },
   {
     "recipient-name": "Lexington-Fayette Urban County Government",
@@ -2278,21 +2261,21 @@
     "last-updated": "5/3/2021 6:03pm"
   },
   {
-    "recipient-name": "State of Louisiana's U.S. Treasury, Governors Office of Homeland Security and Emergency Preparedness",
-    "name": "Louisiana",
-    "URL": "https://www.lastaterent.com/",
+    "recipient-name": "Commonwealth of Kentucky - Fin & Adm Cabinet",
+    "name": "Kentucky",
+    "URL": "https://teamkyhherf.ky.gov/",
     "recipient-type": "State/DC",
-    "state-territory": "LA",
-    "state": "Louisiana",
+    "state-territory": "KY",
+    "state": "Kentucky",
     "locality": "State",
-    "currently-accepting-applications": "True",
+    "currently-accepting-applications": "",
     "date-accepting-applications": "",
-    "apply-online": "True",
+    "apply-online": "",
     "non-ERA-program-URL": "",
     "assistance-phone-number": "",
     "assistance-email": "",
-    "description": "The State of Louisiana is launching the U.S. Treasury Emergency Rental Assistance Program to provide emergency rental assistance to Louisiana residents who are at risk of experiencing homelessness or housing instability due to the COVID-19 pandemic. The program is funded through the federal Coronavirus Response and Relief Supplemental Appropriations Act, 2020 (H.R. 133). This relief package includes $25 billion for emergency rental assistance, of which $161 million has been allocated to the state to provide assistance in 57 Louisiana parishes.",
-    "last-updated": "5/3/2021 5:44pm"
+    "description": "Funding from the U.S. Treasury was sent to three Kentucky jurisdictions – the state of Kentucky, Lexington-Fayette Urban County Government, and Louisville-Jefferson County Metro Government. All three programs will offer the same rent assistance to approved applicants – 100 percent of past-due rent, dating back to April 2020, and up to three months of future payments.",
+    "last-updated": "5/3/2021 5:42pm"
   },
   {
     "recipient-name": "City of Baton Rouge",
@@ -2414,6 +2397,23 @@
     "last-updated": "5/4/2021 2:58pm"
   },
   {
+    "recipient-name": "State of Louisiana's U.S. Treasury, Governors Office of Homeland Security and Emergency Preparedness",
+    "name": "Louisiana",
+    "URL": "https://www.lastaterent.com/",
+    "recipient-type": "State/DC",
+    "state-territory": "LA",
+    "state": "Louisiana",
+    "locality": "State",
+    "currently-accepting-applications": "True",
+    "date-accepting-applications": "",
+    "apply-online": "True",
+    "non-ERA-program-URL": "",
+    "assistance-phone-number": "",
+    "assistance-email": "",
+    "description": "The State of Louisiana is launching the U.S. Treasury Emergency Rental Assistance Program to provide emergency rental assistance to Louisiana residents who are at risk of experiencing homelessness or housing instability due to the COVID-19 pandemic. The program is funded through the federal Coronavirus Response and Relief Supplemental Appropriations Act, 2020 (H.R. 133). This relief package includes $25 billion for emergency rental assistance, of which $161 million has been allocated to the state to provide assistance in 57 Louisiana parishes.",
+    "last-updated": "5/3/2021 5:44pm"
+  },
+  {
     "recipient-name": "State of Maine",
     "name": "Maine",
     "URL": "https://www.mainehousing.org/programs-services/rental/rentaldetail/covid-19-rental-relief-program",
@@ -2429,23 +2429,6 @@
     "assistance-email": "",
     "description": "Maine has $200 million in rent relief funds from the federal Emergency Rental Assistance Program. This program will provide rental and utility relief payments to help eligible renters maintain housing stability. Maine’s Community Action Agencies will review applications, check eligibility, and process payments for eligible expenses on behalf of households.",
     "last-updated": "5/3/2021 5:47pm"
-  },
-  {
-    "recipient-name": "State of Maryland",
-    "name": "Maryland",
-    "URL": "https://dhcd.maryland.gov/Pages/EvictionPrevention/default.aspx",
-    "recipient-type": "State/DC",
-    "state-territory": "MD",
-    "state": "Maryland",
-    "locality": "State",
-    "currently-accepting-applications": "",
-    "date-accepting-applications": "",
-    "apply-online": "",
-    "non-ERA-program-URL": "",
-    "assistance-phone-number": "",
-    "assistance-email": "",
-    "description": "The Maryland Department of Housing and Community Development will administer federal emergency rental funding in two ways, (1) directly to local jurisdictions through the Maryland Eviction Partnership Program to support local rental assistance efforts and (2) to property management on behalf of tenants residing in affordable rental properties​ that received federal or state financing through the Assisted Housing Relief Program. Local jurisdictions will operate rental assistance programs independently. All programs are expected to open in spring of 2021.",
-    "last-updated": "5/3/2021 5:42pm"
   },
   {
     "recipient-name": "Anne Arundel County",
@@ -2550,12 +2533,12 @@
     "last-updated": "Prince George's County"
   },
   {
-    "recipient-name": "Massachusetts Department of the State Treasurer",
-    "name": "Massachusetts",
-    "URL": "https://www.mass.gov/info-details/emergency-housing-assistance-during-covid-19#details-on-the-emergency-rental-assistance-program-(erap)-",
+    "recipient-name": "State of Maryland",
+    "name": "Maryland",
+    "URL": "https://dhcd.maryland.gov/Pages/EvictionPrevention/default.aspx",
     "recipient-type": "State/DC",
-    "state-territory": "MA",
-    "state": "Massachusetts",
+    "state-territory": "MD",
+    "state": "Maryland",
     "locality": "State",
     "currently-accepting-applications": "",
     "date-accepting-applications": "",
@@ -2563,8 +2546,8 @@
     "non-ERA-program-URL": "",
     "assistance-phone-number": "",
     "assistance-email": "",
-    "description": "The new Emergency Rental Assistance Program (ERAP) leverages new federal funding for eligible low-income tenants who are in need of financial assistance. With the launch of the Federal Emergency Rental Assistance Program, applicants should not notice significant changes in the application process, and may be eligible to receive funds from either ERAP, RAFT, or ERMA.",
-    "last-updated": "5/3/2021 5:36pm"
+    "description": "The Maryland Department of Housing and Community Development will administer federal emergency rental funding in two ways, (1) directly to local jurisdictions through the Maryland Eviction Partnership Program to support local rental assistance efforts and (2) to property management on behalf of tenants residing in affordable rental properties​ that received federal or state financing through the Assisted Housing Relief Program. Local jurisdictions will operate rental assistance programs independently. All programs are expected to open in spring of 2021.",
+    "last-updated": "5/3/2021 5:42pm"
   },
   {
     "recipient-name": "City of Boston",
@@ -2584,12 +2567,12 @@
     "last-updated": "5/3/2021 6:03pm"
   },
   {
-    "recipient-name": "State of Michigan",
-    "name": "Michigan",
-    "URL": "https://www.michigan.gov/mshda/0,4641,7-141-5555-533463--,00.html",
+    "recipient-name": "Massachusetts Department of the State Treasurer",
+    "name": "Massachusetts",
+    "URL": "https://www.mass.gov/info-details/emergency-housing-assistance-during-covid-19#details-on-the-emergency-rental-assistance-program-(erap)-",
     "recipient-type": "State/DC",
-    "state-territory": "MI",
-    "state": "Michigan",
+    "state-territory": "MA",
+    "state": "Massachusetts",
     "locality": "State",
     "currently-accepting-applications": "",
     "date-accepting-applications": "",
@@ -2597,8 +2580,8 @@
     "non-ERA-program-URL": "",
     "assistance-phone-number": "",
     "assistance-email": "",
-    "description": "The Michigan State Housing Development Authority (MSHDA) will administer the COVID Emergency Rental Assistance (CERA) Program through its network of local nonprofit agencies starting March 15, 2021. CERA can provide rental and utility assistance for eligible renter households so that they retain their housing stability.",
-    "last-updated": "5/3/2021 5:34pm"
+    "description": "The new Emergency Rental Assistance Program (ERAP) leverages new federal funding for eligible low-income tenants who are in need of financial assistance. With the launch of the Federal Emergency Rental Assistance Program, applicants should not notice significant changes in the application process, and may be eligible to receive funds from either ERAP, RAFT, or ERMA.",
+    "last-updated": "5/3/2021 5:36pm"
   },
   {
     "recipient-name": "County of Macomb",
@@ -2618,12 +2601,12 @@
     "last-updated": "5/3/2021 6:03pm"
   },
   {
-    "recipient-name": "Minnesota Housing Finance Agency",
-    "name": "Minnesota",
-    "URL": "https://www.renthelpmn.org/",
+    "recipient-name": "State of Michigan",
+    "name": "Michigan",
+    "URL": "https://www.michigan.gov/mshda/0,4641,7-141-5555-533463--,00.html",
     "recipient-type": "State/DC",
-    "state-territory": "MN",
-    "state": "Minnesota",
+    "state-territory": "MI",
+    "state": "Michigan",
     "locality": "State",
     "currently-accepting-applications": "",
     "date-accepting-applications": "",
@@ -2631,8 +2614,8 @@
     "non-ERA-program-URL": "",
     "assistance-phone-number": "",
     "assistance-email": "",
-    "description": "The new program is called COVID-19 Emergency Rental Assistance and it will help eligible renters with overdue rent since March 2020, up to three months of upcoming rent at a time, and related utility payments. The program will be open for applications in a matter of weeks, with an anticipated launch in late March.  Eligible renters will include households that earned 80% or less of area median income in 2020 or in the most recent month. Landlords will be able to apply on behalf of their eligible tenants as well.",
-    "last-updated": "5/3/2021 5:42pm"
+    "description": "The Michigan State Housing Development Authority (MSHDA) will administer the COVID Emergency Rental Assistance (CERA) Program through its network of local nonprofit agencies starting March 15, 2021. CERA can provide rental and utility assistance for eligible renter households so that they retain their housing stability.",
+    "last-updated": "5/3/2021 5:34pm"
   },
   {
     "recipient-name": "Hennepin County",
@@ -2669,12 +2652,12 @@
     "last-updated": "5/3/2021 6:13pm"
   },
   {
-    "recipient-name": "State of Mississippi",
-    "name": "Mississippi",
-    "URL": "https://ms-ramp.com/",
+    "recipient-name": "Minnesota Housing Finance Agency",
+    "name": "Minnesota",
+    "URL": "https://www.renthelpmn.org/",
     "recipient-type": "State/DC",
-    "state-territory": "MS",
-    "state": "Mississippi",
+    "state-territory": "MN",
+    "state": "Minnesota",
     "locality": "State",
     "currently-accepting-applications": "",
     "date-accepting-applications": "",
@@ -2682,8 +2665,8 @@
     "non-ERA-program-URL": "",
     "assistance-phone-number": "",
     "assistance-email": "",
-    "description": "Governor Tate Reeves has directed Mississippi’s Emergency Rental Assistance (ERA) funding from The U.S. Department of Treasury to be administered by Mississippi Home Corporation. The funding will expand the income limit eligibility to assist more Mississippians who have been impacted by COVID-19.",
-    "last-updated": "5/3/2021 5:47pm"
+    "description": "The new program is called COVID-19 Emergency Rental Assistance and it will help eligible renters with overdue rent since March 2020, up to three months of upcoming rent at a time, and related utility payments. The program will be open for applications in a matter of weeks, with an anticipated launch in late March.  Eligible renters will include households that earned 80% or less of area median income in 2020 or in the most recent month. Landlords will be able to apply on behalf of their eligible tenants as well.",
+    "last-updated": "5/3/2021 5:42pm"
   },
   {
     "recipient-name": "Hinds County Board of Supervisors",
@@ -2703,12 +2686,12 @@
     "last-updated": "5/4/2021 2:58pm"
   },
   {
-    "recipient-name": "State of Missouri",
-    "name": "Missouri",
-    "URL": "https://safhr.smapply.org/prog/safhr_renter_application_portal/",
+    "recipient-name": "State of Mississippi",
+    "name": "Mississippi",
+    "URL": "https://ms-ramp.com/",
     "recipient-type": "State/DC",
-    "state-territory": "MO",
-    "state": "Missouri",
+    "state-territory": "MS",
+    "state": "Mississippi",
     "locality": "State",
     "currently-accepting-applications": "",
     "date-accepting-applications": "",
@@ -2716,8 +2699,8 @@
     "non-ERA-program-URL": "",
     "assistance-phone-number": "",
     "assistance-email": "",
-    "description": "The State Assistance for Housing Relief (SAFHR) Program provides rent and utility assistance for households who have been impacted by COVID-19. Eligible tenants can apply for financial assistance to be paid directly to their landlord or utility provider. Financial assistance includes rent and utility arrears for the period beginning April 2020 and up to 3 months of forward rent and prepaid fuel utility assistance. The tenant must not owe rental arrears beyond any requested rental arrears through this program in order to apply for forward rent assistance. In order to receive utility assistance, tenants must have an invoice from the utility provider to support the request.",
-    "last-updated": "5/3/2021 5:41pm"
+    "description": "Governor Tate Reeves has directed Mississippi’s Emergency Rental Assistance (ERA) funding from The U.S. Department of Treasury to be administered by Mississippi Home Corporation. The funding will expand the income limit eligibility to assist more Mississippians who have been impacted by COVID-19.",
+    "last-updated": "5/3/2021 5:47pm"
   },
   {
     "recipient-name": "Clay County",
@@ -2822,6 +2805,23 @@
     "last-updated": "5/3/2021 5:53pm"
   },
   {
+    "recipient-name": "State of Missouri",
+    "name": "Missouri",
+    "URL": "https://safhr.smapply.org/prog/safhr_renter_application_portal/",
+    "recipient-type": "State/DC",
+    "state-territory": "MO",
+    "state": "Missouri",
+    "locality": "State",
+    "currently-accepting-applications": "",
+    "date-accepting-applications": "",
+    "apply-online": "",
+    "non-ERA-program-URL": "",
+    "assistance-phone-number": "",
+    "assistance-email": "",
+    "description": "The State Assistance for Housing Relief (SAFHR) Program provides rent and utility assistance for households who have been impacted by COVID-19. Eligible tenants can apply for financial assistance to be paid directly to their landlord or utility provider. Financial assistance includes rent and utility arrears for the period beginning April 2020 and up to 3 months of forward rent and prepaid fuel utility assistance. The tenant must not owe rental arrears beyond any requested rental arrears through this program in order to apply for forward rent assistance. In order to receive utility assistance, tenants must have an invoice from the utility provider to support the request.",
+    "last-updated": "5/3/2021 5:41pm"
+  },
+  {
     "recipient-name": "State of Montana",
     "name": "Montana",
     "URL": "https://housing.mt.gov/Rental-Housing/Montana-Emergency-Rental-Assistance-Program",
@@ -2837,23 +2837,6 @@
     "assistance-email": "",
     "description": "The Montana Emergency Rental Assistance program is being developed following the passage of the Consolidated Appropriations Act, 2021. Emergency Rental Assistance may be used for rent, rental arrears, and utility costs. This program will be open to households who do not exceed 80% of the Area Median Income.",
     "last-updated": "5/3/2021 5:46pm"
-  },
-  {
-    "recipient-name": "State of Nebraska",
-    "name": "Nebraska",
-    "URL": "https://coronavirus.nebraska.gov/EmergencyRentalAssistanceProgram#ERAEligibility",
-    "recipient-type": "State/DC",
-    "state-territory": "NE",
-    "state": "Nebraska",
-    "locality": "State",
-    "currently-accepting-applications": "",
-    "date-accepting-applications": "",
-    "apply-online": "",
-    "non-ERA-program-URL": "",
-    "assistance-phone-number": "",
-    "assistance-email": "",
-    "description": "The Emergency Rental Assistance (ERA) program makes available $158 million to assist Nebraska low-income households that are unable to pay rent and utilities due to the COVID-19 pandemic. Before you apply, please review the eligibility requirements and application user guide to understand if you are eligible, as well as the required steps you must complete to apply, and the supporting documentation you must provide as part of your application. This program is only available for renters with a lease agreement, not for homeowners.",
-    "last-updated": "5/3/2021 5:48pm"
   },
   {
     "recipient-name": "Douglas County",
@@ -2907,12 +2890,12 @@
     "last-updated": "5/3/2021 6:03pm"
   },
   {
-    "recipient-name": "State of Nevada",
-    "name": "Nevada",
-    "URL": "https://housing.nv.gov/Resources/COVID-19/Renter_Assistance/",
+    "recipient-name": "State of Nebraska",
+    "name": "Nebraska",
+    "URL": "https://coronavirus.nebraska.gov/EmergencyRentalAssistanceProgram#ERAEligibility",
     "recipient-type": "State/DC",
-    "state-territory": "NV",
-    "state": "Nevada",
+    "state-territory": "NE",
+    "state": "Nebraska",
     "locality": "State",
     "currently-accepting-applications": "",
     "date-accepting-applications": "",
@@ -2920,8 +2903,8 @@
     "non-ERA-program-URL": "",
     "assistance-phone-number": "",
     "assistance-email": "",
-    "description": "The Nevada Housing Division (NHD) has received approximately $124 million to provide additional temporary rental and housing expense assistance through the CARES Housing Assistance Program (CHAP). The CHAP program has served approximately 29,000 Nevadans to date. The additional funds are currently expected to help an estimated 20,000 households with rent and utilities.",
-    "last-updated": "5/3/2021 5:49pm"
+    "description": "The Emergency Rental Assistance (ERA) program makes available $158 million to assist Nebraska low-income households that are unable to pay rent and utilities due to the COVID-19 pandemic. Before you apply, please review the eligibility requirements and application user guide to understand if you are eligible, as well as the required steps you must complete to apply, and the supporting documentation you must provide as part of your application. This program is only available for renters with a lease agreement, not for homeowners.",
+    "last-updated": "5/3/2021 5:48pm"
   },
   {
     "recipient-name": "Clark County",
@@ -3026,20 +3009,20 @@
     "last-updated": "5/4/2021 2:58pm"
   },
   {
-    "recipient-name": "State of New Hampshire Treasury",
-    "name": "New Hampshire",
-    "URL": "https://www.nhhfa.org/emergency-rental-assistance/",
+    "recipient-name": "State of Nevada",
+    "name": "Nevada",
+    "URL": "https://housing.nv.gov/Resources/COVID-19/Renter_Assistance/",
     "recipient-type": "State/DC",
-    "state-territory": "NH",
-    "state": "New Hampshire",
+    "state-territory": "NV",
+    "state": "Nevada",
     "locality": "State",
-    "currently-accepting-applications": "True",
+    "currently-accepting-applications": "",
     "date-accepting-applications": "",
-    "apply-online": "True",
+    "apply-online": "",
     "non-ERA-program-URL": "",
     "assistance-phone-number": "",
     "assistance-email": "",
-    "description": "A new federally funded New Hampshire Emergency Rental Assistance Program (NHERAP) will provide assistance to eligible residents of New Hampshire who cannot pay their rent and utilities due to the COVID-19 pandemic. The five regional Community Action Partnership (CAP) agencies will administer applications and payments for the program. Full program guidelines and the NHERAP application (online and a printable form) will be available on each of the CAP websites.",
+    "description": "The Nevada Housing Division (NHD) has received approximately $124 million to provide additional temporary rental and housing expense assistance through the CARES Housing Assistance Program (CHAP). The CHAP program has served approximately 29,000 Nevadans to date. The additional funds are currently expected to help an estimated 20,000 households with rent and utilities.",
     "last-updated": "5/3/2021 5:49pm"
   },
   {
@@ -3060,12 +3043,12 @@
     "last-updated": "5/5/2021 8:22am"
   },
   {
-    "recipient-name": "State of New Jersey Dept of Community Affairs",
-    "name": "New Jersey",
-    "URL": "https://njdca.onlinepha.com/",
+    "recipient-name": "State of New Hampshire Treasury",
+    "name": "New Hampshire",
+    "URL": "https://www.nhhfa.org/emergency-rental-assistance/",
     "recipient-type": "State/DC",
-    "state-territory": "NJ",
-    "state": "New Jersey",
+    "state-territory": "NH",
+    "state": "New Hampshire",
     "locality": "State",
     "currently-accepting-applications": "True",
     "date-accepting-applications": "",
@@ -3073,8 +3056,8 @@
     "non-ERA-program-URL": "",
     "assistance-phone-number": "",
     "assistance-email": "",
-    "description": "The COVID-19 Emergency Rental Assistance Program (CVERAP) Phase II provides temporary rental assistance to low- and moderate-income households affected by the COVID-19 pandemic. The enrollment period starts Monday, March 22, 2021, 9 a.m. EST. Applications will be accepted until enough have been received to ensure distribution of all funds. For more information about this opportunity, call Customer Service at 609-490-4550.",
-    "last-updated": "5/3/2021 5:38pm"
+    "description": "A new federally funded New Hampshire Emergency Rental Assistance Program (NHERAP) will provide assistance to eligible residents of New Hampshire who cannot pay their rent and utilities due to the COVID-19 pandemic. The five regional Community Action Partnership (CAP) agencies will administer applications and payments for the program. Full program guidelines and the NHERAP application (online and a printable form) will be available on each of the CAP websites.",
+    "last-updated": "5/3/2021 5:49pm"
   },
   {
     "recipient-name": "County of Atlantic",
@@ -3179,21 +3162,21 @@
     "last-updated": "5/4/2021 1:07pm"
   },
   {
-    "recipient-name": "New Mexico Department of Finance",
-    "name": "New Mexico",
-    "URL": "https://www.renthelpnm.org/",
+    "recipient-name": "State of New Jersey Dept of Community Affairs",
+    "name": "New Jersey",
+    "URL": "https://njdca.onlinepha.com/",
     "recipient-type": "State/DC",
-    "state-territory": "NM",
-    "state": "New Mexico",
+    "state-territory": "NJ",
+    "state": "New Jersey",
     "locality": "State",
-    "currently-accepting-applications": "",
+    "currently-accepting-applications": "True",
     "date-accepting-applications": "",
-    "apply-online": "",
+    "apply-online": "True",
     "non-ERA-program-URL": "",
     "assistance-phone-number": "",
     "assistance-email": "",
-    "description": "This assistance is available for those in a lease agreement with a landlord or those who have entered into a lease-purchase agreement. Funding is also available for utility assistance and other expenses related to housing costs (i.e., hotel/motel costs) incurred directly or indirectly due to the COVID-19 outbreak.",
-    "last-updated": "5/3/2021 5:47pm"
+    "description": "The COVID-19 Emergency Rental Assistance Program (CVERAP) Phase II provides temporary rental assistance to low- and moderate-income households affected by the COVID-19 pandemic. The enrollment period starts Monday, March 22, 2021, 9 a.m. EST. Applications will be accepted until enough have been received to ensure distribution of all funds. For more information about this opportunity, call Customer Service at 609-490-4550.",
+    "last-updated": "5/3/2021 5:38pm"
   },
   {
     "recipient-name": "City of Albuquerque",
@@ -3247,21 +3230,21 @@
     "last-updated": "5/3/2021 6:13pm"
   },
   {
-    "recipient-name": "New York State",
-    "name": "New York",
-    "URL": "otda.ny.gov",
+    "recipient-name": "New Mexico Department of Finance",
+    "name": "New Mexico",
+    "URL": "https://www.renthelpnm.org/",
     "recipient-type": "State/DC",
-    "state-territory": "NY",
-    "state": "New York",
+    "state-territory": "NM",
+    "state": "New Mexico",
     "locality": "State",
-    "currently-accepting-applications": "False",
+    "currently-accepting-applications": "",
     "date-accepting-applications": "",
-    "apply-online": "Unknown",
+    "apply-online": "",
     "non-ERA-program-URL": "",
     "assistance-phone-number": "",
     "assistance-email": "",
-    "description": "",
-    "last-updated": "5/6/2021 9:56am"
+    "description": "This assistance is available for those in a lease agreement with a landlord or those who have entered into a lease-purchase agreement. Funding is also available for utility assistance and other expenses related to housing costs (i.e., hotel/motel costs) incurred directly or indirectly due to the COVID-19 outbreak.",
+    "last-updated": "5/3/2021 5:47pm"
   },
   {
     "recipient-name": "County of Albany",
@@ -3366,21 +3349,21 @@
     "last-updated": "5/4/2021 11:18pm"
   },
   {
-    "recipient-name": "North Carolina Office of State Budget and Management",
-    "name": "North Carolina",
-    "URL": "https://nc211.org/hope/",
+    "recipient-name": "New York State",
+    "name": "New York",
+    "URL": "otda.ny.gov",
     "recipient-type": "State/DC",
-    "state-territory": "NC",
-    "state": "North Carolina",
+    "state-territory": "NY",
+    "state": "New York",
     "locality": "State",
     "currently-accepting-applications": "False",
     "date-accepting-applications": "",
-    "apply-online": "",
+    "apply-online": "Unknown",
     "non-ERA-program-URL": "",
     "assistance-phone-number": "",
     "assistance-email": "",
     "description": "",
-    "last-updated": "5/3/2021 9:18pm"
+    "last-updated": "5/6/2021 9:56am"
   },
   {
     "recipient-name": "Cabarrus County Government",
@@ -3553,6 +3536,23 @@
     "last-updated": "5/4/2021 2:58pm"
   },
   {
+    "recipient-name": "North Carolina Office of State Budget and Management",
+    "name": "North Carolina",
+    "URL": "https://nc211.org/hope/",
+    "recipient-type": "State/DC",
+    "state-territory": "NC",
+    "state": "North Carolina",
+    "locality": "State",
+    "currently-accepting-applications": "False",
+    "date-accepting-applications": "",
+    "apply-online": "",
+    "non-ERA-program-URL": "",
+    "assistance-phone-number": "",
+    "assistance-email": "",
+    "description": "",
+    "last-updated": "5/3/2021 9:18pm"
+  },
+  {
     "recipient-name": "North Dakota Department of Human Services",
     "name": "North Dakota",
     "URL": "http://www.nd.gov/dhs/info/covid-19/rent-bridge.html",
@@ -3568,23 +3568,6 @@
     "assistance-email": "",
     "description": "",
     "last-updated": "5/3/2021 5:47pm"
-  },
-  {
-    "recipient-name": "Executive Office State of Ohio",
-    "name": "Ohio",
-    "URL": "https://businesshelp.ohio.gov/home-relief-grant.html",
-    "recipient-type": "State/DC",
-    "state-territory": "OH",
-    "state": "Ohio",
-    "locality": "State",
-    "currently-accepting-applications": "",
-    "date-accepting-applications": "",
-    "apply-online": "",
-    "non-ERA-program-URL": "",
-    "assistance-phone-number": "",
-    "assistance-email": "",
-    "description": "If you have been laid off or lost income during the coronavirus pandemic and recession, you might qualify for Emergency Rental Assistance. Ohioans who need assistance should contact their local Community Action Agency. To find your CAA visit the link provided",
-    "last-updated": "5/3/2021 5:34pm"
   },
   {
     "recipient-name": "City of Columbus",
@@ -3706,12 +3689,12 @@
     "last-updated": "5/4/2021 2:58pm"
   },
   {
-    "recipient-name": "State of Oklahoma",
-    "name": "Oklahoma",
-    "URL": "https://okcommunitycares.org",
+    "recipient-name": "Executive Office State of Ohio",
+    "name": "Ohio",
+    "URL": "https://businesshelp.ohio.gov/home-relief-grant.html",
     "recipient-type": "State/DC",
-    "state-territory": "OK",
-    "state": "Oklahoma",
+    "state-territory": "OH",
+    "state": "Ohio",
     "locality": "State",
     "currently-accepting-applications": "",
     "date-accepting-applications": "",
@@ -3719,8 +3702,8 @@
     "non-ERA-program-URL": "",
     "assistance-phone-number": "",
     "assistance-email": "",
-    "description": "Community Cares Partners (CCP), a program of Communities Foundation of Oklahoma, is making a difference for Oklahomans by assisting individuals and families facing housing crisis and eviction as a result of lost wages or hardship from COVID-19.  A public-private partnership, CCP distributes Emergency Rental Assistance (ERA) allocated by the State of Oklahoma, City of Oklahoma City, Oklahoma County, and Clevland County to help our neighbors maintain housing stability.",
-    "last-updated": "5/3/2021 5:45pm"
+    "description": "If you have been laid off or lost income during the coronavirus pandemic and recession, you might qualify for Emergency Rental Assistance. Ohioans who need assistance should contact their local Community Action Agency. To find your CAA visit the link provided",
+    "last-updated": "5/3/2021 5:34pm"
   },
   {
     "recipient-name": "City of Oklahoma City",
@@ -3757,21 +3740,21 @@
     "last-updated": "5/3/2021 6:10pm"
   },
   {
-    "recipient-name": "Oregon Housing and Community Services",
-    "name": "Oregon",
-    "URL": "https://www.oregon.gov/ohcs/housing-assistance/Pages/Landlord-tenant-resources.aspx",
+    "recipient-name": "State of Oklahoma",
+    "name": "Oklahoma",
+    "URL": "https://okcommunitycares.org",
     "recipient-type": "State/DC",
-    "state-territory": "OR",
-    "state": "Oregon",
+    "state-territory": "OK",
+    "state": "Oklahoma",
     "locality": "State",
-    "currently-accepting-applications": "False",
+    "currently-accepting-applications": "",
     "date-accepting-applications": "",
-    "apply-online": "Unknown",
+    "apply-online": "",
     "non-ERA-program-URL": "",
     "assistance-phone-number": "",
     "assistance-email": "",
-    "description": "",
-    "last-updated": "5/6/2021 9:48am"
+    "description": "Community Cares Partners (CCP), a program of Communities Foundation of Oklahoma, is making a difference for Oklahomans by assisting individuals and families facing housing crisis and eviction as a result of lost wages or hardship from COVID-19.  A public-private partnership, CCP distributes Emergency Rental Assistance (ERA) allocated by the State of Oklahoma, City of Oklahoma City, Oklahoma County, and Clevland County to help our neighbors maintain housing stability.",
+    "last-updated": "5/3/2021 5:45pm"
   },
   {
     "recipient-name": "Multnomah County",
@@ -3808,21 +3791,21 @@
     "last-updated": "5/3/2021 6:04pm"
   },
   {
-    "recipient-name": "Commonwealth of Pennsylvania",
-    "name": "Pennsylvania",
-    "URL": "https://www.dhs.pa.gov/coronavirus/Pages/Emergency-Rental-Assistance-Program.aspx",
+    "recipient-name": "Oregon Housing and Community Services",
+    "name": "Oregon",
+    "URL": "https://www.oregon.gov/ohcs/housing-assistance/Pages/Landlord-tenant-resources.aspx",
     "recipient-type": "State/DC",
-    "state-territory": "PA",
-    "state": "Pennsylvania",
+    "state-territory": "OR",
+    "state": "Oregon",
     "locality": "State",
-    "currently-accepting-applications": "",
+    "currently-accepting-applications": "False",
     "date-accepting-applications": "",
-    "apply-online": "",
+    "apply-online": "Unknown",
     "non-ERA-program-URL": "",
     "assistance-phone-number": "",
     "assistance-email": "",
-    "description": "On February 5, 2021, Governor Wolf signed S.B. 109 into law, which officially designated the Department of Human Services (DHS) as the agency overseeing administration of the Emergency Rental Assistance Program (ERAP) for the 49 counties that did not receive direct allocations. ERAP is now taking applications. Pennsylvanians can apply online through COMPASS. Some counties are not using the COMPASS application. If your county is not using COMPASS, you will be automatically directed to your local ERAP agency contact.",
-    "last-updated": "5/3/2021 5:34pm"
+    "description": "",
+    "last-updated": "5/6/2021 9:48am"
   },
   {
     "recipient-name": "Allegheny County",
@@ -4114,6 +4097,23 @@
     "last-updated": "5/3/2021 6:09pm"
   },
   {
+    "recipient-name": "Commonwealth of Pennsylvania",
+    "name": "Pennsylvania",
+    "URL": "https://www.dhs.pa.gov/coronavirus/Pages/Emergency-Rental-Assistance-Program.aspx",
+    "recipient-type": "State/DC",
+    "state-territory": "PA",
+    "state": "Pennsylvania",
+    "locality": "State",
+    "currently-accepting-applications": "",
+    "date-accepting-applications": "",
+    "apply-online": "",
+    "non-ERA-program-URL": "",
+    "assistance-phone-number": "",
+    "assistance-email": "",
+    "description": "On February 5, 2021, Governor Wolf signed S.B. 109 into law, which officially designated the Department of Human Services (DHS) as the agency overseeing administration of the Emergency Rental Assistance Program (ERAP) for the 49 counties that did not receive direct allocations. ERAP is now taking applications. Pennsylvanians can apply online through COMPASS. Some counties are not using the COMPASS application. If your county is not using COMPASS, you will be automatically directed to your local ERAP agency contact.",
+    "last-updated": "5/3/2021 5:34pm"
+  },
+  {
     "recipient-name": "State of Rhode Island",
     "name": "Rhode Island",
     "URL": "https://www.rihousing.com/rentreliefri/",
@@ -4129,23 +4129,6 @@
     "assistance-email": "",
     "description": "Rhode Island has received $200 million in rent relief funds from the federal Emergency Rental Assistance (ERA) Program. This program will provide rental and utility relief payments to help eligible renters maintain housing stability.",
     "last-updated": "5/3/2021 5:45pm"
-  },
-  {
-    "recipient-name": "State of South Carolina",
-    "name": "South Carolina",
-    "URL": "https://schousing.com/home/sc-stay",
-    "recipient-type": "State/DC",
-    "state-territory": "SC",
-    "state": "South Carolina",
-    "locality": "State",
-    "currently-accepting-applications": "",
-    "date-accepting-applications": "",
-    "apply-online": "",
-    "non-ERA-program-URL": "",
-    "assistance-phone-number": "",
-    "assistance-email": "",
-    "description": "SC Housing will launch in early May a $272 million program to assist South Carolina residents in need of rental and utility assistance whose finances have been impacted by the COVID-19 pandemic. Those who qualify for SC Stay Plus may receive up to 12 months of assistance for late rent payments and late utility payments dating back to March 13, 2020. S.C. residents in 39 counties are eligible to participate in the program. The following seven counties were directly funded by the U.S. Treasury Department and will provide their own rental assistance programs: Anderson, Berkeley, Charleston, Greenville, Horry, Richland and Spartanburg.",
-    "last-updated": "5/3/2021 5:42pm"
   },
   {
     "recipient-name": "Anderson County, SC",
@@ -4250,6 +4233,23 @@
     "last-updated": "5/3/2021 6:12pm"
   },
   {
+    "recipient-name": "State of South Carolina",
+    "name": "South Carolina",
+    "URL": "https://schousing.com/home/sc-stay",
+    "recipient-type": "State/DC",
+    "state-territory": "SC",
+    "state": "South Carolina",
+    "locality": "State",
+    "currently-accepting-applications": "",
+    "date-accepting-applications": "",
+    "apply-online": "",
+    "non-ERA-program-URL": "",
+    "assistance-phone-number": "",
+    "assistance-email": "",
+    "description": "SC Housing will launch in early May a $272 million program to assist South Carolina residents in need of rental and utility assistance whose finances have been impacted by the COVID-19 pandemic. Those who qualify for SC Stay Plus may receive up to 12 months of assistance for late rent payments and late utility payments dating back to March 13, 2020. S.C. residents in 39 counties are eligible to participate in the program. The following seven counties were directly funded by the U.S. Treasury Department and will provide their own rental assistance programs: Anderson, Berkeley, Charleston, Greenville, Horry, Richland and Spartanburg.",
+    "last-updated": "5/3/2021 5:42pm"
+  },
+  {
     "recipient-name": "South Dakota Housing Development Authority",
     "name": "South Dakota",
     "URL": "https://www.sdhda.org/social-programs/cares-act-housing-assistance-program/cares-act-housing-assistance-program-2",
@@ -4265,23 +4265,6 @@
     "assistance-email": "",
     "description": "South Dakota Housing Development Authority with local partner agencies are providing emergency housing and utility assistance for South Dakota residents through Federal COVID Stimulus funds. If you have been financially impacted due to COVID-19, the SD CARES Housing Assistance Program may provide temporary housing or utility assistance for South Dakota residents who meet all criteria",
     "last-updated": "5/3/2021 5:47pm"
-  },
-  {
-    "recipient-name": "State of Tennessee",
-    "name": "Tennessee",
-    "URL": "https://thda.org/help-for-renters-section-8/covidrentrelief",
-    "recipient-type": "State/DC",
-    "state-territory": "TN",
-    "state": "Tennessee",
-    "locality": "State",
-    "currently-accepting-applications": "",
-    "date-accepting-applications": "",
-    "apply-online": "",
-    "non-ERA-program-URL": "",
-    "assistance-phone-number": "",
-    "assistance-email": "",
-    "description": "THDA is administering a COVID-19 Rent Relief program for the majority of Tennessee. Under guidance from the US Treasury, funds designated as part of the COVID-19 Rent Relief Act of 2020 will support renters who are or have been struggling to pay rent, utilities, or other home energy costs due to loss of wages/income as a result of the pandemic.",
-    "last-updated": "5/3/2021 5:36pm"
   },
   {
     "recipient-name": "Knox County",
@@ -4352,21 +4335,21 @@
     "last-updated": "5/3/2021 6:15pm"
   },
   {
-    "recipient-name": "Texas Department of Housing and Community Affairs",
-    "name": "Texas",
-    "URL": "https://texasrentrelief.com/",
+    "recipient-name": "State of Tennessee",
+    "name": "Tennessee",
+    "URL": "https://thda.org/help-for-renters-section-8/covidrentrelief",
     "recipient-type": "State/DC",
-    "state-territory": "TX",
-    "state": "Texas",
+    "state-territory": "TN",
+    "state": "Tennessee",
     "locality": "State",
-    "currently-accepting-applications": "True",
+    "currently-accepting-applications": "",
     "date-accepting-applications": "",
-    "apply-online": "True",
+    "apply-online": "",
     "non-ERA-program-URL": "",
     "assistance-phone-number": "",
     "assistance-email": "",
-    "description": "The Texas Department of Housing and Community Affairs (TDHCA) has received approximately $1.3 billion in Emergency Rental Assistance funds from the newly passed Coronavirus Relief Bill Rental Assistance Program. TDHCA is using the funds to help Texas renters pay rent and utility bills (including past due rent and utilities).",
-    "last-updated": "5/4/2021 5:29pm"
+    "description": "THDA is administering a COVID-19 Rent Relief program for the majority of Tennessee. Under guidance from the US Treasury, funds designated as part of the COVID-19 Rent Relief Act of 2020 will support renters who are or have been struggling to pay rent, utilities, or other home energy costs due to loss of wages/income as a result of the pandemic.",
+    "last-updated": "5/3/2021 5:36pm"
   },
   {
     "recipient-name": "City of Austin",
@@ -4777,21 +4760,21 @@
     "last-updated": "5/3/2021 6:11pm"
   },
   {
-    "recipient-name": "State of Utah, Department of Workforce Services",
-    "name": "Utah",
-    "URL": "https://rentrelief.utah.gov/",
+    "recipient-name": "Texas Department of Housing and Community Affairs",
+    "name": "Texas",
+    "URL": "https://texasrentrelief.com/",
     "recipient-type": "State/DC",
-    "state-territory": "UT",
-    "state": "Utah",
+    "state-territory": "TX",
+    "state": "Texas",
     "locality": "State",
-    "currently-accepting-applications": "",
+    "currently-accepting-applications": "True",
     "date-accepting-applications": "",
-    "apply-online": "",
+    "apply-online": "True",
     "non-ERA-program-URL": "",
     "assistance-phone-number": "",
     "assistance-email": "",
-    "description": "Utah renters who have been struggling to pay their housing and utility bills during the pandemic can now apply for emergency assistance. Some $215 million in rental relief is available to Utahns, who can now lodge requests for funding through rentrelief.utah.gov, the online portal the state rolled out Monday. Until now, renters have applied for this money through local community action agencies.",
-    "last-updated": "5/3/2021 5:49pm"
+    "description": "The Texas Department of Housing and Community Affairs (TDHCA) has received approximately $1.3 billion in Emergency Rental Assistance funds from the newly passed Coronavirus Relief Bill Rental Assistance Program. TDHCA is using the funds to help Texas renters pay rent and utility bills (including past due rent and utilities).",
+    "last-updated": "5/4/2021 5:29pm"
   },
   {
     "recipient-name": "Salt Lake County",
@@ -4811,6 +4794,23 @@
     "last-updated": "5/3/2021 5:37pm"
   },
   {
+    "recipient-name": "State of Utah, Department of Workforce Services",
+    "name": "Utah",
+    "URL": "https://rentrelief.utah.gov/",
+    "recipient-type": "State/DC",
+    "state-territory": "UT",
+    "state": "Utah",
+    "locality": "State",
+    "currently-accepting-applications": "",
+    "date-accepting-applications": "",
+    "apply-online": "",
+    "non-ERA-program-URL": "",
+    "assistance-phone-number": "",
+    "assistance-email": "",
+    "description": "Utah renters who have been struggling to pay their housing and utility bills during the pandemic can now apply for emergency assistance. Some $215 million in rental relief is available to Utahns, who can now lodge requests for funding through rentrelief.utah.gov, the online portal the state rolled out Monday. Until now, renters have applied for this money through local community action agencies.",
+    "last-updated": "5/3/2021 5:49pm"
+  },
+  {
     "recipient-name": "State of Vermont, Office of the Treasurer",
     "name": "Vermont",
     "URL": "https://erap.vsha.org/",
@@ -4826,23 +4826,6 @@
     "assistance-email": "",
     "description": "The Vermont Emergency Rental Assistance Program (VERAP) was created to help renters dealing with financial challenges related to the COVID-19 pandemic. For eligible households, the program offers rental and utility assistance to help Vermonters avoid eviction or loss of utility service. Rent expenses include rent, rent arrears. Utilities include separately stated electricity, gas, water, sewer, trash removal and energy costs, such as fuel oil. ERAP was established by the Consolidated Appropriations Act 2021",
     "last-updated": "5/3/2021 5:47pm"
-  },
-  {
-    "recipient-name": "Virginia Department of Housing & Community Development",
-    "name": "Virginia",
-    "URL": "https://www.dhcd.virginia.gov/rrp",
-    "recipient-type": "State/DC",
-    "state-territory": "VA",
-    "state": "Virginia",
-    "locality": "State",
-    "currently-accepting-applications": "",
-    "date-accepting-applications": "",
-    "apply-online": "",
-    "non-ERA-program-URL": "",
-    "assistance-phone-number": "",
-    "assistance-email": "",
-    "description": "The Virginia Relief Program (RRP) is designed to support and ensure housing stability across the commonwealth during the coronavirus pandemic. Depending on availability of funds and household need, the RRP may provide financial assistance for rent payments for eligible households. This includes financial assistance for rent payments past due beginning April 1, 2020 and onward with opportunity for renewal based on availability of funding and the household’s need for additional assistance and continued eligibility.",
-    "last-updated": "5/3/2021 5:36pm"
   },
   {
     "recipient-name": "Chesterfield County",
@@ -4879,12 +4862,12 @@
     "last-updated": "5/3/2021 5:52pm"
   },
   {
-    "recipient-name": "Washington State Governor's Office",
-    "name": "Washington ",
-    "URL": "https://www.commerce.wa.gov/serving-communities/homelessness/cares-act-and-state-rent-assistance/",
+    "recipient-name": "Virginia Department of Housing & Community Development",
+    "name": "Virginia",
+    "URL": "https://www.dhcd.virginia.gov/rrp",
     "recipient-type": "State/DC",
-    "state-territory": "WA",
-    "state": "Washington ",
+    "state-territory": "VA",
+    "state": "Virginia",
     "locality": "State",
     "currently-accepting-applications": "",
     "date-accepting-applications": "",
@@ -4892,8 +4875,8 @@
     "non-ERA-program-URL": "",
     "assistance-phone-number": "",
     "assistance-email": "",
-    "description": "The Treasury Rent Assistance Program (T-RAP) Grant is intended to prevent evictions that would contribute to the spread of the virus by paying past due, current due, future rent,and utilities,targeting limited resources to thosewho have experienced financial hardship due to the COVID-19 outbreak and are atrisk of experiencing homelessness or housing instability. The program is administered locally. Find the locality serving you at the Dept. Of Commerce website.",
-    "last-updated": "5/3/2021 5:41pm"
+    "description": "The Virginia Relief Program (RRP) is designed to support and ensure housing stability across the commonwealth during the coronavirus pandemic. Depending on availability of funds and household need, the RRP may provide financial assistance for rent payments for eligible households. This includes financial assistance for rent payments past due beginning April 1, 2020 and onward with opportunity for renewal based on availability of funding and the household’s need for additional assistance and continued eligibility.",
+    "last-updated": "5/3/2021 5:36pm"
   },
   {
     "recipient-name": "Benton County Human Services",
@@ -5049,6 +5032,23 @@
     "last-updated": "5/3/2021 6:14pm"
   },
   {
+    "recipient-name": "Washington State Governor's Office",
+    "name": "Washington ",
+    "URL": "https://www.commerce.wa.gov/serving-communities/homelessness/cares-act-and-state-rent-assistance/",
+    "recipient-type": "State/DC",
+    "state-territory": "WA",
+    "state": "Washington ",
+    "locality": "State",
+    "currently-accepting-applications": "",
+    "date-accepting-applications": "",
+    "apply-online": "",
+    "non-ERA-program-URL": "",
+    "assistance-phone-number": "",
+    "assistance-email": "",
+    "description": "The Treasury Rent Assistance Program (T-RAP) Grant is intended to prevent evictions that would contribute to the spread of the virus by paying past due, current due, future rent,and utilities,targeting limited resources to thosewho have experienced financial hardship due to the COVID-19 outbreak and are atrisk of experiencing homelessness or housing instability. The program is administered locally. Find the locality serving you at the Dept. Of Commerce website.",
+    "last-updated": "5/3/2021 5:41pm"
+  },
+  {
     "recipient-name": "West Virginia State Executive Office",
     "name": "West Virginia",
     "URL": "https://www.wvhdf.com/programs/mountaineer-rental-assistance-program",
@@ -5064,23 +5064,6 @@
     "assistance-email": "",
     "description": "The Mountaineer Rental Assistance Program (MRAP) offers financial assistance to renters and landlords affected by the coronavirus outbreak. WV anticipates receiving rental assistance funding from the U.S Department of Treasury in the next few weeks. As we await guidance from the US Treasury, we will need time to work out the details of how that funding will be allocated to renters in need in our state. We know help is needed and we are working hard to get help to our rental families quickly.",
     "last-updated": "5/3/2021 5:45pm"
-  },
-  {
-    "recipient-name": "Wisconsin Department of Administration",
-    "name": "Wisconsin",
-    "URL": "https://wiscap.org/wera/",
-    "recipient-type": "State/DC",
-    "state-territory": "WI",
-    "state": "Wisconsin",
-    "locality": "State",
-    "currently-accepting-applications": "",
-    "date-accepting-applications": "",
-    "apply-online": "",
-    "non-ERA-program-URL": "",
-    "assistance-phone-number": "",
-    "assistance-email": "",
-    "description": "WISCAP and its statewide network will be helping to get Wisconsin Emergency Rental Assistance (WERA) to those in need. Please read the Frequently Asked Questions sheet for program guidelines and eligibility. The program will be administered by 14 community agencies",
-    "last-updated": "5/3/2021 5:39pm"
   },
   {
     "recipient-name": "Brown County",
@@ -5166,6 +5149,23 @@
     "assistance-email": "",
     "description": "Waukesha County announced a $12 million emergency rental assistance program Friday “to help people experiencing financial hardship to stay in their homes because of the COVID-19 pandemic.”",
     "last-updated": "5/3/2021 6:10pm"
+  },
+  {
+    "recipient-name": "Wisconsin Department of Administration",
+    "name": "Wisconsin",
+    "URL": "https://wiscap.org/wera/",
+    "recipient-type": "State/DC",
+    "state-territory": "WI",
+    "state": "Wisconsin",
+    "locality": "State",
+    "currently-accepting-applications": "",
+    "date-accepting-applications": "",
+    "apply-online": "",
+    "non-ERA-program-URL": "",
+    "assistance-phone-number": "",
+    "assistance-email": "",
+    "description": "WISCAP and its statewide network will be helping to get Wisconsin Emergency Rental Assistance (WERA) to those in need. Please read the Frequently Asked Questions sheet for program guidelines and eligibility. The program will be administered by 14 community agencies",
+    "last-updated": "5/3/2021 5:39pm"
   },
   {
     "recipient-name": "State of Wyoming",

@@ -219,8 +219,13 @@ sup a {
 
 // Program index styles
 .era-program {
+  &__toc {
+    list-style-type: none;
+    padding-left: 0;
+  }
+
   &__section {
-    margin: 60px 0 20px;
+    margin: 60px 0 24px;
   }
 
   &__territory-url,
@@ -236,13 +241,14 @@ sup a {
   &__tribe,
   &__state-url,
   &__territory-url,
-  &__tribe-url {
+  &__tribe-url,
+  &__open-data {
     font-family: "Source Sans Pro", Calibri, sans-serif;
   }
 
   &__territory,
   &__tribe {
-    padding-bottom: 5px;
+    padding-bottom: 4px;
     color: color($theme-color-primary-dark);
   }
 
@@ -253,10 +259,12 @@ sup a {
     text-transform: capitalize;
   }
 
+  &__state-url,
   &__territory-url,
   &__tribe-url,
   &__admin,
-  &__list {
+  &__list,
+  &__status {
     font-size: 1.1em;
     line-height: 160%;
   }
@@ -265,7 +273,19 @@ sup a {
   &__territory-url,
   &__tribe-url {
     margin-top: 0;
+  }
+
+  &__territory-url,
+  &__tribe-url {
     font-weight: normal;
+  }
+
+  &__state-url {
+    font-weight: bold;
+  }
+
+  &__open-data {
+    margin-top: 48px;
   }
 
   &__list {
@@ -274,5 +294,22 @@ sup a {
 
   &__url {
     margin: 0;
+  }
+
+  &__app-status {
+    font-size: 2em;
+    font-weight: bold;
+  }
+
+  &__app-status--accepting {
+    color: color($theme-color-success-dark);
+  }
+
+  &__app-status--will-be-accepting {
+    color: color($theme-color-warning-dark);
+  }
+
+  &__app-status--not-accepting {
+    color: color($theme-color-error-dark);
   }
 }

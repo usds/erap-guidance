@@ -26857,7 +26857,7 @@ input[type=search]{
   font-size:24px;
   line-height:115%;
   padding-bottom:30px;
-  background-image:url(assets/img/h1-underline.png);
+  background-image:url(../img/h1-underline.png);
   background-repeat:no-repeat;
   background-position:left bottom;
   color:#393b3e;
@@ -26993,36 +26993,61 @@ sup a{
   background-color:#fff;
 }
 
+.era-program__toc{
+  list-style-type:none;
+  padding-left:0;
+}
 .era-program__section{
-  margin:60px 0 20px;
+  margin:60px 0 24px;
 }
 .era-program__territory-url, .era-program__tribe-url, .era-program__state-url{
   margin:8px 0;
   padding:0;
 }
-.era-program__name, .era-program__admin, .era-program__territory, .era-program__tribe, .era-program__state-url, .era-program__territory-url, .era-program__tribe-url{
+.era-program__name, .era-program__admin, .era-program__territory, .era-program__tribe, .era-program__state-url, .era-program__territory-url, .era-program__tribe-url, .era-program__open-data{
   font-family:"Source Sans Pro", Calibri, sans-serif;
 }
 .era-program__territory, .era-program__tribe{
-  padding-bottom:5px;
+  padding-bottom:4px;
   color:#1a4480;
 }
 .era-program__name, .era-program__admin, .era-program__territory, .era-program__tribe{
   text-transform:capitalize;
 }
-.era-program__territory-url, .era-program__tribe-url, .era-program__admin, .era-program__list{
+.era-program__state-url, .era-program__territory-url, .era-program__tribe-url, .era-program__admin, .era-program__list, .era-program__status{
   font-size:1.1em;
   line-height:160%;
 }
 .era-program__state-url, .era-program__territory-url, .era-program__tribe-url{
   margin-top:0;
+}
+.era-program__territory-url, .era-program__tribe-url{
   font-weight:normal;
+}
+.era-program__state-url{
+  font-weight:bold;
+}
+.era-program__open-data{
+  margin-top:48px;
 }
 .era-program__list{
   margin-bottom:16px;
 }
 .era-program__url{
   margin:0;
+}
+.era-program__app-status{
+  font-size:2em;
+  font-weight:bold;
+}
+.era-program__app-status--accepting{
+  color:#4d8055;
+}
+.era-program__app-status--will-be-accepting{
+  color:#e5a000;
+}
+.era-program__app-status--not-accepting{
+  color:#b50909;
 }
 
 @media (min-width: 1025px){
@@ -27623,7 +27648,7 @@ div.site-branding a.logo .treasury-logo{
   }
 
   .nav-item.mega-search #mega-search-link{
-    background:url(assets/img/search-icon.svg) 0 4px no-repeat;
+    background:url(../img/search-icon.svg) 0 4px no-repeat;
     display:inline-block;
     position:relative;
     top:0;
@@ -28560,7 +28585,7 @@ ul.quik li > a.quick-link.active, ul.quik li > a.quick-link.active:hover, ul.qui
   margin-right:4px;
   position:relative;
   top:1px;
-  background:url(/themes/custom/hamilton/sass/components/images/calendar-icon.svg) no-repeat;
+  background:url(../img/calendar-icon.svg) no-repeat;
 }
 
 @media (max-width: 767px){
