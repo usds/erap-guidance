@@ -7,13 +7,9 @@
     "state-territory": "NY",
     "state": "New York",
     "locality": "Tribe or TDHE",
-    "currently-accepting-applications": "True",
-    "date-accepting-applications": "",
-    "apply-online": "False",
     "non-ERA-program-URL": "",
     "assistance-phone-number": "",
     "assistance-email": "",
-    "description": "",
     "last-updated": "5/7/2021 4:10pm"
   },
   {
@@ -24,13 +20,9 @@
     "state-territory": "AK",
     "state": "Alaska",
     "locality": "Tribe or TDHE",
-    "currently-accepting-applications": "True",
-    "date-accepting-applications": "",
-    "apply-online": "False",
     "non-ERA-program-URL": "",
     "assistance-phone-number": "",
     "assistance-email": "",
-    "description": "",
     "last-updated": "5/7/2021 12:58pm"
   },
   {
@@ -41,13 +33,9 @@
     "state-territory": "CA",
     "state": "California",
     "locality": "Tribe or TDHE",
-    "currently-accepting-applications": "False",
-    "date-accepting-applications": "",
-    "apply-online": "",
     "non-ERA-program-URL": "",
     "assistance-phone-number": "",
     "assistance-email": "",
-    "description": "",
     "last-updated": "5/7/2021 3:45pm"
   },
   {
@@ -58,13 +46,9 @@
     "state-territory": "AK",
     "state": "Alaska",
     "locality": "Tribe or TDHE",
-    "currently-accepting-applications": "False",
-    "date-accepting-applications": "",
-    "apply-online": "True",
-    "non-ERA-program-URL": "",
+    "non-ERA-program-URL": "General rent or utility assistance",
     "assistance-phone-number": "(833) 440-0420",
     "assistance-email": "",
-    "description": "",
     "last-updated": "5/5/2021 10:29am"
   },
   {
@@ -75,13 +59,9 @@
     "state-territory": "WI",
     "state": "Wisconsin",
     "locality": "Tribe or TDHE",
-    "currently-accepting-applications": "",
-    "date-accepting-applications": "",
-    "apply-online": "",
     "non-ERA-program-URL": "",
     "assistance-phone-number": "",
     "assistance-email": "",
-    "description": "The Bad River Housing Authority ERAP offers financial relief to help home-renters pay their rent and utilities during the COVID-19 Pandemic. Applicants who receive relief funds can use it to pay past due and current rent / utility bills.",
     "last-updated": "5/4/2021 2:59pm"
   },
   {
@@ -92,13 +72,9 @@
     "state-territory": "OK",
     "state": "Oklahoma",
     "locality": "Tribe or TDHE",
-    "currently-accepting-applications": "True",
-    "date-accepting-applications": "",
-    "apply-online": "False",
     "non-ERA-program-URL": "",
     "assistance-phone-number": "(405) 547-2402",
     "assistance-email": "",
-    "description": "",
     "last-updated": "5/7/2021 5:35pm"
   },
   {
@@ -109,13 +85,9 @@
     "state-territory": "AK",
     "state": "Alaska",
     "locality": "Tribe or TDHE",
-    "currently-accepting-applications": "",
-    "date-accepting-applications": "",
-    "apply-online": "",
     "non-ERA-program-URL": "",
     "assistance-phone-number": "",
     "assistance-email": "",
-    "description": "",
     "last-updated": "5/7/2021 12:41pm"
   },
   {
@@ -126,13 +98,9 @@
     "state-territory": "MT",
     "state": "Montana",
     "locality": "Tribe or TDHE",
-    "currently-accepting-applications": "",
-    "date-accepting-applications": "",
-    "apply-online": "",
     "non-ERA-program-URL": "",
     "assistance-phone-number": "",
     "assistance-email": "",
-    "description": "",
     "last-updated": "5/7/2021 12:37pm"
   },
   {
@@ -143,13 +111,9 @@
     "state-territory": "AK",
     "state": "Alaska",
     "locality": "Tribe or TDHE",
-    "currently-accepting-applications": "",
-    "date-accepting-applications": "",
-    "apply-online": "False",
     "non-ERA-program-URL": "",
     "assistance-phone-number": "",
     "assistance-email": "",
-    "description": "",
     "last-updated": "5/7/2021 12:53pm"
   },
   {
@@ -160,13 +124,9 @@
     "state-territory": "WA",
     "state": "Washington ",
     "locality": "Tribe or TDHE",
-    "currently-accepting-applications": "",
-    "date-accepting-applications": "",
-    "apply-online": "False",
     "non-ERA-program-URL": "",
     "assistance-phone-number": "",
     "assistance-email": "",
-    "description": "",
     "last-updated": "5/7/2021 1:12pm"
   },
   {
@@ -177,13 +137,9 @@
     "state-territory": "OK",
     "state": "Oklahoma",
     "locality": "Tribe or TDHE",
-    "currently-accepting-applications": "False",
-    "date-accepting-applications": "",
-    "apply-online": "False",
     "non-ERA-program-URL": "NAHASDA",
     "assistance-phone-number": "(918) 453-5422",
     "assistance-email": "human_services@cherokee.org",
-    "description": "",
     "last-updated": "5/4/2021 8:25pm"
   },
   {
@@ -194,13 +150,9 @@
     "state-territory": "OK",
     "state": "Oklahoma",
     "locality": "Tribe or TDHE",
-    "currently-accepting-applications": "",
-    "date-accepting-applications": "",
-    "apply-online": "",
     "non-ERA-program-URL": "CDBG",
     "assistance-phone-number": "",
     "assistance-email": "",
-    "description": "",
     "last-updated": "5/7/2021 3:10pm"
   },
   {
@@ -211,13 +163,9 @@
     "state-territory": "SD",
     "state": "South Dakota",
     "locality": "Tribe or TDHE",
-    "currently-accepting-applications": "",
-    "date-accepting-applications": "",
-    "apply-online": "",
     "non-ERA-program-URL": "",
     "assistance-phone-number": "",
     "assistance-email": "",
-    "description": "",
     "last-updated": "5/7/2021 12:46pm"
   },
   {
@@ -228,13 +176,9 @@
     "state-territory": "OK",
     "state": "Oklahoma",
     "locality": "Tribe or TDHE",
-    "currently-accepting-applications": "True",
-    "date-accepting-applications": "",
-    "apply-online": "True",
     "non-ERA-program-URL": "",
     "assistance-phone-number": "(888) 895-7979",
     "assistance-email": "ERAP@Chickasaw.net",
-    "description": "",
     "last-updated": "5/5/2021 9:23am"
   },
   {
@@ -245,13 +189,9 @@
     "state-territory": "MT",
     "state": "Montana",
     "locality": "Tribe or TDHE",
-    "currently-accepting-applications": "",
-    "date-accepting-applications": "",
-    "apply-online": "",
     "non-ERA-program-URL": "",
     "assistance-phone-number": "395-4370",
     "assistance-email": "",
-    "description": "",
     "last-updated": "5/7/2021 2:28pm"
   },
   {
@@ -262,13 +202,9 @@
     "state-territory": "AL",
     "state": "Alabama",
     "locality": "Tribe or TDHE",
-    "currently-accepting-applications": "",
-    "date-accepting-applications": "",
-    "apply-online": "",
     "non-ERA-program-URL": "",
     "assistance-phone-number": "",
     "assistance-email": "",
-    "description": "MoWa Choctaw Housing Authority is a tribally designated housing entity established to access, construct, and manage housing for tribal members. The Mowa Choctaw Housing Authority operates and maintains an affordable, safe, and decent rental housing and home ownership program within the counties of Mobile and Washington.  MCHA staff is available to assist with completing an application in our office in Mt. Vernon, AL.",
     "last-updated": "5/4/2021 2:59pm"
   },
   {
@@ -279,13 +215,9 @@
     "state-territory": "OK",
     "state": "Oklahoma",
     "locality": "Tribe or TDHE",
-    "currently-accepting-applications": "True",
-    "date-accepting-applications": "",
-    "apply-online": "True",
     "non-ERA-program-URL": "",
     "assistance-phone-number": "(800) 235-3087",
     "assistance-email": "erap@choctawnation.com",
-    "description": "",
     "last-updated": "5/5/2021 9:27am"
   },
   {
@@ -296,13 +228,9 @@
     "state-territory": "OK",
     "state": "Oklahoma",
     "locality": "Tribe or TDHE",
-    "currently-accepting-applications": "",
-    "date-accepting-applications": "",
-    "apply-online": "False",
     "non-ERA-program-URL": "",
     "assistance-phone-number": "",
     "assistance-email": "",
-    "description": "",
     "last-updated": "5/7/2021 3:05pm"
   },
   {
@@ -313,13 +241,9 @@
     "state-territory": "NC",
     "state": "North Carolina",
     "locality": "Tribe or TDHE",
-    "currently-accepting-applications": "",
-    "date-accepting-applications": "",
-    "apply-online": "",
     "non-ERA-program-URL": "",
     "assistance-phone-number": "",
     "assistance-email": "",
-    "description": "CITC is now accepting Emergency Rental Assistance applications from Coharie Tribal member renters who qualify.   Applications are available below and onsite on the breezeway in the big black mailbox.  Information can be dropped off at the Coharie Tribal Center in the big black mailbox or emailed back to Katherine Simmons Alonso at the following email address: cohariendn@yahoo.com",
     "last-updated": "5/4/2021 2:59pm"
   },
   {
@@ -330,13 +254,9 @@
     "state-territory": "WA",
     "state": "Washington ",
     "locality": "Tribe or TDHE",
-    "currently-accepting-applications": "",
-    "date-accepting-applications": "",
-    "apply-online": "",
     "non-ERA-program-URL": "",
     "assistance-phone-number": "",
     "assistance-email": "",
-    "description": "The purpose of the program is to provide financial assistance for rent/utilities to Indian families who are in immediate need due to the COVID-19 pandemic. Applicant must reside in the CIHA Service Area:\n(Enrolled Colville Tribal Members encouraged to apply regardless of location): CCT Reservation and Off-Reservation Trust Land Chelan County, Perry County, Okanogan County, Douglas County, and Stevens County",
     "last-updated": "5/4/2021 2:59pm"
   },
   {
@@ -347,13 +267,9 @@
     "state-territory": "OK",
     "state": "Oklahoma",
     "locality": "Tribe or TDHE",
-    "currently-accepting-applications": "True",
-    "date-accepting-applications": "",
-    "apply-online": "True",
     "non-ERA-program-URL": "",
     "assistance-phone-number": "",
     "assistance-email": "",
-    "description": "",
     "last-updated": "5/7/2021 3:07pm"
   },
   {
@@ -364,13 +280,9 @@
     "state-territory": "OR",
     "state": "Oregon",
     "locality": "Tribe or TDHE",
-    "currently-accepting-applications": "",
-    "date-accepting-applications": "",
-    "apply-online": "",
     "non-ERA-program-URL": "General rent or utility assistance",
     "assistance-phone-number": "",
     "assistance-email": "",
-    "description": "",
     "last-updated": "5/7/2021 2:04pm"
   },
   {
@@ -381,13 +293,9 @@
     "state-territory": "OR",
     "state": "Oregon",
     "locality": "Tribe or TDHE",
-    "currently-accepting-applications": "",
-    "date-accepting-applications": "",
-    "apply-online": "",
     "non-ERA-program-URL": "",
     "assistance-phone-number": "",
     "assistance-email": "",
-    "description": "Corrected link",
     "last-updated": "5/4/2021 2:59pm"
   },
   {
@@ -398,14 +306,10 @@
     "state-territory": "AK",
     "state": "Alaska",
     "locality": "Tribe or TDHE",
-    "currently-accepting-applications": "False",
-    "date-accepting-applications": "",
-    "apply-online": "False",
     "non-ERA-program-URL": "",
     "assistance-phone-number": "(907) 793-3394",
     "assistance-email": "elg@citci.org",
-    "description": "",
-    "last-updated": "5/5/2021 10:30am"
+    "last-updated": "5/10/2021 10:17am"
   },
   {
     "recipient-name": "Copper River Basin Regional Housing Authority",
@@ -415,13 +319,9 @@
     "state-territory": "AK",
     "state": "Alaska",
     "locality": "Tribe or TDHE",
-    "currently-accepting-applications": "True",
-    "date-accepting-applications": "",
-    "apply-online": "False",
     "non-ERA-program-URL": "",
     "assistance-phone-number": "(907) 822-3633",
     "assistance-email": "",
-    "description": "",
     "last-updated": "5/7/2021 3:32pm"
   },
   {
@@ -432,13 +332,9 @@
     "state-territory": "OR",
     "state": "Oregon",
     "locality": "Tribe or TDHE",
-    "currently-accepting-applications": "",
-    "date-accepting-applications": "",
-    "apply-online": "",
     "non-ERA-program-URL": "",
     "assistance-phone-number": "",
     "assistance-email": "",
-    "description": "Corrected link",
     "last-updated": "5/4/2021 2:59pm"
   },
   {
@@ -449,13 +345,9 @@
     "state-territory": "OK",
     "state": "Oklahoma",
     "locality": "Tribe or TDHE",
-    "currently-accepting-applications": "True",
-    "date-accepting-applications": "",
-    "apply-online": "False",
     "non-ERA-program-URL": "",
     "assistance-phone-number": "(405) 247-2448",
     "assistance-email": "",
-    "description": "",
     "last-updated": "5/4/2021 1:50pm"
   },
   {
@@ -466,13 +358,9 @@
     "state-territory": "NV",
     "state": "Nevada",
     "locality": "Tribe or TDHE",
-    "currently-accepting-applications": "True",
-    "date-accepting-applications": "",
-    "apply-online": "True",
     "non-ERA-program-URL": "",
     "assistance-phone-number": "",
     "assistance-email": "",
-    "description": "",
     "last-updated": "5/7/2021 1:00pm"
   },
   {
@@ -483,13 +371,9 @@
     "state-territory": "NC",
     "state": "North Carolina",
     "locality": "Tribe or TDHE",
-    "currently-accepting-applications": "",
-    "date-accepting-applications": "",
-    "apply-online": "",
     "non-ERA-program-URL": "",
     "assistance-phone-number": "",
     "assistance-email": "",
-    "description": "Members of the Eastern Band of Cherokee Indians (EBCI) who meet the income guidelines will be eligible for rental assistance thanks to a grant the Tribe recently recently from the U.S. Department of the Treasury Emergency Rental Assistance Program (ERAP).  The program is intended to serve low-income families that are 80 percent of the median income in whichever county they live in",
     "last-updated": "5/4/2021 2:59pm"
   },
   {
@@ -500,13 +384,9 @@
     "state-territory": "OK",
     "state": "Oklahoma",
     "locality": "Tribe or TDHE",
-    "currently-accepting-applications": "True",
-    "date-accepting-applications": "",
-    "apply-online": "False",
     "non-ERA-program-URL": "",
     "assistance-phone-number": "",
     "assistance-email": "",
-    "description": "",
     "last-updated": "5/7/2021 6:00pm"
   },
   {
@@ -517,14 +397,10 @@
     "state-territory": "WY",
     "state": "Wyoming",
     "locality": "Tribe or TDHE",
-    "currently-accepting-applications": "",
-    "date-accepting-applications": "",
-    "apply-online": "",
     "non-ERA-program-URL": "",
     "assistance-phone-number": "",
     "assistance-email": "",
-    "description": "The U.S. Department of Treasury awarded the Eastern Shoshone Tribe $1.8M for an Emergency Rental Assistance Program (ERA). This will provide rent and utility assistance for families affected by the pandemic. Application available on Facebook page, dated March 17th",
-    "last-updated": "5/4/2021 2:59pm"
+    "last-updated": "5/10/2021 10:28am"
   },
   {
     "recipient-name": "Enterprise Rancheria Indian Housing Authority",
@@ -534,13 +410,9 @@
     "state-territory": "CA",
     "state": "California",
     "locality": "Tribe or TDHE",
-    "currently-accepting-applications": "",
-    "date-accepting-applications": "",
-    "apply-online": "",
     "non-ERA-program-URL": "",
     "assistance-phone-number": "",
     "assistance-email": "",
-    "description": "",
     "last-updated": "5/4/2021 2:59pm"
   },
   {
@@ -551,13 +423,9 @@
     "state-territory": "SD",
     "state": "South Dakota",
     "locality": "Tribe or TDHE",
-    "currently-accepting-applications": "",
-    "date-accepting-applications": "",
-    "apply-online": "",
     "non-ERA-program-URL": "",
     "assistance-phone-number": "",
     "assistance-email": "",
-    "description": "The Flandreau Santee Sioux Tribe is the grantee of an allocation of $496,591.21 to administer\nthe Emergency Rental Assistance Program for the Flandreau Santee Sioux Indian Reservation.\nThe formula for these funds is limited to eligible households who reside within the FSST service\narea, which is Moody County., Corrected link",
     "last-updated": "5/7/2021 6:41pm"
   },
   {
@@ -568,13 +436,9 @@
     "state-territory": "MN",
     "state": "Minnesota",
     "locality": "Tribe or TDHE",
-    "currently-accepting-applications": "True",
-    "date-accepting-applications": "",
-    "apply-online": "False",
     "non-ERA-program-URL": "",
     "assistance-phone-number": "",
     "assistance-email": "",
-    "description": "",
     "last-updated": "5/7/2021 1:01pm"
   },
   {
@@ -585,13 +449,9 @@
     "state-territory": "MT",
     "state": "Montana",
     "locality": "Tribe or TDHE",
-    "currently-accepting-applications": "True",
-    "date-accepting-applications": "",
-    "apply-online": "False",
     "non-ERA-program-URL": "",
     "assistance-phone-number": "",
     "assistance-email": "",
-    "description": "",
     "last-updated": "5/7/2021 3:54pm"
   },
   {
@@ -602,13 +462,9 @@
     "state-territory": "ND",
     "state": "North Dakota",
     "locality": "Tribe or TDHE",
-    "currently-accepting-applications": "",
-    "date-accepting-applications": "",
-    "apply-online": "",
     "non-ERA-program-URL": "",
     "assistance-phone-number": "",
     "assistance-email": "",
-    "description": "",
     "last-updated": "5/7/2021 12:59pm"
   },
   {
@@ -619,13 +475,9 @@
     "state-territory": "MT",
     "state": "Montana",
     "locality": "Tribe or TDHE",
-    "currently-accepting-applications": "",
-    "date-accepting-applications": "",
-    "apply-online": "",
     "non-ERA-program-URL": "",
     "assistance-phone-number": "",
     "assistance-email": "",
-    "description": "",
     "last-updated": "5/7/2021 12:56pm"
   },
   {
@@ -636,13 +488,9 @@
     "state-territory": "AZ",
     "state": "Arizona",
     "locality": "Tribe or TDHE",
-    "currently-accepting-applications": "",
-    "date-accepting-applications": "",
-    "apply-online": "",
     "non-ERA-program-URL": "",
     "assistance-phone-number": "",
     "assistance-email": "",
-    "description": "The Emergency Rental Assistance Program (ERAP) makes available funding to assist households that are unable to pay rent and/or utilities due to the COVID-19 pandemic.",
     "last-updated": "5/3/2021 6:13pm"
   },
   {
@@ -653,13 +501,9 @@
     "state-territory": "MI",
     "state": "Michigan",
     "locality": "Tribe or TDHE",
-    "currently-accepting-applications": "True",
-    "date-accepting-applications": "",
-    "apply-online": "False",
     "non-ERA-program-URL": "",
     "assistance-phone-number": "(231) 534-7800",
     "assistance-email": "",
-    "description": "",
     "last-updated": "5/4/2021 1:37pm"
   },
   {
@@ -670,13 +514,9 @@
     "state-territory": "NC",
     "state": "North Carolina",
     "locality": "Tribe or TDHE",
-    "currently-accepting-applications": "True",
-    "date-accepting-applications": "",
-    "apply-online": "False",
     "non-ERA-program-URL": "",
     "assistance-phone-number": "",
     "assistance-email": "",
-    "description": "",
     "last-updated": "5/7/2021 5:42pm"
   },
   {
@@ -687,13 +527,9 @@
     "state-territory": "WI",
     "state": "Wisconsin",
     "locality": "Tribe or TDHE",
-    "currently-accepting-applications": "",
-    "date-accepting-applications": "",
-    "apply-online": "",
     "non-ERA-program-URL": "",
     "assistance-phone-number": "",
     "assistance-email": "",
-    "description": "HHCDA has new funding available to assist renters with rental arrears, utility arrears, prospective (future) rent. HHCDA offers eligible households assistance with current or late rent, energy or utility bills, and other housing costs dating back to the start of the pandemic. Applicants must be a rental resident who has experienced a significant income loss or costs due directly or indirectly to COVID-19, is at risk of experiencing homelessness or housing instability, and has a household income at or below 80% of the area median income.",
     "last-updated": "5/4/2021 2:59pm"
   },
   {
@@ -704,13 +540,9 @@
     "state-territory": "CA",
     "state": "California",
     "locality": "Tribe or TDHE",
-    "currently-accepting-applications": "",
-    "date-accepting-applications": "",
-    "apply-online": "",
     "non-ERA-program-URL": "",
     "assistance-phone-number": "",
     "assistance-email": "",
-    "description": "",
     "last-updated": "5/4/2021 2:59pm"
   },
   {
@@ -721,13 +553,9 @@
     "state-territory": "AZ",
     "state": "Arizona",
     "locality": "Tribe or TDHE",
-    "currently-accepting-applications": "",
-    "date-accepting-applications": "",
-    "apply-online": "",
     "non-ERA-program-URL": "",
     "assistance-phone-number": "",
     "assistance-email": "",
-    "description": "",
     "last-updated": "5/7/2021 12:38pm"
   },
   {
@@ -738,13 +566,9 @@
     "state-territory": "OK",
     "state": "Oklahoma",
     "locality": "Tribe or TDHE",
-    "currently-accepting-applications": "True",
-    "date-accepting-applications": "",
-    "apply-online": "False",
     "non-ERA-program-URL": "",
     "assistance-phone-number": "",
     "assistance-email": "",
-    "description": "",
     "last-updated": "5/7/2021 3:41pm"
   },
   {
@@ -755,13 +579,9 @@
     "state-territory": "AK",
     "state": "Alaska",
     "locality": "Tribe or TDHE",
-    "currently-accepting-applications": "True",
-    "date-accepting-applications": "5/4/2021",
-    "apply-online": "True",
     "non-ERA-program-URL": "",
     "assistance-phone-number": "",
     "assistance-email": "",
-    "description": "",
     "last-updated": "5/7/2021 10:24am"
   },
   {
@@ -772,31 +592,23 @@
     "state-territory": "CA",
     "state": "California",
     "locality": "Tribe or TDHE",
-    "currently-accepting-applications": "",
-    "date-accepting-applications": "",
-    "apply-online": "",
     "non-ERA-program-URL": "",
     "assistance-phone-number": "",
     "assistance-email": "",
-    "description": "The Karuk Tribe Housing Authority (KTHA) is happy to announce that funding has been received to provide an Emergency Rental Assistance Program (ERAP) for the payment of rents and utilities, including past due amounts, to eligible households, who are experiencing financial hardships due to the Covid-19 Pandemic. This has been a financially difficult time for all of us, and KTHA is happy to help families get back on their feet!",
     "last-updated": "5/4/2021 2:59pm"
   },
   {
     "recipient-name": "Kashia Band of Pomo Indians",
     "name": "Kashia Band of Pomo Indians",
-    "URL": "www.stewartspoint.org",
+    "URL": "https://www.stewartspoint.org/",
     "recipient-type": "Indian Tribe or Tribally Designated Housing Entity",
     "state-territory": "CA",
     "state": "California",
     "locality": "Tribe or TDHE",
-    "currently-accepting-applications": "False",
-    "date-accepting-applications": "",
-    "apply-online": "False",
     "non-ERA-program-URL": "",
     "assistance-phone-number": "",
     "assistance-email": "",
-    "description": "",
-    "last-updated": "5/4/2021 1:48pm"
+    "last-updated": "5/10/2021 2:22pm"
   },
   {
     "recipient-name": "Kenaitze-Salamatoff TDHE",
@@ -806,13 +618,9 @@
     "state-territory": "AK",
     "state": "Alaska",
     "locality": "Tribe or TDHE",
-    "currently-accepting-applications": "True",
-    "date-accepting-applications": "",
-    "apply-online": "False",
     "non-ERA-program-URL": "",
     "assistance-phone-number": "(907) 335-7231",
     "assistance-email": "housing@kenaitze.org",
-    "description": "",
     "last-updated": "5/4/2021 1:44pm"
   },
   {
@@ -823,13 +631,9 @@
     "state-territory": "OK",
     "state": "Oklahoma",
     "locality": "Tribe or TDHE",
-    "currently-accepting-applications": "",
-    "date-accepting-applications": "",
-    "apply-online": "",
     "non-ERA-program-URL": "",
     "assistance-phone-number": "",
     "assistance-email": "",
-    "description": "The purpose of the ERA Program is to provide emergency rental assistance for the payment of rents and utilities, and arrearages for the same, for low-income Tribal households who have disproportionately suffered from the impacts of the COVID-19 pandemic.",
     "last-updated": "5/7/2021 9:57am"
   },
   {
@@ -840,13 +644,9 @@
     "state-territory": "AK",
     "state": "Alaska",
     "locality": "Tribe or TDHE",
-    "currently-accepting-applications": "",
-    "date-accepting-applications": "",
-    "apply-online": "",
     "non-ERA-program-URL": "",
     "assistance-phone-number": "",
     "assistance-email": "",
-    "description": "",
     "last-updated": "5/7/2021 12:58pm"
   },
   {
@@ -857,13 +657,9 @@
     "state-territory": "WI",
     "state": "Wisconsin",
     "locality": "Tribe or TDHE",
-    "currently-accepting-applications": "False",
-    "date-accepting-applications": "",
-    "apply-online": "False",
     "non-ERA-program-URL": "",
     "assistance-phone-number": "",
     "assistance-email": "",
-    "description": "",
     "last-updated": "5/7/2021 3:33pm"
   },
   {
@@ -874,13 +670,9 @@
     "state-territory": "MI",
     "state": "Michigan",
     "locality": "Tribe or TDHE",
-    "currently-accepting-applications": "True",
-    "date-accepting-applications": "",
-    "apply-online": "False",
     "non-ERA-program-URL": "",
     "assistance-phone-number": "(906) 358-4577 ext. 4199",
     "assistance-email": "bruce.lapointe@lvd-nsn.gov",
-    "description": "",
     "last-updated": "5/7/2021 2:25pm"
   },
   {
@@ -891,13 +683,9 @@
     "state-territory": "MN",
     "state": "Minnesota",
     "locality": "Tribe or TDHE",
-    "currently-accepting-applications": "True",
-    "date-accepting-applications": "",
-    "apply-online": "False",
     "non-ERA-program-URL": "",
     "assistance-phone-number": "",
     "assistance-email": "",
-    "description": "",
     "last-updated": "5/7/2021 1:00pm"
   },
   {
@@ -908,13 +696,9 @@
     "state-territory": "MT",
     "state": "Montana",
     "locality": "Tribe or TDHE",
-    "currently-accepting-applications": "True",
-    "date-accepting-applications": "",
-    "apply-online": "False",
     "non-ERA-program-URL": "",
     "assistance-phone-number": "",
     "assistance-email": "",
-    "description": "",
     "last-updated": "5/7/2021 1:01pm"
   },
   {
@@ -925,13 +709,9 @@
     "state-territory": "SD",
     "state": "South Dakota",
     "locality": "Tribe or TDHE",
-    "currently-accepting-applications": "",
-    "date-accepting-applications": "",
-    "apply-online": "",
     "non-ERA-program-URL": "",
     "assistance-phone-number": "",
     "assistance-email": "",
-    "description": "the Lower Brule Housing  has funding available for rent & utility assistance for families impacted either directly or indirectly by COVID 19? Yes, we do. It’s a new short-term program. The funds can assist low income families (at or below the 80% medium income guidelines) in paying  monthly rent & utilities. It includes payment of back rent up to 3/13/2020. Contact Lori or Tiauna (605-473-5522 or 5523) to see if you qualify for assistance.",
     "last-updated": "5/4/2021 2:59pm"
   },
   {
@@ -942,13 +722,9 @@
     "state-territory": "NC",
     "state": "North Carolina",
     "locality": "Tribe or TDHE",
-    "currently-accepting-applications": "",
-    "date-accepting-applications": "",
-    "apply-online": "",
     "non-ERA-program-URL": "",
     "assistance-phone-number": "",
     "assistance-email": "",
-    "description": "The Rental Pandemic Relief Program (RPRP) is available to all tribal member who reside within the Lumbee tribal territory, throughout the United States, territories, and District of Columbia.",
     "last-updated": "5/3/2021 6:04pm"
   },
   {
@@ -959,13 +735,9 @@
     "state-territory": "WA",
     "state": "Washington ",
     "locality": "Tribe or TDHE",
-    "currently-accepting-applications": "True",
-    "date-accepting-applications": "",
-    "apply-online": "False",
     "non-ERA-program-URL": "",
     "assistance-phone-number": "",
     "assistance-email": "",
-    "description": "",
     "last-updated": "5/7/2021 1:28pm"
   },
   {
@@ -976,14 +748,10 @@
     "state-territory": "WI",
     "state": "Wisconsin",
     "locality": "Tribe or TDHE",
-    "currently-accepting-applications": "True",
-    "date-accepting-applications": "",
-    "apply-online": "False",
     "non-ERA-program-URL": "",
     "assistance-phone-number": "(715) 799-3236 ext 1532",
     "assistance-email": "",
-    "description": "",
-    "last-updated": "5/7/2021 2:20pm"
+    "last-updated": "5/10/2021 10:29am"
   },
   {
     "recipient-name": "Monacan Indian Nation",
@@ -993,13 +761,9 @@
     "state-territory": "VA",
     "state": "Virginia",
     "locality": "Tribe or TDHE",
-    "currently-accepting-applications": "",
-    "date-accepting-applications": "",
-    "apply-online": "",
     "non-ERA-program-URL": "",
     "assistance-phone-number": "",
     "assistance-email": "",
-    "description": "The assistance is on a first come, first serve basis to those who qualify (non-Native Americans as well) and affected by COVID-19. The aid is to provide relief for those behind in rent, utilities, etc. For applications visit Monacannation.com and schedule an appointment by calling (434) 363-4864. Applications also are available at the tribe’s office at 111 Highview Dr., Madison Heights.",
     "last-updated": "5/4/2021 2:59pm"
   },
   {
@@ -1010,13 +774,9 @@
     "state-territory": "OK",
     "state": "Oklahoma",
     "locality": "Tribe or TDHE",
-    "currently-accepting-applications": "True",
-    "date-accepting-applications": "",
-    "apply-online": "True",
     "non-ERA-program-URL": "",
     "assistance-phone-number": "",
     "assistance-email": "",
-    "description": "",
     "last-updated": "5/5/2021 9:14am"
   },
   {
@@ -1027,13 +787,9 @@
     "state-territory": "RI",
     "state": "Rhode Island",
     "locality": "Tribe or TDHE",
-    "currently-accepting-applications": "",
-    "date-accepting-applications": "",
-    "apply-online": "False",
     "non-ERA-program-URL": "",
     "assistance-phone-number": "",
     "assistance-email": "",
-    "description": "",
     "last-updated": "5/7/2021 6:15pm"
   },
   {
@@ -1044,13 +800,9 @@
     "state-territory": "AZ",
     "state": "Arizona",
     "locality": "Tribe or TDHE",
-    "currently-accepting-applications": "",
-    "date-accepting-applications": "",
-    "apply-online": "",
     "non-ERA-program-URL": "",
     "assistance-phone-number": "",
     "assistance-email": "",
-    "description": "The Navajo Housing Authority, the Tribally Designated Housing Entity for the Navajo Nation is a recipient of the Emergency Rental Assistance Program grant in the amount of $93 million.",
     "last-updated": "5/3/2021 5:49pm"
   },
   {
@@ -1061,13 +813,9 @@
     "state-territory": "AK",
     "state": "Alaska",
     "locality": "Tribe or TDHE",
-    "currently-accepting-applications": "",
-    "date-accepting-applications": "",
-    "apply-online": "",
     "non-ERA-program-URL": "General rent or utility assistance",
     "assistance-phone-number": "",
     "assistance-email": "",
-    "description": "",
     "last-updated": "5/7/2021 2:11pm"
   },
   {
@@ -1078,13 +826,9 @@
     "state-territory": "WY",
     "state": "Wyoming",
     "locality": "Tribe or TDHE",
-    "currently-accepting-applications": "",
-    "date-accepting-applications": "",
-    "apply-online": "",
     "non-ERA-program-URL": "",
     "assistance-phone-number": "",
     "assistance-email": "",
-    "description": "The Northern Arapaho Tribal Housing Program was allocated 2.6 million dollars to assist households that are unable to pay rent and utilities due to the COVID-19 pandemic. The ERA Program must be used for unpaid rent and utility bills for rental households only. Eligible utilities are: electricity, gas,water and home energy costs only. The ERA Program is a temporary program under the Northern Arapaho Tribal Housing. Individuals – native or non – in rental households located on the Wind River Indian Reservation, Wyoming and Wind River Tribal members that reside out-of-state are eligible for assistance through The ERA Program.",
     "last-updated": "5/4/2021 2:59pm"
   },
   {
@@ -1095,13 +839,9 @@
     "state-territory": "CA",
     "state": "California",
     "locality": "Tribe or TDHE",
-    "currently-accepting-applications": "True",
-    "date-accepting-applications": "",
-    "apply-online": "True",
     "non-ERA-program-URL": "",
     "assistance-phone-number": "(707) 468 – 1336",
     "assistance-email": "",
-    "description": "",
     "last-updated": "5/4/2021 1:27pm"
   },
   {
@@ -1112,13 +852,9 @@
     "state-territory": "NE",
     "state": "Nebraska",
     "locality": "Tribe or TDHE",
-    "currently-accepting-applications": "True",
-    "date-accepting-applications": "",
-    "apply-online": "True",
     "non-ERA-program-URL": "",
     "assistance-phone-number": "",
     "assistance-email": "",
-    "description": "",
     "last-updated": "5/4/2021 1:33pm"
   },
   {
@@ -1129,13 +865,9 @@
     "state-territory": "AK",
     "state": "Alaska",
     "locality": "Tribe or TDHE",
-    "currently-accepting-applications": "",
-    "date-accepting-applications": "",
-    "apply-online": "False",
-    "non-ERA-program-URL": "",
+    "non-ERA-program-URL": "General rent or utility assistance",
     "assistance-phone-number": "",
     "assistance-email": "",
-    "description": "",
     "last-updated": "5/7/2021 12:48pm"
   },
   {
@@ -1146,13 +878,9 @@
     "state-territory": "UT",
     "state": "Utah",
     "locality": "Tribe or TDHE",
-    "currently-accepting-applications": "True",
-    "date-accepting-applications": "",
-    "apply-online": "False",
     "non-ERA-program-URL": "",
     "assistance-phone-number": "(435) 734-2286",
     "assistance-email": "hcrill@nwbshoshone.com ",
-    "description": "",
     "last-updated": "5/7/2021 5:13pm"
   },
   {
@@ -1163,13 +891,9 @@
     "state-territory": "SD",
     "state": "South Dakota",
     "locality": "Tribe or TDHE",
-    "currently-accepting-applications": "",
-    "date-accepting-applications": "",
-    "apply-online": "",
     "non-ERA-program-URL": "",
     "assistance-phone-number": "",
     "assistance-email": "",
-    "description": "If you are the head of household (HOH) living on the Pine Ridge Indian Reservation and have an emergency need for rental or utility assistance, you may be eligible for financial relief.",
     "last-updated": "5/3/2021 6:08pm"
   },
   {
@@ -1180,13 +904,9 @@
     "state-territory": "WI",
     "state": "Wisconsin",
     "locality": "Tribe or TDHE",
-    "currently-accepting-applications": "",
-    "date-accepting-applications": "",
-    "apply-online": "",
     "non-ERA-program-URL": "",
     "assistance-phone-number": "",
     "assistance-email": "",
-    "description": "Oneida Nation provide rent/utility assistance for the following: An enrolled Oneida Tribal Member or Oneida Descendent living in the United States; Non-Tribal member living within the Oneida reservation boundaries.; Must be 18 years or older with a valid lease; Suffered impacts due to COVID related issue(s); and Income must be below 80% of the median income of their residential county.",
     "last-updated": "5/4/2021 2:59pm"
   },
   {
@@ -1197,13 +917,9 @@
     "state-territory": "OK",
     "state": "Oklahoma",
     "locality": "Tribe or TDHE",
-    "currently-accepting-applications": "True",
-    "date-accepting-applications": "",
-    "apply-online": "False",
     "non-ERA-program-URL": "",
     "assistance-phone-number": "",
     "assistance-email": "",
-    "description": "",
     "last-updated": "5/7/2021 5:12pm"
   },
   {
@@ -1214,13 +930,9 @@
     "state-territory": "AZ",
     "state": "Arizona",
     "locality": "Tribe or TDHE",
-    "currently-accepting-applications": "True",
-    "date-accepting-applications": "",
-    "apply-online": "",
     "non-ERA-program-URL": "",
     "assistance-phone-number": "",
     "assistance-email": "",
-    "description": "",
     "last-updated": "5/7/2021 12:50pm"
   },
   {
@@ -1231,13 +943,9 @@
     "state-territory": "MI",
     "state": "Michigan",
     "locality": "Tribe or TDHE",
-    "currently-accepting-applications": "",
-    "date-accepting-applications": "",
-    "apply-online": "",
     "non-ERA-program-URL": "",
     "assistance-phone-number": "",
     "assistance-email": "",
-    "description": "",
     "last-updated": "5/7/2021 4:16pm"
   },
   {
@@ -1248,13 +956,9 @@
     "state-territory": "OK",
     "state": "Oklahoma",
     "locality": "Tribe or TDHE",
-    "currently-accepting-applications": "",
-    "date-accepting-applications": "",
-    "apply-online": "",
     "non-ERA-program-URL": "",
     "assistance-phone-number": "",
     "assistance-email": "",
-    "description": "The Quapaw Nation Housing Department has been awarded a grant through the Treasury Department for a COVID-19 Emergency Rental Assistance Program. This program makes available funds to assist households that are unable to pay rent and utilities DUE TO THE COVID-19 PANDEMIC. Enrolled Quapaw tribal members will be given first priority. The Service Area for this assistance is: all of Ottawa County and within fifty miles of the tribal administration office in Quapaw into Kansas and Missouri.",
     "last-updated": "5/7/2021 9:57am"
   },
   {
@@ -1265,13 +969,9 @@
     "state-territory": "WA",
     "state": "Washington ",
     "locality": "Tribe or TDHE",
-    "currently-accepting-applications": "",
-    "date-accepting-applications": "",
-    "apply-online": "",
     "non-ERA-program-URL": "TANF",
     "assistance-phone-number": "",
     "assistance-email": "",
-    "description": "",
     "last-updated": "5/7/2021 3:28pm"
   },
   {
@@ -1282,13 +982,9 @@
     "state-territory": "WI",
     "state": "Wisconsin",
     "locality": "Tribe or TDHE",
-    "currently-accepting-applications": "",
-    "date-accepting-applications": "",
-    "apply-online": "",
     "non-ERA-program-URL": "",
     "assistance-phone-number": "",
     "assistance-email": "",
-    "description": "The Red Cliff Emergency Rental Assistance Program offers financial relief to help home-renters pay their rent and utilities during the COVID-19 Pandemic. Applicants who receive relief funds can use it to pay past due and current rent / utility bills.",
     "last-updated": "5/10/2021 9:10am"
   },
   {
@@ -1299,13 +995,9 @@
     "state-territory": "MN",
     "state": "Minnesota",
     "locality": "Tribe or TDHE",
-    "currently-accepting-applications": "",
-    "date-accepting-applications": "",
-    "apply-online": "",
     "non-ERA-program-URL": "",
     "assistance-phone-number": "",
     "assistance-email": "",
-    "description": "The COVID-19 Emergency Rental Assistance provides renters with assistance for the payment of rent costs and/or rental utilities. To qualify, you must be a Red Lake tribal member renting a residential dwelling on or off the Reservation. The application is available online one, accepted on a first-come, first-served basis until funding is eomplete.",
     "last-updated": "5/4/2021 2:59pm"
   },
   {
@@ -1316,13 +1008,9 @@
     "state-territory": "NV",
     "state": "Nevada",
     "locality": "Tribe or TDHE",
-    "currently-accepting-applications": "True",
-    "date-accepting-applications": "",
-    "apply-online": "False",
     "non-ERA-program-URL": "CARES",
     "assistance-phone-number": "",
     "assistance-email": "gmaya@rsic.org",
-    "description": "",
     "last-updated": "5/7/2021 5:12pm"
   },
   {
@@ -1333,13 +1021,9 @@
     "state-territory": "CA",
     "state": "California",
     "locality": "Tribe or TDHE",
-    "currently-accepting-applications": "",
-    "date-accepting-applications": "",
-    "apply-online": "",
     "non-ERA-program-URL": "",
     "assistance-phone-number": "",
     "assistance-email": "",
-    "description": "",
     "last-updated": "5/7/2021 1:03pm"
   },
   {
@@ -1350,48 +1034,36 @@
     "state-territory": "MT",
     "state": "Montana",
     "locality": "Tribe or TDHE",
-    "currently-accepting-applications": "True",
-    "date-accepting-applications": "",
-    "apply-online": "True",
     "non-ERA-program-URL": "",
     "assistance-phone-number": "",
     "assistance-email": "",
-    "description": "",
     "last-updated": "5/7/2021 12:52pm"
   },
   {
     "recipient-name": "Sault Tribe Housing Authority",
     "name": "Sault Tribe",
-    "URL": "www.saulttribe.com",
+    "URL": "https://www.saulttribe.com/",
     "recipient-type": "Indian Tribe or Tribally Designated Housing Entity",
     "state-territory": "MI",
     "state": "Michigan",
     "locality": "Tribe or TDHE",
-    "currently-accepting-applications": "False",
-    "date-accepting-applications": "",
-    "apply-online": "False",
     "non-ERA-program-URL": "",
     "assistance-phone-number": " 800‑794‑4072",
     "assistance-email": "",
-    "description": "",
-    "last-updated": "5/4/2021 1:25pm"
+    "last-updated": "5/10/2021 2:21pm"
   },
   {
     "recipient-name": "Housing Authority of Seminole Nation of Oklahoma",
     "name": "Seminole Nation of Oklahoma",
-    "URL": "www.hasnok.org",
+    "URL": "https://hasnok.org/",
     "recipient-type": "Indian Tribe or Tribally Designated Housing Entity",
     "state-territory": "OK",
     "state": "Oklahoma",
     "locality": "Tribe or TDHE",
-    "currently-accepting-applications": "False",
-    "date-accepting-applications": "",
-    "apply-online": "False",
     "non-ERA-program-URL": "",
     "assistance-phone-number": "(405) 257-6604",
     "assistance-email": "",
-    "description": "",
-    "last-updated": "5/4/2021 1:35pm"
+    "last-updated": "5/10/2021 2:22pm"
   },
   {
     "recipient-name": "Seneca Nation Housing Authority",
@@ -1401,13 +1073,9 @@
     "state-territory": "NY",
     "state": "New York",
     "locality": "Tribe or TDHE",
-    "currently-accepting-applications": "",
-    "date-accepting-applications": "",
-    "apply-online": "",
     "non-ERA-program-URL": "",
     "assistance-phone-number": "",
     "assistance-email": "",
-    "description": "The governing body of the Seneca Nation Housing Authority (SNHA) provides Emergency Rental Assistance (ERA) to low income nation members whose needs cannot be met though the existing housing programs. This program is created to provide ERA funds to be used for rental arrears, rental payments, utilities, and home energy costs to eligible families.",
     "last-updated": "5/4/2021 2:59pm"
   },
   {
@@ -1418,13 +1086,9 @@
     "state-territory": "OK",
     "state": "Oklahoma",
     "locality": "Tribe or TDHE",
-    "currently-accepting-applications": "",
-    "date-accepting-applications": "",
-    "apply-online": "",
     "non-ERA-program-URL": "",
     "assistance-phone-number": "",
     "assistance-email": "",
-    "description": "The program  assists eligible Seneca Cayuga Nation tribal households that are unable to pay rent and utilities (electric, water, gas, sewer, trash removal) due to the COVID-19 pandemic. ERAP can assist eligible households with rental arrearages, utility arrearages, current  rental payments and current utility payments. Telecommunication services (telephone, cable, Internet) delivered to the rental dwelling are not considered to be utilities.",
     "last-updated": "5/7/2021 9:57am"
   },
   {
@@ -1435,13 +1099,9 @@
     "state-territory": "OK",
     "state": "Oklahoma",
     "locality": "Tribe or TDHE",
-    "currently-accepting-applications": "",
-    "date-accepting-applications": "",
-    "apply-online": "",
     "non-ERA-program-URL": "",
     "assistance-phone-number": "",
     "assistance-email": "",
-    "description": "The Emergency Rental Assistance Program (ERAP) assists eligible tribal households that are unable to pay rent and utilities (electric, water, gas, propane, sewer, trash removal) due to the COVID-19 pandemic. ERAP can assist eligible households with rental arrearages, utility arrearages, current rental payments, and current utility payments. Telecommunication services (telephone, cable, Internet) delivered to the rental dwelling are not considered to be utilities.",
     "last-updated": "5/7/2021 9:56am"
   },
   {
@@ -1452,13 +1112,9 @@
     "state-territory": "SD",
     "state": "South Dakota",
     "locality": "Tribe or TDHE",
-    "currently-accepting-applications": "True",
-    "date-accepting-applications": "",
-    "apply-online": "True",
     "non-ERA-program-URL": "",
     "assistance-phone-number": "",
     "assistance-email": "",
-    "description": "",
     "last-updated": "5/7/2021 10:27am"
   },
   {
@@ -1469,13 +1125,9 @@
     "state-territory": "SD",
     "state": "South Dakota",
     "locality": "Tribe or TDHE",
-    "currently-accepting-applications": "",
-    "date-accepting-applications": "",
-    "apply-online": "",
     "non-ERA-program-URL": "",
     "assistance-phone-number": "",
     "assistance-email": "",
-    "description": "",
     "last-updated": "5/7/2021 1:02pm"
   },
   {
@@ -1486,13 +1138,9 @@
     "state-territory": "WA",
     "state": "Washington ",
     "locality": "Tribe or TDHE",
-    "currently-accepting-applications": "",
-    "date-accepting-applications": "",
-    "apply-online": "",
     "non-ERA-program-URL": "",
     "assistance-phone-number": "",
     "assistance-email": "",
-    "description": "The purpose of the program is to provide financial assistance for rent/utilities to Indian families who are in immediate need due to the COVID-19 pandemic: Preference will be given to Spokane Tribal Members and eligible households that include an individual who has been unemployed for the 90 days prior to application for assistance and households with income at or below 50 percent of the area median income.",
     "last-updated": "5/7/2021 6:43pm"
   },
   {
@@ -1503,13 +1151,9 @@
     "state-territory": "WI",
     "state": "Wisconsin",
     "locality": "Tribe or TDHE",
-    "currently-accepting-applications": "",
-    "date-accepting-applications": "",
-    "apply-online": "False",
     "non-ERA-program-URL": "",
     "assistance-phone-number": "",
     "assistance-email": "",
-    "description": "",
     "last-updated": "5/7/2021 6:32pm"
   },
   {
@@ -1520,13 +1164,9 @@
     "state-territory": "ND",
     "state": "North Dakota",
     "locality": "Tribe or TDHE",
-    "currently-accepting-applications": "",
-    "date-accepting-applications": "",
-    "apply-online": "False",
     "non-ERA-program-URL": "",
     "assistance-phone-number": "",
     "assistance-email": "",
-    "description": "",
     "last-updated": "5/7/2021 12:45pm"
   },
   {
@@ -1537,13 +1177,9 @@
     "state-territory": "NV",
     "state": "Nevada",
     "locality": "Tribe or TDHE",
-    "currently-accepting-applications": "True",
-    "date-accepting-applications": "",
-    "apply-online": "False",
     "non-ERA-program-URL": "",
     "assistance-phone-number": "",
     "assistance-email": "austin.newmoon@summitlaketribe.org",
-    "description": "",
     "last-updated": "5/7/2021 4:26pm"
   },
   {
@@ -1554,13 +1190,9 @@
     "state-territory": "AK",
     "state": "Alaska",
     "locality": "Tribe or TDHE",
-    "currently-accepting-applications": "False",
-    "date-accepting-applications": "",
-    "apply-online": "False",
     "non-ERA-program-URL": "",
     "assistance-phone-number": "",
     "assistance-email": "",
-    "description": "",
     "last-updated": "5/7/2021 10:09am"
   },
   {
@@ -1571,13 +1203,9 @@
     "state-territory": "AK",
     "state": "Alaska",
     "locality": "Tribe or TDHE",
-    "currently-accepting-applications": "",
-    "date-accepting-applications": "",
-    "apply-online": "",
     "non-ERA-program-URL": "",
     "assistance-phone-number": "",
     "assistance-email": "",
-    "description": "",
     "last-updated": "5/7/2021 12:33pm"
   },
   {
@@ -1588,13 +1216,9 @@
     "state-territory": "AZ",
     "state": "Arizona",
     "locality": "Tribe or TDHE",
-    "currently-accepting-applications": "True",
-    "date-accepting-applications": "",
-    "apply-online": "False",
     "non-ERA-program-URL": "",
     "assistance-phone-number": "",
     "assistance-email": "",
-    "description": "",
     "last-updated": "5/7/2021 12:57pm"
   },
   {
@@ -1605,13 +1229,9 @@
     "state-territory": "WA",
     "state": "Washington ",
     "locality": "Tribe or TDHE",
-    "currently-accepting-applications": "",
-    "date-accepting-applications": "",
-    "apply-online": "",
     "non-ERA-program-URL": "",
     "assistance-phone-number": "",
     "assistance-email": "",
-    "description": "Tulalip has received COVID funding from the Department of Treasury for households who are renting and experiencing risk of homelessness or housing instability, experiencing COVID-related hardships, and meet the 80% of Average Medium Income (AMI) for Snohomish County. Preference will be given to households that are at or below 50% AMI.",
     "last-updated": "5/4/2021 2:59pm"
   },
   {
@@ -1622,13 +1242,9 @@
     "state-territory": "ND",
     "state": "North Dakota",
     "locality": "Tribe or TDHE",
-    "currently-accepting-applications": "",
-    "date-accepting-applications": "",
-    "apply-online": "",
     "non-ERA-program-URL": "",
     "assistance-phone-number": "",
     "assistance-email": "",
-    "description": "",
     "last-updated": "5/7/2021 12:34pm"
   },
   {
@@ -1639,13 +1255,9 @@
     "state-territory": "NV",
     "state": "Nevada",
     "locality": "Tribe or TDHE",
-    "currently-accepting-applications": "True",
-    "date-accepting-applications": "",
-    "apply-online": "False",
     "non-ERA-program-URL": "",
     "assistance-phone-number": "",
     "assistance-email": "",
-    "description": "",
     "last-updated": "5/7/2021 1:04pm"
   },
   {
@@ -1656,13 +1268,9 @@
     "state-territory": "OR",
     "state": "Oregon",
     "locality": "Tribe or TDHE",
-    "currently-accepting-applications": "",
-    "date-accepting-applications": "",
-    "apply-online": "",
     "non-ERA-program-URL": "",
     "assistance-phone-number": "",
     "assistance-email": "",
-    "description": "The ERA Program provides Financial Assistance to the following Eligible Households who earn 80% or less of the Area Median Income; 1. Tribal Members residing on/off the Reservation 2. Enrolled Tribal Members of any Federally Recognized Tribes residing in Jefferson, Wasco, Hood River, Gilliam, Clackamas, or Marion Counties 3. Any person living within the boundaries of the Reservation regardless of race. This assistance covers: Rent, Utilities, Internet, Communication Devices, Cable/Satellite payments (Arrears dating back to April 1, 2020 and for future use in 3-month increments) to help alleviate the financial hardships endured from loss of income and increased costs due to the COVID-19 pandemic",
     "last-updated": "5/4/2021 2:59pm"
   },
   {
@@ -1673,13 +1281,9 @@
     "state-territory": "NV",
     "state": "Nevada",
     "locality": "Tribe or TDHE",
-    "currently-accepting-applications": "True",
-    "date-accepting-applications": "",
-    "apply-online": "False",
     "non-ERA-program-URL": "CARES",
     "assistance-phone-number": "",
     "assistance-email": "",
-    "description": "",
     "last-updated": "5/7/2021 6:22pm"
   },
   {
@@ -1690,13 +1294,9 @@
     "state-territory": "MN",
     "state": "Minnesota",
     "locality": "Tribe or TDHE",
-    "currently-accepting-applications": "",
-    "date-accepting-applications": "",
-    "apply-online": "",
     "non-ERA-program-URL": "",
     "assistance-phone-number": "",
     "assistance-email": "",
-    "description": "",
     "last-updated": "5/7/2021 1:05pm"
   },
   {
@@ -1707,13 +1307,9 @@
     "state-territory": "AZ",
     "state": "Arizona",
     "locality": "Tribe or TDHE",
-    "currently-accepting-applications": "",
-    "date-accepting-applications": "",
-    "apply-online": "",
     "non-ERA-program-URL": "",
     "assistance-phone-number": "",
     "assistance-email": "",
-    "description": "",
     "last-updated": "5/3/2021 6:15pm"
   },
   {
@@ -1724,13 +1320,9 @@
     "state-territory": "OK",
     "state": "Oklahoma",
     "locality": "Tribe or TDHE",
-    "currently-accepting-applications": "",
-    "date-accepting-applications": "",
-    "apply-online": "",
     "non-ERA-program-URL": "",
     "assistance-phone-number": "",
     "assistance-email": "",
-    "description": "The purpose of the ERA Program is to provide emergency rental assistance for the payment of rents and utilities, and arrearages for the same, for low-income Tribal households who have disproportionately suffered from the impacts of the COVID-19 pandemic.",
     "last-updated": "5/4/2021 2:59pm"
   },
   {
@@ -1741,13 +1333,9 @@
     "state-territory": "OK",
     "state": "Oklahoma",
     "locality": "Tribe or TDHE",
-    "currently-accepting-applications": "",
-    "date-accepting-applications": "",
-    "apply-online": "",
     "non-ERA-program-URL": "",
     "assistance-phone-number": "",
     "assistance-email": "",
-    "description": "The Emergency Rental Assistance Program assists eligible tribal households that are unable to pay rent and utilities (electric, water, and gas) due to the COVID-19 pandemic.  ERA can assist eligible households with rental arrearages, utility arrearages, current rental payments and current utility payments. Telecommunication services (telephone, cable, internet) delivered to the rental dwelling are not considered to be utilities.  This program is only available to rental households and does not apply to households with a mortgage or who currently own their home.",
     "last-updated": "5/7/2021 6:44pm"
   },
   {
@@ -1758,13 +1346,9 @@
     "state-territory": "WA",
     "state": "Washington ",
     "locality": "Tribe or TDHE",
-    "currently-accepting-applications": "",
-    "date-accepting-applications": "",
-    "apply-online": "",
     "non-ERA-program-URL": "",
     "assistance-phone-number": "",
     "assistance-email": "",
-    "description": "The purpose of the ERA program is to provide assistance to low-income tribal members and other Indian Family Households who have suffered from impacts of the COID-19 pandemic Cover retns, utilities, and other Housing costs",
     "last-updated": "5/4/2021 2:58pm"
   },
   {
@@ -1775,13 +1359,9 @@
     "state-territory": "SD",
     "state": "South Dakota",
     "locality": "Tribe or TDHE",
-    "currently-accepting-applications": "True",
-    "date-accepting-applications": "",
-    "apply-online": "True",
     "non-ERA-program-URL": "",
     "assistance-phone-number": "",
     "assistance-email": "",
-    "description": "",
     "last-updated": "5/7/2021 1:31pm"
   },
   {
@@ -1792,13 +1372,9 @@
     "state-territory": "AZ",
     "state": "Arizona",
     "locality": "Tribe or TDHE",
-    "currently-accepting-applications": "",
-    "date-accepting-applications": "",
-    "apply-online": "",
     "non-ERA-program-URL": "",
     "assistance-phone-number": "",
     "assistance-email": "",
-    "description": "The purpose of the Yavapai-Apache Nation COVID-19 Rental Assistance Program is to assist Tribal Member households that are unable to pay rent and utilities due to the COVID-19 pandemic.",
     "last-updated": "5/4/2021 2:59pm"
   },
   {
@@ -1809,13 +1385,9 @@
     "state-territory": "CA",
     "state": "California",
     "locality": "Tribe or TDHE",
-    "currently-accepting-applications": "True",
-    "date-accepting-applications": "",
-    "apply-online": "False",
     "non-ERA-program-URL": "",
     "assistance-phone-number": "",
     "assistance-email": "",
-    "description": "",
     "last-updated": "5/7/2021 12:54pm"
   },
   {
@@ -1826,13 +1398,9 @@
     "state-territory": "NM",
     "state": "New Mexico",
     "locality": "Tribe or TDHE",
-    "currently-accepting-applications": "False",
-    "date-accepting-applications": "",
-    "apply-online": "False",
     "non-ERA-program-URL": "TANF",
     "assistance-phone-number": "",
     "assistance-email": "",
-    "description": "",
     "last-updated": "5/7/2021 12:55pm"
   }
 ]

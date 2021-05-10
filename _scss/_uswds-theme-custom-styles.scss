@@ -228,6 +228,10 @@ sup a {
     margin: 60px 0 24px;
   }
 
+  &__find {
+    margin-top: 1.5em;
+  }
+
   &__territory-url,
   &__tribe-url,
   &__state-url {
@@ -282,6 +286,10 @@ sup a {
 
   &__state-url {
     font-weight: bold;
+  }
+
+  &__state--v1 {
+    margin-top: 40px;
   }
 
   &__open-data {

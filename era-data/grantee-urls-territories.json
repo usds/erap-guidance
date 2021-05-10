@@ -7,13 +7,9 @@
     "state-territory": "MP",
     "state": "CNMI",
     "locality": "Territorial government",
-    "currently-accepting-applications": "True",
-    "date-accepting-applications": "",
-    "apply-online": "False",
     "non-ERA-program-URL": "",
     "assistance-phone-number": "(670) 682-7368",
     "assistance-email": "dcalvo.ccera@gmail.com",
-    "description": "",
     "last-updated": "5/4/2021 8:39pm"
   },
   {
@@ -24,13 +20,9 @@
     "state-territory": "GU",
     "state": "Guam",
     "locality": "Territorial government",
-    "currently-accepting-applications": "",
-    "date-accepting-applications": "",
-    "apply-online": "",
     "non-ERA-program-URL": "",
     "assistance-phone-number": "",
     "assistance-email": "",
-    "description": "Through the Department of Administration, The Emergency Rental Assistance (ERA) Program provides funding to assist households that are unable to pay rent and utilities dating back to March 13, 2020. Eligible households may received up to 15 months of assistance to include rent, rental arrears, utilities, and utilities arrears.",
     "last-updated": "5/3/2021 5:52pm"
   },
   {
@@ -41,13 +33,9 @@
     "state-territory": "PR",
     "state": "Puerto Rico",
     "locality": "Territorial government",
-    "currently-accepting-applications": "True",
-    "date-accepting-applications": "",
-    "apply-online": "True",
     "non-ERA-program-URL": "CDBG",
     "assistance-phone-number": "",
     "assistance-email": "",
-    "description": "",
     "last-updated": "5/4/2021 8:26pm"
   },
   {
@@ -58,13 +46,9 @@
     "state-territory": "VI",
     "state": "Virgin Islands",
     "locality": "Territorial government",
-    "currently-accepting-applications": "True",
-    "date-accepting-applications": "",
-    "apply-online": "True",
     "non-ERA-program-URL": "",
     "assistance-phone-number": "",
     "assistance-email": "",
-    "description": "",
     "last-updated": "5/4/2021 8:34pm"
   }
 ]
