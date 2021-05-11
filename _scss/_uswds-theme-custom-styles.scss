@@ -20,19 +20,18 @@ i.e.
 ----------------------------------------
 */
 
-
+// Styles copied from treasury.gov
 .visually-hidden {
-  position: absolute!important;
+  position: absolute !important;
   height: 1px;
   width: 1px;
   clip: rect(1px 1px 1px 1px);
-  clip: rect(1px,1px,1px,1px);
-  clip-path: polygon(0 0,0 0,0 0,0 0);
-  -webkit-clip-path: polygon(0 0,0 0,0 0,0 0);
-  overflow: hidden!important;
-  word-wrap: normal
+  clip: rect(1px, 1px, 1px, 1px);
+  clip-path: polygon(0 0, 0 0, 0 0, 0 0);
+  -webkit-clip-path: polygon(0 0, 0 0, 0 0, 0 0);
+  overflow: hidden !important;
+  word-wrap: normal;
 }
-
 
 .main {
   margin: 0px 20px;
@@ -44,19 +43,63 @@ i.e.
   }
 }
 
+// bit of grid stuff here
+.layoutmanager .container-fluid {
+  padding-right: 15px;
+  padding-left: 15px;
+  margin-right: auto;
+  margin-left: auto;
+}
+
+.layoutmanager .row {
+  margin-right: -15px;
+  margin-left: -15px;
+}
+
+.layoutmanager .layout-row .layout-column {
+  padding-top: 0;
+}
+
+.layoutmanager .col-lg-6 {
+  width: 45%;
+}
+
+.layoutmanager .col-lg-9 {
+  width: 70%;
+}
+
+.layoutmanager .col-lg-1, .layoutmanager .col-lg-10, .layoutmanager .col-lg-11, .layoutmanager .col-lg-12, .layoutmanager .col-lg-2, .layoutmanager .col-lg-3, .layoutmanager .col-lg-4, .layoutmanager .col-lg-5, .layoutmanager .col-lg-6, .layoutmanager .col-lg-7, .layoutmanager .col-lg-8, .layoutmanager .col-lg-9 {
+  float: left;
+}
+
+.layoutmanager .col-lg-1, .layoutmanager .col-lg-10, .layoutmanager .col-lg-11, .layoutmanager .col-lg-12, .layoutmanager .col-lg-2, .layoutmanager .col-lg-3, .layoutmanager .col-lg-4, .layoutmanager .col-lg-5, .layoutmanager .col-lg-6, .layoutmanager .col-lg-7, .layoutmanager .col-lg-8, .layoutmanager .col-lg-9, .layoutmanager .col-md-1, .layoutmanager .col-md-10, .layoutmanager .col-md-11, .layoutmanager .col-md-12, .layoutmanager .col-md-2, .layoutmanager .col-md-3, .layoutmanager .col-md-4, .layoutmanager .col-md-5, .layoutmanager .col-md-6, .layoutmanager .col-md-7, .layoutmanager .col-md-8, .layoutmanager .col-md-9, .layoutmanager .col-sm-1, .layoutmanager .col-sm-10, .layoutmanager .col-sm-11, .layoutmanager .col-sm-12, .layoutmanager .col-sm-2, .layoutmanager .col-sm-3, .layoutmanager .col-sm-4, .layoutmanager .col-sm-5, .layoutmanager .col-sm-6, .layoutmanager .col-sm-7, .layoutmanager .col-sm-8, .layoutmanager .col-sm-9, .layoutmanager .col-xs-1, .layoutmanager .col-xs-10, .layoutmanager .col-xs-11, .layoutmanager .col-xs-12, .layoutmanager .col-xs-2, .layoutmanager .col-xs-3, .layoutmanager .col-xs-4, .layoutmanager .col-xs-5, .layoutmanager .col-xs-6, .layoutmanager .col-xs-7, .layoutmanager .col-xs-8, .layoutmanager .col-xs-9 {
+  position: relative;
+  min-height: 1px;
+  padding-right: 15px;
+  padding-left: 15px;
+}
 
 .block {
   padding-bottom: 20px;
-  margin-bottom: 20px
+  margin-bottom: 20px;
 }
 
-.block .sub-nav-group span.field--name-title,.block h2,.sub-nav-group .block span.field--name-title {
-  padding-bottom: .2em;
+.block .sub-nav-group span.field--name-title,
+.block h2,
+.sub-nav-group .block span.field--name-title {
+  padding-bottom: 0.2em;
   letter-spacing: -1px;
-  margin-bottom: 15px
+  margin-bottom: 15px;
 }
 
-.block-page-title-block .sub-nav-group span.field--name-title,.block-page-title-block h1,.block-page-title-block h2,.layoutmanager .sub-nav-group span.field--name-title,.layoutmanager h1,.layoutmanager h2,.sub-nav-group .block-page-title-block span.field--name-title,.sub-nav-group .layoutmanager span.field--name-title {
+.block-page-title-block .sub-nav-group span.field--name-title,
+.block-page-title-block h1,
+.block-page-title-block h2,
+.layoutmanager .sub-nav-group span.field--name-title,
+.layoutmanager h1,
+.layoutmanager h2,
+.sub-nav-group .block-page-title-block span.field--name-title,
+.sub-nav-group .layoutmanager span.field--name-title {
   font-size: 24px;
   line-height: 115%;
   padding-bottom: 30px;
@@ -65,37 +108,50 @@ i.e.
   background-position: left bottom;
   color: #393b3e;
   font-weight: 300;
-  font-family: Merriweather,Cambria,serif;
-  margin: 0!important
+  font-family: Merriweather, Cambria, serif;
+  margin: 0 !important;
 }
 
 @media (min-width: 768px) {
-    .block-page-title-block .sub-nav-group span.field--name-title,.block-page-title-block h1,.block-page-title-block h2,.layoutmanager .sub-nav-group span.field--name-title,.layoutmanager h1,.layoutmanager h2,.sub-nav-group .block-page-title-block span.field--name-title,.sub-nav-group .layoutmanager span.field--name-title {
-        font-size: 30px;
-    }
+  .block-page-title-block .sub-nav-group span.field--name-title,
+  .block-page-title-block h1,
+  .block-page-title-block h2,
+  .layoutmanager .sub-nav-group span.field--name-title,
+  .layoutmanager h1,
+  .layoutmanager h2,
+  .sub-nav-group .block-page-title-block span.field--name-title,
+  .sub-nav-group .layoutmanager span.field--name-title {
+    font-size: 30px;
+  }
 }
 
 @media (min-width: 1025px) {
-    .block-page-title-block .sub-nav-group span.field--name-title,.block-page-title-block h1,.block-page-title-block h2,.layoutmanager .sub-nav-group span.field--name-title,.layoutmanager h1,.layoutmanager h2,.sub-nav-group .block-page-title-block span.field--name-title,.sub-nav-group .layoutmanager span.field--name-title {
-        font-size: 40px;
-    }
+  .block-page-title-block .sub-nav-group span.field--name-title,
+  .block-page-title-block h1,
+  .block-page-title-block h2,
+  .layoutmanager .sub-nav-group span.field--name-title,
+  .layoutmanager h1,
+  .layoutmanager h2,
+  .sub-nav-group .block-page-title-block span.field--name-title,
+  .sub-nav-group .layoutmanager span.field--name-title {
+    font-size: 40px;
+  }
 }
 
-
 .abstract {
-    font-size: 1.6em;
-    padding-bottom: 20px;
-    border-bottom: 1px solid #e3e3e3;
-    font-weight: 200;
-    line-height: 1.4em;
-    margin-bottom: 20px
+  font-size: 1.6em;
+  padding-bottom: 20px;
+  border-bottom: 1px solid #e3e3e3;
+  font-weight: 200;
+  line-height: 1.4em;
+  margin-bottom: 20px;
 }
 
 @media (max-width: 767px) {
-    .abstract {
-        font-size:22px;
-        line-height: 1.45
-    }
+  .abstract {
+    font-size: 22px;
+    line-height: 1.45;
+  }
 }
 
 h2,
@@ -114,7 +170,7 @@ h3 {
 }
 
 h4 {
-  color: #393B00;
+  color: #393b00;
   font-size: 22px;
   padding: 10px 0 20px;
   text-transform: none;
@@ -125,7 +181,7 @@ h4 {
   font-weight: 700;
 }
 
-h3, 
+h3,
 h5 {
   margin: 20px 0;
 }
@@ -137,13 +193,40 @@ p {
 .mq--t:after {
   display: block;
   clear: both;
-  content: " "
+  content: " ";
 }
 
+a[href$=".pdf"]:after,
+a[href$=".zip"]:after,
+a[href$=".doc"]:after,
+a[href$=".docx"]:after,
+a[href$=".xls"]:after,
+a[href$=".xlsx"]:after,
+a[href$=".ppt"]:after,
+a[href$=".pptx"]:after {
+  content: "";
+  display: inline-block;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  transform: translate(0, 0);
+  width: 20px;
+  height: 20px;
+  text-align: right;
+  margin-left: 8px;
+  position: relative;
+  top: 2px;
+}
+
+a[href$=".pdf"]:after {
+  background: url(../img/pdf.svg) 0 100%
+    no-repeat;
+  background-size: contain;
+}
 
 // New styles
+// ---------------------------------------------------------------------------
 .era-sidenav__title {
-  font-family: "Source Sans Pro",Calibri,sans-serif;
+  font-family: "Source Sans Pro", Calibri, sans-serif;
   text-transform: uppercase;
   letter-spacing: 2px;
   line-height: 1.18;
@@ -167,8 +250,8 @@ p {
   }
 
   &__datestamp {
-    @include u-font('body', 'xs');
-    @include u-text('bold');
+    @include u-font("body", "xs");
+    @include u-text("bold");
   }
 }
 
@@ -196,8 +279,7 @@ sup a {
   border-left-color: color($theme-color-base-dark);
 
   &__heading {
-   color: color($theme-color-base-darkest);
-
+    color: color($theme-color-base-darkest);
   }
 
   &__text {
@@ -218,6 +300,7 @@ sup a {
 }
 
 // Program index styles
+// ---------------------------------------------------------------------------
 .era-program {
   &__toc {
     list-style-type: none;
@@ -319,5 +402,70 @@ sup a {
 
   &__app-status--not-accepting {
     color: color($theme-color-error-dark);
+  }
+}
+
+.era-guidance__hero {
+  margin: units(4) 0;
+}
+
+// card/hero/base-lightest
+.tre-card {
+  &__container {
+    position: relative;
+    display: -webkit-box;
+    display: -ms-flexbox;
+    display: flex;
+    height: 100%;
+    -webkit-box-orient: vertical;
+    -webkit-box-direction: normal;
+    -ms-flex-direction: column;
+    flex-direction: column;
+    margin-left: 0.5rem;
+    margin-right: 0.5rem;
+    font-family: Source Sans Pro Web, Helvetica Neue, Helvetica, Roboto, Arial, sans-serif;
+    font-size: 1.06rem;
+    line-height: 1.5;
+  }
+
+  &__header {
+    padding: 1.5rem 1.5rem .5rem;
+  }
+
+  &__body {
+    flex: 1 1 0%;
+    padding: .5rem 1.5rem;
+    flex-basis: auto;
+  }
+}
+
+.tre-card-hero {
+  &__header {
+    padding-bottom: 1rem;
+  }
+
+  &__body {
+
+  }
+}
+
+.tre-card.tre-card-hero {
+  // Have to override some style leaking in from layoutmanager h2
+  .tre-card-hero__heading {
+    font-size: 40px;
+    line-height: 115%;
+    margin: 0 !important;
+    padding-bottom: 30px;
+    background-image: none;
+    font-weight: 300;
+    font-family: Merriweather, Cambria, serif;
+  }
+}
+
+
+.tre-card-hero--base-lightest {
+  &__container {
+    color: color($theme-color-base-ink);
+    background-color: color($theme-color-base-lightest);
   }
 }
