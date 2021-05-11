@@ -437,15 +437,15 @@ sup a {
     padding: .5rem 1.5rem;
     flex-basis: auto;
   }
+
+  &__footer {
+    padding: .5rem 1.5rem 1.5rem;
+  }
 }
 
 .tre-card-hero {
   &__header {
     padding-bottom: 1rem;
-  }
-
-  &__body {
-
   }
 }
 

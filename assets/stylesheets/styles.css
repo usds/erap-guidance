@@ -27172,10 +27172,14 @@ sup a{
   -ms-flex-preferred-size:auto;
       flex-basis:auto;
 }
+.tre-card__footer{
+  padding:0.5rem 1.5rem 1.5rem;
+}
 
 .tre-card-hero__header{
   padding-bottom:1rem;
 }
+
 .tre-card.tre-card-hero .tre-card-hero__heading{
   font-size:40px;
   line-height:115%;
