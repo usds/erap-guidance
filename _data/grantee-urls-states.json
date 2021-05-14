@@ -1469,9 +1469,10 @@
     "last-updated": "5/4/2021 2:58pm"
   },
   {
-    "recipient-name": "Department of Hawaiian Home Lands",
+    "recipient-name": "",
+    "no-program": "true",
     "name": "Hawaii",
-    "URL": "https://www.hawaiiancouncil.org/dhhl",
+    "URL": "",
     "recipient-type": "State/DC",
     "state-territory": "HI",
     "state": "Hawaii",
@@ -1506,6 +1507,19 @@
     "assistance-phone-number": "",
     "assistance-email": "",
     "last-updated": "5/3/2021 5:51pm"
+  },
+  {
+    "recipient-name": "Department of Hawaiian Home Lands",
+    "name": "Hawaii",
+    "URL": "https://www.hawaiiancouncil.org/dhhl",
+    "recipient-type": "Local Government",
+    "state-territory": "HI",
+    "state": "Hawaii",
+    "locality": "State",
+    "non-ERA-program-URL": "",
+    "assistance-phone-number": "",
+    "assistance-email": "",
+    "last-updated": "5/13/2021 5:52pm"
   },
   {
     "recipient-name": "Kauai County",

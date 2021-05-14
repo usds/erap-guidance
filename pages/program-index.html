@@ -41,9 +41,16 @@ title: Emergency Rental Assistance Programs
     <a class="era-program__state-url" href="{{ program.URL }}" target="_blank">
       {{ program.URL }}
     </a>
+      {% if program.recipient-name != '' %}
     <p class="era-program__admin">
       Administered by {{ program.recipient-name | downcase }}.
     </p>
+      {% endif %}
+      {% if program.no-program == 'true' %}
+    <p>
+      This state is not administering a state-level program.
+    </p>
+      {% endif %}
     {% else %}
     <dl class="era-program__list">
       <dt class="era-program__name">
