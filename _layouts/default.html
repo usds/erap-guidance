@@ -16,13 +16,7 @@
         {% assign section-title = page.section | replace: '-', ' ' | capitalize %}
         <div class="usa-layout-docs__sidenav desktop:grid-col-3 era-article-sidenav">
           <div class="era-article-sidenav__container">
-            {% include sidenav.html links=sidenav title=section-title %}
-            {% unless page.sidenav == 'hiring-roles' %}
-              {% assign rolenav = site.data.navigation[page.rolenav] | default: page.rolenav %}
-              {% if rolenav %}
-                {% include rolenav.html links=rolenav %}
-              {% endif %}
-            {% endunless %}
+            {% include sidenav.html links=sidenav %}
           </div>
         </div>
       {% endif %}

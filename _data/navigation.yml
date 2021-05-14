@@ -1,127 +1,72 @@
 programs:
-  - text: Assistance for American Workers & Families
-    href: https://home.treasury.gov/policy-issues/cares/assistance-for-american-workers-and-families
-    name: workers
-  - text: Assistance for Small Business
-    href: https://home.treasury.gov/policy-issues/cares/assistance-for-small-businesses
-    name: small-biz
-  - text: Assistance for State, Local, and Tribal Governments
-    href: https://home.treasury.gov/policy-issues/cares/assistance-for-small-businesses
-    name: local
-    subnav:
-    - text: State and Local Fiscal Recovery Fund
-      href: https://home.treasury.gov/policy-issues/coronavirus/assistance-for-state-local-and-tribal-governments/state-and-local-fiscal-recovery-fund
-      name: fiscal
-    - text: Capital Projects Fund
-      href: https://home.treasury.gov/policy-issues/coronavirus/assistance-for-state-local-and-tribal-governments/capital-projects-fund
-      name: cpf
-    - text: Homeowner Assistance Fund
-      href: https://home.treasury.gov/policy-issues/coronavirus/assistance-for-state-local-and-tribal-governments/homeowner-assistance-fund/
-      name: haf
-    - text: Emergency Rental Assistance Program
-      href: /
-      name: era
-      subnav:
-      - text: About the program
-        href: /about/
-        name: about
-        desc: Explains the creation of the program, how Treasury will report on public funds, how fund were allocated, how to prepare for reallocation, and grant eligibility which includes changes to the program, eligible units of local government by population, grantee award terms, and statutory provisions.
-        subnav:
-      - text: Allocation of funds
-        href: /allocation-of-funds/
-        name: allocation-of-funds
-        desc: Describes the currently available assistance, application process for the continuation of the Emergency Rental Assistance (ERA) program under the American Rescue Plan (ARP), funding allocations made thus far, and how to prepare for reallocation of funds.
-        subnav:
-        - text: Application process
-          href: "/allocation-of-funds/application-process/"
-        - text: ERA-1 funding allocations 
-          href: "/allocation-of-funds/era-1-funding-allocations/"
-        - text: Preparing for reallocation of funds
-          href: "/allocation-of-funds/preparing-for-reallocation-of-funds/"
-      - text: Grant Eligibility
-        href: /grant-eligibility/
-        name: grant-eligibility
-        desc: Describes household eligibility, changes to the program, eligible units of local government by population, grantee award terms, and statutory provisions.
-        subnav:
-        - text: Census data
-          href: "/grant-eligibility/census-data/"
-        - text: Changes from ERA-1 to ERA-2
-          href: "/grant-eligibility/changes-from-era-1-to-era-2/"
-        - text: Eligible units of local government - Population
-          href: "/grant-eligibility/eligible-units-of-local-government-population/"
-        - text: Grantee award terms
-          href: "/grant-eligibility/grantee-award-terms/"
-        - text: Overlapping jurisdictions
-          href: "/grant-eligibility/overlapping-jurisdictions/"
-        - text: Statutory provisions
-          href: "/grant-eligibility/statutory-provisions/"
-      - text: Administering an ERA program
-        href: "/administering-an-era-program/"
-        desc: Provides details on administrative expenses, documenting policies, and using subrecipients.
-        name: admin
-        guidance: true
-        subnav:
-        - text: "Preventing duplication of benefits"
-          href: "/administering-an-era-program/preventing-duplication-of-benefits/"
-          desc: Describes strategies for preventing paying a tenant or landlord the same assistance as another jurisdiction.
-        - text: "Getting landlords and utility services to participate"
-          href: "/administering-an-era-program/landlord-and-utility-participation/"
-          desc: Describes ways in which jurisdictions should reach out to landlords and providers.
-      - text: "Determining tenant and landlord eligibility"
-        href: "/eligibility/"
-        desc: Describes criteria for household eligibility and applicant prioritization. 
-        name: eligibility
-        guidance: true
-        subnav:
-        - text: Determining household income
-          href: "/eligibility/determining-household-income/"
-          desc: Income eligibility for households.
-        - text: Determining risk of experiencing homelessness or housing instability
-          href: "/eligibility/determining-risk/"
-          desc: Describes how tenants can demonstrate that they meet this requirement.
-      - text: "What an ERA program can pay for"
-        href: "/what-an-era-program-can-pay-for/"
-        desc: Gives an overview of what programs can cover including details on rental and utility arrears, types of housing covered, utilities, and internet. 
-        name: pay
-        guidance: true
-      - text: "Ensuring Equity"
-        href: "/ensuring-equity/"
-        desc: How to ensure your program is equitable.
-        name: equity
-        guidance: true
-      - text: Preventing fraud and misuse of the program
-        href: "/preventing-fraud-and-misuse/"
-        desc: Describes ways to prevent mistakes, internal fraud, and applicant fraud.
-        name: fraud
-        guidance: true
-      - text: "Documentation & Reporting Requirements"
-        href: "/documentation-and-reporting/"
-        desc: Describes what must be documented and provides details on written attestations.
-        name: docs
-        guidance: true
-        subnav: 
-        - text: Data collection for reporting
-          href: "/documentation-and-reporting/data-collection-for-reporting/"
-          desc: Describes information that must be reported to Treasury including details on data that must be collected from households.
-      - text: "Guidance specific to Tribes and Tribally Designated Housing Entities (TDHE)"
-        href: "/tribes-and-tdhe/"
-        desc: Clarification on eligibility for members and non-members.
-        name: tribes
-        guidance: true
-      - text: "FAQs"
-        href: "/faqs/"
-        desc: The original format for this guidance provided here as reference.
-        name: faqs
-        subnav: 
-        - text: "FAQs by category"
-          href: "/faqs/by-category/"
-          desc: FAQs organized by category.
-    - text: State Small Business Credit Initiative
-      href: https://home.treasury.gov/policy-issues/coronavirus/assistance-for-state-local-and-tribal-governments/state-small-business-credit-initiative
-      name: investment
-    - text: Coronavirus Relief Fund
-      href: https://home.treasury.gov/policy-issues/coronavirus/assistance-for-state-local-and-tribal-governments/coronavirus-relief-fund
-      name: crf
-  - text: Assistance for American Industry
-    href: https://home.treasury.gov/policy-issues/coronavirus/assistance-for-american-industry
-    name: industry
+- text: About the program
+  href: /about/
+  name: about
+- text: Allocation of funds
+  href: /allocation-of-funds/
+  name: allocation-of-funds
+  subnav:
+  - text: Application process
+    href: "/allocation-of-funds/application-process/"
+  - text: ERA-1 funding allocations 
+    href: "/allocation-of-funds/era-1-funding-allocations/"
+  - text: Preparing for reallocation of funds
+    href: "/allocation-of-funds/preparing-for-reallocation-of-funds/"
+- text: Grant Eligibility
+  href: /grant-eligibility/
+  name: grant-eligibility
+  subnav:
+  - text: Census data
+    href: "/grant-eligibility/census-data/"
+  - text: Changes from ERA-1 to ERA-2
+    href: "/grant-eligibility/changes-from-era-1-to-era-2/"
+  - text: Eligible units of local government - Population
+    href: "/grant-eligibility/eligible-units-of-local-government-population/"
+  - text: Grantee award terms
+    href: "/grant-eligibility/grantee-award-terms/"
+  - text: Overlapping jurisdictions
+    href: "/grant-eligibility/overlapping-jurisdictions/"
+  - text: Statutory provisions
+    href: "/grant-eligibility/statutory-provisions/"
+- text: Administering an ERA program
+  href: "/implementation-guidance/administering-an-era-program/"
+  desc: Provides details on administrative expenses, documenting policies, and using subrecipients.
+  subnav:
+  - text: "Preventing duplication of benefits"
+    href: "/implementation-guidance/preventing-duplication-of-benefits/"
+    desc: TBD
+  - text: "Getting landlords and utility services to participate"
+    href: "/implementation-guidance/landlord-and-utility-participation/"
+    desc: Describes ways in which jurisdictions should reach out to landlords and providers.
+- text: "Determining tenant and landlord eligibility"
+  href: "/implementation-guidance/determining-eligibility/"
+  desc: Describes criteria for household eligibility and applicant prioritization. 
+  subnav:
+  - text: Determining household income
+    href: "/implementation-guidance/determining-household-income/"
+    desc: Income eligibility for households.
+  - text: Determining risk of experiencing homelessness or housing instability
+    href: "/implementation-guidance/determining-risk/"
+    desc: Describes how tenants can demonstrate that they meet this requirement.
+- text: "What an ERA program can pay for"
+  href: "/implementation-guidance/what-an-era-program-can-pay-for/"
+  desc: Gives an overview of what programs can cover including details on rental and utility arrears, types of housing covered, utilities, and internet. 
+- text: "Ensuring Equity"
+  href: "/implementation-guidance/ensuring-equity/"
+  desc: How to ensure your program is equitable.
+- text: Preventing fraud and misuse of the program
+  href: "/implementation-guidance/preventing-fraud-and-misuse/"
+  desc: Describes ways to prevent mistakes, internal fraud, and applicant fraud.
+- text: "Documentation & Reporting Requirements"
+  href: "/implementation-guidance/documentation-requirements/"
+  desc: Describes what must be documented and provides details on written attestations.
+  subnav: 
+  - text: Reporting Requirements
+    href: "/implementation-guidance/data-collection-for-reporting/"
+    desc: Describes information that must be reported to Treasury including details on data that must be collected from households.
+- text: "Guidance specific to Tribes and Tribally Designated Housing Entities (TDHE)"
+  href: "/implementation-guidance/tribes-and-tdhe/"
+  desc: Clarification on eligibility for members and non-members.
+- text: "FAQs"
+  href: "/implementation-guidance/faqs/"
+  desc: The original format for this guidance provided here as reference.

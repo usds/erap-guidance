@@ -6,17 +6,17 @@
   <a class="usa-skipnav" href="#main-content">Skip to main content</a>
   {% include _banner.html %}
   {% include _header.html %}
-  {% include _navigation-v2.html %}
-  {% include _breadcrumb-v2.html %}
+  {% include _navigation.html %}
+  {% include _breadcrumb.html %}
   <div class="era-article">
     <div class="grid-container">
       <div class="grid-row grid-gap">
-      {% assign sidenav = site.data.navigation-v2[page.sidenav] | default: page.sidenav %}
+      {% assign sidenav = site.data.navigation[page.sidenav] | default: page.sidenav %}
       {% if sidenav %}
         {% assign section-title = page.section | replace: '-', ' ' | capitalize %}
         <div class="usa-layout-docs__sidenav desktop:grid-col-3 era-article-sidenav">
           <div class="era-article-sidenav__container">
-            {% include sidenav-v2.html links=sidenav %}
+            {% include sidenav.html links=sidenav %}
             {% unless page.sidenav == 'hiring-roles' %}
               {% assign rolenav = site.data.navigation[page.rolenav] | default: page.rolenav %}
               {% if rolenav %}

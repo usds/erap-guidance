@@ -51,6 +51,12 @@ i.e.
   margin-left: auto;
 }
 
+.layoutmanager .layout-row:after {
+  content: "";
+  display: table;
+  clear: both
+}
+
 .layoutmanager .row {
   margin-right: -15px;
   margin-left: -15px;
@@ -60,12 +66,48 @@ i.e.
   padding-top: 0;
 }
 
-.layoutmanager .col-lg-6 {
-  width: 45%;
+.layoutmanager .col-lg-11 {
+    width: 86.66666667%
+}
+
+.layoutmanager .col-lg-10 {
+    width: 78.33333333%
 }
 
 .layoutmanager .col-lg-9 {
-  width: 70%;
+    width: 70%
+}
+
+.layoutmanager .col-lg-8 {
+    width: 61.66666667%
+}
+
+.layoutmanager .col-lg-7 {
+    width: 53.33333333%
+}
+
+.layoutmanager .col-lg-6 {
+    width: 45%
+}
+
+.layoutmanager .col-lg-5 {
+    width: 36.66666667%
+}
+
+.layoutmanager .col-lg-4 {
+    width: 28.33333333%
+}
+
+.layoutmanager .col-lg-3 {
+    width: 20%
+}
+
+.layoutmanager .col-lg-2 {
+    width: 11.66666667%
+}
+
+.layoutmanager .col-lg-1 {
+    width: 3.33333333%
 }
 
 .layoutmanager .col-lg-1, .layoutmanager .col-lg-10, .layoutmanager .col-lg-11, .layoutmanager .col-lg-12, .layoutmanager .col-lg-2, .layoutmanager .col-lg-3, .layoutmanager .col-lg-4, .layoutmanager .col-lg-5, .layoutmanager .col-lg-6, .layoutmanager .col-lg-7, .layoutmanager .col-lg-8, .layoutmanager .col-lg-9 {
@@ -231,7 +273,7 @@ a[href$=".pdf"]:after {
   letter-spacing: 2px;
   line-height: 1.18;
   font-weight: 700;
-  margin: 0 0 20px;
+  margin: 0;
   color: #0053a3;
 }
 
@@ -252,6 +294,18 @@ a[href$=".pdf"]:after {
   &__datestamp {
     @include u-font("body", "xs");
     @include u-text("bold");
+  }
+
+  &__cfpb {
+    margin-top: 2rem;
+  }
+}
+
+.era-guidance-home__section {
+  margin-bottom: units(5);
+
+  .era-guidance__hero {
+    margin-top: 0;
   }
 }
 

@@ -1,6 +1,14 @@
-<nav class="chp-phasenav" aria-label="Secondary navigation">
+<nav class="era-guidance-sidenav" aria-label="Secondary navigation">
   <ul class="usa-sidenav">
-    <h4 class="era-sidenav__title">COVID19 Economic Relief</h4>
+     <a class="era-guidance-sidenav__back" href="https://home.treasury.gov/policy-issues/coronavirus/assistance-for-state-local-and-tribal-governments">
+      <svg class="usa-icon" aria-hidden="true" focusable="false" role="img">
+        <use xlink:href="/assets/img/sprite.svg#navigate_before"></use>
+      </svg>
+      Back to Assistance for State, Local, and Tribal Governments
+     </a>
+    <h4 class="era-sidenav__title">
+      Emergency Rental Assistance Program
+    </h4>
     {% for link in include.links %}
       {% assign _href = link.href %}
       {% assign _current = false %}

@@ -195,6 +195,19 @@
     "last-updated": "5/3/2021 5:51pm"
   },
   {
+    "recipient-name": "Pima County, Arizona",
+    "name": "Pima County",
+    "URL": "https://tucsonpimaep.com/",
+    "recipient-type": "Local Government",
+    "state-territory": "AZ",
+    "state": "Arizona",
+    "locality": "",
+    "non-ERA-program-URL": "",
+    "assistance-phone-number": "",
+    "assistance-email": "",
+    "last-updated": "5/13/2021 6:10pm"
+  },
+  {
     "recipient-name": "City of Tucson",
     "name": "Tucson",
     "URL": "https://tucsonpimaep.com/",
@@ -417,7 +430,7 @@
   },
   {
     "recipient-name": "County of Los Angeles",
-    "name": "Los Angeles",
+    "name": "Los Angeles County",
     "URL": "https://housing.ca.gov/",
     "recipient-type": "Local Government",
     "state-territory": "CA",
@@ -765,6 +778,19 @@
     "assistance-phone-number": "",
     "assistance-email": "",
     "last-updated": "5/3/2021 6:13pm"
+  },
+  {
+    "recipient-name": "County of Ventura",
+    "name": "Ventura",
+    "URL": "https://www.ventura.org/county-executive-office/community-development/covid19-assistance/",
+    "recipient-type": "Local Government",
+    "state-territory": "CA",
+    "state": "California",
+    "locality": "",
+    "non-ERA-program-URL": "",
+    "assistance-phone-number": "",
+    "assistance-email": "",
+    "last-updated": "5/12/2021 6:28pm"
   },
   {
     "recipient-name": "State of Colorado",
@@ -1300,6 +1326,19 @@
     "last-updated": "5/3/2021 5:36pm"
   },
   {
+    "recipient-name": "City of Atlanta",
+    "name": "Atlanta",
+    "URL": "https://www.unitedwayatlanta.org/atlanta-covid-19-emergency-housing-assistance-program/",
+    "recipient-type": "Local Government",
+    "state-territory": "GA",
+    "state": "Georgia",
+    "locality": "",
+    "non-ERA-program-URL": "",
+    "assistance-phone-number": "",
+    "assistance-email": "",
+    "last-updated": "5/13/2021 6:05pm"
+  },
+  {
     "recipient-name": "Augusta",
     "name": "Augusta",
     "URL": "https://www.uwcsra.org/",
@@ -1367,7 +1406,7 @@
   {
     "recipient-name": "Forsyth County Board of Commissioners",
     "name": "Forsyth",
-    "URL": "https://www.forsythco.com/rentrelief",
+    "URL": "https://www.co.forsyth.nc.us/erap/",
     "recipient-type": "Local Government",
     "state-territory": "GA",
     "state": "Georgia",
@@ -1375,7 +1414,7 @@
     "non-ERA-program-URL": "",
     "assistance-phone-number": "",
     "assistance-email": "",
-    "last-updated": "5/4/2021 2:58pm"
+    "last-updated": "5/14/2021 3:24pm"
   },
   {
     "recipient-name": "Fulton County",
@@ -1430,7 +1469,7 @@
     "last-updated": "5/4/2021 2:58pm"
   },
   {
-    "recipient-name": "State of Hawaii",
+    "recipient-name": "Department of Hawaiian Home Lands",
     "name": "Hawaii",
     "URL": "https://www.hawaiiancouncil.org/dhhl",
     "recipient-type": "State/DC",
@@ -1440,7 +1479,7 @@
     "non-ERA-program-URL": "",
     "assistance-phone-number": "",
     "assistance-email": "",
-    "last-updated": "5/5/2021 3:21pm"
+    "last-updated": "5/13/2021 5:52pm"
   },
   {
     "recipient-name": "County of Hawaii",
@@ -1467,6 +1506,32 @@
     "assistance-phone-number": "",
     "assistance-email": "",
     "last-updated": "5/3/2021 5:51pm"
+  },
+  {
+    "recipient-name": "Kauai County",
+    "name": "Kauai",
+    "URL": "https://kauairenthelp.com/",
+    "recipient-type": "Local Government",
+    "state-territory": "HI",
+    "state": "Hawaii",
+    "locality": "",
+    "non-ERA-program-URL": "",
+    "assistance-phone-number": "",
+    "assistance-email": "",
+    "last-updated": "5/13/2021 5:51pm"
+  },
+  {
+    "recipient-name": "Maui County",
+    "name": "Maui",
+    "URL": "https://mauicounty.gov/2438/Maui-County-Emergency-Rental-Assistance",
+    "recipient-type": "Local Government",
+    "state-territory": "HI",
+    "state": "Hawaii",
+    "locality": "",
+    "non-ERA-program-URL": "",
+    "assistance-phone-number": "",
+    "assistance-email": "",
+    "last-updated": "5/13/2021 5:47pm"
   },
   {
     "recipient-name": "State of Idaho",
@@ -1547,7 +1612,7 @@
     "last-updated": "5/3/2021 5:50pm"
   },
   {
-    "recipient-name": "DuPage, County Of",
+    "recipient-name": "County of DuPage",
     "name": "DuPage",
     "URL": "https://www.ihda.org/about-ihda/illinois-rental-payment-program/",
     "recipient-type": "Local Government",
@@ -1558,6 +1623,19 @@
     "assistance-phone-number": "",
     "assistance-email": "",
     "last-updated": "5/3/2021 5:33pm"
+  },
+  {
+    "recipient-name": "County of Kane",
+    "name": "Kane",
+    "URL": "https://www.ihda.org/about-ihda/illinois-rental-payment-program/",
+    "recipient-type": "Local Government",
+    "state-territory": "IL",
+    "state": "Illinois",
+    "locality": "",
+    "non-ERA-program-URL": "",
+    "assistance-phone-number": "",
+    "assistance-email": "",
+    "last-updated": "5/12/2021 6:41pm"
   },
   {
     "recipient-name": "Lake County",
@@ -1586,7 +1664,7 @@
     "last-updated": "5/10/2021 2:19pm"
   },
   {
-    "recipient-name": "MCHENRY COUNTY",
+    "recipient-name": "McHenry County",
     "name": "McHenry",
     "URL": "https://mchenryrent.com/",
     "recipient-type": "Local Government",
@@ -1753,6 +1831,19 @@
     "assistance-phone-number": "",
     "assistance-email": "",
     "last-updated": "5/3/2021 5:47pm"
+  },
+  {
+    "recipient-name": "Johnson County Kansas Government",
+    "name": "Johnson",
+    "URL": "https://kshousingcorp.org/emergency-rental-assistance/",
+    "recipient-type": "Local Government",
+    "state-territory": "KS",
+    "state": "Kansas",
+    "locality": "",
+    "non-ERA-program-URL": "",
+    "assistance-phone-number": "",
+    "assistance-email": "",
+    "last-updated": "5/12/2021 6:37pm"
   },
   {
     "recipient-name": "Wichita City",
@@ -1963,108 +2054,16 @@
     "last-updated": "5/6/2021 12:17pm"
   },
   {
-    "recipient-name": "Frederick County",
-    "name": "Frederick",
-    "URL": "https://www.thereligiouscoalition.org/rental-assistance-program/",
-    "recipient-type": "Local Government",
-    "state-territory": "MD",
-    "state": "Maryland",
-    "locality": "County",
+    "recipient-name": "City of Baltimore",
+    "name": ",https://nhsmass.org/apply-for-raft/,Local Government,MA,Massachusetts,,,,,5/12/2021 6:49pm\nState of Michigan,Michigan,\"https://www.michigan.gov/mshda/0,4641,7-141-5555-533463--,00.html",
+    "URL": "State/DC",
+    "recipient-type": "MI",
+    "state-territory": "Michigan",
+    "state": "State",
+    "locality": "",
     "non-ERA-program-URL": "",
     "assistance-phone-number": "",
-    "assistance-email": "",
-    "last-updated": "5/4/2021 2:58pm"
-  },
-  {
-    "recipient-name": "Harford County",
-    "name": "Harford",
-    "URL": "https://harfordcaa.org/erap/",
-    "recipient-type": "Local Government",
-    "state-territory": "MD",
-    "state": "Maryland",
-    "locality": "County",
-    "non-ERA-program-URL": "",
-    "assistance-phone-number": "",
-    "assistance-email": "",
-    "last-updated": "5/4/2021 2:58pm"
-  },
-  {
-    "recipient-name": "Howard County",
-    "name": "Howard",
-    "URL": "https://www.howardcountymd.gov/Departments/Housing-and-Community-Development/COVID-19-Housing-Information",
-    "recipient-type": "Local Government",
-    "state-territory": "MD",
-    "state": "Maryland",
-    "locality": "County",
-    "non-ERA-program-URL": "",
-    "assistance-phone-number": "",
-    "assistance-email": "",
-    "last-updated": "5/3/2021 6:11pm"
-  },
-  {
-    "recipient-name": "Montgomery County",
-    "name": "Montgomery",
-    "URL": "https://www.montgomerycountymd.gov/HHS/RightNav/COVID19_RentReliefProgram.html",
-    "recipient-type": "Local Government",
-    "state-territory": "MD",
-    "state": "Maryland",
-    "locality": "County",
-    "non-ERA-program-URL": "",
-    "assistance-phone-number": "",
-    "assistance-email": "",
-    "last-updated": "5/3/2021 5:52pm"
-  },
-  {
-    "recipient-name": "Prince George's County",
-    "name": "Prince George's",
-    "URL": "https://www.princegeorgescountymd.gov/3703/Emergency-Rental-Assistance-Program",
-    "recipient-type": "Local Government",
-    "state-territory": "MD",
-    "state": "Maryland",
-    "locality": "County",
-    "non-ERA-program-URL": "",
-    "assistance-phone-number": "",
-    "assistance-email": "",
-    "last-updated": "5/3/2021 5:54pm"
-  },
-  {
-    "recipient-name": "Massachusetts Department of the State Treasurer",
-    "name": "Massachusetts",
-    "URL": "https://www.mass.gov/info-details/emergency-housing-assistance-during-covid-19#details-on-the-emergency-rental-assistance-program-(erap)-",
-    "recipient-type": "State/DC",
-    "state-territory": "MA",
-    "state": "Massachusetts",
-    "locality": "State",
-    "non-ERA-program-URL": "",
-    "assistance-phone-number": "",
-    "assistance-email": "",
-    "last-updated": "5/3/2021 5:36pm"
-  },
-  {
-    "recipient-name": "City of Boston",
-    "name": "Boston",
-    "URL": "https://www.boston.gov/sites/default/files/file/2021/04/RRF%2B%20Commonly%20Asked%20Q%26A%27s%202021%20English.pdf",
-    "recipient-type": "Local Government",
-    "state-territory": "MA",
-    "state": "Massachusetts",
-    "locality": "City",
-    "non-ERA-program-URL": "",
-    "assistance-phone-number": "",
-    "assistance-email": "",
-    "last-updated": "5/3/2021 6:03pm"
-  },
-  {
-    "recipient-name": "State of Michigan",
-    "name": "Michigan",
-    "URL": "https://www.michigan.gov/mshda/0,4641,7-141-5555-533463--,00.html",
-    "recipient-type": "State/DC",
-    "state-territory": "MI",
-    "state": "Michigan",
-    "locality": "State",
-    "non-ERA-program-URL": "",
-    "assistance-phone-number": "",
-    "assistance-email": "",
-    "last-updated": "5/3/2021 5:34pm"
+    "assistance-email": "5/3/2021 5:34pm"
   },
   {
     "recipient-name": "County of Macomb",
@@ -2433,7 +2432,7 @@
   {
     "recipient-name": "County of Atlantic",
     "name": "Atlantic",
-    "URL": "https://acianj.org/applications/index.asp#rent",
+    "URL": "https://acianj.org/applications/",
     "recipient-type": "Local Government",
     "state-territory": "NJ",
     "state": "New Jersey",
@@ -2441,7 +2440,7 @@
     "non-ERA-program-URL": "CDBG",
     "assistance-phone-number": "",
     "assistance-email": "",
-    "last-updated": "5/4/2021 12:52pm"
+    "last-updated": "5/13/2021 5:31pm"
   },
   {
     "recipient-name": "County of Bergen",
@@ -2455,6 +2454,32 @@
     "assistance-phone-number": "",
     "assistance-email": "",
     "last-updated": "5/3/2021 5:31pm"
+  },
+  {
+    "recipient-name": "County Of Camden",
+    "name": "Camden",
+    "URL": "https://njdca.onlinepha.com/",
+    "recipient-type": "Local Government",
+    "state-territory": "NJ",
+    "state": "New Jersey",
+    "locality": "",
+    "non-ERA-program-URL": "",
+    "assistance-phone-number": "",
+    "assistance-email": "",
+    "last-updated": "5/13/2021 6:12pm"
+  },
+  {
+    "recipient-name": "County of Essex",
+    "name": "Essex",
+    "URL": "https://portal.neighborlysoftware.com/ERAP-ESSEXCOUNTYNJ/Participant",
+    "recipient-type": "Local Government",
+    "state-territory": "NJ",
+    "state": "New Jersey",
+    "locality": "",
+    "non-ERA-program-URL": "",
+    "assistance-phone-number": "",
+    "assistance-email": "",
+    "last-updated": "5/13/2021 6:04pm"
   },
   {
     "recipient-name": "County of Mercer",
@@ -2472,7 +2497,7 @@
   {
     "recipient-name": "Middlesex, County of (INC)",
     "name": "Middlesex (INC)",
-    "URL": "https://middlesexnj.viewpointcloud.com/",
+    "URL": "http://www.middlesexcountynj.gov/Government/Departments/CS/Pages/Rental-Assistance-Grant.aspx",
     "recipient-type": "Local Government",
     "state-territory": "NJ",
     "state": "New Jersey",
@@ -2480,7 +2505,20 @@
     "non-ERA-program-URL": "",
     "assistance-phone-number": "",
     "assistance-email": "",
-    "last-updated": "5/5/2021 10:26am"
+    "last-updated": "5/13/2021 5:53pm"
+  },
+  {
+    "recipient-name": "County of Monmouth",
+    "name": "Monmouth",
+    "URL": "https://njdca.onlinepha.com/",
+    "recipient-type": "Local Government",
+    "state-territory": "NJ",
+    "state": "New Jersey",
+    "locality": "",
+    "non-ERA-program-URL": "",
+    "assistance-phone-number": "",
+    "assistance-email": "",
+    "last-updated": "5/12/2021 6:39pm"
   },
   {
     "recipient-name": "Ocean County",
@@ -2563,7 +2601,7 @@
   {
     "recipient-name": "New York State",
     "name": "New York",
-    "URL": "https://otda.ny.gov",
+    "URL": "https://otda.ny.gov/programs/emergency-rental-assistance/",
     "recipient-type": "State/DC",
     "state-territory": "NY",
     "state": "New York",
@@ -2571,7 +2609,7 @@
     "non-ERA-program-URL": "",
     "assistance-phone-number": "",
     "assistance-email": "",
-    "last-updated": "5/10/2021 2:08pm"
+    "last-updated": "5/13/2021 5:52pm"
   },
   {
     "recipient-name": "County of Albany",
@@ -2587,6 +2625,58 @@
     "last-updated": "5/3/2021 6:13pm"
   },
   {
+    "recipient-name": "Town of Babylon",
+    "name": "Babylon",
+    "URL": "https://otda.ny.gov/programs/emergency-rental-assistance/",
+    "recipient-type": "Local Government",
+    "state-territory": "NY",
+    "state": "New York",
+    "locality": "",
+    "non-ERA-program-URL": "",
+    "assistance-phone-number": "",
+    "assistance-email": "",
+    "last-updated": "5/14/2021 11:25am"
+  },
+  {
+    "recipient-name": "Town of Brookhaven",
+    "name": "Brookhaven",
+    "URL": "https://otda.ny.gov/programs/emergency-rental-assistance/",
+    "recipient-type": "Local Government",
+    "state-territory": "NY",
+    "state": "New York",
+    "locality": "",
+    "non-ERA-program-URL": "",
+    "assistance-phone-number": "",
+    "assistance-email": "",
+    "last-updated": "5/14/2021 11:25am"
+  },
+  {
+    "recipient-name": "City of Buffalo",
+    "name": "Buffalo",
+    "URL": "https://otda.ny.gov/programs/emergency-rental-assistance/",
+    "recipient-type": "Local Government",
+    "state-territory": "NY",
+    "state": "New York",
+    "locality": "",
+    "non-ERA-program-URL": "",
+    "assistance-phone-number": "",
+    "assistance-email": "",
+    "last-updated": "5/14/2021 11:25am"
+  },
+  {
+    "recipient-name": "County of Dutchess",
+    "name": "Dutchess",
+    "URL": "https://otda.ny.gov/programs/emergency-rental-assistance/",
+    "recipient-type": "Local Government",
+    "state-territory": "NY",
+    "state": "New York",
+    "locality": "",
+    "non-ERA-program-URL": "",
+    "assistance-phone-number": "",
+    "assistance-email": "",
+    "last-updated": "5/14/2021 11:25am"
+  },
+  {
     "recipient-name": "Erie County",
     "name": "Erie",
     "URL": "https://caowny.org/rent-and-mortgage-relief-buffalo-ny/",
@@ -2600,9 +2690,74 @@
     "last-updated": "5/5/2021 10:28am"
   },
   {
+    "recipient-name": "Town of Hempstead",
+    "name": "Hempstead",
+    "URL": "https://otda.ny.gov/programs/emergency-rental-assistance/",
+    "recipient-type": "Local Government",
+    "state-territory": "NY",
+    "state": "New York",
+    "locality": "",
+    "non-ERA-program-URL": "",
+    "assistance-phone-number": "",
+    "assistance-email": "",
+    "last-updated": "5/14/2021 11:25am"
+  },
+  {
+    "recipient-name": "Town of Huntington",
+    "name": "Huntington",
+    "URL": "https://otda.ny.gov/programs/emergency-rental-assistance/",
+    "recipient-type": "Local Government",
+    "state-territory": "NY",
+    "state": "New York",
+    "locality": "",
+    "non-ERA-program-URL": "",
+    "assistance-phone-number": "",
+    "assistance-email": "",
+    "last-updated": "5/14/2021 11:26am"
+  },
+  {
+    "recipient-name": "Town of Islip",
+    "name": "Islip",
+    "URL": "https://otda.ny.gov/programs/emergency-rental-assistance/",
+    "recipient-type": "Local Government",
+    "state-territory": "NY",
+    "state": "New York",
+    "locality": "",
+    "non-ERA-program-URL": "",
+    "assistance-phone-number": "",
+    "assistance-email": "",
+    "last-updated": "5/14/2021 11:25am"
+  },
+  {
+    "recipient-name": "County of Monroe",
+    "name": "Monroe",
+    "URL": "https://otda.ny.gov/programs/emergency-rental-assistance/",
+    "recipient-type": "Local Government",
+    "state-territory": "NY",
+    "state": "New York",
+    "locality": "",
+    "non-ERA-program-URL": "",
+    "assistance-phone-number": "",
+    "assistance-email": "",
+    "last-updated": "5/14/2021 11:25am"
+  },
+  {
+    "recipient-name": "Nassau County",
+    "name": "Nassau",
+    "URL": "https://otda.ny.gov/programs/emergency-rental-assistance/",
+    "recipient-type": "Local Government",
+    "state-territory": "NY",
+    "state": "New York",
+    "locality": "",
+    "non-ERA-program-URL": "",
+    "assistance-phone-number": "",
+    "assistance-email": "",
+    "last-updated": "5/14/2021 11:26am"
+  },
+  {
     "recipient-name": "New York City",
     "name": "New York City",
-    "URL": "https://otda.ny.gov/COVID-19/#expanded",
+    "URL": "https://otda.ny.gov/programs/emergency-rental-assistance/",
     "recipient-type": "Local Government",
     "state-territory": "NY",
     "state": "New York",
@@ -2610,7 +2765,46 @@
     "non-ERA-program-URL": "",
     "assistance-phone-number": "",
     "assistance-email": "",
-    "last-updated": "5/5/2021 10:30am"
+    "last-updated": "5/13/2021 2:19pm"
+  },
+  {
+    "recipient-name": "Niagara County",
+    "name": "Niagara",
+    "URL": "https://otda.ny.gov/programs/emergency-rental-assistance/",
+    "recipient-type": "Local Government",
+    "state-territory": "NY",
+    "state": "New York",
+    "locality": "",
+    "non-ERA-program-URL": "",
+    "assistance-phone-number": "",
+    "assistance-email": "",
+    "last-updated": "5/14/2021 11:26am"
+  },
+  {
+    "recipient-name": "Town of North Hempstead",
+    "name": "North Hempstead",
+    "URL": "https://otda.ny.gov/programs/emergency-rental-assistance/",
+    "recipient-type": "Local Government",
+    "state-territory": "NY",
+    "state": "New York",
+    "locality": "",
+    "non-ERA-program-URL": "",
+    "assistance-phone-number": "",
+    "assistance-email": "",
+    "last-updated": "5/14/2021 11:25am"
+  },
+  {
+    "recipient-name": "Oneida County",
+    "name": "Oneida",
+    "URL": "https://otda.ny.gov/programs/emergency-rental-assistance/",
+    "recipient-type": "Local Government",
+    "state-territory": "NY",
+    "state": "New York",
+    "locality": "",
+    "non-ERA-program-URL": "",
+    "assistance-phone-number": "",
+    "assistance-email": "",
+    "last-updated": "5/14/2021 11:25am"
   },
   {
     "recipient-name": "Onondaga County",
@@ -2624,6 +2818,71 @@
     "assistance-phone-number": "",
     "assistance-email": "",
     "last-updated": "5/3/2021 6:08pm"
+  },
+  {
+    "recipient-name": "County of Orange",
+    "name": "Orange",
+    "URL": "https://www.orangecountygov.com/2057/Emergency-Rental-Assistance",
+    "recipient-type": "Local Government",
+    "state-territory": "NY",
+    "state": "New York",
+    "locality": "",
+    "non-ERA-program-URL": "",
+    "assistance-phone-number": "",
+    "assistance-email": "",
+    "last-updated": "5/14/2021 11:23am"
+  },
+  {
+    "recipient-name": "Town of Oyster Bay",
+    "name": "Oyster Bay",
+    "URL": "https://otda.ny.gov/programs/emergency-rental-assistance/",
+    "recipient-type": "Local Government",
+    "state-territory": "NY",
+    "state": "New York",
+    "locality": "",
+    "non-ERA-program-URL": "",
+    "assistance-phone-number": "",
+    "assistance-email": "",
+    "last-updated": "5/14/2021 11:25am"
+  },
+  {
+    "recipient-name": "City of Rochester",
+    "name": "Rochester",
+    "URL": "https://www.rochesterhousing.org/",
+    "recipient-type": "Local Government",
+    "state-territory": "NY",
+    "state": "New York",
+    "locality": "",
+    "non-ERA-program-URL": "",
+    "assistance-phone-number": "",
+    "assistance-email": "",
+    "last-updated": "5/14/2021 11:25am"
+  },
+  {
+    "recipient-name": "County of Rockland Department of Social Services",
+    "name": "Rockland",
+    "URL": "https://otda.ny.gov/programs/emergency-rental-assistance/",
+    "recipient-type": "Local Government",
+    "state-territory": "NY",
+    "state": "New York",
+    "locality": "",
+    "non-ERA-program-URL": "",
+    "assistance-phone-number": "",
+    "assistance-email": "",
+    "last-updated": "5/14/2021 11:25am"
+  },
+  {
+    "recipient-name": "Saratoga County Department of Social Service",
+    "name": "Saratoga County",
+    "URL": "https://otda.ny.gov/programs/emergency-rental-assistance/",
+    "recipient-type": "Local Government",
+    "state-territory": "NY",
+    "state": "New York",
+    "locality": "",
+    "non-ERA-program-URL": "",
+    "assistance-phone-number": "",
+    "assistance-email": "",
+    "last-updated": "5/14/2021 11:25am"
   },
   {
     "recipient-name": "Suffolk County",
@@ -2650,6 +2909,19 @@
     "assistance-phone-number": "",
     "assistance-email": "",
     "last-updated": "5/4/2021 11:18pm"
+  },
+  {
+    "recipient-name": "City of Yonkers",
+    "name": "Yonkers",
+    "URL": "https://otda.ny.gov/programs/emergency-rental-assistance/",
+    "recipient-type": "Local Government",
+    "state-territory": "NY",
+    "state": "New York",
+    "locality": "",
+    "non-ERA-program-URL": "",
+    "assistance-phone-number": "",
+    "assistance-email": "",
+    "last-updated": "5/14/2021 11:26am"
   },
   {
     "recipient-name": "North Carolina Office of State Budget and Management",
@@ -2769,6 +3041,19 @@
     "last-updated": "5/4/2021 2:58pm"
   },
   {
+    "recipient-name": "City of Raleigh",
+    "name": "Raleigh",
+    "URL": "https://housewake.org/",
+    "recipient-type": "Local Government",
+    "state-territory": "NC",
+    "state": "North Carolina",
+    "locality": "",
+    "non-ERA-program-URL": "",
+    "assistance-phone-number": "",
+    "assistance-email": "",
+    "last-updated": "5/13/2021 6:15pm"
+  },
+  {
     "recipient-name": "Wake County",
     "name": "Wake County",
     "URL": "https://housewake.org/",
@@ -2845,6 +3130,19 @@
     "assistance-phone-number": "",
     "assistance-email": "",
     "last-updated": "5/3/2021 6:03pm"
+  },
+  {
+    "recipient-name": "Hamilton County",
+    "name": "Hamilton",
+    "URL": "https://www.hctaindiana.com/era",
+    "recipient-type": "Local Government",
+    "state-territory": "OH",
+    "state": "Ohio",
+    "locality": "",
+    "non-ERA-program-URL": "",
+    "assistance-phone-number": "",
+    "assistance-email": "",
+    "last-updated": "5/13/2021 6:05pm"
   },
   {
     "recipient-name": "Lorain County",
@@ -2961,7 +3259,7 @@
     "non-ERA-program-URL": "",
     "assistance-phone-number": "",
     "assistance-email": "",
-    "last-updated": "5/6/2021 9:48am"
+    "last-updated": "5/13/2021 5:52pm"
   },
   {
     "recipient-name": "Multnomah County",
@@ -2975,6 +3273,19 @@
     "assistance-phone-number": "",
     "assistance-email": "",
     "last-updated": "5/4/2021 2:59pm"
+  },
+  {
+    "recipient-name": "City of Portland",
+    "name": "Portland",
+    "URL": "https://www.portland.gov/phb/housing-assistance-programs",
+    "recipient-type": "Local Government",
+    "state-territory": "OR",
+    "state": "Oregon",
+    "locality": "",
+    "non-ERA-program-URL": "CARES",
+    "assistance-phone-number": "",
+    "assistance-email": "",
+    "last-updated": "5/12/2021 6:15pm"
   },
   {
     "recipient-name": "Washington County",
@@ -3354,7 +3665,7 @@
     "last-updated": "5/3/2021 5:36pm"
   },
   {
-    "recipient-name": "Metropolitan Gov't of Nashville & Davidson County",
+    "recipient-name": "Metropolitan Government of Nashville & Davidson County",
     "name": " Nashville & Davidson",
     "URL": "https://www.nashville.gov/Metro-Action-Commission/HOPE-Program.aspx",
     "recipient-type": "Local Government",
@@ -3378,6 +3689,19 @@
     "assistance-phone-number": "",
     "assistance-email": "",
     "last-updated": "5/3/2021 6:08pm"
+  },
+  {
+    "recipient-name": "City of Memphis",
+    "name": "Memphis",
+    "URL": "http://home901.org/covid-resources/",
+    "recipient-type": "Local Government",
+    "state-territory": "TN",
+    "state": "Tennessee",
+    "locality": "",
+    "non-ERA-program-URL": "",
+    "assistance-phone-number": "",
+    "assistance-email": "",
+    "last-updated": "5/12/2021 6:17pm"
   },
   {
     "recipient-name": "Rutherford, County of",
@@ -3666,6 +3990,19 @@
     "last-updated": "5/4/2021 2:58pm"
   },
   {
+    "recipient-name": "Montgomery County",
+    "name": "Montgomery",
+    "URL": "https://www.montgomerycountymd.gov/HHS-Program/SNHS/rent-relief.html",
+    "recipient-type": "Local Government",
+    "state-territory": "TX",
+    "state": "Texas",
+    "locality": "",
+    "non-ERA-program-URL": "",
+    "assistance-phone-number": "",
+    "assistance-email": "",
+    "last-updated": "5/12/2021 6:20pm"
+  },
+  {
     "recipient-name": "City of Plano",
     "name": "Plano",
     "URL": "https://zoomgrants.com/gprop2.asp?donorid=2213",
@@ -3757,6 +4094,19 @@
     "last-updated": "5/3/2021 5:37pm"
   },
   {
+    "recipient-name": "Utah County",
+    "name": "Utah County",
+    "URL": "https://housinguc.org/",
+    "recipient-type": "Local Government",
+    "state-territory": "UT",
+    "state": "Utah",
+    "locality": "",
+    "non-ERA-program-URL": "",
+    "assistance-phone-number": "",
+    "assistance-email": "",
+    "last-updated": "5/12/2021 6:26pm"
+  },
+  {
     "recipient-name": "State of Vermont, Office of the Treasurer",
     "name": "Vermont",
     "URL": "https://erap.vsha.org/",
@@ -3807,6 +4157,19 @@
     "assistance-phone-number": "",
     "assistance-email": "",
     "last-updated": "5/3/2021 5:52pm"
+  },
+  {
+    "recipient-name": "Prince William County",
+    "name": "Prince William",
+    "URL": "https://www.pwcva.gov/department/housing-community-development/emergency-housing-assistance",
+    "recipient-type": "Local Government",
+    "state-territory": "VA",
+    "state": "Virginia",
+    "locality": "",
+    "non-ERA-program-URL": "",
+    "assistance-phone-number": "",
+    "assistance-email": "",
+    "last-updated": "5/12/2021 6:25pm"
   },
   {
     "recipient-name": "Washington State Governor's Office",
