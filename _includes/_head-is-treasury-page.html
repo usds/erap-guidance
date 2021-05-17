@@ -1,0 +1,98 @@
+<head>
+  <meta charset="utf-8" />
+  <meta http-equiv="X-UA-Compatible" content="IE=Edge" />
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+
+  {% capture url_path %}{{site.domain}}{{site.baseurl}}{{page.url}}{% endcapture %}
+  {% capture page_title %}{%if page.title %}{{ page.title }} | {{ site.title }}{% endif %}{% endcapture %}
+  {% capture page_description %}{% if page.description %}{{ page.description }}{% else %}{{ content | newline_to_br | strip_newlines | replace: '<br />', ' ' | strip_html | strip | truncatewords: 30 }}{% endif %}{% endcapture %}
+
+  <title>{{ site.title }}</title>
+
+  <meta name="description" content="{{ page_description }}" />
+  <!-- Block www search engines until site is cleared -->
+  <!-- doing this here instead of robots.txt so search.gov can still index the site -->
+  <meta name="googlebot" content="noindex" />
+  <meta name="bingbot" content="noindex" />
+
+  <link rel="canonical" href="{{ url_path }}" />
+  <meta property="og:title" content="{{ page_title }}" />
+  <meta property="og:title" content="{{ page_title }}" />
+  <meta property="og:locale" content="en_US" />
+  <meta property="og:description" content="{{ page_description }}" />
+  <meta property="og:url" content="{{ url_path }}" />
+  <meta property="og:site_name" content="{{ site.title }}" />
+  <meta property="og:type" content="article" />
+
+  <link rel="shortcut icon" href="{{ site.baseurl }}/assets/img/favicons/treasury.png" type="image/png">
+  <link rel="apple-touch-icon" sizes="180x180" href="{{ site.baseurl }}/assets/img/favicons/apple-touch-icon.png">
+  <link rel="icon" type="image/png" sizes="32x32" href="{{ site.baseurl }}/assets/img/favicons/favicon-32x32.png">
+  <link rel="icon" type="image/png" sizes="16x16" href="{{ site.baseurl }}/assets/img/favicons/favicon-16x16.png">
+  <link rel="manifest" href="{{ site.baseurl }}/assets/img/favicons/site.webmanifest">
+  <link rel="mask-icon" href="{{ site.baseurl }}/assets/img/favicons/safari-pinned-tab.svg" color="#5bbad5">
+  <meta name="msapplication-TileColor" content="#da532c">
+  <meta name="theme-color" content="#ffffff">
+
+  <link rel="stylesheet" media="all" href="{{ site.baseurl }}/assets/stylesheets/{{ site.styles }}"></link>
+  <style>
+    h3,
+    h4 {
+      font-family: "Source Sans Pro", Calibri, sans-serif;
+      color: #0053a3;
+    }
+
+    h3 {
+      text-transform: uppercase;
+      letter-spacing: 2px;
+    }
+
+    h3 {
+      line-height: 1.18;
+      font-size: 24px;
+    }
+
+    h4 {
+      color: #393b00;
+      font-size: 22px;
+      padding: 10px 0 20px;
+      text-transform: none;
+    }
+
+    h3,
+    h5 {
+      margin: 20px 0;
+    }
+
+    p {
+      margin: 3px 0 10px;
+    }
+
+    @media (min-width: 768px) {
+      .block-page-title-block .sub-nav-group span.field--name-title,
+      .block-page-title-block h1,
+      .block-page-title-block h2,
+      .layoutmanager .sub-nav-group span.field--name-title,
+      .layoutmanager h1,
+      .layoutmanager h2,
+      .sub-nav-group .block-page-title-block span.field--name-title,
+      .sub-nav-group .layoutmanager span.field--name-title {
+        font-size: 30px;
+      }
+    }
+
+    @media (min-width: 1025px) {
+      .block-page-title-block .sub-nav-group span.field--name-title,
+      .block-page-title-block h1,
+      .block-page-title-block h2,
+      .layoutmanager .sub-nav-group span.field--name-title,
+      .layoutmanager h1,
+      .layoutmanager h2,
+      .sub-nav-group .block-page-title-block span.field--name-title,
+      .sub-nav-group .layoutmanager span.field--name-title {
+        font-size: 40px;
+      }
+    }
+
+  </style>
+  {{ include.append }}
+</head>
