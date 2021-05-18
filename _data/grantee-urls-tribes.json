@@ -650,19 +650,6 @@
     "last-updated": "5/7/2021 12:38pm"
   },
   {
-    "recipient-name": "Housing Authority of the Sac and Fox Nation",
-    "name": "Housing Authority of the Sac and Fox Nation",
-    "URL": "https://sacandfoxha.com/programs/",
-    "recipient-type": "Indian Tribe or Tribally Designated Housing Entity",
-    "state-territory": "OK",
-    "state": "Oklahoma",
-    "locality": "Tribe or TDHE",
-    "non-ERA-program-URL": "",
-    "assistance-phone-number": "",
-    "assistance-email": "",
-    "last-updated": "5/7/2021 3:41pm"
-  },
-  {
     "recipient-name": "Interior Regional Housing Authority",
     "name": "Interior Regional Housing Authority",
     "URL": "https://irha.org/emergency-rental-assistance-application/",
@@ -1272,6 +1259,32 @@
     "assistance-phone-number": "",
     "assistance-email": "",
     "last-updated": "5/7/2021 1:03pm"
+  },
+  {
+    "recipient-name": "Housing Authority of the Sac and Fox Nation",
+    "name": "Sac and Fox Nation",
+    "URL": "https://sacandfoxha.com/programs/",
+    "recipient-type": "Indian Tribe or Tribally Designated Housing Entity",
+    "state-territory": "OK",
+    "state": "Oklahoma",
+    "locality": "Tribe or TDHE",
+    "non-ERA-program-URL": "",
+    "assistance-phone-number": "",
+    "assistance-email": "",
+    "last-updated": "5/7/2021 3:41pm"
+  },
+  {
+    "recipient-name": "Sac and Fox Tribe of the Mississippi in Iowa",
+    "name": "Sac and Fox Tribe of the Mississippi in Iowa",
+    "URL": "https://www.meskwaki.org/iowa-rent-and-utility-assistance-program/",
+    "recipient-type": "Indian Tribe or Tribally Designated Housing Entity",
+    "state-territory": "IA",
+    "state": "Iowa",
+    "locality": "Tribe or TDHE",
+    "non-ERA-program-URL": "",
+    "assistance-phone-number": "",
+    "assistance-email": "",
+    "last-updated": "5/17/2021 8:42pm"
   },
   {
     "recipient-name": "Saginaw Chippewa Indian Tribe of Michigan",
