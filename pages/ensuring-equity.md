@@ -1,8 +1,7 @@
 ---
 layout: default
-permalink: /ensuring-equity/
-program: local
-section: era
+permalink: /implementation-guidance/ensuring-equity/
+section: guidance
 sub-section: equity
 sidenav: programs
 title: Ensuring Equity

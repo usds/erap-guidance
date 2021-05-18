@@ -1,9 +1,9 @@
 ---
 layout: default
-permalink: /eligibility/determining-risk/
+permalink: /implementation-guidance/determining-risk/
 program: local
-section: era
-sub-section: eligibility
+section: guidance
+sub-section: risk
 sidenav: programs
 title: Determining risk of experiencing homelessness or housing instability
 ---

@@ -1,8 +1,8 @@
 ---
 layout: default
-permalink: /eligibility/
+permalink: /implementation-guidance/determining-eligibility/
 program: local
-section: era
+section: guidance
 sub-section: eligibility
 sidenav: programs
 title: Determining tenant and landlord eligibility

@@ -1,9 +1,9 @@
 ---
 layout: default
-permalink: /eligibility/determining-household-income/
+permalink: /implementation-guidance/determining-household-income/
 program: local
-section: era
-sub-section: eligibility
+section: guidance
+sub-section: income
 sidenav: programs
 title: Determining household income
 ---

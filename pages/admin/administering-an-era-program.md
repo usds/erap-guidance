@@ -1,9 +1,8 @@
 ---
 layout: default
-permalink: /administering-an-era-program/
+permalink: /implementation-guidance/administering-an-era-program/
 program: local
-section: era
-sub-section: admin
+section: guidance
 sidenav: programs
 title: Administering an ERA Program
 ---

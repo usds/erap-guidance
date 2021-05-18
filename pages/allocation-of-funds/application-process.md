@@ -2,8 +2,7 @@
 layout: default
 permalink: /allocation-of-funds/application-process/
 program: local
-section: era
-sub-section: allocation-of-funds
+section: allocation-of-funds
 sidenav: programs
 title: Application process
 ---

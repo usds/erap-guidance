@@ -1,8 +1,7 @@
 ---
 layout: default
-permalink: /faqs/
-program: local
-section: era
+permalink: /implementation-guidance/faqs/
+section: guidance
 sub-section: faqs
 sidenav: programs
 title: FAQs

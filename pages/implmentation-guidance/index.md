@@ -2,8 +2,7 @@
 layout: default
 permalink: /implementation-guidance/
 program: local
-section: era
-sub-section: implementation-guidance
+section: guidance
 sidenav: programs
 title: Implementation Guidance
 ---

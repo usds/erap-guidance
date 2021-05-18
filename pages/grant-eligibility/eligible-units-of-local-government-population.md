@@ -2,12 +2,11 @@
 layout: default
 permalink: /grant-eligibility/eligible-units-of-local-government-population/
 program: local
-section: era
+section: grant-eligibility
 sub-section: grant-eligibility
 sidenav: programs
 title: Eligible units of local government - Population
 ---
-
 
 The 426 counties and cities/towns listed below had a population of more than 200,000 people in 2019 according to the Census Bureau. The name of the county or city/town is the name as it appears in the Census Bureau’s City and Town Population Subcounty Resident Population Estimates file. 
 

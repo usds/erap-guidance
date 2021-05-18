@@ -1,8 +1,7 @@
 ---
 layout: default
-permalink: /preventing-fraud-and-misuse/
-program: local
-section: era
+permalink: /implementation-guidance/preventing-fraud-and-misuse/
+section: guidance
 sub-section: fraud
 sidenav: programs
 title: Preventing fraud and misuse of the program

@@ -1,9 +1,9 @@
 ---
 layout: default
-permalink: /administering-an-era-program/landlord-and-utility-participation/
+permalink: /implementation-guidance/landlord-and-utility-participation/
 program: local
-section: era
-sub-section: admin
+section: guidance
+sub-section: participation
 sidenav: programs
 title: Getting landlords and utility services to participate
 ---

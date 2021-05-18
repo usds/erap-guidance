@@ -2,8 +2,7 @@
 layout: default
 permalink: /grant-eligibility/overlapping-jurisdictions/
 program: local
-section: era
-sub-section: grant-eligibility
+section: grant-eligibility
 sidenav: programs
 title: Overlapping jurisdictions
 ---

@@ -12,7 +12,7 @@ programs:
     href: "/allocation-of-funds/era-1-funding-allocations/"
   - text: Preparing for reallocation of funds
     href: "/allocation-of-funds/preparing-for-reallocation-of-funds/"
-- text: Grant Eligibility
+- text: Grant eligibility
   href: /grant-eligibility/
   name: grant-eligibility
   subnav:
@@ -28,45 +28,78 @@ programs:
     href: "/grant-eligibility/overlapping-jurisdictions/"
   - text: Statutory provisions
     href: "/grant-eligibility/statutory-provisions/"
-- text: Administering an ERA program
-  href: "/implementation-guidance/administering-an-era-program/"
-  desc: Provides details on administrative expenses, documenting policies, and using subrecipients.
+- text: Implementation guidance
+  href: "/implementation-guidance/"
+  desc: Full guidance from Treasury on administering an ERA program, determining eligibility, and what a program can pay for. Includes details on determining household income, and risk of homelessness. Introduces new details on ensuring equity and preventing fraud and misuse.
+  name: guidance
   subnav:
+  - text: Administering an ERA program
+    href: "/implementation-guidance/administering-an-era-program/"
+    desc: Provides details on administrative expenses, documenting policies, and using subrecipients.
+    name: admin
   - text: "Preventing duplication of benefits"
     href: "/implementation-guidance/preventing-duplication-of-benefits/"
     desc: TBD
+    name: duplication
   - text: "Getting landlords and utility services to participate"
     href: "/implementation-guidance/landlord-and-utility-participation/"
     desc: Describes ways in which jurisdictions should reach out to landlords and providers.
-- text: "Determining tenant and landlord eligibility"
-  href: "/implementation-guidance/determining-eligibility/"
-  desc: Describes criteria for household eligibility and applicant prioritization. 
-  subnav:
+    name: participation
+  - text: "Determining tenant and landlord eligibility"
+    href: "/implementation-guidance/determining-eligibility/"
+    desc: Describes criteria for household eligibility and applicant prioritization. 
+    name: eligibility
   - text: Determining household income
     href: "/implementation-guidance/determining-household-income/"
     desc: Income eligibility for households.
+    name: income
   - text: Determining risk of experiencing homelessness or housing instability
     href: "/implementation-guidance/determining-risk/"
     desc: Describes how tenants can demonstrate that they meet this requirement.
-- text: "What an ERA program can pay for"
-  href: "/implementation-guidance/what-an-era-program-can-pay-for/"
-  desc: Gives an overview of what programs can cover including details on rental and utility arrears, types of housing covered, utilities, and internet. 
-- text: "Ensuring Equity"
-  href: "/implementation-guidance/ensuring-equity/"
-  desc: How to ensure your program is equitable.
-- text: Preventing fraud and misuse of the program
-  href: "/implementation-guidance/preventing-fraud-and-misuse/"
-  desc: Describes ways to prevent mistakes, internal fraud, and applicant fraud.
-- text: "Documentation & Reporting Requirements"
-  href: "/implementation-guidance/documentation-requirements/"
+    name: homelessness
+  - text: "What an ERA program can pay for"
+    href: "/implementation-guidance/what-an-era-program-can-pay-for/"
+    desc: Gives an overview of what programs can cover including details on rental and utility arrears, types of housing covered, utilities, and internet. 
+    name: pay
+  - text: "Ensuring equity"
+    href: "/implementation-guidance/ensuring-equity/"
+    desc: How to ensure your program is equitable.
+    name: equity
+  - text: Preventing fraud and misuse of the program
+    href: "/implementation-guidance/preventing-fraud-and-misuse/"
+    desc: Describes ways to prevent mistakes, internal fraud, and applicant fraud.
+    name: fraud
+  - text: "Guidance specific to Tribes and Tribally Designated Housing Entities (TDHE)"
+    href: "/implementation-guidance/tribes-and-tdhe/"
+    desc: Clarification on eligibility for members and non-members.
+    name: tribes
+  - text: "FAQs"
+    href: "/implementation-guidance/faqs/"
+    desc: The original format for this guidance provided here as reference.
+    name: faqs
+- text: "Documentation & reporting requirements"
+  href: "/documentation-and-reporting/"
   desc: Describes what must be documented and provides details on written attestations.
+  name: reporting
   subnav: 
-  - text: Reporting Requirements
-    href: "/implementation-guidance/data-collection-for-reporting/"
+  - text: Reporting requirements
+    href: "/documentation-and-reporting/data-collection-for-reporting/"
     desc: Describes information that must be reported to Treasury including details on data that must be collected from households.
-- text: "Guidance specific to Tribes and Tribally Designated Housing Entities (TDHE)"
-  href: "/implementation-guidance/tribes-and-tdhe/"
-  desc: Clarification on eligibility for members and non-members.
-- text: "FAQs"
-  href: "/implementation-guidance/faqs/"
-  desc: The original format for this guidance provided here as reference.
+    name: reporting-requirements
+- text: Best practice guides
+  href: "/best-practice-guides/"
+  desc: Provides best practices for program implementation and creating your online presence.
+  name: best-practice-guides
+  subnav: 
+  - text: Program web sites
+    href: "/best-practice-guides/program-web-sites/"
+    desc: Best practices for ERA program web sites.
+    name: program-web-site
+- text: Educational resources
+  href: "/educational-resources/"
+  desc: Provides educational resources for grantees
+  name: educational-resources
+- text: Case studies
+  href: "/case-studies/"
+  desc: Case studies of successful ERA programs
+  name: case-studies

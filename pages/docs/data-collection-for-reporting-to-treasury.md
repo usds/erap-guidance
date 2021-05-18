@@ -2,8 +2,7 @@
 layout: default
 permalink: /documentation-and-reporting/data-collection-for-reporting/
 program: local
-section: era
-sub-section: docs
+section: reporting
 sidenav: programs
 title: Data collection for reporting to Treasury
 ---

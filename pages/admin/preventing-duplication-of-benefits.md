@@ -1,9 +1,9 @@
 ---
 layout: default
-permalink: /administering-an-era-program/preventing-duplication-of-benefits/
+permalink: /implementation-guidance/preventing-duplication-of-benefits/
 program: local
-section: era
-sub-section: admin
+section: guidance
+sub-section: duplication
 sidenav: programs
 title: Preventing Duplication of Benefits
 ---

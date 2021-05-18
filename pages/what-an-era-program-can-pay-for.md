@@ -1,8 +1,8 @@
 ---
 layout: default
-permalink: /what-an-era-program-can-pay-for/
+permalink: /implementation-guidance/what-an-era-program-can-pay-for/
 program: local
-section: era
+section: guidance
 sub-section: pay
 sidenav: programs
 title: What an ERA program can pay for
