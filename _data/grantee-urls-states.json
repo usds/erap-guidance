@@ -599,7 +599,7 @@
     "non-ERA-program-URL": "",
     "assistance-phone-number": "",
     "assistance-email": "",
-    "last-updated": "5/10/2021 2:17pm"
+    "last-updated": "5/19/2021 8:48am"
   },
   {
     "recipient-name": "City of Modesto",
@@ -1078,7 +1078,7 @@
     "last-updated": "5/3/2021 6:08pm"
   },
   {
-    "recipient-name": "Arapahoe County, Colorado",
+    "recipient-name": "Arapahoe County",
     "name": "Arapahoe",
     "URL": "https://www.arapahoegov.com/1662/Rent-and-Mortgage-Assistance",
     "recipient-type": "Local Government",
@@ -1134,7 +1134,7 @@
     "last-updated": "5/3/2021 6:11pm"
   },
   {
-    "recipient-name": "Jefferson, County of",
+    "recipient-name": " County of Jefferson",
     "name": "Jefferson",
     "URL": "https://www.jeffco.us/4021/Emergency-Assistance-COVID-19",
     "recipient-type": "Local Government",
@@ -1484,7 +1484,7 @@
     "last-updated": "5/3/2021 5:52pm"
   },
   {
-    "recipient-name": "Pasco, County Of",
+    "recipient-name": "County of Pasco",
     "name": "Pasco",
     "URL": "https://www.pascocountyfl.net/4385/Pasco-HEART",
     "recipient-type": "Local Government",
@@ -1498,7 +1498,7 @@
     "last-updated": "5/3/2021 6:04pm"
   },
   {
-    "recipient-name": "Pinellas, County of",
+    "recipient-name": "County of Pinellas",
     "name": "Pinellas",
     "URL": "https://covid19.pinellascounty.org/where-to-get-help/",
     "recipient-type": "Local Government",
@@ -2618,7 +2618,7 @@
     "last-updated": "5/17/2021 5:45pm"
   },
   {
-    "recipient-name": "City of Grand Rapids, Michigan",
+    "recipient-name": "City of Grand Rapids",
     "name": "Grand Rapids",
     "URL": "https://ceraapp.michigan.gov/",
     "recipient-type": "Local Government",
@@ -3220,7 +3220,7 @@
     "last-updated": "5/3/2021 6:11pm"
   },
   {
-    "recipient-name": "Middlesex, County of (INC)",
+    "recipient-name": "County of Middlesex (INC)",
     "name": "Middlesex (INC)",
     "URL": "http://www.middlesexcountynj.gov/rentalassistance",
     "recipient-type": "Local Government",
@@ -3964,7 +3964,7 @@
   {
     "recipient-name": "Cuyahoga County",
     "name": "Cuyahoga",
-    "URL": "http://council.cuyahogacounty.us/pdf_council/en-US/Legislation/Resolutions/2020/R2020-0114D%20Award%20to%20CHN%20Housing%20Partners%20for%20emergency%20rental%20assistance%20during%20COVID-19%20Pandemic.pdf",
+    "URL": "http://www.ceogc.org/covid-19-emergency-assistance/",
     "recipient-type": "Local Government",
     "state-territory": "OH",
     "state": "Ohio",
@@ -3973,10 +3973,10 @@
     "non-ERA-program-URL": "",
     "assistance-phone-number": "",
     "assistance-email": "",
-    "last-updated": "5/3/2021 6:03pm"
+    "last-updated": "5/19/2021 8:29am"
   },
   {
-    "recipient-name": "Franklin County, Ohio",
+    "recipient-name": "Franklin County",
     "name": "Franklin",
     "URL": "https://jfs.franklincountyohio.gov/emergency-assistance-(prc)",
     "recipient-type": "Local Government",
@@ -4118,7 +4118,7 @@
   {
     "recipient-name": "Oregon Housing and Community Services",
     "name": "Oregon",
-    "URL": "https://www.oregon.gov/ohcs/housing-assistance/Pages/emergency-rental-assistance.aspx",
+    "URL": "https://oerap.oregon.gov/orera/",
     "recipient-type": "State/DC",
     "state-territory": "OR",
     "state": "Oregon",
@@ -4127,7 +4127,7 @@
     "non-ERA-program-URL": "",
     "assistance-phone-number": "",
     "assistance-email": "",
-    "last-updated": "5/18/2021 5:28pm"
+    "last-updated": "5/19/2021 8:37am"
   },
   {
     "recipient-name": "County of Clackamas",
@@ -4662,7 +4662,7 @@
     "last-updated": "5/12/2021 6:17pm"
   },
   {
-    "recipient-name": "Rutherford, County of",
+    "recipient-name": "County of Rutherford",
     "name": "Rutherford",
     "URL": "https://rutherfordcountytn.gov/rental-relief-program",
     "recipient-type": "Local Government",
@@ -4676,7 +4676,7 @@
     "last-updated": "5/3/2021 6:11pm"
   },
   {
-    "recipient-name": "Shelby County, Tennessee",
+    "recipient-name": "Shelby County",
     "name": "Shelby",
     "URL": "http://home901.org/covid-resources/",
     "recipient-type": "Local Government",
