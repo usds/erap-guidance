@@ -275,7 +275,7 @@
   {
     "recipient-name": "Citizen Potawatomi Nation",
     "name": "Citizen Potawatomi Nation",
-    "URL": "https://www.potawatomi.org/wp-content/uploads/Application-for-Emergency-Rental-Assistance.pdf",
+    "URL": "https://www.potawatomi.org/low-income-program/",
     "recipient-type": "Indian Tribe or Tribally Designated Housing Entity",
     "state-territory": "OK",
     "state": "Oklahoma",
@@ -283,7 +283,7 @@
     "non-ERA-program-URL": "",
     "assistance-phone-number": "",
     "assistance-email": "",
-    "last-updated": "5/7/2021 3:05pm"
+    "last-updated": "5/19/2021 8:35am"
   },
   {
     "recipient-name": "Coharie Intra Tribal Council, Inc.",
@@ -452,7 +452,7 @@
     "non-ERA-program-URL": "",
     "assistance-phone-number": "",
     "assistance-email": "",
-    "last-updated": "5/7/2021 6:00pm"
+    "last-updated": "5/19/2021 8:49am"
   },
   {
     "recipient-name": "Eastern Shoshone Housing Authority",
@@ -603,8 +603,8 @@
     "URL": "http://www.hannahville.net/services/housing/",
     "recipient-type": "Indian Tribe or Tribally Designated Housing Entity",
     "state-territory": "MI",
-    "state": "",
-    "locality": "",
+    "state": "Michigan",
+    "locality": "Tribe or TDHE",
     "non-ERA-program-URL": "",
     "assistance-phone-number": "",
     "assistance-email": "",
@@ -673,7 +673,7 @@
     "non-ERA-program-URL": "",
     "assistance-phone-number": "",
     "assistance-email": "",
-    "last-updated": "5/13/2021 6:06pm"
+    "last-updated": "5/19/2021 8:49am"
   },
   {
     "recipient-name": "Karuk Tribe Housing Authority (TDHE, Karuk Tribe)",
@@ -798,8 +798,8 @@
     "URL": "https://lrboi-nsn.gov/emergency-rental-assistance-program/",
     "recipient-type": "Indian Tribe or Tribally Designated Housing Entity",
     "state-territory": "MI",
-    "state": "",
-    "locality": "",
+    "state": "Michigan",
+    "locality": "Tribe or TDHE",
     "non-ERA-program-URL": "",
     "assistance-phone-number": "",
     "assistance-email": "",
@@ -920,7 +920,7 @@
     "non-ERA-program-URL": "",
     "assistance-phone-number": "",
     "assistance-email": "",
-    "last-updated": "5/7/2021 6:15pm"
+    "last-updated": "5/19/2021 8:49am"
   },
   {
     "recipient-name": "Navajo Housing Authority",
@@ -1168,6 +1168,19 @@
     "assistance-phone-number": "",
     "assistance-email": "",
     "last-updated": "5/7/2021 4:16pm"
+  },
+  {
+    "recipient-name": "Pyramid Lake Housing Authority",
+    "name": "Pyramid Lake",
+    "URL": "https://plhousingauthority.weebly.com/applications.html",
+    "recipient-type": "Indian Tribe or Tribally Designated Housing Entity",
+    "state-territory": "NV",
+    "state": "Nevada",
+    "locality": "Tribe or TDHE",
+    "non-ERA-program-URL": "CARES",
+    "assistance-phone-number": "",
+    "assistance-email": "",
+    "last-updated": "5/19/2021 8:57am"
   },
   {
     "recipient-name": "Quapaw Nation Housing Department",
@@ -1726,7 +1739,7 @@
     "non-ERA-program-URL": "",
     "assistance-phone-number": "",
     "assistance-email": "",
-    "last-updated": "5/7/2021 12:54pm"
+    "last-updated": "5/19/2021 8:49am"
   },
   {
     "recipient-name": "Zuni Housing Authority",
