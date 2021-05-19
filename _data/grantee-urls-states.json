@@ -2746,7 +2746,7 @@
   {
     "recipient-name": "State of Missouri",
     "name": "Missouri",
-    "URL": "https://safhr.smapply.org/prog/safhr_renter_application_portal/",
+    "URL": "https://www.mohousingresources.com/",
     "recipient-type": "State/DC",
     "state-territory": "MO",
     "state": "Missouri",
@@ -2755,7 +2755,7 @@
     "non-ERA-program-URL": "",
     "assistance-phone-number": "",
     "assistance-email": "",
-    "last-updated": "5/3/2021 5:41pm"
+    "last-updated": "5/19/2021 5:32pm"
   },
   {
     "recipient-name": "Clay County",
@@ -4982,20 +4982,6 @@
     "assistance-phone-number": "",
     "assistance-email": "",
     "last-updated": "5/4/2021 2:58pm"
-  },
-  {
-    "recipient-name": "Montgomery County",
-    "name": "Montgomery",
-    "URL": "https://www.montgomerycountymd.gov/HHS-Program/SNHS/rent-relief.html",
-    "recipient-type": "Local Government",
-    "state-territory": "TX",
-    "state": "Texas",
-    "locality": "County",
-    "no-program": "",
-    "non-ERA-program-URL": "",
-    "assistance-phone-number": "",
-    "assistance-email": "",
-    "last-updated": "5/12/2021 6:20pm"
   },
   {
     "recipient-name": "City of Plano",
