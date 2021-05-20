@@ -58,7 +58,7 @@
   {
     "recipient-name": "Jefferson County Commission",
     "name": "Jefferson",
-    "URL": "https://birminghamul.org/household-support-program-1",
+    "URL": "https://erap.jccal.org/",
     "recipient-type": "Local Government",
     "state-territory": "AL",
     "state": "Alabama",
@@ -67,7 +67,7 @@
     "non-ERA-program-URL": "",
     "assistance-phone-number": "",
     "assistance-email": "",
-    "last-updated": "5/3/2021 6:09pm"
+    "last-updated": "5/20/2021 2:30pm"
   },
   {
     "recipient-name": "Mobile County",
@@ -1470,6 +1470,20 @@
     "last-updated": "5/3/2021 5:52pm"
   },
   {
+    "recipient-name": "Orlando",
+    "name": "Orlando",
+    "URL": "https://orlando.gov/assistance",
+    "recipient-type": "Local Government",
+    "state-territory": "FL",
+    "state": "Florida",
+    "locality": "City",
+    "no-program": "",
+    "non-ERA-program-URL": "",
+    "assistance-phone-number": "",
+    "assistance-email": "",
+    "last-updated": "5/20/2021 2:36pm"
+  },
+  {
     "recipient-name": "Board of County Commissioners Palm Beach County",
     "name": "Palm Beach",
     "URL": "https://www.rentalassistancepbc.org/",
@@ -2366,6 +2380,20 @@
     "last-updated": "5/4/2021 2:58pm"
   },
   {
+    "recipient-name": "Lafayette City",
+    "name": "Lafayette City",
+    "URL": "https://smilecaa.org/programs/lafayette-emergency-assistance-program/",
+    "recipient-type": "Local Government",
+    "state-territory": "LA",
+    "state": "Louisiana",
+    "locality": "County",
+    "no-program": "",
+    "non-ERA-program-URL": "",
+    "assistance-phone-number": "",
+    "assistance-email": "",
+    "last-updated": "5/20/2021 2:55pm"
+  },
+  {
     "recipient-name": "City of New Orleans",
     "name": "New Orleans",
     "URL": "https://ready.nola.gov/incident/coronavirus/assistance/#rent",
@@ -2615,7 +2643,7 @@
     "non-ERA-program-URL": "CARES",
     "assistance-phone-number": "(810) 232-2185",
     "assistance-email": "",
-    "last-updated": "5/17/2021 5:45pm"
+    "last-updated": "5/20/2021 8:51am"
   },
   {
     "recipient-name": "City of Grand Rapids",
@@ -3007,7 +3035,7 @@
     "non-ERA-program-URL": "CHAP",
     "assistance-phone-number": "",
     "assistance-email": "",
-    "last-updated": "5/4/2021 1:12pm"
+    "last-updated": "5/20/2021 8:50am"
   },
   {
     "recipient-name": "City of Reno",
@@ -3091,7 +3119,7 @@
     "non-ERA-program-URL": "CDBG",
     "assistance-phone-number": "",
     "assistance-email": "",
-    "last-updated": "5/18/2021 8:52am"
+    "last-updated": "5/20/2021 8:50am"
   },
   {
     "recipient-name": "County of Bergen",
@@ -3175,7 +3203,7 @@
     "non-ERA-program-URL": "General rent or utility assistance",
     "assistance-phone-number": "",
     "assistance-email": "",
-    "last-updated": "5/18/2021 9:04am"
+    "last-updated": "5/20/2021 8:50am"
   },
   {
     "recipient-name": "County of Hudson",
@@ -3315,7 +3343,7 @@
     "non-ERA-program-URL": "CDBG",
     "assistance-phone-number": "",
     "assistance-email": "",
-    "last-updated": "5/18/2021 8:58am"
+    "last-updated": "5/20/2021 8:50am"
   },
   {
     "recipient-name": "County of Union",
@@ -3483,7 +3511,7 @@
     "non-ERA-program-URL": "",
     "assistance-phone-number": "(716) 881-6543",
     "assistance-email": "swatson@caowny.org",
-    "last-updated": "5/18/2021 3:57pm"
+    "last-updated": "5/20/2021 8:54am"
   },
   {
     "recipient-name": "Town of Hempstead",
@@ -3497,7 +3525,7 @@
     "non-ERA-program-URL": "",
     "assistance-phone-number": "",
     "assistance-email": "",
-    "last-updated": "5/17/2021 5:08pm"
+    "last-updated": "5/20/2021 8:54am"
   },
   {
     "recipient-name": "Town of Huntington",
@@ -3567,7 +3595,7 @@
     "non-ERA-program-URL": "",
     "assistance-phone-number": "",
     "assistance-email": "",
-    "last-updated": "5/13/2021 2:19pm"
+    "last-updated": "5/20/2021 8:52am"
   },
   {
     "recipient-name": "Niagara County",
@@ -3922,7 +3950,7 @@
   {
     "recipient-name": "City of Cincinnati",
     "name": "Cincinnati",
-    "URL": "https://www.hamiltoncountyohio.gov/government/open_hamilton_county/projects/cares_act_funding",
+    "URL": "https://www.cincy-caa.org/what-we-do/supportive-services/caa-home-relief.html",
     "recipient-type": "Local Government",
     "state-territory": "OH",
     "state": "Ohio",
@@ -3931,7 +3959,7 @@
     "non-ERA-program-URL": "CARES",
     "assistance-phone-number": "",
     "assistance-email": "",
-    "last-updated": "5/18/2021 9:37am"
+    "last-updated": "5/20/2021 2:43pm"
   },
   {
     "recipient-name": "City of Cleveland",
@@ -3987,21 +4015,21 @@
     "non-ERA-program-URL": "CARES",
     "assistance-phone-number": "",
     "assistance-email": "",
-    "last-updated": "5/18/2021 9:41am"
+    "last-updated": "5/20/2021 8:51am"
   },
   {
     "recipient-name": "Hamilton County",
     "name": "Hamilton",
-    "URL": "https://www.hctaindiana.com/era",
+    "URL": "https://513relief.org/housing-utility-relief/",
     "recipient-type": "Local Government",
     "state-territory": "OH",
     "state": "Ohio",
     "locality": "County",
     "no-program": "",
-    "non-ERA-program-URL": "",
+    "non-ERA-program-URL": "CARES",
     "assistance-phone-number": "",
     "assistance-email": "",
-    "last-updated": "5/13/2021 6:05pm"
+    "last-updated": "5/20/2021 2:51pm"
   },
   {
     "recipient-name": "Lorain County",
@@ -4169,7 +4197,7 @@
     "non-ERA-program-URL": "CARES",
     "assistance-phone-number": "",
     "assistance-email": "",
-    "last-updated": "5/12/2021 6:15pm"
+    "last-updated": "5/20/2021 8:51am"
   },
   {
     "recipient-name": "Washington County",
@@ -4561,7 +4589,7 @@
     "non-ERA-program-URL": "General rent or utility assistance",
     "assistance-phone-number": "",
     "assistance-email": "",
-    "last-updated": "5/18/2021 9:15am"
+    "last-updated": "5/20/2021 8:50am"
   },
   {
     "recipient-name": "Richland County",
@@ -5303,7 +5331,7 @@
     "non-ERA-program-URL": "",
     "assistance-phone-number": "",
     "assistance-email": "",
-    "last-updated": "5/5/2021 10:28am"
+    "last-updated": "5/20/2021 8:54am"
   },
   {
     "recipient-name": "Snohomish County",
@@ -5415,7 +5443,7 @@
     "non-ERA-program-URL": "Dane CORE",
     "assistance-phone-number": "",
     "assistance-email": "",
-    "last-updated": "5/17/2021 9:01pm"
+    "last-updated": "5/20/2021 8:50am"
   },
   {
     "recipient-name": "City of Milwaukee",
