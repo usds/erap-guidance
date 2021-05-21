@@ -842,7 +842,7 @@
   {
     "recipient-name": "City of San Jose",
     "name": "San Jose",
-    "URL": "https://sacredheartcs.org/programs/housing/",
+    "URL": "http://sccrenthelp.org/",
     "recipient-type": "Local Government",
     "state-territory": "CA",
     "state": "California",
@@ -851,7 +851,7 @@
     "non-ERA-program-URL": "",
     "assistance-phone-number": "",
     "assistance-email": "",
-    "last-updated": "5/3/2021 5:53pm"
+    "last-updated": "5/21/2021 4:17pm"
   },
   {
     "recipient-name": "County of San Luis Obispo",
@@ -912,7 +912,7 @@
   {
     "recipient-name": "County of Santa Clara",
     "name": "Santa Clara",
-    "URL": "https://www.santaclaraca.gov/our-city/departments-a-f/community-development/housing-community-services-division/emergency-rental-assistance",
+    "URL": "http://sccrenthelp.org/",
     "recipient-type": "Local Government",
     "state-territory": "CA",
     "state": "California",
@@ -921,7 +921,7 @@
     "non-ERA-program-URL": "",
     "assistance-phone-number": "",
     "assistance-email": "",
-    "last-updated": "5/3/2021 5:57pm"
+    "last-updated": "5/21/2021 4:18pm"
   },
   {
     "recipient-name": "City of Santa Clarita",
@@ -1206,7 +1206,7 @@
   {
     "recipient-name": "State of Florida, Department of Financial Services",
     "name": "Florida",
-    "URL": "https://www.myflfamilies.com/covid19/emergency-rental-assistance.shtml",
+    "URL": "https://www.ourflorida.com/",
     "recipient-type": "State/DC",
     "state-territory": "FL",
     "state": "Florida",
@@ -1215,7 +1215,7 @@
     "non-ERA-program-URL": "",
     "assistance-phone-number": "",
     "assistance-email": "",
-    "last-updated": "5/5/2021 10:52am"
+    "last-updated": "5/21/2021 9:43am"
   },
   {
     "recipient-name": "Alachua County Board of County Commissioners",
@@ -4744,6 +4744,20 @@
     "assistance-phone-number": "",
     "assistance-email": "",
     "last-updated": "5/3/2021 5:54pm"
+  },
+  {
+    "recipient-name": "Bell County",
+    "name": "Bell",
+    "URL": "http://hccaa.com/emergency-disaster/",
+    "recipient-type": "Local Government",
+    "state-territory": "TX",
+    "state": "Texas",
+    "locality": "County",
+    "no-program": "",
+    "non-ERA-program-URL": "",
+    "assistance-phone-number": "",
+    "assistance-email": "",
+    "last-updated": "5/21/2021 4:26pm"
   },
   {
     "recipient-name": "Brazoria County",
