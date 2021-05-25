@@ -590,7 +590,7 @@
   {
     "recipient-name": "County of Merced",
     "name": "Merced",
-    "URL": "https://www.mercedcaa.com/v2/wp-content/uploads/2020/08/Covid19_Rent_Brochure.docx.pdf",
+    "URL": "https://3f6be7c6-465d-489e-8fa8-622ef07b6774.filesusr.com/ugd/f82c08_84a32dd3c2734d0bbd84616521d00703.pdf",
     "recipient-type": "Local Government",
     "state-territory": "CA",
     "state": "California",
@@ -599,7 +599,7 @@
     "non-ERA-program-URL": "",
     "assistance-phone-number": "",
     "assistance-email": "",
-    "last-updated": "5/19/2021 8:48am"
+    "last-updated": "5/24/2021 12:05pm"
   },
   {
     "recipient-name": "City of Modesto",
@@ -1132,6 +1132,20 @@
     "assistance-phone-number": "",
     "assistance-email": "",
     "last-updated": "5/3/2021 6:11pm"
+  },
+  {
+    "recipient-name": "El Paso County",
+    "name": "El Paso",
+    "URL": "https://cdola.colorado.gov/rental-mortgage-assistance",
+    "recipient-type": "Local Government",
+    "state-territory": "CO",
+    "state": "Colorado",
+    "locality": "County",
+    "no-program": "",
+    "non-ERA-program-URL": "",
+    "assistance-phone-number": "",
+    "assistance-email": "",
+    "last-updated": "5/24/2021 12:36pm"
   },
   {
     "recipient-name": " County of Jefferson",
@@ -2032,7 +2046,7 @@
   {
     "recipient-name": "Madison County Community Development",
     "name": "Madison",
-    "URL": "https://www.dhs.state.il.us/page.aspx?item=124295",
+    "URL": "https://www.co.madison.il.us/departments/community_development/rent_and_mortgage_assistance.php",
     "recipient-type": "Local Government",
     "state-territory": "IL",
     "state": "Illinois",
@@ -2041,7 +2055,7 @@
     "non-ERA-program-URL": "",
     "assistance-phone-number": "",
     "assistance-email": "",
-    "last-updated": "5/10/2021 2:19pm"
+    "last-updated": "5/24/2021 12:07pm"
   },
   {
     "recipient-name": "McHenry County",
@@ -2686,6 +2700,20 @@
     "assistance-phone-number": "",
     "assistance-email": "",
     "last-updated": "5/3/2021 5:42pm"
+  },
+  {
+    "recipient-name": "Anoka County",
+    "name": "Anoka",
+    "URL": "https://www.renthelpmn.org/",
+    "recipient-type": "Local Government",
+    "state-territory": "MN",
+    "state": "Minnesota",
+    "locality": "County",
+    "no-program": "",
+    "non-ERA-program-URL": "",
+    "assistance-phone-number": "",
+    "assistance-email": "",
+    "last-updated": "5/24/2021 12:39pm"
   },
   {
     "recipient-name": "Hennepin County",
@@ -3948,6 +3976,20 @@
     "last-updated": "5/3/2021 5:34pm"
   },
   {
+    "recipient-name": "Butler County",
+    "name": "Butler",
+    "URL": "https://selfhelps.org/",
+    "recipient-type": "Local Government",
+    "state-territory": "OH",
+    "state": "Ohio",
+    "locality": "County",
+    "no-program": "",
+    "non-ERA-program-URL": "",
+    "assistance-phone-number": "",
+    "assistance-email": "",
+    "last-updated": "5/24/2021 12:03pm"
+  },
+  {
     "recipient-name": "City of Cincinnati",
     "name": "Cincinnati",
     "URL": "https://www.cincy-caa.org/what-we-do/supportive-services/caa-home-relief.html",
@@ -3960,6 +4002,20 @@
     "assistance-phone-number": "",
     "assistance-email": "",
     "last-updated": "5/20/2021 2:43pm"
+  },
+  {
+    "recipient-name": "Clermont County Job & Family Services",
+    "name": "Clermont",
+    "URL": "https://clermontcountyohio.gov/emergency-rental-and-utility-assistance/",
+    "recipient-type": "Local Government",
+    "state-territory": "OH",
+    "state": "Ohio",
+    "locality": "County",
+    "no-program": "",
+    "non-ERA-program-URL": "",
+    "assistance-phone-number": "",
+    "assistance-email": "Support@CCCSI.org",
+    "last-updated": "5/25/2021 6:01pm"
   },
   {
     "recipient-name": "City of Cleveland",
@@ -4510,7 +4566,7 @@
   {
     "recipient-name": "State of South Carolina",
     "name": "South Carolina",
-    "URL": "https://schousing.com/home/sc-stay",
+    "URL": "https://schousing.com/home/SC-Stay-Plus",
     "recipient-type": "State/DC",
     "state-territory": "SC",
     "state": "South Carolina",
@@ -4519,7 +4575,7 @@
     "non-ERA-program-URL": "",
     "assistance-phone-number": "",
     "assistance-email": "",
-    "last-updated": "5/3/2021 5:42pm"
+    "last-updated": "5/25/2021 5:52pm"
   },
   {
     "recipient-name": "Anderson County",
