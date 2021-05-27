@@ -4228,6 +4228,34 @@
     "last-updated": "5/18/2021 9:42am"
   },
   {
+    "recipient-name": "Lane County",
+    "name": "Lane",
+    "URL": "https://lanecounty.org/government/county_departments/health_and_human_services/public_health/2019_novel_coronavirus__c_o_v_i_d19/rent_assistance",
+    "recipient-type": "Local Government",
+    "state-territory": "OR",
+    "state": "Oregon",
+    "locality": "County",
+    "no-program": "",
+    "non-ERA-program-URL": "",
+    "assistance-phone-number": "",
+    "assistance-email": "",
+    "last-updated": "5/27/2021 9:34am"
+  },
+  {
+    "recipient-name": "Marion County",
+    "name": "Marion",
+    "URL": "https://oerap.oregon.gov/orera",
+    "recipient-type": "Local Government",
+    "state-territory": "OR",
+    "state": "Oregon",
+    "locality": "County",
+    "no-program": "",
+    "non-ERA-program-URL": "",
+    "assistance-phone-number": "",
+    "assistance-email": "",
+    "last-updated": "5/27/2021 9:37am"
+  },
+  {
     "recipient-name": "Multnomah County",
     "name": "Multnomah",
     "URL": "https://www.211info.org/multco-rent",
@@ -5444,6 +5472,20 @@
     "assistance-phone-number": "",
     "assistance-email": "",
     "last-updated": "5/3/2021 6:14pm"
+  },
+  {
+    "recipient-name": "Yakima County",
+    "name": "Yakima",
+    "URL": "https://www.yakimacounty.us/2453/For-Tenants-and-Landlords",
+    "recipient-type": "Local Government",
+    "state-territory": "WA",
+    "state": "Washington ",
+    "locality": "County",
+    "no-program": "",
+    "non-ERA-program-URL": "",
+    "assistance-phone-number": "",
+    "assistance-email": "",
+    "last-updated": "5/26/2021 8:51am"
   },
   {
     "recipient-name": "West Virginia State Executive Office",
