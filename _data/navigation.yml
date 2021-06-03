@@ -73,10 +73,15 @@ programs:
     href: "/implementation-guidance/tribes-and-tdhe/"
     desc: Clarification on eligibility for members and non-members.
     name: tribes
-  - text: "FAQs"
+  - text: FAQs
     href: "/implementation-guidance/faqs/"
     desc: The original format for this guidance provided here as reference.
     name: faqs
+    subnav:
+    - text: FAQs by category
+      href: /implementation-guidance/faqs/by-category/
+      desc: FAQs categorized into sections.
+      name: faqs-by-category
 - text: "Documentation & reporting requirements"
   href: "/documentation-and-reporting/"
   desc: Describes what must be documented and provides details on written attestations.

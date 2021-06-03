@@ -17,7 +17,7 @@ Further, the revised award term no longer requires grantees to deduct administra
 
 Grantees may apply their negotiated indirect cost rate to the award but only to the extent that the total of the amount charged pursuant to that rate and the amount of direct costs charged to the award does not exceed 10 percent of the amount of the award. 
 
-<a href="{{ site.baseurl }}/faqs#29" class="era-guidance__faq-reference"><span class="usa-tag">FAQ #29</span></a>
+<a href="{{ site.baseurl }}/implementation-guidance/faqs#29" class="era-guidance__faq-reference"><span class="usa-tag">FAQ #29</span></a>
 
 ## Document your policies for how you prioritize applications
 
@@ -25,7 +25,7 @@ Document your policies and procedures for determining a household’s eligibilit
 Include clear descriptions of when you will accept written attestations from applicants without additional documentation for any aspect of eligibility or the amount of assistance. 
 You must also have controls in place to ensure compliance with your policies and procedures and prevent fraud. Describe how you will validate your determinations and include policies and procedures for preventing fraud and abuse. 
 
-<a href="{{ site.baseurl }}/faqs#1p3" class="era-guidance__faq-reference"><span class="usa-tag">FAQ #1</span></a>
+<a href="{{ site.baseurl }}/implementation-guidance/faqs#1p3" class="era-guidance__faq-reference"><span class="usa-tag">FAQ #1</span></a>
 
 <span class="era-placeholder">
   Link to an example policies and procedures manual / or a flexi-template where grantees can fill in the blanks for their own policies.
@@ -41,14 +41,14 @@ Any entity you make subawards or payments to from the ERA program are subject to
 
 Treasury encourages grantees to achieve administrative efficiency and fiduciary responsibility by collaborating with other grantees in joint administrative solutions to deploying ERA resources.
 
-<a href="{{ site.baseurl }}/faqs#21" class="era-guidance__faq-reference"><span class="usa-tag">FAQ #21</span></a>
+<a href="{{ site.baseurl }}/implementation-guidance/faqs#21" class="era-guidance__faq-reference"><span class="usa-tag">FAQ #21</span></a>
 
 ## Your program will not be required to remit interest earned to Treasury
 
 ERA payments made by Treasury to states, territories, and the District of Columbia are not subject to the requirement of the Cash Management Improvement Act and Treasury’s implementing regulations at 31 CFR part 205 to remit interest to Treasury. ERA payments made by Treasury to local governments, Tribes, and TDHEs are not subject to the requirement of 2 CFR 200.305(b)(8)-(9) to maintain balances in an interest-bearing account and remit payments to Treasury. 
 
-<a href="{{ site.baseurl }}/faqs#24" class="era-guidance__faq-reference"><span class="usa-tag">FAQ #24</span></a>
+<a href="{{ site.baseurl }}/implementation-guidance/faqs#24" class="era-guidance__faq-reference"><span class="usa-tag">FAQ #24</span></a>
 
 Treasury may recoup ERA funds from a grantee if the grantee does not comply with the applicable limitations on the use of those funds.
 
-<a href="{{ site.baseurl }}/faqs#25" class="era-guidance__faq-reference"><span class="usa-tag">FAQ #25</span></a>
+<a href="{{ site.baseurl }}/implementation-guidance/faqs#25" class="era-guidance__faq-reference"><span class="usa-tag">FAQ #25</span></a>

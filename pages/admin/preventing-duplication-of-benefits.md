@@ -12,7 +12,7 @@ You can rely on an attestation from the applicant regarding non-duplication with
 
 We encourage grantees with overlapping or contiguous jurisdictions to coordinate and participate in joint administrative solutions to meet this requirement.
 
-<a href="{{ site.baseurl }}/faqs#15" class="era-guidance__faq-reference"><span class="usa-tag">FAQ #15</span></a>
+<a href="{{ site.baseurl }}/implementation-guidance/faqs#15" class="era-guidance__faq-reference"><span class="usa-tag">FAQ #15</span></a>
 
 <span class="era-guidance__placeholder">
   Additional content needs to be written.
