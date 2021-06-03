@@ -455,6 +455,19 @@
     "last-updated": "5/4/2021 2:59pm"
   },
   {
+    "recipient-name": "Crow Creek Housing Authority",
+    "name": "Crow Creek Housing Authority",
+    "URL": "https://crowcreekhousing.org/index.php/forms-and-info/",
+    "recipient-type": "Indian Tribe or Tribally Designated Housing Entity",
+    "state-territory": "SD",
+    "state": "South Dakota",
+    "locality": "Tribe or TDHE",
+    "non-ERA-program-URL": "",
+    "assistance-phone-number": "(605) 245-2250",
+    "assistance-email": "",
+    "last-updated": "5/27/2021 6:41pm"
+  },
+  {
     "recipient-name": "Delaware Nation",
     "name": "Delaware Nation",
     "URL": "https://www.delawarenation-nsn.gov/housing/",
@@ -635,6 +648,19 @@
     "assistance-phone-number": "",
     "assistance-email": "",
     "last-updated": "5/3/2021 6:13pm"
+  },
+  {
+    "recipient-name": "Goshute Housing Athority",
+    "name": "Goshute Housing Athority",
+    "URL": "http://www.goshutehousing.com/currentnews.shtml",
+    "recipient-type": "Indian Tribe or Tribally Designated Housing Entity",
+    "state-territory": "UT",
+    "state": "Utah",
+    "locality": "Tribe or TDHE",
+    "non-ERA-program-URL": "",
+    "assistance-phone-number": "(435) 234-1174",
+    "assistance-email": "goshutehousing@gmail.com",
+    "last-updated": "5/27/2021 6:34pm"
   },
   {
     "recipient-name": "Grand Traverse Band of Ottawa and Chippewa Indians",
@@ -1118,6 +1144,19 @@
     "last-updated": "5/5/2021 9:14am"
   },
   {
+    "recipient-name": "Nambe Pueblo Housing Entity",
+    "name": "Nambe Pueblo Housing Entity",
+    "URL": "http://www.nambepueblo.org/wp-content/uploads/2020/11/Nambe-General-Welfare-Assistance-Program-Cover-Letter-and-Application_Final.pdf",
+    "recipient-type": "Indian Tribe or Tribally Designated Housing Entity",
+    "state-territory": "NM",
+    "state": "New Mexico",
+    "locality": "Tribe or TDHE",
+    "non-ERA-program-URL": "CARES",
+    "assistance-phone-number": "",
+    "assistance-email": "COVID19@nambepueblo.org",
+    "last-updated": "5/27/2021 5:30pm"
+  },
+  {
     "recipient-name": "Narragansett Indian Tribe",
     "name": "Narragansett Indian Tribe",
     "URL": "https://secureservercdn.net/198.71.233.179/kv4.f55.myftpupload.com/wp-content/uploads/2020/07/DEPARTMENT-OF-HOUSING-What-s-new.pdf",
@@ -1441,6 +1480,19 @@
     "assistance-phone-number": "(785) 966-2756",
     "assistance-email": "",
     "last-updated": "5/26/2021 11:58am"
+  },
+  {
+    "recipient-name": "Pueblo of Acoma Housing Authority",
+    "name": "Pueblo of Acoma Housing Authority",
+    "URL": "https://acomahousing.org/",
+    "recipient-type": "Indian Tribe or Tribally Designated Housing Entity",
+    "state-territory": "NM",
+    "state": "New Mexico",
+    "locality": "Tribe or TDHE",
+    "non-ERA-program-URL": "",
+    "assistance-phone-number": "(505) 552-7528",
+    "assistance-email": "",
+    "last-updated": "5/27/2021 4:31pm"
   },
   {
     "recipient-name": "Pyramid Lake Housing Authority",
