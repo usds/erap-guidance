@@ -38,7 +38,7 @@ title: Emergency Rental Assistance Programs
     <h4 class="era-program__state">
       {{ state.name}}
     </h4>
-    <a class="era-program__state-url" href="{{ program.URL }}" target="_blank">
+    <a class="era-program__state-url" href="{{ program.URL }}" target="_blank" rel="noopener">
       {{ program.URL }}
     </a>
       {% if program.recipient-name != '' %}
@@ -54,7 +54,7 @@ title: Emergency Rental Assistance Programs
     {% else %}
     <dl class="era-program__list">
       <dt class="era-program__name">
-        <a href="{{ program.URL | uri_escape }}" target="_blank">
+        <a href="{{ program.URL | uri_escape }}" target="_blank" rel="noopener">
           {{program.name | downcase }} - {{ program.recipient-name | downcase }}
         </a>
       </dt>
@@ -71,7 +71,7 @@ title: Emergency Rental Assistance Programs
 
 {% for territory in territories %}
   <h4 class="era-program__territory">
-    <a href="{{ territory.URL }}" target="_blank">
+    <a href="{{ territory.URL }}" target="_blank" rel="noopener">
       {{ territory.name | downcase }}
     </a>
   </h4>
@@ -90,7 +90,7 @@ title: Emergency Rental Assistance Programs
 {% for tribe in tribes %}
   {% assign slug_id = tribe.name | slugify %}
   <h4 class="era-program__tribe">
-    <a href="{{ tribe.URL }}" target="_blank">
+    <a href="{{ tribe.URL }}" target="_blank" rel="noopener">
       {{ tribe.recipient-name }}
     </a>
   </h4>
