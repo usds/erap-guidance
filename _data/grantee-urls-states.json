@@ -123,7 +123,7 @@
     "non-ERA-program-URL": "",
     "assistance-phone-number": "",
     "assistance-email": "",
-    "last-updated": "5/3/2021 5:47pm"
+    "last-updated": "6/8/2021 9:51am"
   },
   {
     "recipient-name": "Municipality of Anchorage",
@@ -966,9 +966,23 @@
     "last-updated": "5/4/2021 2:58pm"
   },
   {
+    "recipient-name": "City of Santa Cruz",
+    "name": "Santa Cruz",
+    "URL": "https://www.cityofsantacruz.com/government/city-departments/economic-development/housing-assistance-information",
+    "recipient-type": "Local Government",
+    "state-territory": "CA",
+    "state": "California",
+    "locality": "City",
+    "no-program": "",
+    "non-ERA-program-URL": "",
+    "assistance-phone-number": "",
+    "assistance-email": "",
+    "last-updated": "6/7/2021 4:55pm"
+  },
+  {
     "recipient-name": "County of Santa Cruz",
     "name": "Santa Cruz County",
-    "URL": "https://www.cityofsantacruz.com/government/city-departments/economic-development/housing-assistance-information",
+    "URL": "https://housing.ca.gov/",
     "recipient-type": "Local Government",
     "state-territory": "CA",
     "state": "California",
@@ -977,7 +991,7 @@
     "non-ERA-program-URL": "",
     "assistance-phone-number": "",
     "assistance-email": "",
-    "last-updated": "5/17/2021 5:30pm"
+    "last-updated": "6/7/2021 4:58pm"
   },
   {
     "recipient-name": "County of Solano",
@@ -3684,7 +3698,7 @@
   {
     "recipient-name": "Town of Hempstead",
     "name": "Hempstead",
-    "URL": "https://www.lihp.org/hempsteadERAP.html",
+    "URL": "https://www.lihp.org/herapintake.html",
     "recipient-type": "Local Government",
     "state-territory": "NY",
     "state": "New York",
@@ -3693,7 +3707,7 @@
     "non-ERA-program-URL": "",
     "assistance-phone-number": "",
     "assistance-email": "",
-    "last-updated": "5/20/2021 8:54am"
+    "last-updated": "6/7/2021 4:52pm"
   },
   {
     "recipient-name": "Town of Huntington",
@@ -5742,7 +5756,7 @@
   {
     "recipient-name": "Fairfax County",
     "name": "Fairfax",
-    "URL": "https://hhsncs.powerappsportals.us/",
+    "URL": "https://www.fairfaxcounty.gov/health-humanservices/eviction-prevention",
     "recipient-type": "Local Government",
     "state-territory": "VA",
     "state": "Virginia",
@@ -5751,7 +5765,7 @@
     "non-ERA-program-URL": "",
     "assistance-phone-number": "",
     "assistance-email": "",
-    "last-updated": "5/3/2021 5:52pm"
+    "last-updated": "6/7/2021 4:47pm"
   },
   {
     "recipient-name": "Prince William County",
