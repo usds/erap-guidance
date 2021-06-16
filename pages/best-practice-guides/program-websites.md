@@ -25,7 +25,7 @@ title: Best practices for program web sites
 
 First and foremost, all grantees would ideally provide:
 
-* **A single landing page** that provides all of the information an applicant needs to apply. 
+* **A central landing page** that provides the key information an applicant needs to apply.
 * **A single URL** where that page is hosted that is easy to remember. 
 
 Learn more about what to put on your landing page in the "What to include on your ERA page" section. 
@@ -37,10 +37,9 @@ Here are some examples of URL patterns being used that are short, concise, and e
 * [city].gov/rental-assistance/
 * era.[county or city].gov
 
-You be able to make this single URL an alias that redirects the resident to another page or site with a longer URL. 
+If necessary, make this single URL an alias that redirects the resident to another page or site with a longer URL. 
 
-Finally, if you are providing information on your web site but a resident cannot apply on your site, state that clearly. It's important for potential applicants to know if they are in the right place to apply or not. 
-
+Finally, if you are providing information on your web site but a resident cannot apply on your site, state that clearly. It's important for potential applicants to know if they are in the right place to apply or not. The key is transparency. If your application is closed temporarily, give residents information about when they might revisit the application. If there are other programs that the resident can apply through, we also highly recommend providing that language as well.
 
 
 ## What to include on your ERA page
@@ -50,13 +49,11 @@ Finally, if you are providing information on your web site but a resident cannot
 Start with a summary or overview that handles the basic who, what, when, where, why, and how of the program. This section should be brief and surface the most relevant parts of the sections that follow.
 
 * **Who** the program is for
-* **What** can be covered and **which** documentation is needed from the resident (Be brief and use examples)
+* **What** can be covered
 * **When** are applications being accepted
 * **Where** and **how** a resident can apply, what they should expect next, **where** to get help with their application, and **how** to check the status of an application that has already been filed
 * **Why** the program was created
 * **How** the program works 
-
-
 
 ### Who is eligible to apply
 
@@ -64,54 +61,45 @@ After that brief summary move on to the details of who is eligible to apply.
 
 * Include an AMI table or calculator to help residents determine if they are eligible.
 * Redirect homeowners to available mortgage assistance. 
-* If the renter or landlord viewing the information deems themselevs ineligible, link to other resources available in the area for housing and utility assistance whenever possible.
-
-
+* If the renter or landlord viewing the information deems themselves ineligible, link to other resources available in the area for housing and utility assistance whenever possible.
 
 ### What can be covered
 
-Discuss the eligible uses of funds provided to tenants and landlords. In addition, discuss the length of time these items can be covered. Be sure to detail whether or not you will cover the following and for how long:
+Discuss the eligible uses of funds provided to tenants and landlords including any important limitations regarding the amount of assistance that can be offered (for instance, program cannot cover rent accrued prior to March 13, 2020). Provide detail about whether you will cover the following:
 
 * Current rent
 * Rental arrears
 * Prospective rent
-* Utilities, internet, and home engery costs
+* Utilities, internet, and home energy costs
 * Fees
 * Security deposit
 
-
-
 ### Which documentation to gather
 
-This information should address each audience, renters and landlords, separately. [Mixing material intended for different audiences may confuse readers](https://www.plainlanguage.gov/guidelines/audience/address-separate-audiences-separately/). Thus you should place this information on distinct pages, or distinct sections of your page, with one written specifically for renters and one for landlords.
+This information should address each audience, renters and landlords, separately. [Mixing material intended for different audiences may confuse readers](https://www.plainlanguage.gov/guidelines/audience/address-separate-audiences-separately/). Thus you should place this information on a distinct section of your page, on distinct web pages, or early in the application process if separate applications are designed specifically for renters and landlords.
 
-* **Which documentation is required and which are alternative forms**: If self-attestation can be used instead of a certain document, be clear about that option in this section.
 * **Why is the documentation necessary**: For example, "Your application will be processed more quickly if you can provide the following documents."
-* **What will be done with the information:** On the pages for renters and landords it is also important to address privacy concerns and detail how the information will be used, who it will be shared with, and what information will or will not be shared.
-
-
+* **Which documentation is required and which are alternative forms**: If self-attestation can be used instead of a certain document, be clear about that option in this section.
+* **What will be done with the information:** On the pages for renters and landlords it is also important to address privacy concerns and detail how the information will be used, who it will be shared with, and what information will or will not be shared.
 
 ### When applications are being accepted
 
 Be clear if applications are or are not currently being accepted. If applications are not currently being accepted, indicate when the program will begin, reopen, or if the program opens in cycles.
 
-
-
 ### How to apply
 
 In this section, you want to be sure to be clear if the potential applicant is in the right place to apply or not. To achieve that be sure to include the following:
 
-#### A large, clear, Apply button
+#### One or two large, clear, "Apply" buttons; many grantees provide separate application buttons for tenants and landlords
 * Residents need a clear call-to-action. The apply button will be the one element residents are looking for above all else so don't make it difficult to find or small enough to miss. A large button will do the trick.
-* Ideally clicking apply takes the resident to the start of an online application. However, it is also appropriate to have apply link to an intake form that puts applicants into a queue. Also, it would be appropriate if apply linked to a PDF application. 
+* Ideally clicking apply takes the resident to the start of an online application. However, it is also appropriate to have "Apply" link to an intake form that puts applicants into a queue. Also, it would be appropriate if "Apply" linked to a PDF application. 
 
 #### Alternative ways to apply
 * Beneath the apply button link to another section on alternative ways to apply.
 * Keep in mind the person reading this page may not have regular access to a computer or may not be comfortable applying online and prefer another method. They may also be passing this information onto another person.
 
 #### If appropriate, where else to seek assistance
-* If residents should seek services from their county, city, or Tribal government first then redirect residents appropriately in this section. Your apply button may instead be a clear link to another resource within your State.
-
+* If residents should first seek services from a different grantee (the state, county, city, or Tribal government) then redirect residents appropriately in this section. Your apply button may instead be a clear link to another resource within your State.
 
 ### What to expect next
 
@@ -123,7 +111,6 @@ In this section provide the following information:
 * When applicants should expect to receive assistance
 * How an applicant can track the status of their application
 
-
 ### Where to get help
 
 In this section detail methods for receiving help with creating or tracking an application. Some potential help methods:
@@ -132,23 +119,19 @@ In this section detail methods for receiving help with creating or tracking an a
 * Phone or text number
 * In-person help center
 
-
 ### Why the program was created
 
 In this section you can provide further clarity around the intent of the program and discuss how this program may relate to past programs that were offered. Setting this context can help residents who may have applied before and may have questions around how much assistance is on offer. 
-
 
 ### How the program works
 
 This section can also help set background context for decisions made around how assistance is being prioritized and how long the program will run in greater detail.
 
-
-
 ## Other important items to consider including
 
-* Translate the page into languages used in your area and provide an easy to find way to change the language of the page.
+* Include links to translate the page into languages used in your area and provide an easy to find way to change the language of the page.
 * A checklist to help applicants prepare to apply.
-* Some qualified applicants will not be able to access or will not feel comfortable completing the ERA application online. To ensure that all residents have equal access to the ERA program it's important to provide an alternate means of applying, such as a paper form.
+* Some qualified applicants will not be able to access or will not feel comfortable completing the ERA application online. To ensure that all residents have equal access to the ERA program it's important to provide an alternate means of applying, such as a paper form or with support from ERA counselors. Some grantees have contracted with 2-1-1 systems or provided phone numbers for specialized ERA housing counselors.
 * Information around federal and state taxes. The [IRS has provided answers to federal tax questions](https://www.irs.gov/newsroom/emergency-rental-assistance-frequently-asked-questions).
 * Additional housing and homeowner resources.
 * Frequently asked questions.
@@ -156,7 +139,7 @@ This section can also help set background context for decisions made around how 
 
 ## Writing your ERA page in plain language
 
-The [federal government has resources on writing in plain language](https://www.plainlanguage.gov/guidelines/) the cover the following:
+The [federal government has resources on writing in plain language](https://www.plainlanguage.gov/guidelines/) which can help you:
 
 * Write for your audience
 * Organize the information
@@ -167,7 +150,7 @@ The [federal government has resources on writing in plain language](https://www.
 * Follow web standards
 * Test your assumptions
 
-You may also want to consider the [Snack, Bite, Meal]( https://www.mightycitizen.com/insights/articles/bite-snack-meal-are-you-making-your-web-content-digestible) form of writing content. This method presents information in three forms, each a bit longer and detailed than the previous:
+You may also want to consider the [Snack, Bite, Meal](https://en.wikipedia.org/wiki/Bite,_snack_and_meal) form of writing content. This method presents information in three forms, each a bit longer and detailed than the previous:
 
 1. **Bite**: A headline sentence or two.
 2. **Snack**: A summary or abstract of the information.
@@ -176,7 +159,6 @@ You may also want to consider the [Snack, Bite, Meal]( https://www.mightycitizen
 ## Example sites
 
 We've provided a few examples here of state, local, and tribal government web sites that follow most of the best practices detailed above. We hope you'll find these a useful reference point.
-
 
 <ul class="usa-card-group era-guidance-best-practice-sites__examples">
   <li class="tablet:grid-col-12 desktop:grid-col-11 usa-card usa-card--flag">
@@ -194,7 +176,9 @@ We've provided a few examples here of state, local, and tribal government web si
       </div>
       <div class="usa-card__footer">
         <a href="https://rentrelief.utah.gov/">
-          <button class="usa-button">View the State of Utah web site</button>
+          <button class="usa-button">
+            View the State of Utah web site
+          </button>
         </a>
       </div>
     </div>
