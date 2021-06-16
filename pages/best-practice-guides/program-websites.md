@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: default-one-col
 permalink: /best-practice-guides/program-web-sites/
 section: best-practice-guides
 sidenav: programs
@@ -169,7 +169,7 @@ The [federal government has resources on writing in plain language](https://www.
 
 You may also want to consider the [Snack, Bite, Meal]( https://www.mightycitizen.com/insights/articles/bite-snack-meal-are-you-making-your-web-content-digestible) form of writing content. This method presents information in three forms, each a bit longer and detailed than the previous:
 
-1. **Bite**: A headline sentance or two.
+1. **Bite**: A headline sentence or two.
 2. **Snack**: A summary or abstract of the information.
 3. **Meal**: The full details.
 

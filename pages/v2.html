@@ -1,0 +1,131 @@
+---
+layout: default
+permalink: /v2/
+program: local
+section: era
+sidenav: programs
+title: Emergency Rental Assistance Program
+---
+
+<p class="abstract">
+  The Emergency Rental Assistance program makes available $25 billion to assist households that are unable to pay rent and utilities due to the COVID-19 pandemic. The funds are provided directly to States, U.S. Territories, local governments, and Indian tribes. Grantees use the funds to provide assistance to eligible households through existing or newly created rental assistance programs.
+</p>
+
+<h3>Keeping Families in their Homes</h3>
+<h4>Latest updates</h4>
+<p>
+  On March 26, 2021, Treasury revised its FAQs and Grantee Award Terms for Emergency Rental Assistance. Treasury continues to work with stakeholders to provide additional guidance and technical assistance, which will be forthcoming.
+</p>
+<p>
+  <a href="{{ site.baseurl }}/changes/">View all changes</a>
+</p>
+
+<div class="usa-alert usa-alert--info" >
+  <div class="usa-alert__body">
+    <h4 class="usa-alert__heading">Tenant or landlord?</h4>
+    <p class="usa-alert__text">
+      Information for tenants and landlords is provided by the <a class="usa-link" href="https://www.consumerfinance.gov/coronavirus/mortgage-and-housing-assistance/">Consumer Financial Protection Bureau (CFPB)</a>. Information on this site is intended for state, local, and tribal governments administering rental assistance programs.
+    </p>
+  </div>
+</div>
+
+<h2>Implementation Guidance for Grantees</h2>
+
+<p>
+  The Department of the Treasury (Treasury) is providing this guidance covering the requirements of the Emergency Rental Assistance (ERA) program established by section 501 of Division N of the Consolidated Appropriations Act, 2021, Pub. L. No. 116-260 (Dec. 27, 2020) (the Act). 
+</p>
+<p>
+  This guidance replaces the <a href="{{site.baseurl}}/faqs/">FAQs</a> from January 19, February 22, and March 16. The <a href="{{site.baseurl}}/faqs/">FAQs</a> are still available for reference and guidance derived from those FAQs is indicated with a <span class="usa-tag">FAQ</span> tag and link back to that FAQ.
+</p>
+
+<h3>What’s new in this version of the guidance</h3>
+
+<p>
+  In this version, we have added guidance on using funds for households that:
+</p>
+
+<ul>
+  <li>Are displaced to hotels or motels</li>
+  <li>Rent-to-own or lease-to-own where they live</li>
+  <li>Rent a mobile home or property that a mobile home is on</li>
+</ul>
+ 
+<h3>Assumptions</h3>
+
+<p>
+  This guidance is tenant-centered, though we realize that most assistance will be paid directly to landlords and utility services. 
+</p>
+<p>
+  We assume that most applicants to your ERA programs will be renters / tenants. However, we recognize that many programs will work more directly with landlords.  
+</p>
+
+
+<h3>Definitions</h3>
+
+<h4>Income</h4>
+<p>For each household applying for assistance, you can choose either:</p>
+
+<p>HUD’s definition of “annual income” in 24 CFR 5.609</p>
+
+<p><strong>OR</strong></p>
+
+<p>IRS’s definition of adjusted gross income under Internal Revenue Service Form 1040 series for tax reporting.</p>
+
+<a href="{{ site.baseurl }}/faqs#4" class="era-guidance__faq-reference"><span class="usa-tag">FAQ #4</span></a>
+
+<h4>Area Median Income</h4>
+
+<p>
+  Area median income limits for a household are described in 42 U.S.C. 1437a(b)(2), under <a href="https://www.huduser.gov/portal/datasets/il.html">"Access Individual Income Limits Areas"</a>.
+</p>
+
+<a href="{{ site.baseurl }}/faqs#4" class="era-guidance__faq-reference"><span class="usa-tag">FAQ #4</span></a>
+
+<h4><span class="usa-tag usa-tag--new">New</span> High need</h4>
+<p>
+  Prioritizing applicants who are in the lowest annual income range (&lt;30% of AMI), have been unemployed for at 90 days or more, and are in geographic areas with the most high need renters.
+</p>
+
+<h2>What’s in the guidance</h2>
+<p>
+  This guidance covers eligibility for applicants, documentation requirements and options, what kinds of rent and utilities your ERA program may cover, and basic reporting requirements and processes. 
+</p>
+<p>
+  It also covers how to prevent fraud and misuse of program funds. 
+</p>
+<p>
+  The guiding principles of our policies for the Emergency Rental Assistance program are: 
+</p>
+
+<ul>
+  <li>
+    <span class="usa-tag usa-tag--new">New</span> Prioritize high need tenants in outreach and processing. 
+  </li>
+  <li>
+    Extend emergency assistance to vulnerable populations without imposing undue documentation burdens. 
+  </li>
+  <li>
+    Offer grantees flexibility on the documentation they require. Grantees can use photocopies or digital photographs of documents, e-malls, or attestations from employers, landlords, caseworkers, or others with knowledge of the household’s circumstances. 
+  </li>
+</ul>
+
+<p>
+  You must require all applications for assistance to include an attestation from the applicant that all information included is correct and complete. 
+</p>
+
+<h2>Sections of guidance</h2>
+<div class="era-guidance-section-links">
+{% assign local = site.data.navigation['programs'] | where: 'name', 'local' %}
+{% assign subnav = local[0]['subnav'] %}
+{% assign era = subnav | where: 'name', 'era' %}
+{% assign nav = era[0]['subnav'] | where: 'guidance', true %}
+{% assign guidance = nav[0]['subnav'] %}
+
+<div class="era-guidance-section-links">
+{% for link in nav %}
+  <h3>
+    <a href="{{ site.baseurl }}{{ link.href }}">{{ link.text }}</a>
+  </h3>
+  <p>{{ link.desc }}</p>
+{% endfor %}
+</div>

@@ -54,7 +54,7 @@ i.e.
 .layoutmanager .layout-row:after {
   content: "";
   display: table;
-  clear: both
+  clear: both;
 }
 
 .layoutmanager .row {
@@ -67,54 +67,112 @@ i.e.
 }
 
 .layoutmanager .col-lg-11 {
-    width: 86.66666667%
+  width: 86.66666667%;
 }
 
 .layoutmanager .col-lg-10 {
-    width: 78.33333333%
+  width: 78.33333333%;
 }
 
 .layoutmanager .col-lg-9 {
-    width: 70%
+  width: 70%;
 }
 
 .layoutmanager .col-lg-8 {
-    width: 61.66666667%
+  width: 61.66666667%;
 }
 
 .layoutmanager .col-lg-7 {
-    width: 53.33333333%
+  width: 53.33333333%;
 }
 
 .layoutmanager .col-lg-6 {
-    width: 45%
+  width: 45%;
 }
 
 .layoutmanager .col-lg-5 {
-    width: 36.66666667%
+  width: 36.66666667%;
 }
 
 .layoutmanager .col-lg-4 {
-    width: 28.33333333%
+  width: 28.33333333%;
 }
 
 .layoutmanager .col-lg-3 {
-    width: 20%
+  width: 20%;
 }
 
 .layoutmanager .col-lg-2 {
-    width: 11.66666667%
+  width: 11.66666667%;
 }
 
 .layoutmanager .col-lg-1 {
-    width: 3.33333333%
+  width: 3.33333333%;
 }
 
-.layoutmanager .col-lg-1, .layoutmanager .col-lg-10, .layoutmanager .col-lg-11, .layoutmanager .col-lg-12, .layoutmanager .col-lg-2, .layoutmanager .col-lg-3, .layoutmanager .col-lg-4, .layoutmanager .col-lg-5, .layoutmanager .col-lg-6, .layoutmanager .col-lg-7, .layoutmanager .col-lg-8, .layoutmanager .col-lg-9 {
+.layoutmanager .col-lg-1,
+.layoutmanager .col-lg-10,
+.layoutmanager .col-lg-11,
+.layoutmanager .col-lg-12,
+.layoutmanager .col-lg-2,
+.layoutmanager .col-lg-3,
+.layoutmanager .col-lg-4,
+.layoutmanager .col-lg-5,
+.layoutmanager .col-lg-6,
+.layoutmanager .col-lg-7,
+.layoutmanager .col-lg-8,
+.layoutmanager .col-lg-9 {
   float: left;
 }
 
-.layoutmanager .col-lg-1, .layoutmanager .col-lg-10, .layoutmanager .col-lg-11, .layoutmanager .col-lg-12, .layoutmanager .col-lg-2, .layoutmanager .col-lg-3, .layoutmanager .col-lg-4, .layoutmanager .col-lg-5, .layoutmanager .col-lg-6, .layoutmanager .col-lg-7, .layoutmanager .col-lg-8, .layoutmanager .col-lg-9, .layoutmanager .col-md-1, .layoutmanager .col-md-10, .layoutmanager .col-md-11, .layoutmanager .col-md-12, .layoutmanager .col-md-2, .layoutmanager .col-md-3, .layoutmanager .col-md-4, .layoutmanager .col-md-5, .layoutmanager .col-md-6, .layoutmanager .col-md-7, .layoutmanager .col-md-8, .layoutmanager .col-md-9, .layoutmanager .col-sm-1, .layoutmanager .col-sm-10, .layoutmanager .col-sm-11, .layoutmanager .col-sm-12, .layoutmanager .col-sm-2, .layoutmanager .col-sm-3, .layoutmanager .col-sm-4, .layoutmanager .col-sm-5, .layoutmanager .col-sm-6, .layoutmanager .col-sm-7, .layoutmanager .col-sm-8, .layoutmanager .col-sm-9, .layoutmanager .col-xs-1, .layoutmanager .col-xs-10, .layoutmanager .col-xs-11, .layoutmanager .col-xs-12, .layoutmanager .col-xs-2, .layoutmanager .col-xs-3, .layoutmanager .col-xs-4, .layoutmanager .col-xs-5, .layoutmanager .col-xs-6, .layoutmanager .col-xs-7, .layoutmanager .col-xs-8, .layoutmanager .col-xs-9 {
+.layoutmanager .col-lg-1,
+.layoutmanager .col-lg-10,
+.layoutmanager .col-lg-11,
+.layoutmanager .col-lg-12,
+.layoutmanager .col-lg-2,
+.layoutmanager .col-lg-3,
+.layoutmanager .col-lg-4,
+.layoutmanager .col-lg-5,
+.layoutmanager .col-lg-6,
+.layoutmanager .col-lg-7,
+.layoutmanager .col-lg-8,
+.layoutmanager .col-lg-9,
+.layoutmanager .col-md-1,
+.layoutmanager .col-md-10,
+.layoutmanager .col-md-11,
+.layoutmanager .col-md-12,
+.layoutmanager .col-md-2,
+.layoutmanager .col-md-3,
+.layoutmanager .col-md-4,
+.layoutmanager .col-md-5,
+.layoutmanager .col-md-6,
+.layoutmanager .col-md-7,
+.layoutmanager .col-md-8,
+.layoutmanager .col-md-9,
+.layoutmanager .col-sm-1,
+.layoutmanager .col-sm-10,
+.layoutmanager .col-sm-11,
+.layoutmanager .col-sm-12,
+.layoutmanager .col-sm-2,
+.layoutmanager .col-sm-3,
+.layoutmanager .col-sm-4,
+.layoutmanager .col-sm-5,
+.layoutmanager .col-sm-6,
+.layoutmanager .col-sm-7,
+.layoutmanager .col-sm-8,
+.layoutmanager .col-sm-9,
+.layoutmanager .col-xs-1,
+.layoutmanager .col-xs-10,
+.layoutmanager .col-xs-11,
+.layoutmanager .col-xs-12,
+.layoutmanager .col-xs-2,
+.layoutmanager .col-xs-3,
+.layoutmanager .col-xs-4,
+.layoutmanager .col-xs-5,
+.layoutmanager .col-xs-6,
+.layoutmanager .col-xs-7,
+.layoutmanager .col-xs-8,
+.layoutmanager .col-xs-9 {
   position: relative;
   min-height: 1px;
   padding-right: 15px;
@@ -197,9 +255,59 @@ a[href$=".pptx"]:after {
 }
 
 a[href$=".pdf"]:after {
-  background: url(../img/pdf.svg) 0 100%
-    no-repeat;
+  background: url(../img/pdf.svg) 0 100% no-repeat;
   background-size: contain;
+}
+
+#banner--treasury-alert {
+  text-align: center;
+  color: #fff;
+  z-index: 1;
+  line-height: 16px;
+  font-weight: 600;
+  font-family: "Source Sans Pro", Calibri, sans-serif;
+  font-size: 12px;
+  padding: 6px 10px 8px;
+}
+
+#banner--treasury-alert.green {
+  background-color: #4b8025;
+  color: #fff;
+}
+
+#banner--treasury-alert a:visited {
+  color: #fff;
+}
+
+#banner--treasury-alert a:hover,
+#banner--treasury-alert a:focus,
+#banner--treasury-alert a:active {
+  color: inherit;
+  font-weight: inherit;
+  text-decoration: underline;
+}
+
+@media (min-width: 1025px) {
+  #banner--treasury-alert {
+    padding: 6px 30px 8px;
+    font-size: 16px;
+  }
+
+  #banner--treasury-alert a {
+    font-size: 16px;
+  }
+}
+
+@media (min-width: 768px) and (max-width: 1024px) {
+  #banner--treasury-alert {
+    margin-top: 68px;
+    font-size: 14px;
+    padding: 6px 30px 8px;
+  }
+
+  #banner--treasury-alert a {
+    font-size: 14px;
+  }
 }
 
 // New styles
@@ -210,6 +318,12 @@ h4 {
   // TODO: Need to load the semi-bold font
 }
 
+.era-article {
+  p + h3,
+  ul + h3 {
+    margin-top: 3rem;
+  }
+}
 
 .era-sidenav__title {
   margin: 0;
@@ -297,7 +411,6 @@ sup a {
   }
 }
 
-
 .era-guidance-best-practice-sites__examples {
   margin-top: units(2);
 
@@ -314,7 +427,23 @@ sup a {
   }
 }
 
+.era-guidance-faq {
+  &__title {
+    margin-top: 3rem;
+    text-transform: inherit;
+    letter-spacing: inherit;
+    
+  }
+}
 
+.usa-alert {
+  margin-bottom: 2rem;
+}
+
+// override for a site-wide style 
+.usa-alert h4 {
+  padding: 0;
+}
 
 // Program index styles
 // ---------------------------------------------------------------------------
@@ -440,23 +569,24 @@ sup a {
     flex-direction: column;
     margin-left: 0.5rem;
     margin-right: 0.5rem;
-    font-family: Source Sans Pro Web, Helvetica Neue, Helvetica, Roboto, Arial, sans-serif;
+    font-family: Source Sans Pro Web, Helvetica Neue, Helvetica, Roboto, Arial,
+      sans-serif;
     font-size: 1.06rem;
     line-height: 1.5;
   }
 
   &__header {
-    padding: 1.5rem 1.5rem .5rem;
+    padding: 1.5rem 1.5rem 0.5rem;
   }
 
   &__body {
     flex: 1 1 0%;
-    padding: .5rem 1.5rem;
+    padding: 0.5rem 1.5rem;
     flex-basis: auto;
   }
 
   &__footer {
-    padding: .5rem 1.5rem 1.5rem;
+    padding: 0.5rem 1.5rem 1.5rem;
   }
 }
 
@@ -478,7 +608,6 @@ sup a {
     font-family: Merriweather, Cambria, serif;
   }
 }
-
 
 .tre-card-hero--base-lightest {
   &__container {

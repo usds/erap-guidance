@@ -1,8 +1,7 @@
 ---
-layout: default
-permalink: /implementation-guidance/faqs/by-category/
-section: guidance
-sub-section: faqs
+layout: default-one-col
+permalink: /faqs/by-category/
+section: faqs
 sidenav: programs
 title: FAQs by Category
 ---
@@ -12,22 +11,26 @@ title: FAQs by Category
 {% assign overview_faqs = faqs | where: 'category', 'Determining tenant & landlord eligibility' %}
 {% assign admin_faqs = faqs | where: 'category', 'Administering an ERA program' %}
 {% assign doc_faqs = faqs | where: 'category', 'Documentation & reporting requirements' %}
+{% assign eviction_faqs = faqs | where: 'category', 'Eviction diversion' %}
 {% assign tribe_faqs = faqs | where: 'category', 'Guidance specific to Tribes and Tribally Designated Housing Entities (TDHE)' %}
 {% assign pay_faqs = faqs | where: 'category', 'What an ERA program can pay for' %}
 
 <h3 id="categories">Categories</h3>
 <ul>
-   <li><a href="#admin">Administering an ERA program</a> </li>
-   <li><a href="#eligibility">Determining tenant &amp; landlord eligibility</a> </li>
-   <li><a href="#docs">Documentation &amp; reporting requirements</a> </li>
-   <li><a href="#tribes">Guidance specific to Tribes and Tribally Designated Housing Entities (TDHE)</a> </li>
-   <li><a href="#pay">What an ERA program can pay for</a> </li>
+   <li><a href="#admin">Administering an ERA program</a></li>
+   <li><a href="#eligibility">Determining tenant &amp; landlord eligibility</a></li>
+   <li><a href="#docs">Documentation &amp; reporting requirements</a></li>
+   <li><a href="#eviction">Eviction diversion</a></li>
+   <li><a href="#tribes">Guidance specific to Tribes and Tribally Designated Housing Entities (TDHE)</a></li>
+   <li><a href="#pay">What an ERA program can pay for</a></li>
 </ul>
 
 <h2 id="admin">Administering an ERA program</h2>
 {% for faq in admin_faqs %}
-<h3 id="{{faq.number}}">{{faq.number}}. {{ faq.title }}</h3>
-<p>{{ faq.content | markdownify }}</p>
+<div class="era-guidance-faq">
+  <h3 class="era-guidance-faq__title" id="{{faq.number}}">{{faq.number}}. {{ faq.title }}</h3>
+  <p>{{ faq.content | markdownify }}</p>
+</div>
 {% endfor %}
 <a href="#categories">
   <svg class="usa-icon" aria-hidden="true" focusable="false" role="img">
@@ -38,8 +41,10 @@ title: FAQs by Category
 
 <h2 id="eligibility">Determining tenant &amp; landlord eligibility</h2>
 {% for faq in overview_faqs %}
-<h3 id="{{faq.number}}">{{faq.number}}. {{ faq.title }}</h3>
-<p>{{ faq.content | markdownify }}</p>
+<div class="era-guidance-faq">
+  <h3 class="era-guidance-faq__title" id="{{faq.number}}">{{faq.number}}. {{ faq.title }}</h3>
+  <p>{{ faq.content | markdownify }}</p>
+</div>
 {% endfor %}
 <a href="#categories">
   <svg class="usa-icon" aria-hidden="true" focusable="false" role="img">
@@ -50,8 +55,24 @@ title: FAQs by Category
 
 <h2 id="docs">Documentation &amp; reporting requirements</h2>
 {% for faq in doc_faqs %}
-<h3 id="{{faq.number}}">{{faq.number}}. {{ faq.title }}</h3>
-<p>{{ faq.content | markdownify }}</p>
+<div class="era-guidance-faq">
+  <h3 class="era-guidance-faq__title" id="{{faq.number}}">{{faq.number}}. {{ faq.title }}</h3>
+  <p>{{ faq.content | markdownify }}</p>
+</div>
+{% endfor %}
+<a href="#categories">
+  <svg class="usa-icon" aria-hidden="true" focusable="false" role="img">
+    <use xlink:href="/assets/img/sprite.svg#arrow_upward"></use>
+  </svg>
+  Return to top
+</a>
+
+<h2 id="eviction">Eviction diversion</h2>
+{% for faq in eviction_faqs %}
+<div class="era-guidance-faq">
+  <h3 class="era-guidance-faq__title" id="{{faq.number}}">{{faq.number}}. {{ faq.title }}</h3>
+  <p>{{ faq.content | markdownify }}</p>
+</div>
 {% endfor %}
 <a href="#categories">
   <svg class="usa-icon" aria-hidden="true" focusable="false" role="img">
@@ -62,8 +83,10 @@ title: FAQs by Category
 
 <h2 id="tribes">Guidance specific to Tribes and Tribally Designated Housing Entities (TDHE)</h2>
 {% for faq in tribe_faqs %}
-<h3 id="{{faq.number}}">{{faq.number}}. {{ faq.title }}</h3>
-<p>{{ faq.content | markdownify }}</p>
+<div class="era-guidance-faq">
+  <h3 class="era-guidance-faq__title" id="{{faq.number}}">{{faq.number}}. {{ faq.title }}</h3>
+  <p>{{ faq.content | markdownify }}</p>
+</div>
 {% endfor %}
 <a href="#categories">
   <svg class="usa-icon" aria-hidden="true" focusable="false" role="img">
@@ -74,9 +97,12 @@ title: FAQs by Category
 
 <h2 id="pay">What an ERA program can pay for</h2>
 {% for faq in pay_faqs %}
-<h3 id="{{faq.number}}">{{faq.number}}. {{ faq.title }}</h3>
-<p>{{ faq.content | markdownify }}</p>
+<div class="era-guidance-faq">
+  <h3 class="era-guidance-faq__title" id="{{faq.number}}">{{faq.number}}. {{ faq.title }}</h3>
+  <p>{{ faq.content | markdownify }}</p>
+</div>
 {% endfor %}
+
 <a href="#categories">
   <svg class="usa-icon" aria-hidden="true" focusable="false" role="img">
     <use xlink:href="/assets/img/sprite.svg#arrow_upward"></use>
