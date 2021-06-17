@@ -104,6 +104,19 @@
     "last-updated": "5/7/2021 5:35pm"
   },
   {
+    "recipient-name": "Baranof Island Housing Authority",
+    "name": "Baranof Island",
+    "URL": "https://www.alaskahousingrelief.org/",
+    "recipient-type": "Indian Tribe or Tribally Designated Housing Entity",
+    "state-territory": "AK",
+    "state": "Alaska",
+    "locality": "Tribe or TDHE",
+    "non-ERA-program-URL": "",
+    "assistance-phone-number": "",
+    "assistance-email": "",
+    "last-updated": "6/8/2021 9:44am"
+  },
+  {
     "recipient-name": "Native Village of Barrow",
     "name": "Barrow",
     "URL": "https://nvb-nsn.gov/department/housing/",
@@ -1071,8 +1084,8 @@
     "URL": "https://mashpeewampanoagtribe-nsn.gov/new-page-1",
     "recipient-type": "Indian Tribe or Tribally Designated Housing Entity",
     "state-territory": "MA",
-    "state": "",
-    "locality": "",
+    "state": "Massachusetts",
+    "locality": "Tribe or TDHE",
     "non-ERA-program-URL": "",
     "assistance-phone-number": "(774) 238-9214",
     "assistance-email": "",
@@ -1090,6 +1103,19 @@
     "assistance-phone-number": "(715) 799-3236 ext 1532",
     "assistance-email": "",
     "last-updated": "5/10/2021 10:29am"
+  },
+  {
+    "recipient-name": "Mesa Grande Band of Mission Indians",
+    "name": "Mesa Grande Band of Mission Indians",
+    "URL": "https://www.mesagrandeband-nsn.gov/wp-content/uploads/Rent-assistant-letter.pdf",
+    "recipient-type": "Indian Tribe or Tribally Designated Housing Entity",
+    "state-territory": "CA",
+    "state": "California",
+    "locality": "Tribe or TDHE",
+    "non-ERA-program-URL": "",
+    "assistance-phone-number": "",
+    "assistance-email": "",
+    "last-updated": "6/7/2021 4:39pm"
   },
   {
     "recipient-name": "Mille Lacs Band of Ojibwe",
@@ -1469,6 +1495,19 @@
     "last-updated": "5/26/2021 11:20am"
   },
   {
+    "recipient-name": "Port Gamble S'Klallam Housing Authority",
+    "name": "Port Gamble S'Klallam",
+    "URL": "https://www.pgst.nsn.us/images/tribal-entities/housing-authority/EmergencyRentalAssistance.pdf",
+    "recipient-type": "Indian Tribe or Tribally Designated Housing Entity",
+    "state-territory": "WA",
+    "state": "Washington ",
+    "locality": "Tribe or TDHE",
+    "non-ERA-program-URL": "",
+    "assistance-phone-number": "",
+    "assistance-email": "suea@PGST.nsn.us",
+    "last-updated": "6/14/2021 5:22pm"
+  },
+  {
     "recipient-name": "Prairie Band Potawatomi Nation",
     "name": "Prairie Band Potawatomi Nation",
     "URL": "https://pbpindiantribe.com/wp-content/uploads/2016/09/Summer_2012_PBP_News.pdf",
@@ -1519,6 +1558,19 @@
     "assistance-phone-number": "",
     "assistance-email": "",
     "last-updated": "5/7/2021 9:57am"
+  },
+  {
+    "recipient-name": "Quartz Valley Indian Reservation",
+    "name": "Quartz Valley",
+    "URL": "http://www.qvir.com/forms.html",
+    "recipient-type": "Indian Tribe or Tribally Designated Housing Entity",
+    "state-territory": "CA",
+    "state": "California",
+    "locality": "Tribe or TDHE",
+    "non-ERA-program-URL": "",
+    "assistance-phone-number": "",
+    "assistance-email": "",
+    "last-updated": "6/7/2021 4:41pm"
   },
   {
     "recipient-name": "Quinault Housing Authority",

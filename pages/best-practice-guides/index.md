@@ -1,9 +1,9 @@
 ---
 layout: default-one-col
-permalink: /best-practice-guides/
-section: best-practice-guides
+permalink: /promising-practice-guides/
+section: promising-practice-guides
 sidenav: programs
-title: Best practices for ERA programs
+title: Promising practices for ERA programs
 ---
 
 <p>

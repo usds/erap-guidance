@@ -12,13 +12,13 @@ programs:
     href: /faqs/changes/
     desc: Details dates on which FAQs were added or updated.
     name: changes
-- text: Best practice guides
-  href: /best-practice-guides/
-  desc: Provides best practices for program implementation and creating your online presence.
-  name: best-practice-guides
+- text: Promising practice guides
+  href: /promising-practice-guides/
+  desc: Provides practices for program implementation and creating your online presence.
+  name: promising-practice-guides
   subnav: 
   - text: Program web sites
-    href: /best-practice-guides/program-web-sites/
+    href: /promising-practice-guides/program-web-sites/
     desc: Best practices for ERA program web sites.
     name: program-web-site
 - text: Programs
