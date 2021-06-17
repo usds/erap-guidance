@@ -13,6 +13,19 @@
     "last-updated": "5/13/2021 5:00pm"
   },
   {
+    "recipient-name": "Alabama Quassarte Tribal Town",
+    "name": "Alabama Quassarte Tribal Town",
+    "URL": "https://www.facebook.com/alabamaquassartetribaltown/photos/a.254499711788304/944384046133197/?type=3&theater",
+    "recipient-type": "Indian Tribe or Tribally Designated Housing Entity",
+    "state-territory": "OK",
+    "state": "Oklahoma",
+    "locality": "Tribe or TDHE",
+    "non-ERA-program-URL": "",
+    "assistance-phone-number": "(405) 452-3881",
+    "assistance-email": "kdeere@alabama-quassarte.org",
+    "last-updated": "5/26/2021 11:42am"
+  },
+  {
     "recipient-name": "Aleutian Housing Authority",
     "name": "Aleutian Housing Authority",
     "URL": "http://ahaak.org/Emergency-Rental-Assistance.html",
@@ -62,7 +75,7 @@
     "non-ERA-program-URL": "General rent or utility assistance",
     "assistance-phone-number": "(833) 440-0420",
     "assistance-email": "",
-    "last-updated": "5/5/2021 10:29am"
+    "last-updated": "5/20/2021 8:51am"
   },
   {
     "recipient-name": "Bad River Housing Authority",
@@ -89,6 +102,32 @@
     "assistance-phone-number": "(405) 547-2402",
     "assistance-email": "",
     "last-updated": "5/7/2021 5:35pm"
+  },
+  {
+    "recipient-name": "Baranof Island Housing Authority",
+    "name": "Baranof Island",
+    "URL": "https://www.alaskahousingrelief.org/",
+    "recipient-type": "Indian Tribe or Tribally Designated Housing Entity",
+    "state-territory": "AK",
+    "state": "Alaska",
+    "locality": "Tribe or TDHE",
+    "non-ERA-program-URL": "",
+    "assistance-phone-number": "",
+    "assistance-email": "",
+    "last-updated": "6/8/2021 9:44am"
+  },
+  {
+    "recipient-name": "Native Village of Barrow",
+    "name": "Barrow",
+    "URL": "https://nvb-nsn.gov/department/housing/",
+    "recipient-type": "Indian Tribe or Tribally Designated Housing Entity",
+    "state-territory": "AK",
+    "state": "Alaska",
+    "locality": "Tribe or TDHE",
+    "non-ERA-program-URL": "NAHASDA",
+    "assistance-phone-number": "(907) 852-4411",
+    "assistance-email": "donna.kippi@nvbarrow.net",
+    "last-updated": "5/26/2021 11:32am"
   },
   {
     "recipient-name": "Bay Mills Indian Community Housing Authority",
@@ -143,6 +182,19 @@
     "last-updated": "5/7/2021 12:37pm"
   },
   {
+    "recipient-name": "Bois Forte Resevation Tribal Council",
+    "name": "Bois Forte Resevation Tribal Council",
+    "URL": "https://boisforte.com/bois-forte-emergency-rental-assistance/",
+    "recipient-type": "Indian Tribe or Tribally Designated Housing Entity",
+    "state-territory": "MN",
+    "state": "Minnesota",
+    "locality": "Tribe or TDHE",
+    "non-ERA-program-URL": "",
+    "assistance-phone-number": "(218) 757-3261",
+    "assistance-email": "covidassistance@boisforte-nsn.gov",
+    "last-updated": "5/26/2021 5:32pm"
+  },
+  {
     "recipient-name": "Bristol Bay Housing Authority",
     "name": "Bristol Bay Housing Authority",
     "URL": "https://www.bristolbayhousingauthority.org/forms-copy",
@@ -154,6 +206,19 @@
     "assistance-phone-number": "",
     "assistance-email": "",
     "last-updated": "5/7/2021 12:53pm"
+  },
+  {
+    "recipient-name": "Burns Paiute Tribe",
+    "name": "Burns Paiute Tribe",
+    "URL": "https://burnspaiute-nsn.gov/wp-content/uploads/2020/11/Burns-Paiute-Tribe_Application-for-Covid-19-Assistance.pdf",
+    "recipient-type": "Indian Tribe or Tribally Designated Housing Entity",
+    "state-territory": "OR",
+    "state": "Oregon",
+    "locality": "Tribe or TDHE",
+    "non-ERA-program-URL": "",
+    "assistance-phone-number": "",
+    "assistance-email": "",
+    "last-updated": "5/26/2021 6:03pm"
   },
   {
     "recipient-name": "Caddo Nation of Oklahoma",
@@ -192,7 +257,7 @@
     "non-ERA-program-URL": "NAHASDA",
     "assistance-phone-number": "(918) 453-5422",
     "assistance-email": "human_services@cherokee.org",
-    "last-updated": "5/4/2021 8:25pm"
+    "last-updated": "5/20/2021 8:50am"
   },
   {
     "recipient-name": "Cheyenne and Arapaho Tribes",
@@ -205,7 +270,7 @@
     "non-ERA-program-URL": "CDBG",
     "assistance-phone-number": "",
     "assistance-email": "",
-    "last-updated": "5/7/2021 3:10pm"
+    "last-updated": "5/20/2021 8:50am"
   },
   {
     "recipient-name": "Cheyenne River Housing Authority",
@@ -325,6 +390,19 @@
     "last-updated": "5/7/2021 3:07pm"
   },
   {
+    "recipient-name": "Conf. Tribes Coos, Lower Umpqua & Siuslaw Indians",
+    "name": "Confederated Tribes of Coos",
+    "URL": "https://ctclusi.org/housing-department/",
+    "recipient-type": "Indian Tribe or Tribally Designated Housing Entity",
+    "state-territory": "OR",
+    "state": "Oregon",
+    "locality": "Tribe or TDHE",
+    "non-ERA-program-URL": "",
+    "assistance-phone-number": "",
+    "assistance-email": "",
+    "last-updated": "5/26/2021 2:09pm"
+  },
+  {
     "recipient-name": "Confederated Tribes of Grand Ronde Hsg Dept",
     "name": "Confederated Tribes of Grand Ronde Hsg Dept",
     "URL": "https://www.grandronde.org/services/social-services/emergency-assistance/",
@@ -335,7 +413,7 @@
     "non-ERA-program-URL": "General rent or utility assistance",
     "assistance-phone-number": "",
     "assistance-email": "",
-    "last-updated": "5/7/2021 2:04pm"
+    "last-updated": "5/20/2021 8:50am"
   },
   {
     "recipient-name": "Confederated Tribes of Siletz Indians",
@@ -388,6 +466,19 @@
     "assistance-phone-number": "",
     "assistance-email": "",
     "last-updated": "5/4/2021 2:59pm"
+  },
+  {
+    "recipient-name": "Crow Creek Housing Authority",
+    "name": "Crow Creek Housing Authority",
+    "URL": "https://crowcreekhousing.org/index.php/forms-and-info/",
+    "recipient-type": "Indian Tribe or Tribally Designated Housing Entity",
+    "state-territory": "SD",
+    "state": "South Dakota",
+    "locality": "Tribe or TDHE",
+    "non-ERA-program-URL": "",
+    "assistance-phone-number": "(605) 245-2250",
+    "assistance-email": "",
+    "last-updated": "5/27/2021 6:41pm"
   },
   {
     "recipient-name": "Delaware Nation",
@@ -481,6 +572,19 @@
     "last-updated": "5/4/2021 2:59pm"
   },
   {
+    "recipient-name": "Fallon Paiute-Shoshone Tribe",
+    "name": "Fallon Paiute-Shoshone",
+    "URL": "http://www.fpst.org/fpst-covid-19-tribal-member-emergency-assistance-program-10-15-2020/",
+    "recipient-type": "Indian Tribe or Tribally Designated Housing Entity",
+    "state-territory": "NV",
+    "state": "Nevada",
+    "locality": "Tribe or TDHE",
+    "non-ERA-program-URL": "CARES",
+    "assistance-phone-number": "(775) 423-6075",
+    "assistance-email": "",
+    "last-updated": "5/26/2021 11:47am"
+  },
+  {
     "recipient-name": "Flandreau Santee Sioux Tribe",
     "name": "Flandreau Santee Sioux Tribe",
     "URL": "https://fsst-nsn.gov/programs/",
@@ -557,6 +661,19 @@
     "assistance-phone-number": "",
     "assistance-email": "",
     "last-updated": "5/3/2021 6:13pm"
+  },
+  {
+    "recipient-name": "Goshute Housing Athority",
+    "name": "Goshute Housing Athority",
+    "URL": "http://www.goshutehousing.com/currentnews.shtml",
+    "recipient-type": "Indian Tribe or Tribally Designated Housing Entity",
+    "state-territory": "UT",
+    "state": "Utah",
+    "locality": "Tribe or TDHE",
+    "non-ERA-program-URL": "",
+    "assistance-phone-number": "(435) 234-1174",
+    "assistance-email": "goshutehousing@gmail.com",
+    "last-updated": "5/27/2021 6:34pm"
   },
   {
     "recipient-name": "Grand Traverse Band of Ottawa and Chippewa Indians",
@@ -650,6 +767,32 @@
     "last-updated": "5/7/2021 12:38pm"
   },
   {
+    "recipient-name": "Houlton Band of Maliseet Indian Housing Authority",
+    "name": "Houlton Band of Maliseet Indian Housing Authority",
+    "URL": "https://www.facebook.com/622658961567337/photos/a.639408639892369/1100557853777443/?type=3&theater",
+    "recipient-type": "Indian Tribe or Tribally Designated Housing Entity",
+    "state-territory": "ME",
+    "state": "Maine",
+    "locality": "Tribe or TDHE",
+    "non-ERA-program-URL": "",
+    "assistance-phone-number": " 207-532-7637, 207-532-9140, and 207-532-8619",
+    "assistance-email": "",
+    "last-updated": "5/26/2021 5:12pm"
+  },
+  {
+    "recipient-name": "Indian Township Tribal Govt",
+    "name": "Indian Township Tribal Govt",
+    "URL": "https://www.passamaquoddy.com/?p=1666",
+    "recipient-type": "Indian Tribe or Tribally Designated Housing Entity",
+    "state-territory": "ME",
+    "state": "Maine",
+    "locality": "Tribe or TDHE",
+    "non-ERA-program-URL": "",
+    "assistance-phone-number": "",
+    "assistance-email": "",
+    "last-updated": "5/26/2021 5:05pm"
+  },
+  {
     "recipient-name": "Interior Regional Housing Authority",
     "name": "Interior Regional Housing Authority",
     "URL": "https://irha.org/emergency-rental-assistance-application/",
@@ -661,6 +804,19 @@
     "assistance-phone-number": "",
     "assistance-email": "",
     "last-updated": "5/7/2021 10:24am"
+  },
+  {
+    "recipient-name": "Housing Authority of the Iowa Tribe of KS & NE",
+    "name": "Iowa Tribe",
+    "URL": "https://iowatribeofkansasandnebraska.com/news-information/ioway-tribe-rental-assistance/",
+    "recipient-type": "Indian Tribe or Tribally Designated Housing Entity",
+    "state-territory": "KS",
+    "state": "Kansas",
+    "locality": "Tribe or TDHE",
+    "non-ERA-program-URL": "",
+    "assistance-phone-number": "(785) 595-3380",
+    "assistance-email": "",
+    "last-updated": "5/26/2021 11:49am"
   },
   {
     "recipient-name": "Isleta Pueblo Housing Authority",
@@ -702,6 +858,19 @@
     "last-updated": "5/10/2021 2:22pm"
   },
   {
+    "recipient-name": "Housing Authority of the Kaw Tribe",
+    "name": "Kaw",
+    "URL": "https://www.kawnation.com/programs/emrgncyasstncapp.pdf",
+    "recipient-type": "Indian Tribe or Tribally Designated Housing Entity",
+    "state-territory": "OK",
+    "state": "Oklahoma",
+    "locality": "Tribe or TDHE",
+    "non-ERA-program-URL": "General rent or utility assistance",
+    "assistance-phone-number": "",
+    "assistance-email": "",
+    "last-updated": "5/26/2021 11:28am"
+  },
+  {
     "recipient-name": "KBIC Housing Department",
     "name": "KBIC Housing Department",
     "URL": "https://www.kbic-nsn.gov/index.php/departments/ojibwa-housing",
@@ -739,6 +908,45 @@
     "assistance-phone-number": "",
     "assistance-email": "",
     "last-updated": "5/7/2021 9:57am"
+  },
+  {
+    "recipient-name": "Kickapoo Housing Authority",
+    "name": "Kickapoo",
+    "URL": "https://hakto.org/2021/03/17/emergency-rental-and-utilities-assistance/",
+    "recipient-type": "Indian Tribe or Tribally Designated Housing Entity",
+    "state-territory": "KS",
+    "state": "Kansas",
+    "locality": "Tribe or TDHE",
+    "non-ERA-program-URL": "",
+    "assistance-phone-number": "(405) 964-6262",
+    "assistance-email": "v.smith@hakto.org",
+    "last-updated": "5/26/2021 11:38am"
+  },
+  {
+    "recipient-name": "HA of the Kickapoo Tribe of Oklahoma",
+    "name": "Kickapoo Tribe of Oklahoma",
+    "URL": "https://hakto.org/2021/03/17/emergency-rental-and-utilities-assistance/",
+    "recipient-type": "Indian Tribe or Tribally Designated Housing Entity",
+    "state-territory": "OK",
+    "state": "Oklahoma",
+    "locality": "Tribe or TDHE",
+    "non-ERA-program-URL": "",
+    "assistance-phone-number": "",
+    "assistance-email": "",
+    "last-updated": "5/26/2021 8:53am"
+  },
+  {
+    "recipient-name": "Kiowa Tribe",
+    "name": "Kiowa Tribe",
+    "URL": "https://kiowatribe.org/covid19",
+    "recipient-type": "Indian Tribe or Tribally Designated Housing Entity",
+    "state-territory": "OK",
+    "state": "Oklahoma",
+    "locality": "Tribe or TDHE",
+    "non-ERA-program-URL": "CARES",
+    "assistance-phone-number": "",
+    "assistance-email": "",
+    "last-updated": "5/26/2021 11:17am"
   },
   {
     "recipient-name": "Kodiak Island Housing Authority",
@@ -871,6 +1079,19 @@
     "last-updated": "5/7/2021 1:28pm"
   },
   {
+    "recipient-name": "Mashpee Wampanoag Tribe",
+    "name": "Mashpee Wampanoag Tribe",
+    "URL": "https://mashpeewampanoagtribe-nsn.gov/new-page-1",
+    "recipient-type": "Indian Tribe or Tribally Designated Housing Entity",
+    "state-territory": "MA",
+    "state": "Massachusetts",
+    "locality": "Tribe or TDHE",
+    "non-ERA-program-URL": "",
+    "assistance-phone-number": "(774) 238-9214",
+    "assistance-email": "",
+    "last-updated": "5/26/2021 5:00pm"
+  },
+  {
     "recipient-name": "Menominee Indian Tribe of Wisconsin",
     "name": "Menominee Indian Tribe of Wisconsin",
     "URL": "https://www.facebook.com/Menominee-Tribal-Housing-Department-390142935100158/?hc_ref=ARStdyy4zAIsqa3IlY1sL-Qgnix499Nqs7lGxrVN6LXsrGEFsGqHL8bnqKDFm5Q9Hr4&fref=nf&__xts__[0]=68.ARDijXRMx7ko7lFuALuU5fMD_8Io99pDnjWZ0RIRmpVWa4NAEyQyod_jgE35tQHq3ceoeDnMNd62UbStlqMIfZaCqjmdgIXd-Bs8pfkXGNwTM7Z4NjuURaW2dE-KFt0T3_aSDxrQ-YS2dN7ToAMUdiF4apjxXsDL9rkokA06x1OfZCwAZJP8fFbeo0uz6Xeo-byCgtbUjqe3wie7wdZ1bJt0HNbyvsgChsBCcbHH2LeYtOpEWlTzlR9yK6S7r1-XQo7-DU6GCKvBz5a0qH7_eAephZbdVPQdKiWo7kdTHeIadUTLU5o&__tn__=kC-R",
@@ -882,6 +1103,45 @@
     "assistance-phone-number": "(715) 799-3236 ext 1532",
     "assistance-email": "",
     "last-updated": "5/10/2021 10:29am"
+  },
+  {
+    "recipient-name": "Mesa Grande Band of Mission Indians",
+    "name": "Mesa Grande Band of Mission Indians",
+    "URL": "https://www.mesagrandeband-nsn.gov/wp-content/uploads/Rent-assistant-letter.pdf",
+    "recipient-type": "Indian Tribe or Tribally Designated Housing Entity",
+    "state-territory": "CA",
+    "state": "California",
+    "locality": "Tribe or TDHE",
+    "non-ERA-program-URL": "",
+    "assistance-phone-number": "",
+    "assistance-email": "",
+    "last-updated": "6/7/2021 4:39pm"
+  },
+  {
+    "recipient-name": "Mille Lacs Band of Ojibwe",
+    "name": "Mille Lacs Band of Ojibwe",
+    "URL": "https://millelacsband.com/news/covid-19-emergency-rental-assistance-is-now-available",
+    "recipient-type": "Indian Tribe or Tribally Designated Housing Entity",
+    "state-territory": "MN",
+    "state": "Minnesota",
+    "locality": "Tribe or TDHE",
+    "non-ERA-program-URL": "",
+    "assistance-phone-number": "(320) 532-7574",
+    "assistance-email": "",
+    "last-updated": "5/26/2021 5:29pm"
+  },
+  {
+    "recipient-name": "Modoc Housing Authority",
+    "name": "Modoc",
+    "URL": "https://modocnation.com/housing-authority/",
+    "recipient-type": "Indian Tribe or Tribally Designated Housing Entity",
+    "state-territory": "OK",
+    "state": "Oklahoma",
+    "locality": "Tribe or TDHE",
+    "non-ERA-program-URL": "",
+    "assistance-phone-number": "",
+    "assistance-email": "",
+    "last-updated": "5/26/2021 11:37am"
   },
   {
     "recipient-name": "Monacan Indian Nation",
@@ -908,6 +1168,19 @@
     "assistance-phone-number": "",
     "assistance-email": "",
     "last-updated": "5/5/2021 9:14am"
+  },
+  {
+    "recipient-name": "Nambe Pueblo Housing Entity",
+    "name": "Nambe Pueblo Housing Entity",
+    "URL": "http://www.nambepueblo.org/wp-content/uploads/2020/11/Nambe-General-Welfare-Assistance-Program-Cover-Letter-and-Application_Final.pdf",
+    "recipient-type": "Indian Tribe or Tribally Designated Housing Entity",
+    "state-territory": "NM",
+    "state": "New Mexico",
+    "locality": "Tribe or TDHE",
+    "non-ERA-program-URL": "CARES",
+    "assistance-phone-number": "",
+    "assistance-email": "COVID19@nambepueblo.org",
+    "last-updated": "5/27/2021 5:30pm"
   },
   {
     "recipient-name": "Narragansett Indian Tribe",
@@ -972,7 +1245,7 @@
     "non-ERA-program-URL": "General rent or utility assistance",
     "assistance-phone-number": "",
     "assistance-email": "",
-    "last-updated": "5/7/2021 2:11pm"
+    "last-updated": "5/20/2021 8:50am"
   },
   {
     "recipient-name": "Northern Arapaho Tribal Housing",
@@ -1024,7 +1297,7 @@
     "non-ERA-program-URL": "General rent or utility assistance",
     "assistance-phone-number": "",
     "assistance-email": "",
-    "last-updated": "5/7/2021 12:48pm"
+    "last-updated": "5/20/2021 8:50am"
   },
   {
     "recipient-name": "Northwestern Band of Shoshone Nation",
@@ -1051,6 +1324,19 @@
     "assistance-phone-number": "",
     "assistance-email": "",
     "last-updated": "5/3/2021 6:08pm"
+  },
+  {
+    "recipient-name": "Ohkay Owingeh Housing Authority",
+    "name": "Ohkay Owingeh Housing Authority",
+    "URL": "https://ohkayowingehhousingauthority.com/for-renters-impacted-by-covid-19/",
+    "recipient-type": "Indian Tribe or Tribally Designated Housing Entity",
+    "state-territory": "NM",
+    "state": "New Mexico",
+    "locality": "Tribe or TDHE",
+    "non-ERA-program-URL": "",
+    "assistance-phone-number": "(505) 852-0189",
+    "assistance-email": "app.ooha@ohkay.org",
+    "last-updated": "5/26/2021 6:19pm"
   },
   {
     "recipient-name": "Omaha Tribal Housing Authority",
@@ -1131,6 +1417,19 @@
     "last-updated": "5/7/2021 12:50pm"
   },
   {
+    "recipient-name": "Pawnee Nation Housing Authority",
+    "name": "Pawnee Nation Housing Authority",
+    "URL": "https://pawneenationhousing.org/",
+    "recipient-type": "Indian Tribe or Tribally Designated Housing Entity",
+    "state-territory": "OK",
+    "state": "Oklahoma",
+    "locality": "Tribe or TDHE",
+    "non-ERA-program-URL": "",
+    "assistance-phone-number": "",
+    "assistance-email": "",
+    "last-updated": "5/26/2021 11:34am"
+  },
+  {
     "recipient-name": "Penobscot Indian Nation",
     "name": "Penobscot Indian Nation",
     "URL": "https://www.penobscotnation.org/pin-phone-directory-2/list-alpha/4#:~:text=with%20questions%20or%20for%20more%20information.&text=The%20Penobscot%20Nation%20has%20received,households%20impacted%20by%20Covid%2D19.&text=If%20you%20have%20questions%20or,(207)%20817%2D7400.",
@@ -1142,6 +1441,19 @@
     "assistance-phone-number": "",
     "assistance-email": "",
     "last-updated": "5/13/2021 6:06pm"
+  },
+  {
+    "recipient-name": "Peoria Housing Authority",
+    "name": "Peoria",
+    "URL": "http://www.peoriahousing.org/default.aspx",
+    "recipient-type": "Indian Tribe or Tribally Designated Housing Entity",
+    "state-territory": "OK",
+    "state": "Oklahoma",
+    "locality": "Tribe or TDHE",
+    "non-ERA-program-URL": "General rent or utility assistance",
+    "assistance-phone-number": "",
+    "assistance-email": "",
+    "last-updated": "5/26/2021 11:05am"
   },
   {
     "recipient-name": "Pit River Tribe",
@@ -1170,6 +1482,58 @@
     "last-updated": "5/7/2021 4:16pm"
   },
   {
+    "recipient-name": "Ponca Tribe of Oklahoma",
+    "name": "Ponca Tribe of Oklahoma",
+    "URL": "http://www.ponca.com/housing-services.html",
+    "recipient-type": "Indian Tribe or Tribally Designated Housing Entity",
+    "state-territory": "OK",
+    "state": "Oklahoma",
+    "locality": "Tribe or TDHE",
+    "non-ERA-program-URL": "General rent or utility assistance",
+    "assistance-phone-number": "",
+    "assistance-email": "",
+    "last-updated": "5/26/2021 11:20am"
+  },
+  {
+    "recipient-name": "Port Gamble S'Klallam Housing Authority",
+    "name": "Port Gamble S'Klallam",
+    "URL": "https://www.pgst.nsn.us/images/tribal-entities/housing-authority/EmergencyRentalAssistance.pdf",
+    "recipient-type": "Indian Tribe or Tribally Designated Housing Entity",
+    "state-territory": "WA",
+    "state": "Washington ",
+    "locality": "Tribe or TDHE",
+    "non-ERA-program-URL": "",
+    "assistance-phone-number": "",
+    "assistance-email": "suea@PGST.nsn.us",
+    "last-updated": "6/14/2021 5:22pm"
+  },
+  {
+    "recipient-name": "Prairie Band Potawatomi Nation",
+    "name": "Prairie Band Potawatomi Nation",
+    "URL": "https://pbpindiantribe.com/wp-content/uploads/2016/09/Summer_2012_PBP_News.pdf",
+    "recipient-type": "Indian Tribe or Tribally Designated Housing Entity",
+    "state-territory": "KS",
+    "state": "Kansas",
+    "locality": "Tribe or TDHE",
+    "non-ERA-program-URL": "",
+    "assistance-phone-number": "(785) 966-2756",
+    "assistance-email": "",
+    "last-updated": "5/26/2021 11:58am"
+  },
+  {
+    "recipient-name": "Pueblo of Acoma Housing Authority",
+    "name": "Pueblo of Acoma Housing Authority",
+    "URL": "https://acomahousing.org/",
+    "recipient-type": "Indian Tribe or Tribally Designated Housing Entity",
+    "state-territory": "NM",
+    "state": "New Mexico",
+    "locality": "Tribe or TDHE",
+    "non-ERA-program-URL": "",
+    "assistance-phone-number": "(505) 552-7528",
+    "assistance-email": "",
+    "last-updated": "5/27/2021 4:31pm"
+  },
+  {
     "recipient-name": "Pyramid Lake Housing Authority",
     "name": "Pyramid Lake",
     "URL": "https://plhousingauthority.weebly.com/applications.html",
@@ -1180,7 +1544,7 @@
     "non-ERA-program-URL": "CARES",
     "assistance-phone-number": "",
     "assistance-email": "",
-    "last-updated": "5/19/2021 8:57am"
+    "last-updated": "5/20/2021 8:50am"
   },
   {
     "recipient-name": "Quapaw Nation Housing Department",
@@ -1196,6 +1560,19 @@
     "last-updated": "5/7/2021 9:57am"
   },
   {
+    "recipient-name": "Quartz Valley Indian Reservation",
+    "name": "Quartz Valley",
+    "URL": "http://www.qvir.com/forms.html",
+    "recipient-type": "Indian Tribe or Tribally Designated Housing Entity",
+    "state-territory": "CA",
+    "state": "California",
+    "locality": "Tribe or TDHE",
+    "non-ERA-program-URL": "",
+    "assistance-phone-number": "",
+    "assistance-email": "",
+    "last-updated": "6/7/2021 4:41pm"
+  },
+  {
     "recipient-name": "Quinault Housing Authority",
     "name": "Quinault Housing Authority",
     "URL": "http://www.quinaultindiannation.com/tanf.htm",
@@ -1206,7 +1583,7 @@
     "non-ERA-program-URL": "TANF",
     "assistance-phone-number": "",
     "assistance-email": "",
-    "last-updated": "5/7/2021 3:28pm"
+    "last-updated": "5/20/2021 8:50am"
   },
   {
     "recipient-name": "Red Cliff Band of Lake Superior Chippewa",
@@ -1245,7 +1622,7 @@
     "non-ERA-program-URL": "CARES",
     "assistance-phone-number": "",
     "assistance-email": "gmaya@rsic.org",
-    "last-updated": "5/7/2021 5:12pm"
+    "last-updated": "5/20/2021 8:50am"
   },
   {
     "recipient-name": "Resighini Rancheria",
@@ -1285,6 +1662,19 @@
     "assistance-phone-number": "",
     "assistance-email": "",
     "last-updated": "5/7/2021 3:41pm"
+  },
+  {
+    "recipient-name": "Sac and Fox Nation of Missouri Housing Authority",
+    "name": "Sac and Fox Nation",
+    "URL": "https://sacandfoxha.com/programs/",
+    "recipient-type": "Indian Tribe or Tribally Designated Housing Entity",
+    "state-territory": "KS",
+    "state": "Kansas",
+    "locality": "Tribe or TDHE",
+    "non-ERA-program-URL": "",
+    "assistance-phone-number": "(405) 275-8200",
+    "assistance-email": "eraprogram@hasfn.net",
+    "last-updated": "5/26/2021 12:07pm"
   },
   {
     "recipient-name": "Sac and Fox Tribe of the Mississippi in Iowa",
@@ -1456,6 +1846,32 @@
     "last-updated": "5/7/2021 1:02pm"
   },
   {
+    "recipient-name": "Sokaogon Chippewa Housing Authority",
+    "name": "Sokaogon Chippewa Housing Authority",
+    "URL": "https://www.facebook.com/Sokaogon/photos/a.597877780329809/3917423275041893/?type=3&theater",
+    "recipient-type": "Indian Tribe or Tribally Designated Housing Entity",
+    "state-territory": "WI",
+    "state": "Wisconsin",
+    "locality": "Tribe or TDHE",
+    "non-ERA-program-URL": "",
+    "assistance-phone-number": "(715) 478-2001",
+    "assistance-email": "",
+    "last-updated": "5/26/2021 1:36pm"
+  },
+  {
+    "recipient-name": "Southern Ute Indian Housing Authority",
+    "name": "Southern Ute Indian Housing Authority",
+    "URL": "https://www.sudrum.com/news/2021/05/07/emergency-rental-assistance-program-erap/",
+    "recipient-type": "Indian Tribe or Tribally Designated Housing Entity",
+    "state-territory": "CO",
+    "state": "Colorado",
+    "locality": "Tribe or TDHE",
+    "non-ERA-program-URL": "",
+    "assistance-phone-number": "(970) 563-4575",
+    "assistance-email": "",
+    "last-updated": "5/26/2021 10:45am"
+  },
+  {
     "recipient-name": "Spokane Indian Housing Authority",
     "name": "Spokane",
     "URL": "https://spokanetribe.com/temporary-emergency-rental-utility-assistance-notice/",
@@ -1495,6 +1911,19 @@
     "last-updated": "5/7/2021 12:45pm"
   },
   {
+    "recipient-name": "Stockbridge-Munsee Community",
+    "name": "Stockbridge-Munsee Community",
+    "URL": "https://www.mohican.com/blog/covid-19-emergency-assistance-information-and-application/",
+    "recipient-type": "Indian Tribe or Tribally Designated Housing Entity",
+    "state-territory": "WI",
+    "state": "Wisconsin",
+    "locality": "Tribe or TDHE",
+    "non-ERA-program-URL": "",
+    "assistance-phone-number": "",
+    "assistance-email": "lori.robinson@mohican-nsn.gov",
+    "last-updated": "5/26/2021 1:49pm"
+  },
+  {
     "recipient-name": "Summit Lake Paiute Tribe",
     "name": "Summit Lake Paiute Tribe",
     "URL": "https://www.summitlaketribe.org/housing.html",
@@ -1519,6 +1948,19 @@
     "assistance-phone-number": "",
     "assistance-email": "",
     "last-updated": "5/7/2021 10:09am"
+  },
+  {
+    "recipient-name": "Thlopthlocco Tribal Town",
+    "name": "Thlopthlocco Tribal Town",
+    "URL": "https://docs.google.com/forms/d/e/1FAIpQLSc1ptRgQWqYl61lNbmgBNY6S5lGba_Vjd4T0FHCcpOkgVqOEw/viewform",
+    "recipient-type": "Indian Tribe or Tribally Designated Housing Entity",
+    "state-territory": "OK",
+    "state": "Oklahoma",
+    "locality": "Tribe or TDHE",
+    "non-ERA-program-URL": "",
+    "assistance-phone-number": "",
+    "assistance-email": "",
+    "last-updated": "5/26/2021 11:36am"
   },
   {
     "recipient-name": "Tlingit Haida Regional Housing Authority",
@@ -1586,6 +2028,45 @@
     "last-updated": "5/7/2021 12:34pm"
   },
   {
+    "recipient-name": "United Keetoowah Band of Cherokee Indians",
+    "name": "United Keetoowah",
+    "URL": "https://www.ukb-nsn.gov/housing",
+    "recipient-type": "Indian Tribe or Tribally Designated Housing Entity",
+    "state-territory": "OK",
+    "state": "Oklahoma",
+    "locality": "Tribe or TDHE",
+    "non-ERA-program-URL": "General rent or utility assistance",
+    "assistance-phone-number": "(918) 871-2800",
+    "assistance-email": "",
+    "last-updated": "5/26/2021 11:13am"
+  },
+  {
+    "recipient-name": "Ute Indian Tribally Designated Housing Entity",
+    "name": "Ute Indian Tribally Designated Housing Entity",
+    "URL": "http://www.utetribe.com/images/Departments/Bulletin/Paper/BulletinApril5.pdf",
+    "recipient-type": "Indian Tribe or Tribally Designated Housing Entity",
+    "state-territory": "UT",
+    "state": "Utah",
+    "locality": "Tribe or TDHE",
+    "non-ERA-program-URL": "",
+    "assistance-phone-number": "",
+    "assistance-email": "",
+    "last-updated": "5/26/2021 2:02pm"
+  },
+  {
+    "recipient-name": "Ute Mountain Ute Tribe",
+    "name": "Ute Mountain Ute Tribe",
+    "URL": "http://www.utetribe.com/images/Departments/Bulletin/Paper/BulletinApril5.pdf",
+    "recipient-type": "Indian Tribe or Tribally Designated Housing Entity",
+    "state-territory": "CO",
+    "state": "Colorado",
+    "locality": "Tribe or TDHE",
+    "non-ERA-program-URL": "",
+    "assistance-phone-number": "",
+    "assistance-email": "",
+    "last-updated": "5/26/2021 11:24am"
+  },
+  {
     "recipient-name": "Waccamaw Siouan Tribe",
     "name": "Waccamaw Siouan Tribe",
     "URL": "https://waccamaw-siouan.org/tribal-housing",
@@ -1635,7 +2116,7 @@
     "non-ERA-program-URL": "CARES",
     "assistance-phone-number": "",
     "assistance-email": "",
-    "last-updated": "5/7/2021 6:22pm"
+    "last-updated": "5/20/2021 8:50am"
   },
   {
     "recipient-name": "White Earth Band of Chippewa Indians",
@@ -1675,6 +2156,19 @@
     "assistance-phone-number": "",
     "assistance-email": "",
     "last-updated": "5/4/2021 2:59pm"
+  },
+  {
+    "recipient-name": "Winnebago Housing and Development Commission",
+    "name": "Winnebago Housing and Development Commission",
+    "URL": "http://www.winnebagotribe.com/index.php/winnebago-indian-news/winnebago-indian-news",
+    "recipient-type": "Indian Tribe or Tribally Designated Housing Entity",
+    "state-territory": "NE",
+    "state": "Nebraska",
+    "locality": "Tribe or TDHE",
+    "non-ERA-program-URL": "",
+    "assistance-phone-number": "(402) 922-1145",
+    "assistance-email": "rena.brownrigg.era@gmail.com",
+    "last-updated": "5/26/2021 11:12am"
   },
   {
     "recipient-name": "Wyandotte Nation",
@@ -1752,6 +2246,6 @@
     "non-ERA-program-URL": "TANF",
     "assistance-phone-number": "",
     "assistance-email": "",
-    "last-updated": "5/7/2021 12:55pm"
+    "last-updated": "5/20/2021 8:50am"
   }
 ]

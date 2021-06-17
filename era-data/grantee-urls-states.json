@@ -58,7 +58,7 @@
   {
     "recipient-name": "Jefferson County Commission",
     "name": "Jefferson",
-    "URL": "https://birminghamul.org/household-support-program-1",
+    "URL": "https://erap.jccal.org/",
     "recipient-type": "Local Government",
     "state-territory": "AL",
     "state": "Alabama",
@@ -67,7 +67,21 @@
     "non-ERA-program-URL": "",
     "assistance-phone-number": "",
     "assistance-email": "",
-    "last-updated": "5/3/2021 6:09pm"
+    "last-updated": "5/20/2021 2:30pm"
+  },
+  {
+    "recipient-name": "Madison County Commission",
+    "name": "Madison",
+    "URL": "https://www.madisoncountyal.gov/services/emergency-rental-assistance",
+    "recipient-type": "Local Government",
+    "state-territory": "AL",
+    "state": "Alabama",
+    "locality": "County",
+    "no-program": "",
+    "non-ERA-program-URL": "",
+    "assistance-phone-number": "1-844-804-9454",
+    "assistance-email": "mcerap@madisoncountyal.gov",
+    "last-updated": "6/1/2021 3:08pm"
   },
   {
     "recipient-name": "Mobile County",
@@ -84,6 +98,20 @@
     "last-updated": "5/3/2021 6:10pm"
   },
   {
+    "recipient-name": "Montgomery County Commission",
+    "name": "Montgomery County",
+    "URL": "https://www.mc-ala.org/services/emergency-rental-assistance-montgomery-county",
+    "recipient-type": "Local Government",
+    "state-territory": "AL",
+    "state": "Alabama",
+    "locality": "County",
+    "no-program": "",
+    "non-ERA-program-URL": "",
+    "assistance-phone-number": "1-833-823-0007",
+    "assistance-email": "support@eramco-ala.com",
+    "last-updated": "6/1/2021 2:51pm"
+  },
+  {
     "recipient-name": "State of Alaska",
     "name": "Alaska",
     "URL": "https://www.alaskahousingrelief.org/",
@@ -95,7 +123,7 @@
     "non-ERA-program-URL": "",
     "assistance-phone-number": "",
     "assistance-email": "",
-    "last-updated": "5/3/2021 5:47pm"
+    "last-updated": "6/8/2021 9:51am"
   },
   {
     "recipient-name": "Municipality of Anchorage",
@@ -590,7 +618,7 @@
   {
     "recipient-name": "County of Merced",
     "name": "Merced",
-    "URL": "https://www.mercedcaa.com/v2/wp-content/uploads/2020/08/Covid19_Rent_Brochure.docx.pdf",
+    "URL": "https://3f6be7c6-465d-489e-8fa8-622ef07b6774.filesusr.com/ugd/f82c08_84a32dd3c2734d0bbd84616521d00703.pdf",
     "recipient-type": "Local Government",
     "state-territory": "CA",
     "state": "California",
@@ -599,7 +627,7 @@
     "non-ERA-program-URL": "",
     "assistance-phone-number": "",
     "assistance-email": "",
-    "last-updated": "5/19/2021 8:48am"
+    "last-updated": "5/24/2021 12:05pm"
   },
   {
     "recipient-name": "City of Modesto",
@@ -842,7 +870,7 @@
   {
     "recipient-name": "City of San Jose",
     "name": "San Jose",
-    "URL": "https://sacredheartcs.org/programs/housing/",
+    "URL": "http://sccrenthelp.org/",
     "recipient-type": "Local Government",
     "state-territory": "CA",
     "state": "California",
@@ -851,7 +879,7 @@
     "non-ERA-program-URL": "",
     "assistance-phone-number": "",
     "assistance-email": "",
-    "last-updated": "5/3/2021 5:53pm"
+    "last-updated": "5/21/2021 4:17pm"
   },
   {
     "recipient-name": "County of San Luis Obispo",
@@ -912,7 +940,7 @@
   {
     "recipient-name": "County of Santa Clara",
     "name": "Santa Clara",
-    "URL": "https://www.santaclaraca.gov/our-city/departments-a-f/community-development/housing-community-services-division/emergency-rental-assistance",
+    "URL": "http://sccrenthelp.org/",
     "recipient-type": "Local Government",
     "state-territory": "CA",
     "state": "California",
@@ -921,7 +949,7 @@
     "non-ERA-program-URL": "",
     "assistance-phone-number": "",
     "assistance-email": "",
-    "last-updated": "5/3/2021 5:57pm"
+    "last-updated": "5/21/2021 4:18pm"
   },
   {
     "recipient-name": "City of Santa Clarita",
@@ -938,9 +966,23 @@
     "last-updated": "5/4/2021 2:58pm"
   },
   {
+    "recipient-name": "City of Santa Cruz",
+    "name": "Santa Cruz",
+    "URL": "https://www.cityofsantacruz.com/government/city-departments/economic-development/housing-assistance-information",
+    "recipient-type": "Local Government",
+    "state-territory": "CA",
+    "state": "California",
+    "locality": "City",
+    "no-program": "",
+    "non-ERA-program-URL": "",
+    "assistance-phone-number": "",
+    "assistance-email": "",
+    "last-updated": "6/7/2021 4:55pm"
+  },
+  {
     "recipient-name": "County of Santa Cruz",
     "name": "Santa Cruz County",
-    "URL": "https://www.cityofsantacruz.com/government/city-departments/economic-development/housing-assistance-information",
+    "URL": "https://housing.ca.gov/",
     "recipient-type": "Local Government",
     "state-territory": "CA",
     "state": "California",
@@ -949,7 +991,7 @@
     "non-ERA-program-URL": "",
     "assistance-phone-number": "",
     "assistance-email": "",
-    "last-updated": "5/17/2021 5:30pm"
+    "last-updated": "6/7/2021 4:58pm"
   },
   {
     "recipient-name": "County of Solano",
@@ -1092,6 +1134,20 @@
     "last-updated": "5/3/2021 6:11pm"
   },
   {
+    "recipient-name": "City of Aurora",
+    "name": "Aurora",
+    "URL": "https://www.auroragov.org/residents/public_safety/office_of_emergency_management/covid-19_coronavirus_resources/community_resources/rental_assistance_program",
+    "recipient-type": "Local Government",
+    "state-territory": "CO",
+    "state": "Colorado",
+    "locality": "City",
+    "no-program": "",
+    "non-ERA-program-URL": "",
+    "assistance-phone-number": "1-888-480-0066",
+    "assistance-email": "",
+    "last-updated": "6/1/2021 3:17pm"
+  },
+  {
     "recipient-name": "Colorado Springs City Government",
     "name": "Colorado Springs",
     "URL": "https://coloradosprings.gov/era",
@@ -1132,6 +1188,20 @@
     "assistance-phone-number": "",
     "assistance-email": "",
     "last-updated": "5/3/2021 6:11pm"
+  },
+  {
+    "recipient-name": "El Paso County",
+    "name": "El Paso",
+    "URL": "https://cdola.colorado.gov/rental-mortgage-assistance",
+    "recipient-type": "Local Government",
+    "state-territory": "CO",
+    "state": "Colorado",
+    "locality": "County",
+    "no-program": "",
+    "non-ERA-program-URL": "",
+    "assistance-phone-number": "",
+    "assistance-email": "",
+    "last-updated": "5/24/2021 12:36pm"
   },
   {
     "recipient-name": " County of Jefferson",
@@ -1206,7 +1276,7 @@
   {
     "recipient-name": "State of Florida, Department of Financial Services",
     "name": "Florida",
-    "URL": "https://www.myflfamilies.com/covid19/emergency-rental-assistance.shtml",
+    "URL": "https://www.ourflorida.com/",
     "recipient-type": "State/DC",
     "state-territory": "FL",
     "state": "Florida",
@@ -1215,7 +1285,7 @@
     "non-ERA-program-URL": "",
     "assistance-phone-number": "",
     "assistance-email": "",
-    "last-updated": "5/5/2021 10:52am"
+    "last-updated": "5/21/2021 9:43am"
   },
   {
     "recipient-name": "Alachua County Board of County Commissioners",
@@ -1226,10 +1296,10 @@
     "state": "Florida",
     "locality": "County",
     "no-program": "",
-    "non-ERA-program-URL": "CDBG",
+    "non-ERA-program-URL": "",
     "assistance-phone-number": "",
     "assistance-email": "",
-    "last-updated": "5/4/2021 6:32pm"
+    "last-updated": "5/19/2021 3:53pm"
   },
   {
     "recipient-name": "Brevard County Board of County Commissioners",
@@ -1470,6 +1540,48 @@
     "last-updated": "5/3/2021 5:52pm"
   },
   {
+    "recipient-name": "City of Orlando",
+    "name": "Orlando",
+    "URL": "https://www.orlando.gov/Building-Development/Housing-and-Development-Grants-Incentives-and-Assistance/Housing-Assistance-Programs/Rental-Assistance-Program",
+    "recipient-type": "Local Government",
+    "state-territory": "FL",
+    "state": "Florida",
+    "locality": "City",
+    "no-program": "",
+    "non-ERA-program-URL": "",
+    "assistance-phone-number": "(855) 227-5304",
+    "assistance-email": "",
+    "last-updated": "6/1/2021 3:55pm"
+  },
+  {
+    "recipient-name": "Orlando",
+    "name": "Orlando",
+    "URL": "https://orlando.gov/assistance",
+    "recipient-type": "Local Government",
+    "state-territory": "FL",
+    "state": "Florida",
+    "locality": "City",
+    "no-program": "",
+    "non-ERA-program-URL": "",
+    "assistance-phone-number": "",
+    "assistance-email": "",
+    "last-updated": "5/20/2021 2:36pm"
+  },
+  {
+    "recipient-name": "Osceola County",
+    "name": "Osceola",
+    "URL": "https://www.osceola.org/agencies-departments/human-services/housing/",
+    "recipient-type": "Local Government",
+    "state-territory": "FL",
+    "state": "Florida",
+    "locality": "County",
+    "no-program": "",
+    "non-ERA-program-URL": "General rent or utility assistance",
+    "assistance-phone-number": "(407) 742-8403",
+    "assistance-email": "",
+    "last-updated": "6/1/2021 3:49pm"
+  },
+  {
     "recipient-name": "Board of County Commissioners Palm Beach County",
     "name": "Palm Beach",
     "URL": "https://www.rentalassistancepbc.org/",
@@ -1524,6 +1636,34 @@
     "assistance-phone-number": "",
     "assistance-email": "",
     "last-updated": "5/5/2021 8:19am"
+  },
+  {
+    "recipient-name": "City of Port St. Lucie",
+    "name": "Port St. Lucie",
+    "URL": "https://recoverstlucie.org/emergency-rental-and-mortgage-assistance-program/",
+    "recipient-type": "Local Government",
+    "state-territory": "FL",
+    "state": "Florida",
+    "locality": "City",
+    "no-program": "",
+    "non-ERA-program-URL": "",
+    "assistance-phone-number": "(772) 462-1705",
+    "assistance-email": "ERAP@stlucieco.org",
+    "last-updated": "6/1/2021 4:07pm"
+  },
+  {
+    "recipient-name": "Saint Johns County BoCC",
+    "name": "Saint Johns",
+    "URL": "http://www.co.st-johns.fl.us/socialservices/index.aspx",
+    "recipient-type": "Local Government",
+    "state-territory": "FL",
+    "state": "Florida",
+    "locality": "County",
+    "no-program": "",
+    "non-ERA-program-URL": "General rent or utility assistance",
+    "assistance-phone-number": "(904) 209-6140",
+    "assistance-email": "",
+    "last-updated": "6/1/2021 4:02pm"
   },
   {
     "recipient-name": "Sarasota County Board of County Commissioners",
@@ -1724,7 +1864,7 @@
   {
     "recipient-name": "Forsyth County Board of Commissioners",
     "name": "Forsyth",
-    "URL": "https://www.co.forsyth.nc.us/erap/",
+    "URL": "https://www.forsythco.com/rentrelief",
     "recipient-type": "Local Government",
     "state-territory": "GA",
     "state": "Georgia",
@@ -1733,7 +1873,7 @@
     "non-ERA-program-URL": "",
     "assistance-phone-number": "",
     "assistance-email": "",
-    "last-updated": "5/14/2021 3:24pm"
+    "last-updated": "5/19/2021 1:25pm"
   },
   {
     "recipient-name": "Fulton County",
@@ -1792,18 +1932,18 @@
     "last-updated": "5/4/2021 2:58pm"
   },
   {
-    "recipient-name": "",
+    "recipient-name": "Hawaii",
     "name": "Hawaii",
-    "URL": " ",
+    "URL": " https://dbedt.hawaii.gov/hhfdc/assistance-for-renters-emergency-rental-assistance-era-program/",
     "recipient-type": "State/DC",
     "state-territory": "HI",
     "state": "Hawaii",
     "locality": "State",
-    "no-program": true,
+    "no-program": "",
     "non-ERA-program-URL": "",
     "assistance-phone-number": "",
     "assistance-email": "",
-    "last-updated": "5/17/2021 5:19pm"
+    "last-updated": "6/3/2021 3:15pm"
   },
   {
     "recipient-name": "County of Hawaii",
@@ -2018,7 +2158,7 @@
   {
     "recipient-name": "Madison County Community Development",
     "name": "Madison",
-    "URL": "https://www.dhs.state.il.us/page.aspx?item=124295",
+    "URL": "https://www.co.madison.il.us/departments/community_development/rent_and_mortgage_assistance.php",
     "recipient-type": "Local Government",
     "state-territory": "IL",
     "state": "Illinois",
@@ -2027,7 +2167,7 @@
     "non-ERA-program-URL": "",
     "assistance-phone-number": "",
     "assistance-email": "",
-    "last-updated": "5/10/2021 2:19pm"
+    "last-updated": "5/24/2021 12:07pm"
   },
   {
     "recipient-name": "McHenry County",
@@ -2366,6 +2506,20 @@
     "last-updated": "5/4/2021 2:58pm"
   },
   {
+    "recipient-name": "Lafayette City",
+    "name": "Lafayette City",
+    "URL": "https://smilecaa.org/programs/lafayette-emergency-assistance-program/",
+    "recipient-type": "Local Government",
+    "state-territory": "LA",
+    "state": "Louisiana",
+    "locality": "County",
+    "no-program": "",
+    "non-ERA-program-URL": "",
+    "assistance-phone-number": "",
+    "assistance-email": "",
+    "last-updated": "5/20/2021 2:55pm"
+  },
+  {
     "recipient-name": "City of New Orleans",
     "name": "New Orleans",
     "URL": "https://ready.nola.gov/incident/coronavirus/assistance/#rent",
@@ -2550,7 +2704,7 @@
   {
     "recipient-name": "Massachusetts Department of the State Treasurer",
     "name": "Massachusetts",
-    "URL": "https://www.mass.gov/info-details/emergency-housing-assistance-during-covid-19#details-on-the-emergency-rental-assistance-program-(erap)-",
+    "URL": "https://www.mass.gov/info-details/emergency-housing-assistance-during-covid-19",
     "recipient-type": "State/DC",
     "state-territory": "MA",
     "state": "Massachusetts",
@@ -2559,7 +2713,7 @@
     "non-ERA-program-URL": "",
     "assistance-phone-number": "",
     "assistance-email": "",
-    "last-updated": "5/3/2021 5:36pm"
+    "last-updated": "6/16/2021 2:35pm"
   },
   {
     "recipient-name": "City of Boston",
@@ -2615,7 +2769,7 @@
     "non-ERA-program-URL": "CARES",
     "assistance-phone-number": "(810) 232-2185",
     "assistance-email": "",
-    "last-updated": "5/17/2021 5:45pm"
+    "last-updated": "5/20/2021 8:51am"
   },
   {
     "recipient-name": "City of Grand Rapids",
@@ -2660,6 +2814,34 @@
     "last-updated": "5/3/2021 5:42pm"
   },
   {
+    "recipient-name": "Anoka County",
+    "name": "Anoka",
+    "URL": "https://www.renthelpmn.org/",
+    "recipient-type": "Local Government",
+    "state-territory": "MN",
+    "state": "Minnesota",
+    "locality": "County",
+    "no-program": "",
+    "non-ERA-program-URL": "",
+    "assistance-phone-number": "",
+    "assistance-email": "",
+    "last-updated": "5/24/2021 12:39pm"
+  },
+  {
+    "recipient-name": "Dakota County",
+    "name": "Dakota",
+    "URL": "https://www.co.dakota.mn.us/HomeProperty/Evictions/Pages/eviction-prevention-assistance.aspx",
+    "recipient-type": "Local Government",
+    "state-territory": "MN",
+    "state": "Minnesota",
+    "locality": "County",
+    "no-program": "",
+    "non-ERA-program-URL": "General rent or utility assistance",
+    "assistance-phone-number": "(651) 554-6930",
+    "assistance-email": "caresevictionprevention@co.dakota.mn.us",
+    "last-updated": "6/1/2021 4:50pm"
+  },
+  {
     "recipient-name": "Hennepin County",
     "name": "Hennepin",
     "URL": "https://www.hennepin.us/rent-help",
@@ -2688,6 +2870,20 @@
     "last-updated": "5/18/2021 8:14am"
   },
   {
+    "recipient-name": "Ramsey County",
+    "name": "Ramsey",
+    "URL": "https://www.ramseycounty.us/residents/assistance-support/assistance/financial-assistance/emergency-assistance",
+    "recipient-type": "Local Government",
+    "state-territory": "MN",
+    "state": "Minnesota",
+    "locality": "County",
+    "no-program": "",
+    "non-ERA-program-URL": "",
+    "assistance-phone-number": "(651) 266-4884",
+    "assistance-email": "",
+    "last-updated": "6/1/2021 5:00pm"
+  },
+  {
     "recipient-name": "City of Saint Paul",
     "name": "Saint Paul",
     "URL": "https://www.stpaul.gov/housing/housing-trust-fund/families-first-housing-pilot",
@@ -2700,6 +2896,20 @@
     "assistance-phone-number": "",
     "assistance-email": "",
     "last-updated": "5/3/2021 6:13pm"
+  },
+  {
+    "recipient-name": "Washington County",
+    "name": "Washington",
+    "URL": "https://www.co.washington.mn.us/3279/Emergency-Programs-Due-to-COVID-19",
+    "recipient-type": "Local Government",
+    "state-territory": "MN",
+    "state": "Minnesota",
+    "locality": "County",
+    "no-program": "",
+    "non-ERA-program-URL": "",
+    "assistance-phone-number": "(651) 430-6570",
+    "assistance-email": "CSRA@co.washington.mn.us",
+    "last-updated": "6/1/2021 4:55pm"
   },
   {
     "recipient-name": "State of Mississippi",
@@ -2746,7 +2956,7 @@
   {
     "recipient-name": "State of Missouri",
     "name": "Missouri",
-    "URL": "https://safhr.smapply.org/prog/safhr_renter_application_portal/",
+    "URL": "https://www.mohousingresources.com/",
     "recipient-type": "State/DC",
     "state-territory": "MO",
     "state": "Missouri",
@@ -2755,7 +2965,7 @@
     "non-ERA-program-URL": "",
     "assistance-phone-number": "",
     "assistance-email": "",
-    "last-updated": "5/3/2021 5:41pm"
+    "last-updated": "5/19/2021 5:32pm"
   },
   {
     "recipient-name": "Clay County",
@@ -3007,7 +3217,7 @@
     "non-ERA-program-URL": "CHAP",
     "assistance-phone-number": "",
     "assistance-email": "",
-    "last-updated": "5/4/2021 1:12pm"
+    "last-updated": "5/20/2021 8:50am"
   },
   {
     "recipient-name": "City of Reno",
@@ -3063,7 +3273,7 @@
     "non-ERA-program-URL": "",
     "assistance-phone-number": "",
     "assistance-email": "",
-    "last-updated": "5/5/2021 8:22am"
+    "last-updated": "6/3/2021 3:20pm"
   },
   {
     "recipient-name": "State of New Jersey Dept of Community Affairs",
@@ -3091,7 +3301,7 @@
     "non-ERA-program-URL": "CDBG",
     "assistance-phone-number": "",
     "assistance-email": "",
-    "last-updated": "5/18/2021 8:52am"
+    "last-updated": "5/20/2021 8:50am"
   },
   {
     "recipient-name": "County of Bergen",
@@ -3175,7 +3385,7 @@
     "non-ERA-program-URL": "General rent or utility assistance",
     "assistance-phone-number": "",
     "assistance-email": "",
-    "last-updated": "5/18/2021 9:04am"
+    "last-updated": "5/20/2021 8:50am"
   },
   {
     "recipient-name": "County of Hudson",
@@ -3315,7 +3525,7 @@
     "non-ERA-program-URL": "CDBG",
     "assistance-phone-number": "",
     "assistance-email": "",
-    "last-updated": "5/18/2021 8:58am"
+    "last-updated": "5/20/2021 8:50am"
   },
   {
     "recipient-name": "County of Union",
@@ -3483,12 +3693,12 @@
     "non-ERA-program-URL": "",
     "assistance-phone-number": "(716) 881-6543",
     "assistance-email": "swatson@caowny.org",
-    "last-updated": "5/18/2021 3:57pm"
+    "last-updated": "5/20/2021 8:54am"
   },
   {
     "recipient-name": "Town of Hempstead",
     "name": "Hempstead",
-    "URL": "https://www.lihp.org/hempsteadERAP.html",
+    "URL": "https://www.lihp.org/herapintake.html",
     "recipient-type": "Local Government",
     "state-territory": "NY",
     "state": "New York",
@@ -3497,7 +3707,7 @@
     "non-ERA-program-URL": "",
     "assistance-phone-number": "",
     "assistance-email": "",
-    "last-updated": "5/17/2021 5:08pm"
+    "last-updated": "6/7/2021 4:52pm"
   },
   {
     "recipient-name": "Town of Huntington",
@@ -3567,7 +3777,7 @@
     "non-ERA-program-URL": "",
     "assistance-phone-number": "",
     "assistance-email": "",
-    "last-updated": "5/13/2021 2:19pm"
+    "last-updated": "5/20/2021 8:52am"
   },
   {
     "recipient-name": "Niagara County",
@@ -3726,7 +3936,7 @@
   {
     "recipient-name": "North Carolina Office of State Budget and Management",
     "name": "North Carolina",
-    "URL": "https://nc211.org/hope/",
+    "URL": "http://www.hope.nc.gov/",
     "recipient-type": "State/DC",
     "state-territory": "NC",
     "state": "North Carolina",
@@ -3735,7 +3945,21 @@
     "non-ERA-program-URL": "",
     "assistance-phone-number": "",
     "assistance-email": "",
-    "last-updated": "5/3/2021 9:18pm"
+    "last-updated": "5/19/2021 3:09pm"
+  },
+  {
+    "recipient-name": "Buncombe County",
+    "name": "Buncombe",
+    "URL": "https://www.buncombecounty.org/countycenter/news-detail.aspx?id=18947",
+    "recipient-type": "Local Government",
+    "state-territory": "NC",
+    "state": "North Carolina",
+    "locality": "County",
+    "no-program": "",
+    "non-ERA-program-URL": "General rent or utility assistance",
+    "assistance-phone-number": "(828) 250-5500",
+    "assistance-email": "",
+    "last-updated": "6/1/2021 5:20pm"
   },
   {
     "recipient-name": "Cabarrus County Government",
@@ -3766,6 +3990,34 @@
     "last-updated": "5/3/2021 6:02pm"
   },
   {
+    "recipient-name": "County of Cumberland",
+    "name": "Cumberland",
+    "URL": "https://iem-preregistration.com/cumberland-nc",
+    "recipient-type": "Local Government",
+    "state-territory": "NC",
+    "state": "North Carolina",
+    "locality": "County",
+    "no-program": "",
+    "non-ERA-program-URL": "",
+    "assistance-phone-number": "(888) 495-7710",
+    "assistance-email": "",
+    "last-updated": "6/2/2021 8:13am"
+  },
+  {
+    "recipient-name": "City of Durham",
+    "name": "Durham",
+    "URL": "https://durhamnc.gov/civicalerts.aspx?aid=2822",
+    "recipient-type": "Local Government",
+    "state-territory": "NC",
+    "state": "North Carolina",
+    "locality": "City",
+    "no-program": "",
+    "non-ERA-program-URL": "",
+    "assistance-phone-number": "(919) 560-8000",
+    "assistance-email": "durhamerap@dconc.gov",
+    "last-updated": "6/1/2021 5:08pm"
+  },
+  {
     "recipient-name": "Durham County",
     "name": "Durham",
     "URL": "https://healthydurham.org/resources/covid-19-resources",
@@ -3780,18 +4032,32 @@
     "last-updated": "5/4/2021 1:41pm"
   },
   {
+    "recipient-name": "City of Fayetteville",
+    "name": "Fayetteville",
+    "URL": "https://www.fayettevillenc.gov/city-services/economic-community-development/housing/emergency-rental-assistance-program",
+    "recipient-type": "Local Government",
+    "state-territory": "NC",
+    "state": "North Carolina",
+    "locality": "City",
+    "no-program": "",
+    "non-ERA-program-URL": "",
+    "assistance-phone-number": "1-888-495-7710",
+    "assistance-email": "",
+    "last-updated": "6/2/2021 7:58am"
+  },
+  {
     "recipient-name": "Forsyth County",
     "name": "Forsyth",
-    "URL": "https://www.ncdhhs.gov/divisions/social-services/work-first-family-assistance",
+    "URL": "https://www.co.forsyth.nc.us/erap/",
     "recipient-type": "Local Government",
     "state-territory": "NC",
     "state": "North Carolina",
     "locality": "County",
     "no-program": "",
-    "non-ERA-program-URL": "TANF",
+    "non-ERA-program-URL": "",
     "assistance-phone-number": "",
     "assistance-email": "",
-    "last-updated": "5/4/2021 1:30pm"
+    "last-updated": "5/19/2021 4:29pm"
   },
   {
     "recipient-name": "Gaston County Government",
@@ -3836,6 +4102,34 @@
     "last-updated": "5/4/2021 2:58pm"
   },
   {
+    "recipient-name": "County of Johnston",
+    "name": "Johnston",
+    "URL": "https://www.johnstonnc.com/content.cfm?id=1621",
+    "recipient-type": "Local Government",
+    "state-territory": "NC",
+    "state": "North Carolina",
+    "locality": "County",
+    "no-program": "",
+    "non-ERA-program-URL": "",
+    "assistance-phone-number": "(919) 989-5320",
+    "assistance-email": "",
+    "last-updated": "6/2/2021 8:09am"
+  },
+  {
+    "recipient-name": "Mecklenburg County",
+    "name": "Mecklenburg",
+    "URL": "https://rampclt.com/",
+    "recipient-type": "Local Government",
+    "state-territory": "NC",
+    "state": "North Carolina",
+    "locality": "County",
+    "no-program": "",
+    "non-ERA-program-URL": "",
+    "assistance-phone-number": "",
+    "assistance-email": "",
+    "last-updated": "6/1/2021 5:39pm"
+  },
+  {
     "recipient-name": "New Hanover County",
     "name": "New Hanover",
     "URL": "https://news.nhcgov.com/news-releases/2021/03/emergency-rental-assistance-program-helps-with-housing-costs-for-eligible-new-hanover-county-residents/",
@@ -3862,6 +4156,20 @@
     "assistance-phone-number": "",
     "assistance-email": "",
     "last-updated": "5/13/2021 6:15pm"
+  },
+  {
+    "recipient-name": "Union County",
+    "name": "Union",
+    "URL": "https://www.unioncountync.gov/departments/community-support-outreach/emergency-assistance/emergency-rental-assistance-program",
+    "recipient-type": "Local Government",
+    "state-territory": "NC",
+    "state": "North Carolina",
+    "locality": "County",
+    "no-program": "",
+    "non-ERA-program-URL": "",
+    "assistance-phone-number": "(980) 246-8181",
+    "assistance-email": "",
+    "last-updated": "6/1/2021 5:27pm"
   },
   {
     "recipient-name": "Wake County",
@@ -3920,9 +4228,37 @@
     "last-updated": "5/3/2021 5:34pm"
   },
   {
+    "recipient-name": "Butler County, OH Board of Commissioners",
+    "name": "Butler",
+    "URL": "https://selfhelps.org/covid-19/",
+    "recipient-type": "Local Government",
+    "state-territory": "OH",
+    "state": "Ohio",
+    "locality": "County",
+    "no-program": "",
+    "non-ERA-program-URL": "",
+    "assistance-phone-number": "(513) 868-9300",
+    "assistance-email": "info@selfhelps.org",
+    "last-updated": "6/2/2021 8:26am"
+  },
+  {
+    "recipient-name": "Butler County",
+    "name": "Butler",
+    "URL": "https://selfhelps.org/",
+    "recipient-type": "Local Government",
+    "state-territory": "OH",
+    "state": "Ohio",
+    "locality": "County",
+    "no-program": "",
+    "non-ERA-program-URL": "",
+    "assistance-phone-number": "",
+    "assistance-email": "",
+    "last-updated": "5/24/2021 12:03pm"
+  },
+  {
     "recipient-name": "City of Cincinnati",
     "name": "Cincinnati",
-    "URL": "https://www.hamiltoncountyohio.gov/government/open_hamilton_county/projects/cares_act_funding",
+    "URL": "https://www.cincy-caa.org/what-we-do/supportive-services/caa-home-relief.html",
     "recipient-type": "Local Government",
     "state-territory": "OH",
     "state": "Ohio",
@@ -3931,7 +4267,21 @@
     "non-ERA-program-URL": "CARES",
     "assistance-phone-number": "",
     "assistance-email": "",
-    "last-updated": "5/18/2021 9:37am"
+    "last-updated": "5/20/2021 2:43pm"
+  },
+  {
+    "recipient-name": "Clermont County Job & Family Services",
+    "name": "Clermont",
+    "URL": "https://clermontcountyohio.gov/emergency-rental-and-utility-assistance/",
+    "recipient-type": "Local Government",
+    "state-territory": "OH",
+    "state": "Ohio",
+    "locality": "County",
+    "no-program": "",
+    "non-ERA-program-URL": "",
+    "assistance-phone-number": "",
+    "assistance-email": "Support@CCCSI.org",
+    "last-updated": "5/25/2021 6:01pm"
   },
   {
     "recipient-name": "City of Cleveland",
@@ -3976,6 +4326,20 @@
     "last-updated": "5/19/2021 8:29am"
   },
   {
+    "recipient-name": "Delaware County",
+    "name": "Delaware",
+    "URL": "https://www.delco-era.com/",
+    "recipient-type": "Local Government",
+    "state-territory": "OH",
+    "state": "Ohio",
+    "locality": "County",
+    "no-program": "",
+    "non-ERA-program-URL": "",
+    "assistance-phone-number": "",
+    "assistance-email": "",
+    "last-updated": "6/3/2021 5:27pm"
+  },
+  {
     "recipient-name": "Franklin County",
     "name": "Franklin",
     "URL": "https://jfs.franklincountyohio.gov/emergency-assistance-(prc)",
@@ -3987,21 +4351,21 @@
     "non-ERA-program-URL": "CARES",
     "assistance-phone-number": "",
     "assistance-email": "",
-    "last-updated": "5/18/2021 9:41am"
+    "last-updated": "5/20/2021 8:51am"
   },
   {
     "recipient-name": "Hamilton County",
     "name": "Hamilton",
-    "URL": "https://www.hctaindiana.com/era",
+    "URL": "https://513relief.org/housing-utility-relief/",
     "recipient-type": "Local Government",
     "state-territory": "OH",
     "state": "Ohio",
     "locality": "County",
     "no-program": "",
-    "non-ERA-program-URL": "",
+    "non-ERA-program-URL": "CARES",
     "assistance-phone-number": "",
     "assistance-email": "",
-    "last-updated": "5/13/2021 6:05pm"
+    "last-updated": "5/20/2021 2:51pm"
   },
   {
     "recipient-name": "Lorain County",
@@ -4016,6 +4380,34 @@
     "assistance-phone-number": "",
     "assistance-email": "",
     "last-updated": "5/3/2021 6:13pm"
+  },
+  {
+    "recipient-name": "Lucas County",
+    "name": "Lucas",
+    "URL": "https://toledo.oh.gov/residents/renters/assistance",
+    "recipient-type": "Local Government",
+    "state-territory": "OH",
+    "state": "Ohio",
+    "locality": "County",
+    "no-program": "",
+    "non-ERA-program-URL": "",
+    "assistance-phone-number": "",
+    "assistance-email": "",
+    "last-updated": "6/3/2021 5:28pm"
+  },
+  {
+    "recipient-name": "The Board of Mahoning County Commissioners",
+    "name": "Mahoning",
+    "URL": "https://www.mahoningcountyoh.gov/DocumentCenter/View/46728/Mahoning-County-Rent-Housing-Assistance-Programs",
+    "recipient-type": "Local Government",
+    "state-territory": "OH",
+    "state": "Ohio",
+    "locality": "County",
+    "no-program": "",
+    "non-ERA-program-URL": "",
+    "assistance-phone-number": "",
+    "assistance-email": "",
+    "last-updated": "6/3/2021 5:15pm"
   },
   {
     "recipient-name": "Montgomery County",
@@ -4060,6 +4452,20 @@
     "last-updated": "5/3/2021 6:05pm"
   },
   {
+    "recipient-name": "City of Toledo",
+    "name": "Toledo",
+    "URL": "https://toledo.oh.gov/residents/renters/assistance",
+    "recipient-type": "Local Government",
+    "state-territory": "OH",
+    "state": "Ohio",
+    "locality": "City",
+    "no-program": "",
+    "non-ERA-program-URL": "",
+    "assistance-phone-number": "(419) 245-1400",
+    "assistance-email": "",
+    "last-updated": "6/2/2021 8:32am"
+  },
+  {
     "recipient-name": "Warren County Board of Commissioners",
     "name": "Warren",
     "URL": "https://www.co.warren.oh.us/CovidUpdates/ERA/Default.aspx",
@@ -4088,6 +4494,20 @@
     "last-updated": "5/3/2021 5:45pm"
   },
   {
+    "recipient-name": "Cleveland County",
+    "name": "Cleveland",
+    "URL": "https://okcommunitycares.org/en/home/",
+    "recipient-type": "Local Government",
+    "state-territory": "OK",
+    "state": "Oklahoma",
+    "locality": "County",
+    "no-program": "",
+    "non-ERA-program-URL": "",
+    "assistance-phone-number": "",
+    "assistance-email": "",
+    "last-updated": "6/3/2021 5:25pm"
+  },
+  {
     "recipient-name": "City of Oklahoma City",
     "name": "Oklahoma City",
     "URL": "https://okcommunitycares.org/en/home/",
@@ -4100,6 +4520,20 @@
     "assistance-phone-number": "",
     "assistance-email": "",
     "last-updated": "5/5/2021 10:23am"
+  },
+  {
+    "recipient-name": "Tulsa County",
+    "name": "Tulsa",
+    "URL": "https://erap.restorehope.org/",
+    "recipient-type": "Local Government",
+    "state-territory": "OK",
+    "state": "Oklahoma",
+    "locality": "County",
+    "no-program": "",
+    "non-ERA-program-URL": "",
+    "assistance-phone-number": "",
+    "assistance-email": "",
+    "last-updated": "6/3/2021 4:47pm"
   },
   {
     "recipient-name": "City of Tulsa",
@@ -4144,6 +4578,34 @@
     "last-updated": "5/18/2021 9:42am"
   },
   {
+    "recipient-name": "Lane County",
+    "name": "Lane",
+    "URL": "https://lanecounty.org/government/county_departments/health_and_human_services/public_health/2019_novel_coronavirus__c_o_v_i_d19/rent_assistance",
+    "recipient-type": "Local Government",
+    "state-territory": "OR",
+    "state": "Oregon",
+    "locality": "County",
+    "no-program": "",
+    "non-ERA-program-URL": "",
+    "assistance-phone-number": "",
+    "assistance-email": "",
+    "last-updated": "5/27/2021 9:34am"
+  },
+  {
+    "recipient-name": "Marion County",
+    "name": "Marion",
+    "URL": "https://oerap.oregon.gov/orera",
+    "recipient-type": "Local Government",
+    "state-territory": "OR",
+    "state": "Oregon",
+    "locality": "County",
+    "no-program": "",
+    "non-ERA-program-URL": "",
+    "assistance-phone-number": "",
+    "assistance-email": "",
+    "last-updated": "5/27/2021 9:37am"
+  },
+  {
     "recipient-name": "Multnomah County",
     "name": "Multnomah",
     "URL": "https://www.211info.org/multco-rent",
@@ -4169,7 +4631,7 @@
     "non-ERA-program-URL": "CARES",
     "assistance-phone-number": "",
     "assistance-email": "",
-    "last-updated": "5/12/2021 6:15pm"
+    "last-updated": "5/20/2021 8:51am"
   },
   {
     "recipient-name": "Washington County",
@@ -4482,7 +4944,7 @@
   {
     "recipient-name": "State of South Carolina",
     "name": "South Carolina",
-    "URL": "https://schousing.com/home/sc-stay",
+    "URL": "https://schousing.com/home/SC-Stay-Plus",
     "recipient-type": "State/DC",
     "state-territory": "SC",
     "state": "South Carolina",
@@ -4491,7 +4953,7 @@
     "non-ERA-program-URL": "",
     "assistance-phone-number": "",
     "assistance-email": "",
-    "last-updated": "5/3/2021 5:42pm"
+    "last-updated": "5/25/2021 5:52pm"
   },
   {
     "recipient-name": "Anderson County",
@@ -4561,7 +5023,7 @@
     "non-ERA-program-URL": "General rent or utility assistance",
     "assistance-phone-number": "",
     "assistance-email": "",
-    "last-updated": "5/18/2021 9:15am"
+    "last-updated": "5/20/2021 8:50am"
   },
   {
     "recipient-name": "Richland County",
@@ -4704,6 +5166,20 @@
     "last-updated": "5/4/2021 5:29pm"
   },
   {
+    "recipient-name": "City of Arlington",
+    "name": "Arlington",
+    "URL": "https://getrenthelp.com/",
+    "recipient-type": "Local Government",
+    "state-territory": "TX",
+    "state": "Texas",
+    "locality": "City",
+    "no-program": "",
+    "non-ERA-program-URL": "",
+    "assistance-phone-number": "",
+    "assistance-email": "",
+    "last-updated": "6/3/2021 3:45pm"
+  },
+  {
     "recipient-name": "City of Austin",
     "name": "Austin",
     "URL": "http://www.austintexas.gov/rent",
@@ -4718,9 +5194,9 @@
     "last-updated": "5/3/2021 5:54pm"
   },
   {
-    "recipient-name": "Brazoria County",
-    "name": "Brazoria",
-    "URL": "https://www.brazoriacountytx.gov/home/showpublisheddocument?id=12684",
+    "recipient-name": "Bell County",
+    "name": "Bell",
+    "URL": "http://hccaa.com/emergency-disaster/",
     "recipient-type": "Local Government",
     "state-territory": "TX",
     "state": "Texas",
@@ -4729,7 +5205,35 @@
     "non-ERA-program-URL": "",
     "assistance-phone-number": "",
     "assistance-email": "",
-    "last-updated": "5/3/2021 6:11pm"
+    "last-updated": "5/21/2021 4:26pm"
+  },
+  {
+    "recipient-name": "Bexar County",
+    "name": "Bexar",
+    "URL": "https://covid19.sanantonio.gov/Services/Rent-and-Mortgage-Help-Housing",
+    "recipient-type": "Local Government",
+    "state-territory": "TX",
+    "state": "Texas",
+    "locality": "County",
+    "no-program": "",
+    "non-ERA-program-URL": "",
+    "assistance-phone-number": "",
+    "assistance-email": "",
+    "last-updated": "6/17/2021 5:16pm"
+  },
+  {
+    "recipient-name": "Brazoria County",
+    "name": "Brazoria",
+    "URL": "https://www.brazoriacountytx.gov/departments/emergency-rental-assistance-program",
+    "recipient-type": "Local Government",
+    "state-territory": "TX",
+    "state": "Texas",
+    "locality": "County",
+    "no-program": "",
+    "non-ERA-program-URL": "",
+    "assistance-phone-number": "",
+    "assistance-email": "",
+    "last-updated": "6/17/2021 5:15pm"
   },
   {
     "recipient-name": "Brazos County",
@@ -4772,6 +5276,20 @@
     "assistance-phone-number": "",
     "assistance-email": "",
     "last-updated": "5/3/2021 6:04pm"
+  },
+  {
+    "recipient-name": "City of Corpus Christi",
+    "name": "Corpus Christi",
+    "URL": "https://www.cctexas.com/detail/rent-mortgage-utility-assistance",
+    "recipient-type": "Local Government",
+    "state-territory": "TX",
+    "state": "Texas",
+    "locality": "City",
+    "no-program": "",
+    "non-ERA-program-URL": "CDBG",
+    "assistance-phone-number": "",
+    "assistance-email": "",
+    "last-updated": "6/3/2021 3:48pm"
   },
   {
     "recipient-name": "City of Dallas",
@@ -4886,6 +5404,20 @@
     "last-updated": "5/4/2021 2:59pm"
   },
   {
+    "recipient-name": "City of Garland",
+    "name": "Garland",
+    "URL": "https://garlandtx.gov/3739/Recovery-Resources",
+    "recipient-type": "Local Government",
+    "state-territory": "TX",
+    "state": "Texas",
+    "locality": "City",
+    "no-program": "",
+    "non-ERA-program-URL": "",
+    "assistance-phone-number": "",
+    "assistance-email": "",
+    "last-updated": "6/3/2021 5:06pm"
+  },
+  {
     "recipient-name": "Harris County",
     "name": "Harris",
     "URL": "https://houstonharrishelp.org/",
@@ -4928,6 +5460,34 @@
     "last-updated": "5/3/2021 5:50pm"
   },
   {
+    "recipient-name": "City of Irving",
+    "name": "Irving",
+    "URL": "https://www.zoomgrants.cc/gprop2.asp?donorid=2354&rfpid=3404",
+    "recipient-type": "Local Government",
+    "state-territory": "TX",
+    "state": "Texas",
+    "locality": "City",
+    "no-program": "",
+    "non-ERA-program-URL": "",
+    "assistance-phone-number": "",
+    "assistance-email": "",
+    "last-updated": "5/19/2021 1:26pm"
+  },
+  {
+    "recipient-name": "Jefferson County",
+    "name": "Jefferson",
+    "URL": "https://co.jefferson.tx.us/JP/documents/jp11RentalandUtilityAssistance_ENG.pdf",
+    "recipient-type": "Local Government",
+    "state-territory": "TX",
+    "state": "Texas",
+    "locality": "County",
+    "no-program": "",
+    "non-ERA-program-URL": "",
+    "assistance-phone-number": "",
+    "assistance-email": "",
+    "last-updated": "6/3/2021 5:04pm"
+  },
+  {
     "recipient-name": "City of Laredo",
     "name": "Laredo",
     "URL": "https://www.lmtonline.com/news/article/Rental-assistance-still-available-to-Laredoans-16108887.php",
@@ -4956,6 +5516,20 @@
     "last-updated": "5/4/2021 2:58pm"
   },
   {
+    "recipient-name": "Lubbock County",
+    "name": "Lubbock",
+    "URL": "https://ci.lubbock.tx.us/departments/community-development/emergency-rent-assistance",
+    "recipient-type": "Local Government",
+    "state-territory": "TX",
+    "state": "Texas",
+    "locality": "County",
+    "no-program": "",
+    "non-ERA-program-URL": "",
+    "assistance-phone-number": "",
+    "assistance-email": "",
+    "last-updated": "6/3/2021 5:29pm"
+  },
+  {
     "recipient-name": "McLennan County",
     "name": "McLennan",
     "URL": "https://covidwaco.com/rental-assistance/",
@@ -4968,20 +5542,6 @@
     "assistance-phone-number": "",
     "assistance-email": "",
     "last-updated": "5/4/2021 2:58pm"
-  },
-  {
-    "recipient-name": "Montgomery County",
-    "name": "Montgomery",
-    "URL": "https://www.montgomerycountymd.gov/HHS-Program/SNHS/rent-relief.html",
-    "recipient-type": "Local Government",
-    "state-territory": "TX",
-    "state": "Texas",
-    "locality": "County",
-    "no-program": "",
-    "non-ERA-program-URL": "",
-    "assistance-phone-number": "",
-    "assistance-email": "",
-    "last-updated": "5/12/2021 6:20pm"
   },
   {
     "recipient-name": "City of Plano",
@@ -5014,7 +5574,7 @@
   {
     "recipient-name": "Smith County",
     "name": "Smith",
-    "URL": "https://www.pathhelps.org/era/",
+    "URL": "https://pathrenthelp.org/",
     "recipient-type": "Local Government",
     "state-territory": "TX",
     "state": "Texas",
@@ -5023,7 +5583,7 @@
     "non-ERA-program-URL": "",
     "assistance-phone-number": "",
     "assistance-email": "",
-    "last-updated": "5/4/2021 2:58pm"
+    "last-updated": "6/3/2021 3:19pm"
   },
   {
     "recipient-name": "Tarrant County",
@@ -5052,6 +5612,20 @@
     "assistance-phone-number": "",
     "assistance-email": "",
     "last-updated": "5/3/2021 6:11pm"
+  },
+  {
+    "recipient-name": "Webb County",
+    "name": "Webb",
+    "URL": "https://covid19.nhc.org/webb-county-texas-emergency-rental-assistance-program/",
+    "recipient-type": "Local Government",
+    "state-territory": "TX",
+    "state": "Texas",
+    "locality": "County",
+    "no-program": "",
+    "non-ERA-program-URL": "",
+    "assistance-phone-number": "(956) 523-4182",
+    "assistance-email": "",
+    "last-updated": "6/3/2021 5:32pm"
   },
   {
     "recipient-name": "State of Utah, Department of Workforce Services",
@@ -5182,7 +5756,7 @@
   {
     "recipient-name": "Fairfax County",
     "name": "Fairfax",
-    "URL": "https://hhsncs.powerappsportals.us/",
+    "URL": "https://www.fairfaxcounty.gov/health-humanservices/eviction-prevention",
     "recipient-type": "Local Government",
     "state-territory": "VA",
     "state": "Virginia",
@@ -5191,7 +5765,7 @@
     "non-ERA-program-URL": "",
     "assistance-phone-number": "",
     "assistance-email": "",
-    "last-updated": "5/3/2021 5:52pm"
+    "last-updated": "6/7/2021 4:47pm"
   },
   {
     "recipient-name": "Prince William County",
@@ -5303,12 +5877,12 @@
     "non-ERA-program-URL": "",
     "assistance-phone-number": "",
     "assistance-email": "",
-    "last-updated": "5/5/2021 10:28am"
+    "last-updated": "5/20/2021 8:54am"
   },
   {
     "recipient-name": "Snohomish County",
     "name": "Snohomish",
-    "URL": "https://snohomishcountywa.gov/3042/HOME-TBRA",
+    "URL": "https://www.voaww.org/",
     "recipient-type": "Local Government",
     "state-territory": "WA",
     "state": "Washington ",
@@ -5316,8 +5890,8 @@
     "no-program": "",
     "non-ERA-program-URL": "",
     "assistance-phone-number": "",
-    "assistance-email": "",
-    "last-updated": "5/3/2021 6:03pm"
+    "assistance-email": "rentassistance@voaww.org",
+    "last-updated": "5/28/2021 10:37am"
   },
   {
     "recipient-name": "Spokane County",
@@ -5334,6 +5908,34 @@
     "last-updated": "5/3/2021 6:13pm"
   },
   {
+    "recipient-name": "City of Spokane",
+    "name": "Spokane",
+    "URL": "https://my.spokanecity.org/covid19/resident-assistance/",
+    "recipient-type": "Local Government",
+    "state-territory": "WA",
+    "state": "Washington ",
+    "locality": "City",
+    "no-program": "",
+    "non-ERA-program-URL": "",
+    "assistance-phone-number": "1-800-819-9785",
+    "assistance-email": "FORWARD-support@livestories.com",
+    "last-updated": "6/3/2021 5:19pm"
+  },
+  {
+    "recipient-name": "City of Tacoma",
+    "name": "Tacoma",
+    "URL": "https://www.cityoftacoma.org/whats_going_on/coronavirus",
+    "recipient-type": "Local Government",
+    "state-territory": "WA",
+    "state": "Washington ",
+    "locality": "City",
+    "no-program": "",
+    "non-ERA-program-URL": "",
+    "assistance-phone-number": "",
+    "assistance-email": "",
+    "last-updated": "6/3/2021 5:22pm"
+  },
+  {
     "recipient-name": "Thurston County",
     "name": "Thurston",
     "URL": "https://www.erap-help.com/CACLMT",
@@ -5346,6 +5948,34 @@
     "assistance-phone-number": "",
     "assistance-email": "",
     "last-updated": "5/3/2021 6:14pm"
+  },
+  {
+    "recipient-name": "Whatcom County",
+    "name": "Whatcom",
+    "URL": "https://www.oppco.org/whatcomrentalassistance/",
+    "recipient-type": "Local Government",
+    "state-territory": "WA",
+    "state": "Washington ",
+    "locality": "County",
+    "no-program": "",
+    "non-ERA-program-URL": "",
+    "assistance-phone-number": "",
+    "assistance-email": "",
+    "last-updated": "6/3/2021 5:11pm"
+  },
+  {
+    "recipient-name": "Yakima County",
+    "name": "Yakima",
+    "URL": "https://www.yakimacounty.us/2453/For-Tenants-and-Landlords",
+    "recipient-type": "Local Government",
+    "state-territory": "WA",
+    "state": "Washington ",
+    "locality": "County",
+    "no-program": "",
+    "non-ERA-program-URL": "",
+    "assistance-phone-number": "",
+    "assistance-email": "",
+    "last-updated": "5/26/2021 8:51am"
   },
   {
     "recipient-name": "West Virginia State Executive Office",
@@ -5364,7 +5994,7 @@
   {
     "recipient-name": "Wisconsin Department of Administration",
     "name": "Wisconsin",
-    "URL": "https://wiscap.org/wera/",
+    "URL": "https://wiscap.org/wera",
     "recipient-type": "State/DC",
     "state-territory": "WI",
     "state": "Wisconsin",
@@ -5373,7 +6003,7 @@
     "non-ERA-program-URL": "",
     "assistance-phone-number": "",
     "assistance-email": "",
-    "last-updated": "5/3/2021 5:39pm"
+    "last-updated": "5/19/2021 3:07pm"
   },
   {
     "recipient-name": "Brown County",
@@ -5415,7 +6045,7 @@
     "non-ERA-program-URL": "Dane CORE",
     "assistance-phone-number": "",
     "assistance-email": "",
-    "last-updated": "5/17/2021 9:01pm"
+    "last-updated": "5/20/2021 8:50am"
   },
   {
     "recipient-name": "City of Milwaukee",
