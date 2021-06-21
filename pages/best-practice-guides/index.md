@@ -7,10 +7,10 @@ title: Promising practices for ERA programs
 ---
 
 <p>
-  The U.S. Treasury Department has made billions of dollars available to state, local and tribal government agencies to provide emergency rental assistance to help qualified renters cover their housing-related costs during the pandemic. As a result, localities across the United States have been working hard to stand up their Emergency Rental Assistance (ERA) programs in order to address the devastating impact of the COVID-19 pandemic on millions of American renters.  Each ERA grantee has some flexibility to develop their rental assistance program to suit the needs of their local community, while complying with requirements outlined in their ERA financial assistance agreement, the ERA statute, and Treasury’s guidelines.  
+  The U.S. Treasury Department has made billions of dollars available to state, local and tribal government agencies to provide emergency rental assistance to help qualified renters cover their housing-related costs during the pandemic. As a result, localities across the United States have been working hard to stand up their Emergency Rental Assistance (ERA) programs in order to address the devastating impact of the COVID-19 pandemic on millions of American renters.  Each ERA grantee has some flexibility to develop their rental assistance program to suit the needs of their local community, while complying with requirements outlined in their ERA financial assistance agreement, the ERA statute, and Treasury’s guidelines.
 </p>
 <p>
-  Treasury has engaged with ERA grantees across the country to identify program strategies that promise to speed up program implementation, more efficiently  deliver program benefits, enhance program integrity, and improve tenant and landlord access to programs—particularly for vulnerable and harder to reach populations. As grantees across the country build program infrastructures designed to meet the specific needs of their local communities, many have reported that many early successes have relied on leveraging local resources, data-driven operational analyses, and incorporating continuous operational improvement strategies into their regular practices. Specific promising practices to reach residents most in need of ERA benefits and enhance program efficiency include: 
+  Treasury has engaged with ERA grantees across the country to identify program strategies that promise to speed up program implementation, more efficiently  deliver program benefits, enhance program integrity, and improve tenant and landlord access to programs—particularly for vulnerable and harder to reach populations. As grantees across the country build program infrastructures designed to meet the specific needs of their local communities, many have reported that early successes have relied on leveraging local resources, data-driven operational analyses, and incorporating continuous operational improvement strategies into their regular practices. Specific promising practices to reach residents most in need of ERA benefits and enhance program efficiency include <sup><a href="#fn1" id="ref1">1</a></sup>: 
 </p>
 
 *	[Partnerships in Program Implementation](#partnerships-in-program-implementation)
@@ -22,21 +22,24 @@ title: Promising practices for ERA programs
 * [Making the Application Process Simple and User Friendly](#making-the-application-process-simple-and-user-friendly)
 * [Using Fact-Specific Proxies to Establish Applicant Income](#using-fact-specific-proxies-to-establish-applicant-income)
 * [Automation Supporting Application Prioritization](#automation-supporting-application-prioritization)
-* [Stakeholder Communication through Dashboards](#stakeholder-communication-through-dashboards)
+* [Data-Driven Program Strategies](#data-driven-program-strategies)
 
-If you have any promising practices you would like to share, please reach out to [ERAGranteeWebResources@treasury.gov](ERAGranteeWebResources@treasury.gov). 
+
+<sup id="fn1">1 Treasury recognizes that programs vary according to local circumstances; these examples are intended to help programs identify opportunities to enhance the effectiveness of their own programs but may not be universally applicable to all grantees. The program information provided herein is intended solely to illuminate “promising practices” that grantees might consider when developing their jurisdiction’s program policies and infrastructure. All such policy development must proceed in accordance with the governing legal authorities and published policy guidance. Nothing herein should be construed as (i) altering these requirements or (ii) confirming that any specific grantee’s program policies or administrative practices have been fully reviewed and found compliant.</sup>
 
 ### Partnerships in Program Implementation 
 
-Many grantees that have quickly implemented their ERA Programs were able to do so by leveraging existing local partnerships with non-profits and community organizations already working on housing stability issues. These organizations are integrated into the community and can provide holistic support across a variety housing stability, food insecurity, financial, and health services. Some grantees have made efforts to incorporate their ERA programs into “one program” with other housing stability services, allowing program providers to identify appropriate resources to address the range of individual applicant’s needs.
+Many grantees that have quickly implemented their ERA programs were able to do so by leveraging existing local partnerships with nonprofits and community organizations already working on housing stability issues. These local organizations are integrated into the community and can provide holistic support across a variety housing stability, food insecurity, financial, and health services. Some grantees have made efforts to integrate their ERA programs into “one program” with other housing stability services, allowing program providers to identify appropriate resources to address the full range of individual applicant’s needs.
 
-Grantees reporting strong partnerships with non-profit program providers emphasized that these relationships rely on building a shared vision and infrastructure that supports continuous communication about ERA program development, program requirements and definitions, and the flow of ERA applications/payments. 
+Grantees that reported strong partnerships with nonprofit program providers emphasized that these relationships rely on building a shared vision and infrastructure that supports continuous communication about ERA program development, program requirements and definitions, and the flow of ERA applications/payments. 
 
-Partnerships between grantees have also allowed for more consistent application experiences within the locality.  In some cases, grantees have found administrative economies of scale by localities partnering with neighboring grantees or those who might have overlapping jurisdictions. Partnerships between grantees can also help to ensure that funds reach the highest need communities and to guard against awarding duplicative benefits to residents.
+Partnerships between grantees have also allowed for more consistent application experiences within the locality.  In some cases, grantees have found administrative economies of scale by partnering with neighboring grantees or overlapping jurisdictions. Partnerships between grantees can ensure that funds reach the highest need communities while guarding against awarding duplicative benefits to residents.
 
 #### Examples
 
-**Charlotte, NC** has developed a highly collaborative relationship with a local affordable housing nonprofit. Information collected from the non-profit feeds into a data-system that keeps city administrators informed about program outcomes. The city and non-profit have regular communications, and the city maintains a regular schedule of program auditing to support quality control and real-time problem solving to continually adjust to program processes. 
+**Charlotte, NC** has developed a highly collaborative relationship with a local affordable housing nonprofit. Information collected from the nonprofit feeds into a data-system that keeps city administrators informed about program outcomes. The city and nonprofit have regular communications, and the city maintains a regular schedule of program auditing to support quality control and real-time problem solving to continually adjust to changing programmatic needs.
+
+**Montgomery County, PA** has incorporated their ERA program into a preexisting network of homelessness prevention activities. Outreach and program implementation occur through community-based nonprofit organizations that specialize in working with low income households.  These organizations maintain a common information system and use the local housing crisis response’s Coordinated Entry system, which connects applicants with a range of relevant services and programs. 
 
 **The state of Ohio** implements their ERA program through the Community Action Coalition, representing 47 non-profits across the state that offer a range of services. These organizations use a common backend system that helps to align program requirements and guard against duplication of benefit allocation. The state regularly coordinates communications about program challenges and best practices, creating channel for more efficiently cultivating program development. 
 
@@ -44,19 +47,21 @@ Partnerships between grantees have also allowed for more consistent application 
 
 ### Culturally and Linguistically Competent Outreach
 
-Across the country, grantees are identifying strategies to reach communities where residents were disproportionately affected by the COVID-19 pandemic.  Most grantees incorporate Spanish translation services into their application processes, some offering support in multiple languages.  Most also have expanded the availability of their ERA application by supporting multiple channels for residents to apply, especially through complementing an online application with access to call center application support through 211 partnerships and/or phone-based access to housing counselors.  
+Across the country, grantees are identifying strategies to reach communities where residents were disproportionately affected by the COVID-19 pandemic. Most grantees incorporate Spanish translation services into their application processes, some offering support in multiple languages. Most also have expanded the availability of their ERA application by supporting multiple channels for residents to apply, especially through complementing an online application with access to call center application support through 211 partnerships and/or phone-based access to housing counselors.
 
-Some grantees have identified significant benefits in partnering with trusted local organizations with high levels of local cultural and linguistic competencies.  Intentional partnerships with trusted organizations can especially help support outreach efforts to serve harder to reach populations that face technological, cultural, and linguistic barriers to ERA participation. These partnerships can be especially critical when working with immigrant populations, the elderly, survivors of domestic violence or human trafficking, and other marginalized communities.  In some cases, these organizations have provided in-person application support while maintaining social distancing protocols.  
+Some grantees have identified significant benefits in partnering with trusted local organizations with high levels of local cultural and linguistic competencies.  Intentional partnerships with trusted organizations can especially help support outreach efforts to serve harder to reach populations that face technological, cultural, and linguistic barriers to ERA participation. These partnerships can be especially critical when working with immigrant populations, the elderly, survivors of domestic violence or human trafficking, and other marginalized communities.  In some cases, these organizations have provided in-person application support while maintaining social distancing protocols.
 
 Many grantees have reported that these partnerships are occurring when their non-profit partners sub-contract and engage with smaller non-profits that work with specific vulnerable populations that were disproportionally affected by the COVID-19 pandemic.
 
 #### Examples
 
-**The city of San Antonio** has been intentional in contracting with non-profits to reach target populations.  For instance, one of these partners is Domesticas Unidas, an organization that provides support to domestic workers. Administrators have noted that non-profits trained in in-person outreach while maintaining social distancing health standards, such as those who have contracted to do census outreach, are particularly promising partners. 
+**The city of San Antonio** has been intentional in contracting with nonprofits to reach target populations. They have started contracting with a collaborative of local healthcare organizations, which in turn works with 20 nonprofit grassroots organizations who have deep ties to the community. For instance, one of these partners is an organization that provides various support services to domestic workers and has strong ties to the local Spanish-speaking community. Administrators have noted that nonprofits trained to conduct in-person outreach (while maintaining social distancing health standards) are particularly helpful partners, such as those who have contracted to do census outreach.
 
-**The State of Maine** has built partnerships with cultural brokers within the state in order to promote the program to immigrant populations.
+While **the State of Maine** has translated their application and program materials into eight languages, program administrators have found that building partnerships with cultural brokers are critical to engagement with local immigrant populations. For instance, partnerships with local organizations focused on Somali immigrants have helped the program identify more specific services that can help these households successfully navigate the ERA program while also providing a bridge to other relevant Health and Human Services programs offered by the state. 
 
-Church networks can be strong partners in educating communities about ERA programs.  **The State of Illinois** has started working on program outreach efforts using a network of churches that also engaged with the state in supporting COVID-relief efforts. The State of North Carolina has noted that partnering with Black Churches within the state is critical to its community outreach efforts.  
+**The State of Illinois** has started working on program outreach efforts through a network of churches that also supported the state’s COVID-relief efforts. The State of North Carolina has noted that partnering with Black churches within the state is critical to its community outreach efforts.  These partnerships demonstrate that church networks can serve as strong partners to educate communities about ERA programs.    
+
+**Richland County** in South Carolina has found strong partnerships opportunities with county’s thirteen libraries spread out across the county. In addition to providing convenient centers of support to residents, the library system also has a preexisting relationship with local social workers. This network has provided the ERA program administrators an opportunity to train the existing network professionals to educate residents about the ERA program. This effort has led to increased accessibility of professional and holistic support for households in need of ERA services, while also providing applicants to the free online access and other resources.
 
 ### Intentional Landlord Engagement
 
@@ -72,7 +77,7 @@ These proactive landlord communications have also been critical to landlord part
 
 ### Partnerships with Broader Eviction Diversion Programs
 
-Many grantees have found that partnerships with the local court systems and legal services are critical tools in preventing housing insecurity and helping landlords recover from built-up rental arears.  While the court systems and eviction processes vary across different states and localities, many grantees have found that proactively engaging with local courts, legal aid organizations, and other stakeholders involved in the eviction process can help to reach renters most at risk of housing instability.  Many programs have developed systems where renters facing eviction in the court system have lower documentation requirements to prove eligibility for ERA funds. 
+Many grantees have found that partnerships with the local court systems and legal services are critical tools in preventing housing insecurity and helping landlords recover from built-up rental arrears.  While the court systems and eviction processes vary across different states and localities, many grantees have found that proactively engaging with local courts, legal aid organizations, and other stakeholders involved in the eviction process can help to reach renters most at risk of housing instability.  Many programs have developed systems where renters facing eviction in the court system have lower documentation requirements to prove eligibility for ERA funds. 
 
 These programs are often complementary to the broader program and expedite ERA applications where the landlord has started the evictions process.  Many of these programs seek to avoid eviction at the earliest stage in the process as possible, include support from legal service professionals and eviction mediators, and sometimes use data gathered through the court system to spur targeted outreach to landlords and/or high-need geographic areas.  
 
@@ -126,9 +131,11 @@ In **the City of Philadelphia**, the Department of Planning and Development mars
 
 **The States of Indiana and Massachusetts** also have found significant efficiencies by reducing income documentation requirements for applicants who can have eligibility verified through these programs. These programs still require that applicants still complete a self-attestation of meeting the income eligibility and COVID-19 hardship, as well as requiring that applicants show have documentation showing that they owe rent. 
 
+**The State of Kentucky** has started to implement a zip-code based fact-specific proxy to reduce income documentation requirements in high need areas. The state-based grantee worked with Louisville and Lexington to have aligned program design and policies. These shared practices have also helped reduce the administrative burden of the urban county governments.
+
 ### Automation Supporting Application Prioritization
 
-Many grantees are using automated systems to help smooth application processing, while meeting the statutory requirement to prioritize assistance to households with income that does not exceed 50 percent of the area median income for the household or where one or more individuals within the household are unemployed as of the date of the application for and have not been employed for the 90-day period preceding such date. 
+Many grantees are using automated systems to help smooth application processing. Some have also implemented additional prioritization considerations beyond the statutory requirements in order to better identify the highest need applicants within their local community. 
 
 #### Examples
 
@@ -136,7 +143,7 @@ Many grantees are using automated systems to help smooth application processing,
 
 **The State of Oregon** also has added additional prioritization tiers based on household size, months behind on rent, 2020 wildfire impact, and whether a household lives within a census tract with a high prevalence of low-income renters, using the Urban Institute Rental Priority Index. Through this strategy, Oregon hopes to ensure that ERA funds reach applications in areas disproportionately affected by housing instability due to COVID-19 and to align with Fair Housing principles and practices. 
 
-### Stakeholder Communication through Dashboards
+### Data-Driven Program Strategies
 
 Robust data systems and real-time reporting can be critical in providing real-time learning opportunities to grantees that can help inform continuous improvement efforts.  These data systems also support ongoing reporting to key stakeholders within the community, including local government representatives, the media, and local citizens.  
 
@@ -146,9 +153,11 @@ Many grantees are publicly reporting information about their program outcomes th
 
 **The City of Charlotte, NC**, for instance, has worked with a non-profit partner, to develop a real-time dashboard that show application statuses broken down by key performance, geographic, and demographic measures. Administrators report that the dashboard informs enhanced programmatic strategic decision-making, improves ease of conducting internal audits, and builds trust with local leaders and stakeholders seeking regular programmatic updates. 
 
+**The City of Houston and Harris County** maintains a data system that maps ERA applications and payments and analyzes those payments against a model of what they would expect to be providing to the community based on the CDC's Social Vulnerability Index. These analytics have motivated targeted outreach strategies to underserved communities, such as additional locations for contracted program navigators and Eviction Prevention Drive-Through events.
+
 **The State of Montana and State of Virginia** have also indicated that running weekly analytics across the various program processes have allowed these grantees to identify application bottlenecks and problem-solve, allowing application smoothing and acceleration of application processing. 
 
-Across the country, local grantee administrators are working hard to implement programs to provide rental assistance to their constituents. While this is not an exhaustive list of promising practices, these insights may be useful to grantees looking to build out programs that can help households maintain their housing despite financial uncertainty experienced during the COVID-19 pandemic.  
+Across the country, local grantee administrators are working hard to implement programs to provide rental assistance to their constituents. While this is not an exhaustive list of promising practices, these insights may be useful to ERA grantees as they build out programs to help households maintain their housing, despite the financial uncertainty experienced during the COVID-19 pandemic.
 
 
 

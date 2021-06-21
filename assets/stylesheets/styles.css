@@ -27227,6 +27227,9 @@ a[href$=".pdf"]:after{
 .era-article ul + h3{
   margin-top:3rem;
 }
+.era-article h4{
+  padding:0;
+}
 
 .era-sidenav__title{
   margin:0;
