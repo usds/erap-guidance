@@ -12,8 +12,19 @@ This document logs changes made to guidance since the start of the Emergency Ren
 
 ### Additions
 
-* On June 22, 2021, [FAQ 37](/faqs#37) was added.
-* On June 22, 2021, [FAQ 36](/faqs#36) was added.
+* On June 24, 2021, [FAQ 39](/faqs#39) was added.
+* On June 24, 2021, [FAQ 38](/faqs#38) was added.
+* On June 24, 2021, [FAQ 37](/faqs#37) was added.
+* On June 24, 2021, [FAQ 36](/faqs#36) was added.
+
+### Changes
+
+* On June 24, 2021, [FAQ 35](/faqs#35) was revised.
+* On June 24, 2021, [FAQ 33](/faqs#33) was revised.
+* On June 24, 2021, [FAQ 31](/faqs#31) was revised.
+* On June 24, 2021, [FAQ 29](/faqs#29) was revised.
+* On June 24, 2021, [FAQ 23](/faqs#23) was revised.
+* On June 24, 2021, [FAQ 14](/faqs#14) was revised.
 
 ## May
 

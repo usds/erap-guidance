@@ -27321,6 +27321,10 @@ sup a{
   letter-spacing:inherit;
 }
 
+.era-guidance-faq-category + .era-guidance-faq .era-guidance-faq__title{
+  margin-top:1rem;
+}
+
 .usa-alert{
   margin-bottom:2rem;
 }
