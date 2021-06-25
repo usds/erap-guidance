@@ -10,7 +10,7 @@ title: Best practices for program web sites
   It is important that renters and landlords are able to both find and understand the rental assistance that you are offering. The provided information must clearly explain the purpose of the assistance, as well as what is needed to apply and what can be expected in return.  
 </p>
 <p>
-  To help accomplish these goals, Treasury has prepared this “best practices” guide.  It was created in conjunction with the <a href="https://usds.gov/">U. S. Digital Service</a> to help Emergency Rental Assistance (ERA) program grantees with developing web sites and web pages to inform renters<sup><a href="#fn1" id="ref1">1</a></sup>, landlords, and utility providers about the ERA program <sup><a href="#fn2" id="ref2">2</a></sup>.
+  To help accomplish these goals, Treasury has prepared this “best practices” guide.  It was created in conjunction with the <a href="https://usds.gov/">U. S. Digital Service</a> to help Emergency Rental Assistance (ERA) program grantees with developing web sites and web pages to inform renters<sup><a href="#fn1" id="ref1">1</a></sup>, landlords, and utility providers about the ERA program. <sup><a href="#fn2" id="ref2">2</a></sup>
 </p>
 
 ## Important principles to keep in mind
