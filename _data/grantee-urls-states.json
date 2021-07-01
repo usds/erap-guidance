@@ -1218,6 +1218,20 @@
     "last-updated": "5/3/2021 6:04pm"
   },
   {
+    "recipient-name": "Larimer County",
+    "name": "Larimer",
+    "URL": "https://www.larimer.org/erap",
+    "recipient-type": "Local Government",
+    "state-territory": "CO",
+    "state": "Colorado",
+    "locality": "County",
+    "no-program": "",
+    "non-ERA-program-URL": "",
+    "assistance-phone-number": "(970) 494-9705",
+    "assistance-email": "",
+    "last-updated": "7/1/2021 4:43pm"
+  },
+  {
     "recipient-name": "Weld County",
     "name": "Weld",
     "URL": "https://www.weldgov.com/departments/human_services/emergency_rental_and_utility_assistance___e_r_a_",
@@ -1710,7 +1724,7 @@
   {
     "recipient-name": "City of St. Petersburg",
     "name": "St. Petersburg",
-    "URL": "https://www.stpete.org/housing/rent_assistance.php",
+    "URL": "https://www.stpete.org/residents/grants___loans/rental_assistance.php",
     "recipient-type": "Local Government",
     "state-territory": "FL",
     "state": "Florida",
@@ -1719,7 +1733,7 @@
     "non-ERA-program-URL": "",
     "assistance-phone-number": "",
     "assistance-email": "",
-    "last-updated": "5/4/2021 2:58pm"
+    "last-updated": "7/1/2021 4:35pm"
   },
   {
     "recipient-name": "City of Tampa",
@@ -2562,7 +2576,7 @@
     "last-updated": "5/4/2021 2:58pm"
   },
   {
-    "recipient-name": "State of Maine",
+    "recipient-name": "MaineHousing - Maine State Housing Authority",
     "name": "Maine",
     "URL": "https://www.mainehousing.org/programs-services/rental/rentaldetail/covid-19-rental-relief-program",
     "recipient-type": "State/DC",
