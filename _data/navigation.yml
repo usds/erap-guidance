@@ -17,6 +17,22 @@ programs:
   desc: Provides practices for program implementation and creating your online presence.
   name: promising-practice-guides
   subnav: 
+  - text: Culturally and Linguistically Competent Outreach
+    href: /promising-practice-guides/outreach/
+    desc: Outreach
+    name: outreach
+  - text: Eviction diversion
+    href: /promising-practice-guides/eviction-diversion/
+    desc: Eviction diversion promising practices
+    name: eviction-diversion
+  - text: Intentional Landlord Engagement
+    href: /promising-practice-guides/landlord-engagement/
+    desc: Intentional Landlord Engagement
+    name: landlord-engagement
+  - text: Partnerships in Program Implementation
+    href: /promising-practice-guides/partnerships-in-program-implementation/
+    desc: Partnerships in Program Implementation
+    name: partnerships-in-program-implementation
   - text: Program web sites
     href: /promising-practice-guides/program-web-sites/
     desc: Best practices for ERA program web sites.
