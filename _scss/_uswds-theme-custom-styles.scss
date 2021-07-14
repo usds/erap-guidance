@@ -263,6 +263,11 @@ a[href$=".docx"]:after {
   background: url(../img/treasury-doc.svg) 0 100% no-repeat;
 }
 
+a[href$=".xlsx"]:after {
+  background: url(../img/treasury-sheet.svg) 0 100% no-repeat;
+}
+
+
 #banner--treasury-alert {
   text-align: center;
   color: #fff;
