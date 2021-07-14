@@ -12,16 +12,45 @@ programs:
     href: /faqs/changes/
     desc: Details dates on which FAQs were added or updated.
     name: changes
+- text: Find rental assistance
+  href: /program-index/
+  desc: View an index of all emergency rental assistance programs to find assistance near you.
+  name: program-index
 - text: Promising practice guides
   href: /promising-practice-guides/
   desc: Provides practices for program implementation and creating your online presence.
   name: promising-practice-guides
   subnav: 
+  - text: Partnerships in Program Implementation
+    href: /promising-practice-guides/partnerships-in-program-implementation/
+    name: partnerships-in-program-implementation
+  - text: Culturally and Linguistically Competent Outreach
+    href: /promising-practice-guides/outreach/
+    name: outreach
+  - text: Intentional Landlord Engagement
+    href: /promising-practice-guides/landlord-engagement/
+    name: landlord-engagement
+  - text: Eviction diversion
+    href: /promising-practice-guides/eviction-diversion/
+    name: eviction-diversion
+  - text: Collaboration with Local Utility Companies
+    href: /promising-practice-guides/utilities/
+    name: utilities
+  - text: Adjusting Program Strategies to Meet Local Needs
+    href: /promising-practice-guides/strategies/
+    name: strategies
+  - text: Making the Application Process Simple and User Friendly
+    href: /promising-practice-guides/application-process/
+    name: application-process
+  - text: Using Fact-Specific Proxies to Establish Applicant Income
+    href: /promising-practice-guides/fact-specific-proxies/
+    name: fact-specific-proxies
+  - text: Automation Supporting Application Prioritization
+    href: /promising-practice-guides/application-prioritization/
+    name: application-prioritization
+  - text: Data-Driven Program Strategies
+    href: /promising-practice-guides/data/
+    name: data
   - text: Program web sites
     href: /promising-practice-guides/program-web-sites/
-    desc: Best practices for ERA program web sites.
     name: program-web-site
-- text: Find rental assistance
-  href: /program-index/
-  desc: View an index of all emergency rental assistance programs to find assistance near you.
-  name: program-index
