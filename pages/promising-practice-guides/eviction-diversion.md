@@ -59,11 +59,14 @@ Treasury strongly encourages grantees to develop partnerships with courts in the
 
 <a href="{{ site.baseurl }}/implementation-guidance/changes/" class="era-guidance__datestamp">Added on June 24, 2021</a>
 
+{% include _cdc-eviction-form-slim-banner.html %}
+
 Summarized below, Treasury’s updated <a href="{{ site.baseurl }}/faqs/">FAQs</a> offer additional clarity for grantees and work in concert with guidance and actions being taken by other federal agencies.
 
 #### Strongly encourage partnerships with courts to actively prevent evictions and develop eviction diversion programs.
 
 Emergency Rental Assistance funds can be used to help families at-risk of eviction remain in their homes, including working with courts to connect such families and their landlords with mediation and emergency rental assistance resources, engaging providers of housing stability services for active support, and working directly with court administrators to facilitate eviction diversion programs. New Treasury FAQs also make clear that funds from the State and Local Fiscal Recovery Funds can be used to support these activities and a wide range of other eviction prevention and housing stability services.
+
 
 #### Help families experiencing homelessness gain access to assistance.
 
@@ -83,9 +86,8 @@ Grantees providing services to overlapping or neighboring areas should collabora
 
 #### Lifting up grantees implementing effective practices to ensure that assistance quickly reaches the renters who need it most.
 
-Treasury is highlighting “<a href="#promising-practices">promising practices</a>” inspired by successes achieved in the field, including partnerships with local court systems and legal services to prevent evictions and housing instability; options for reducing documentation barriers that might keep eligible families from accessing ERA; and application procedures that speed eligibility determinations through increased reliance on automation and fact-specific proxies.
+Treasury is highlighting "<a href="{{ site.baseurl }}/promising-practice-guides/">promising practices</a>" inspired by successes achieved in the field, including partnerships with local court systems and legal services to prevent evictions and housing instability; options for reducing documentation barriers that might keep eligible families from accessing ERA; and application procedures that speed eligibility determinations through increased reliance on automation and fact-specific proxies.
 
-{% include _cdc-eviction-form-slim-banner.html %}
 
 ## Example self-attestation forms
 
@@ -93,6 +95,30 @@ Treasury is highlighting “<a href="#promising-practices">promising practices</
   <div class="tablet:grid-col-6">
     <h3>Income</h3>
     <ul class="usa-collection">
+      <li class="usa-collection__item">
+        <div class="usa-collection__body">
+          <h3 class="usa-collection__heading era-guidance-collection__heading">
+            <a class="usa-link era-guidance-collection__link" href="https://elkhartcounty.com/documents/1993/FINAL_Elkhart_County_Dependent_Care_Hardship_Attestation_Form_english_v5.pdf">Dependent card hardship (EN)</a>
+          </h3>
+          <ul class="usa-collection__meta" aria-label="More information">
+            <li class="usa-collection__meta-item position-relative">
+              <img src="{{ site.baseurl }}/assets/img/treasury-pdf.svg" class="usa-icon era-guidance-collection__icon"> Elkhart County, IN
+            </li>
+          </ul>
+        </div>
+      </li>
+      <li class="usa-collection__item">
+        <div class="usa-collection__body">
+          <h3 class="usa-collection__heading era-guidance-collection__heading">
+            <a class="usa-link era-guidance-collection__link" href="https://elkhartcounty.com/documents/1997/Elkhart_County_Dependent_Care_Hardship_Attestation_Form_spanish_v5_002_1.pdf?download=True">Dependent card hardship (ES)</a>
+          </h3>
+          <ul class="usa-collection__meta" aria-label="More information">
+            <li class="usa-collection__meta-item position-relative">
+              <img src="{{ site.baseurl }}/assets/img/treasury-pdf.svg" class="usa-icon era-guidance-collection__icon"> Elkhart County, IN
+            </li>
+          </ul>
+        </div>
+      </li>
       <li class="usa-collection__item">
         <div class="usa-collection__body">
           <h3 class="usa-collection__heading era-guidance-collection__heading">
@@ -105,8 +131,6 @@ Treasury is highlighting “<a href="#promising-practices">promising practices</
           </ul>
         </div>
       </li>
-    </ul>
-    <ul class="usa-collection">
       <li class="usa-collection__item">
         <div class="usa-collection__body">
           <h3 class="usa-collection__heading era-guidance-collection__heading">
@@ -143,8 +167,6 @@ Treasury is highlighting “<a href="#promising-practices">promising practices</
           </ul>
         </div>
       </li>
-    </ul>
-    <ul class="usa-collection">
       <li class="usa-collection__item">
         <div class="usa-collection__body">
           <h3 class="usa-collection__heading era-guidance-collection__heading">
@@ -205,7 +227,7 @@ Treasury is highlighting “<a href="#promising-practices">promising practices</
           </h3>
           <ul class="usa-collection__meta" aria-label="More information">
             <li class="usa-collection__meta-item position-relative">
-              <img src="{{ site.baseurl }}/assets/img/treasury-pdf.svg" class="usa-icon era-guidance-collection__icon"> Elkhard County, IN
+              <img src="{{ site.baseurl }}/assets/img/treasury-pdf.svg" class="usa-icon era-guidance-collection__icon"> Elkhart County, IN
             </li>
           </ul>
         </div>
@@ -225,11 +247,23 @@ Treasury is highlighting “<a href="#promising-practices">promising practices</
       <li class="usa-collection__item">
         <div class="usa-collection__body">
           <h3 class="usa-collection__heading era-guidance-collection__heading">
-            <a class="usa-link era-guidance-collection__link" href="{{ site.baseurl }}/assets/forms/tenant-landlord-agreement/landlord-and-renter-certification-for-verbal-lease-montgomery-county.pdf">Certification for verbal lease</a>
+            <a class="usa-link era-guidance-collection__link" href="https://nlihc.org/sites/default/files/ERA_Resources-Landlord_Tenant_Agreement-North_Carolina.pdf">Landlord and tenant agreement</a>
           </h3>
           <ul class="usa-collection__meta" aria-label="More information">
             <li class="usa-collection__meta-item position-relative">
-              <img src="{{ site.baseurl }}/assets/img/treasury-pdf.svg" class="usa-icon era-guidance-collection__icon"> Montgomery County, MD
+              <img src="{{ site.baseurl }}/assets/img/treasury-pdf.svg" class="usa-icon era-guidance-collection__icon"> State of North Carolina
+            </li>
+          </ul>
+        </div>
+      </li>
+      <li class="usa-collection__item">
+        <div class="usa-collection__body">
+          <h3 class="usa-collection__heading era-guidance-collection__heading">
+            <a class="usa-link era-guidance-collection__link" href="https://f.hubspotusercontent20.net/hubfs/19539973/Resources/SampleNoLandlordNoLease_Final.pdf">Landlord and tenant relationship and rent owed</a>
+          </h3>
+          <ul class="usa-collection__meta" aria-label="More information">
+            <li class="usa-collection__meta-item position-relative">
+              <img src="{{ site.baseurl }}/assets/img/treasury-pdf.svg" class="usa-icon era-guidance-collection__icon"> State of Minnesota
             </li>
           </ul>
         </div>
