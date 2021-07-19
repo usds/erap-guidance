@@ -29939,6 +29939,12 @@ sup a{
   max-width:inherit;
 }
 
+.era-guidance-collection__row{
+  margin-bottom:2rem;
+}
+.era-guidance-collection__title{
+  margin:1rem 0 0 0;
+}
 .era-guidance-collection__heading{
   text-transform:inherit;
   letter-spacing:inherit;
@@ -29952,42 +29958,24 @@ sup a{
   width:1.5rem;
 }
 
-@media all and (min-width: 55em){
-  .era-guidance-maturity-model__row{
-    margin-bottom:2rem;
-  }
+.era-guidance-maturity-model{
+  margin-top:2rem;
 }
 .era-guidance-maturity-model__col{
-  max-width:520px;
   margin-bottom:2rem;
-}
-@media all and (min-width: 55em){
-  .era-guidance-maturity-model__col{
-    margin-bottom:0;
-  }
-}
-@media all and (min-width: 55em){
-  .era-guidance-maturity-model__category{
-    display:-webkit-inline-box;
-    display:-ms-inline-flexbox;
-    display:inline-flex;
-    -webkit-box-align:end;
-        -ms-flex-align:end;
-            align-items:flex-end;
-    min-height:50px;
-  }
 }
 
 .era-guidance-maturity-level{
   position:relative;
-  display:inline-block;
-  min-height:250px;
+  display:block;
+  min-height:130px;
+  max-width:768px;
   padding:1rem;
   font-size:0.93rem;
 }
 .era-guidance-maturity-level__title{
   position:absolute;
-  top:60%;
+  top:67%;
   left:0;
   margin-left:-30px;
   font-size:1rem;

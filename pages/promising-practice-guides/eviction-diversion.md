@@ -45,8 +45,8 @@ The city of Philadelphia’s ERA program is also integrated directly into the ci
 
 The following maturity model can help grantees shape a strategy and have actionable steps to address eviction diversion. A maturity model is a tool that helps organize strategy, practices, and process into a framework that can act as a blueprint for building up stronger capabilities. This model is intended to aid you in determining which stage of development your program is at and how to iterate and improve aspects of your program to become more robust and comprehensive so that you can be effective in stabilizing households.
 
-<div class="grid-row grid-gap era-guidance-maturity-model__row">
-  <div class="tablet-lg:grid-col-6 era-guidance-maturity-model__col">
+<div class="era-guidance-maturity-model">
+  <div class="era-guidance-maturity-model__col">
     <h4 class="era-guidance-maturity-model__category" id="prioritizing">
       Eviction-based ERA prioritizing
     </h4>
@@ -94,7 +94,8 @@ The following maturity model can help grantees shape a strategy and have actiona
       </div>
     </div>
   </div>
-  <div class="tablet-lg:grid-col-6 era-guidance-maturity-model__col">
+
+  <div class="era-guidance-maturity-model__col">
     <h4 class="era-guidance-maturity-model__category" id="interventions">
       Housing provider interventions
     </h4>
@@ -142,10 +143,8 @@ The following maturity model can help grantees shape a strategy and have actiona
       </div>
     </div>
   </div>
-</div>
 
-<div class="grid-row grid-gap era-guidance-maturity-model__row">
-  <div class="tablet-lg:grid-col-6 era-guidance-maturity-model__col">
+  <div class="era-guidance-maturity-model__col">
     <h4 class="era-guidance-maturity-model__category" id="tenant-interventions">
       Tenant interventions
     </h4>
@@ -200,7 +199,8 @@ The following maturity model can help grantees shape a strategy and have actiona
       </div>
     </div>
   </div>
-  <div class="tablet-lg:grid-col-6 era-guidance-maturity-model__col">
+
+  <div class="era-guidance-maturity-model__col">
     <h4 class="era-guidance-maturity-model__category" id="relationship-interventions">
       Housing provider &amp; tenant relationship-based interventions
     </h4>
@@ -251,10 +251,8 @@ The following maturity model can help grantees shape a strategy and have actiona
       </div>
     </div>
   </div>
-</div>
 
-<div class="grid-row grid-gap era-guidance-maturity-model__row">
-  <div class="tablet-lg:grid-col-6 era-guidance-maturity-model__col">
+  <div class="era-guidance-maturity-model__col">
     <h4 class="era-guidance-maturity-model__category" id="resourcing">
       Resourcing & shaping programs
     </h4>
@@ -355,13 +353,19 @@ Treasury is highlighting "<a href="{{ site.baseurl }}/promising-practice-guides/
 ## Example self-attestation forms
 
 <div class="grid-row grid-gap">
+  <div class="grid-col">
+    <h3 class="era-guidance-collection__title">
+      Income
+    </h3>
+  </div>
+</div>
+<div class="grid-row grid-gap era-guidance-collection__row">
   <div class="tablet:grid-col-6">
-    <h3>Income</h3>
     <ul class="usa-collection">
       <li class="usa-collection__item">
         <div class="usa-collection__body">
           <h3 class="usa-collection__heading era-guidance-collection__heading">
-            <a class="usa-link era-guidance-collection__link" href="https://elkhartcounty.com/documents/1993/FINAL_Elkhart_County_Dependent_Care_Hardship_Attestation_Form_english_v5.pdf">Dependent card hardship (EN)</a>
+            <a class="usa-link era-guidance-collection__link" href="https://elkhartcounty.com/documents/1993/FINAL_Elkhart_County_Dependent_Care_Hardship_Attestation_Form_english_v5.pdf">Dependent care hardship (English)</a>
           </h3>
           <ul class="usa-collection__meta" aria-label="More information">
             <li class="usa-collection__meta-item position-relative">
@@ -373,7 +377,7 @@ Treasury is highlighting "<a href="{{ site.baseurl }}/promising-practice-guides/
       <li class="usa-collection__item">
         <div class="usa-collection__body">
           <h3 class="usa-collection__heading era-guidance-collection__heading">
-            <a class="usa-link era-guidance-collection__link" href="https://elkhartcounty.com/documents/1997/Elkhart_County_Dependent_Care_Hardship_Attestation_Form_spanish_v5_002_1.pdf?download=True">Dependent card hardship (ES)</a>
+            <a class="usa-link era-guidance-collection__link" href="https://elkhartcounty.com/documents/1997/Elkhart_County_Dependent_Care_Hardship_Attestation_Form_spanish_v5_002_1.pdf?download=True">Dependent care hardship (Spanish)</a>
           </h3>
           <ul class="usa-collection__meta" aria-label="More information">
             <li class="usa-collection__meta-item position-relative">
@@ -397,7 +401,7 @@ Treasury is highlighting "<a href="{{ site.baseurl }}/promising-practice-guides/
       <li class="usa-collection__item">
         <div class="usa-collection__body">
           <h3 class="usa-collection__heading era-guidance-collection__heading">
-            <a class="usa-link era-guidance-collection__link" href="{{ site.baseurl }}/assets/forms/income/income-lakecounty.pdf">Income (EN)</a>
+            <a class="usa-link era-guidance-collection__link" href="{{ site.baseurl }}/assets/forms/income/income-lakecounty.pdf">Income (English)</a>
           </h3>
           <ul class="usa-collection__meta" aria-label="More information">
             <li class="usa-collection__meta-item position-relative">
@@ -409,7 +413,7 @@ Treasury is highlighting "<a href="{{ site.baseurl }}/promising-practice-guides/
       <li class="usa-collection__item">
         <div class="usa-collection__body">
           <h3 class="usa-collection__heading era-guidance-collection__heading">
-            <a class="usa-link era-guidance-collection__link" href="{{ site.baseurl }}/assets/forms/income/income-lakecounty-ES.pdf">Income (ES)</a>
+            <a class="usa-link era-guidance-collection__link" href="{{ site.baseurl }}/assets/forms/income/income-lakecounty-ES.pdf">Income (Spanish)</a>
           </h3>
           <ul class="usa-collection__meta" aria-label="More information">
             <li class="usa-collection__meta-item position-relative">
@@ -418,6 +422,10 @@ Treasury is highlighting "<a href="{{ site.baseurl }}/promising-practice-guides/
           </ul>
         </div>
       </li>
+    </ul>
+  </div>
+  <div class="tablet:grid-col-6">
+    <ul class="usa-collection">
       <li class="usa-collection__item">
         <div class="usa-collection__body">
           <h3 class="usa-collection__heading era-guidance-collection__heading">
@@ -433,7 +441,19 @@ Treasury is highlighting "<a href="{{ site.baseurl }}/promising-practice-guides/
       <li class="usa-collection__item">
         <div class="usa-collection__body">
           <h3 class="usa-collection__heading era-guidance-collection__heading">
-            <a class="usa-link era-guidance-collection__link" href="{{ site.baseurl }}/assets/forms/income/income-zero-lakecounty.pdf">Zero income (EN)</a>
+            <a class="usa-link era-guidance-collection__link" href="{{ site.baseurl }}/assets/forms/income/income-self-employment-VA.pdf">Self-employment</a>
+          </h3>
+          <ul class="usa-collection__meta" aria-label="More information">
+            <li class="usa-collection__meta-item position-relative">
+              <img src="{{ site.baseurl }}/assets/img/treasury-pdf.svg" class="usa-icon era-guidance-collection__icon"> State of Virginia 
+            </li>
+          </ul>
+        </div>
+      </li>
+      <li class="usa-collection__item">
+        <div class="usa-collection__body">
+          <h3 class="usa-collection__heading era-guidance-collection__heading">
+            <a class="usa-link era-guidance-collection__link" href="{{ site.baseurl }}/assets/forms/income/income-zero-lakecounty.pdf">Zero income (English)</a>
           </h3>
           <ul class="usa-collection__meta" aria-label="More information">
             <li class="usa-collection__meta-item position-relative">
@@ -445,7 +465,7 @@ Treasury is highlighting "<a href="{{ site.baseurl }}/promising-practice-guides/
       <li class="usa-collection__item">
         <div class="usa-collection__body">
           <h3 class="usa-collection__heading era-guidance-collection__heading">
-            <a class="usa-link era-guidance-collection__link" href="{{ site.baseurl }}/assets/forms/income/income-zero-lakecounty-ES.pdf">Zero income (ES)</a>
+            <a class="usa-link era-guidance-collection__link" href="{{ site.baseurl }}/assets/forms/income/income-zero-lakecounty-ES.pdf">Zero income (Spanish)</a>
           </h3>
           <ul class="usa-collection__meta" aria-label="More information">
             <li class="usa-collection__meta-item position-relative">
@@ -468,61 +488,21 @@ Treasury is highlighting "<a href="{{ site.baseurl }}/promising-practice-guides/
       </li>
     </ul>
   </div>
+</div>
+<div class="grid-row grid-gap">
+  <div class="grid-col">
+    <h3 class="era-guidance-collection__title">
+      Rental Obligation
+    </h3>
+  </div>
+</div>
+<div class="grid-row grid-gap era-guidance-collection__row">
   <div class="tablet:grid-col-6">
-    <h3>Proof of Residence</h3>
     <ul class="usa-collection">
       <li class="usa-collection__item">
         <div class="usa-collection__body">
           <h3 class="usa-collection__heading era-guidance-collection__heading">
-            <a class="usa-link era-guidance-collection__link" href="{{ site.baseurl }}/assets/forms/tenant-landlord-agreement/direct-to-tenant-cameron-county.pdf">Direct to tenant</a>
-          </h3>
-          <ul class="usa-collection__meta" aria-label="More information">
-            <li class="usa-collection__meta-item position-relative">
-              <img src="{{ site.baseurl }}/assets/img/treasury-pdf.svg" class="usa-icon era-guidance-collection__icon"> Cameron County, TX
-            </li>
-          </ul>
-        </div>
-      </li>
-      <li class="usa-collection__item">
-        <div class="usa-collection__body">
-          <h3 class="usa-collection__heading era-guidance-collection__heading">
-            <a class="usa-link era-guidance-collection__link" href="{{ site.baseurl }}/assets/forms/tenant-landlord-agreement/direct-to-tenant-elkhart-county.pdf">Direct to tenant</a>
-          </h3>
-          <ul class="usa-collection__meta" aria-label="More information">
-            <li class="usa-collection__meta-item position-relative">
-              <img src="{{ site.baseurl }}/assets/img/treasury-pdf.svg" class="usa-icon era-guidance-collection__icon"> Elkhart County, IN
-            </li>
-          </ul>
-        </div>
-      </li>
-      <li class="usa-collection__item">
-        <div class="usa-collection__body">
-          <h3 class="usa-collection__heading era-guidance-collection__heading">
-            <a class="usa-link era-guidance-collection__link" href="{{ site.baseurl }}/assets/forms/tenant-landlord-agreement/landlord-agreement-spartanburg.docx">Landlord agreement</a>
-          </h3>
-          <ul class="usa-collection__meta" aria-label="More information">
-            <li class="usa-collection__meta-item position-relative">
-              <img src="{{ site.baseurl }}/assets/img/treasury-doc.svg" class="usa-icon era-guidance-collection__icon"> Spartanburg County, SC
-            </li>
-          </ul>
-        </div>
-      </li>
-      <li class="usa-collection__item">
-        <div class="usa-collection__body">
-          <h3 class="usa-collection__heading era-guidance-collection__heading">
-            <a class="usa-link era-guidance-collection__link" href="https://nlihc.org/sites/default/files/ERA_Resources-Landlord_Tenant_Agreement-North_Carolina.pdf">Landlord and tenant agreement</a>
-          </h3>
-          <ul class="usa-collection__meta" aria-label="More information">
-            <li class="usa-collection__meta-item position-relative">
-              <img src="{{ site.baseurl }}/assets/img/treasury-pdf.svg" class="usa-icon era-guidance-collection__icon"> State of North Carolina
-            </li>
-          </ul>
-        </div>
-      </li>
-      <li class="usa-collection__item">
-        <div class="usa-collection__body">
-          <h3 class="usa-collection__heading era-guidance-collection__heading">
-            <a class="usa-link era-guidance-collection__link" href="https://f.hubspotusercontent20.net/hubfs/19539973/Resources/SampleNoLandlordNoLease_Final.pdf">Landlord and tenant relationship and rent owed</a>
+            <a class="usa-link era-guidance-collection__link" href="https://f.hubspotusercontent20.net/hubfs/19539973/Resources/SampleNoLandlordNoLease_Final.pdf">Landlord/tenant relationship and rent owed</a>
           </h3>
           <ul class="usa-collection__meta" aria-label="More information">
             <li class="usa-collection__meta-item position-relative">
@@ -534,11 +514,27 @@ Treasury is highlighting "<a href="{{ site.baseurl }}/promising-practice-guides/
       <li class="usa-collection__item">
         <div class="usa-collection__body">
           <h3 class="usa-collection__heading era-guidance-collection__heading">
-            <a class="usa-link era-guidance-collection__link" href="{{ site.baseurl }}/assets/forms/tenant-agreement-philadelphia.pdf">Tenant agreement</a>
+            <a class="usa-link era-guidance-collection__link" href="https://www.oregon.gov/ohcs/housing-assistance/Documents/05-13-2021-OERAP-Self-Verification-Rent-Owed.pdf">Landlord/tenant relationship and rent owed</a>
           </h3>
           <ul class="usa-collection__meta" aria-label="More information">
             <li class="usa-collection__meta-item position-relative">
-              <img src="{{ site.baseurl }}/assets/img/treasury-pdf.svg" class="usa-icon era-guidance-collection__icon"> Philadelphia, PA
+              <img src="{{ site.baseurl }}/assets/img/treasury-pdf.svg" class="usa-icon era-guidance-collection__icon"> State of Oregon
+            </li>
+          </ul>
+        </div>
+      </li>
+    </ul>
+  </div>
+  <div class="tablet:grid-col-6">
+    <ul class="usa-collection">
+      <li class="usa-collection__item">
+        <div class="usa-collection__body">
+          <h3 class="usa-collection__heading era-guidance-collection__heading">
+            <a class="usa-link era-guidance-collection__link" href="{{ site.baseurl }}/assets/forms/rental-obligation/roommate-VA.pdf">Roommate certification</a>
+          </h3>
+          <ul class="usa-collection__meta" aria-label="More information">
+            <li class="usa-collection__meta-item position-relative">
+              <img src="{{ site.baseurl }}/assets/img/treasury-pdf.svg" class="usa-icon era-guidance-collection__icon"> State of Virginia
             </li>
           </ul>
         </div>
@@ -546,11 +542,82 @@ Treasury is highlighting "<a href="{{ site.baseurl }}/promising-practice-guides/
       <li class="usa-collection__item">
         <div class="usa-collection__body">
           <h3 class="usa-collection__heading era-guidance-collection__heading">
-            <a class="usa-link era-guidance-collection__link" href="{{ site.baseurl }}/assets/forms/tenant-landlord-agreement/tenant-agreement-spartanburg.docx">Tenant agreement</a>
+            <a class="usa-link era-guidance-collection__link" href="{{ site.baseurl }}/assets/forms/rental-obligation/lease-WV.pdf">Tenant self-certification of lease</a>
           </h3>
           <ul class="usa-collection__meta" aria-label="More information">
             <li class="usa-collection__meta-item position-relative">
-              <img src="{{ site.baseurl }}/assets/img/treasury-doc.svg" class="usa-icon era-guidance-collection__icon"> Spartanburg, SC
+              <img src="{{ site.baseurl }}/assets/img/treasury-pdf.svg" class="usa-icon era-guidance-collection__icon"> State of West Virginia
+            </li>
+          </ul>
+        </div>
+      </li>
+    </ul>
+  </div>
+</div>
+<div class="grid-row grid-gap">
+  <div class="grid-col">
+    <h3 class="era-guidance-collection__title">Multiple certifications</h3>
+  </div>
+</div>
+<div class="grid-row grid-gap era-guidance-collection__row">
+  <div class="tablet:grid-col-6">
+    <ul class="usa-collection">
+      <li class="usa-collection__item">
+        <div class="usa-collection__body">
+          <h3 class="usa-collection__heading era-guidance-collection__heading">
+            <a class="usa-link era-guidance-collection__link" href="{{ site.baseurl }}/assets/forms/multiple/multiple-brazoria-county-TX.pdf">
+              Household income, lease, unemployment eligibility, and reduction in household income
+            </a>
+          </h3>
+          <ul class="usa-collection__meta" aria-label="More information">
+            <li class="usa-collection__meta-item position-relative">
+              <img src="{{ site.baseurl }}/assets/img/treasury-pdf.svg" class="usa-icon era-guidance-collection__icon"> Brazoria County, TX
+            </li>
+          </ul>
+        </div>
+      </li>
+      <li class="usa-collection__item">
+        <div class="usa-collection__body">
+          <h3 class="usa-collection__heading era-guidance-collection__heading">
+            <a class="usa-link era-guidance-collection__link" href="{{ site.baseurl }}/assets/forms/multiple/multiple-DC-EN.pdf">
+              Rental obligation, financial impact, housing impact, and income qualification
+            </a>
+          </h3>
+          <ul class="usa-collection__meta" aria-label="More information">
+            <li class="usa-collection__meta-item position-relative">
+              <img src="{{ site.baseurl }}/assets/img/treasury-pdf.svg" class="usa-icon era-guidance-collection__icon"> Washington, DC (English)
+            </li>
+          </ul>
+        </div>
+      </li>
+    </ul>
+  </div>
+  <div class="tablet:grid-col-6">
+    <ul class="usa-collection">
+      <li class="usa-collection__item">
+        <div class="usa-collection__body">
+          <h3 class="usa-collection__heading era-guidance-collection__heading">
+            <a class="usa-link era-guidance-collection__link" href="{{ site.baseurl }}/assets/forms/multiple/multiple-DC-ES.pdf">
+              Rental obligation, financial impact, housing impact, and income qualification
+            </a>
+          </h3>
+          <ul class="usa-collection__meta" aria-label="More information">
+            <li class="usa-collection__meta-item position-relative">
+              <img src="{{ site.baseurl }}/assets/img/treasury-pdf.svg" class="usa-icon era-guidance-collection__icon"> Washington, DC (Spanish)
+            </li>
+          </ul>
+        </div>
+      </li>
+      <li class="usa-collection__item">
+        <div class="usa-collection__body">
+          <h3 class="usa-collection__heading era-guidance-collection__heading">
+            <a class="usa-link era-guidance-collection__link" href="{{ site.baseurl }}/assets/forms/multiple/multiple-WA.pdf">
+              Income, housing status, financial hardship, rent payment amount, and utility arrears
+            </a>
+          </h3>
+          <ul class="usa-collection__meta" aria-label="More information">
+            <li class="usa-collection__meta-item position-relative">
+              <img src="{{ site.baseurl }}/assets/img/treasury-pdf.svg" class="usa-icon era-guidance-collection__icon"> State of Washington
             </li>
           </ul>
         </div>
