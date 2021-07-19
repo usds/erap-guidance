@@ -48,7 +48,7 @@ The following maturity model can help grantees shape a strategy and have actiona
 <div class="era-guidance-maturity-model">
   <div class="era-guidance-maturity-model__col">
     <h4 class="era-guidance-maturity-model__category" id="prioritizing">
-      Eviction-based ERA prioritizing
+      Prioritize eviction cases for ERA
     </h4>
     <div class="era-guidance-maturity-level era-guidance-maturity-level--maturing">
       <h5 class="era-guidance-maturity-level__title">Maturing</h5>
