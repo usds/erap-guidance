@@ -14,15 +14,15 @@ Efforts by ERA grantees are sometimes complementary to the broader eviction dive
 
 ### Focus on mediation
 
-#### The State of Massachusetts
+<h4 id="MA">The State of Massachusetts</h4>
 
-The State of Massachusetts has developed a two-tiered eviction process that has integrated the ERA program into eviction proceedings. In the first tier, landlords and tenants work with a mediator who can direct them to ERA resources to cover qualified rental arrears. This state-funded program also engages with legal aid services, as well as housing reinstatement services for those cases where tenant ultimately experience eviction.
+The State of Massachusetts has developed a two-tiered eviction process that has integrated the ERA program into eviction proceedings. In the first tier, landlords and tenants work with a mediator who can direct them to ERA resources to cover qualified rental arrears. This state-funded program also engages with legal aid services, as well as housing reinstatement services for those cases where tenants ultimately experience eviction.
 
 ### Focus on data sharing with local courts
 
 <div class="grid-row grid-gap">
   <div class="tablet:grid-col-7">
-    <h4>The city of Memphis and Shelby County</h4>
+    <h4 id="Shelby">The city of Memphis and Shelby County</h4>
     <p>
       The city of Memphis and Shelby County’s joint program has developed a data sharing relationship with the local court system. This partnership allows for ERA program administrators to have real-time information about neighborhoods with increased numbers of evictions. This information supports more targeted tenant and landlord outreach activities. Using this data, the ERA program administrators have been able build relationships with larger apartment complexes, leading to direct engagement with tenants on the premises. Memphis and Shelby County have also contracted with, a local nonprofit organization with experience providing legal services to tenants facing evictions, helping them to reach settlements and avoid evictions. Further grantee efforts to expand access to legal services include engaging with volunteers from the local law school in order to extend tenants’ access to legal services. The Memphis and Shelby County ERA program expedites ERA applications that come through these channels, which has allowed to many households to use ERA funds to stay in stable housing when faced with imminent eviction.
     </p>
@@ -37,7 +37,7 @@ The State of Massachusetts has developed a two-tiered eviction process that has 
   </div>
 </div>
 
-#### The city of Philadelphia
+<h4 id="PHL">The city of Philadelphia</h4>
 
 The city of Philadelphia’s ERA program is also integrated directly into the city’s eviction court system. The court requires defendants to apply for the city’s ERA program before allowing the eviction to proceed. Further, all landlords who enroll in the city’s ERA program are automatically enrolled in the eviction diversion system, alerting them to the resources offered by the city to help avoid tenant evictions, such as nonprofit mediation services.
 
@@ -65,7 +65,7 @@ The following maturity model can help grantees shape a strategy and have actiona
       <div class="era-guidance-maturity-level__list">
         <p class="era-guidance-maturity-level__action">Partner to expedite</p>
         <ul>
-          <li>MOU or data sharing agreement in place between entire ecosystem of providers</li>
+          <li><a href="#Shelby">MOU or data sharing agreement in place between entire ecosystem of providers</a></li>
           <li>Connect with at-risk people who are missing documentation</li>
           <li>Transparent prioritization and processing times</li>
           <li>Accessible databases</li>
@@ -104,7 +104,7 @@ The following maturity model can help grantees shape a strategy and have actiona
       <div class="era-guidance-maturity-level__list">
         <p class="era-guidance-maturity-level__action">Incentivize and support</p>
         <ul>
-          <li>Court order for landlords to seek assistance before being able to file for an eviction</li>
+          <li><a href="#PHL">Court order for landlords to seek assistance before being able to file for an eviction</a></li>
           <li>Housing provider receives assistance or temporary funds to reduce financial burden</li>
         </ul>
       </div>
@@ -221,7 +221,7 @@ The following maturity model can help grantees shape a strategy and have actiona
           Build bridges between parties
         </p>
         <ul>
-          <li>Offer landlord/tenant mediation before eviction process (as a preventative measure) and during eviction process</li>
+          <li><a href="#MA">Offer landlord/tenant mediation before eviction process (as a preventative measure) and during eviction process</a></li>
           <li>Landlord walks away with tenant payment plan</li>
           <li>Connect advocacy groups of both parties to participate in the mediation process</li>
         </ul>
@@ -351,6 +351,8 @@ Treasury is highlighting "<a href="{{ site.baseurl }}/promising-practice-guides/
 
 
 ## Example self-attestation forms
+
+Not all tenants will have access to or will be able to submit the documentation typically used to verify employment, household income, loss of income, or rental obligation in the ERA application. It also may be the case that a landlord is unwilling to cooperate with a documentation request. To ensure that assistance is made available to all who qualify, Treasury guidance has indicated that written attestation is an appropriate means for satisfying documentation requirements for ERA. These are examples of self-attestation forms currently used by grantees.
 
 <div class="grid-row grid-gap">
   <div class="grid-col">
