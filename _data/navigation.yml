@@ -54,3 +54,7 @@ programs:
   - text: Program web sites
     href: /promising-practice-guides/program-web-sites/
     name: program-web-site
+- text: Promote the program
+  href: /outreach/
+  desc: Provides resources for program promotion.
+  name: outreach

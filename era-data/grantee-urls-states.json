@@ -1218,6 +1218,20 @@
     "last-updated": "5/3/2021 6:04pm"
   },
   {
+    "recipient-name": "Larimer County",
+    "name": "Larimer",
+    "URL": "https://www.larimer.org/erap",
+    "recipient-type": "Local Government",
+    "state-territory": "CO",
+    "state": "Colorado",
+    "locality": "County",
+    "no-program": "",
+    "non-ERA-program-URL": "",
+    "assistance-phone-number": "(970) 494-9705",
+    "assistance-email": "",
+    "last-updated": "7/1/2021 4:43pm"
+  },
+  {
     "recipient-name": "Weld County",
     "name": "Weld",
     "URL": "https://www.weldgov.com/departments/human_services/emergency_rental_and_utility_assistance___e_r_a_",
@@ -1274,7 +1288,7 @@
     "last-updated": "5/3/2021 5:45pm"
   },
   {
-    "recipient-name": "State of Florida, Department of Financial Services",
+    "recipient-name": "State of Florida - Department of Financial Services",
     "name": "Florida",
     "URL": "https://www.ourflorida.com/",
     "recipient-type": "State/DC",
@@ -1486,7 +1500,7 @@
   {
     "recipient-name": "City of Miami",
     "name": "Miami",
-    "URL": "https://www.miamigov.com/Government/Departments-Organizations/Housing-Community-Development",
+    "URL": "https://www.miamigov.com/Residents/Housing/ERA-Program",
     "recipient-type": "Local Government",
     "state-territory": "FL",
     "state": "Florida",
@@ -1495,7 +1509,7 @@
     "non-ERA-program-URL": "",
     "assistance-phone-number": "",
     "assistance-email": "",
-    "last-updated": "5/3/2021 6:08pm"
+    "last-updated": "7/8/2021 11:34am"
   },
   {
     "recipient-name": "Miami-Dade County",
@@ -1710,7 +1724,7 @@
   {
     "recipient-name": "City of St. Petersburg",
     "name": "St. Petersburg",
-    "URL": "https://www.stpete.org/housing/rent_assistance.php",
+    "URL": "https://www.stpete.org/residents/grants___loans/rental_assistance.php",
     "recipient-type": "Local Government",
     "state-territory": "FL",
     "state": "Florida",
@@ -1719,7 +1733,7 @@
     "non-ERA-program-URL": "",
     "assistance-phone-number": "",
     "assistance-email": "",
-    "last-updated": "5/4/2021 2:58pm"
+    "last-updated": "7/1/2021 4:35pm"
   },
   {
     "recipient-name": "City of Tampa",
@@ -2562,7 +2576,7 @@
     "last-updated": "5/4/2021 2:58pm"
   },
   {
-    "recipient-name": "State of Maine",
+    "recipient-name": "MaineHousing - Maine State Housing Authority",
     "name": "Maine",
     "URL": "https://www.mainehousing.org/programs-services/rental/rentaldetail/covid-19-rental-relief-program",
     "recipient-type": "State/DC",
@@ -5628,7 +5642,7 @@
     "last-updated": "6/3/2021 5:32pm"
   },
   {
-    "recipient-name": "State of Utah, Department of Workforce Services",
+    "recipient-name": "State of Utah - Department of Workforce Services",
     "name": "Utah",
     "URL": "https://rentrelief.utah.gov/",
     "recipient-type": "State/DC",
@@ -5698,7 +5712,7 @@
     "last-updated": "5/12/2021 6:26pm"
   },
   {
-    "recipient-name": "State of Vermont, Office of the Treasurer",
+    "recipient-name": "State of Vermont - Office of the Treasurer",
     "name": "Vermont",
     "URL": "https://erap.vsha.org/",
     "recipient-type": "State/DC",
@@ -5882,7 +5896,7 @@
   {
     "recipient-name": "Snohomish County",
     "name": "Snohomish",
-    "URL": "https://www.voaww.org/",
+    "URL": "https://snohomish-county-coronavirus-response-snoco-gis.hub.arcgis.com/pages/emergency-rental-assistance",
     "recipient-type": "Local Government",
     "state-territory": "WA",
     "state": "Washington ",
@@ -5891,7 +5905,7 @@
     "non-ERA-program-URL": "",
     "assistance-phone-number": "",
     "assistance-email": "rentassistance@voaww.org",
-    "last-updated": "5/28/2021 10:37am"
+    "last-updated": "7/20/2021 3:49pm"
   },
   {
     "recipient-name": "Spokane County",

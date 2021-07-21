@@ -24,7 +24,7 @@ The State of Massachusetts has developed a two-tiered eviction process that has 
   <div class="tablet:grid-col-7">
     <h4 id="Shelby">The city of Memphis and Shelby County</h4>
     <p>
-      The city of Memphis and Shelby County’s joint program has developed a data sharing relationship with the local court system. This partnership allows for ERA program administrators to have real-time information about neighborhoods with increased numbers of evictions. This information supports more targeted tenant and landlord outreach activities. Using this data, the ERA program administrators have been able build relationships with larger apartment complexes, leading to direct engagement with tenants on the premises. Memphis and Shelby County have also contracted with, a local nonprofit organization with experience providing legal services to tenants facing evictions, helping them to reach settlements and avoid evictions. Further grantee efforts to expand access to legal services include engaging with volunteers from the local law school in order to extend tenants’ access to legal services. The Memphis and Shelby County ERA program expedites ERA applications that come through these channels, which has allowed to many households to use ERA funds to stay in stable housing when faced with imminent eviction.
+      The city of Memphis and Shelby County’s joint program has developed a data sharing relationship with the local court system. This partnership allows for ERA program administrators to have real-time information about neighborhoods with increased numbers of evictions. This information supports more targeted tenant and landlord outreach activities. Using this data, the ERA program administrators have been able build relationships with larger apartment complexes, leading to direct engagement with tenants on the premises. Memphis and Shelby County have also contracted with a local nonprofit organization with experience providing legal services to tenants facing evictions, helping them to reach settlements and avoid evictions. Further grantee efforts to expand access to legal services include engaging with volunteers from the local law school in order to extend tenants’ access to legal services. The Memphis and Shelby County ERA program expedites ERA applications that come through these channels, which has allowed to many households to use ERA funds to stay in stable housing when faced with imminent eviction.
     </p>
   </div>
   <div class="tablet:grid-col-5">
@@ -322,6 +322,10 @@ Treasury strongly encourages grantees to develop partnerships with courts in the
 
 {% include _cdc-eviction-form-slim-banner.html %}
 
+### Fact Sheet June 24, 2021
+
+From the <a href="https://home.treasury.gov/system/files/136/Treasury_Fact_Sheet_6-24-21.pdf">June 24, 2021 Fact sheet</a>
+
 Summarized below, Treasury’s updated <a href="{{ site.baseurl }}/faqs/">FAQs</a> offer additional clarity for grantees and work in concert with guidance and actions being taken by other federal agencies.
 
 #### Strongly encourage partnerships with courts to actively prevent evictions and develop eviction diversion programs.
@@ -349,6 +353,14 @@ Grantees providing services to overlapping or neighboring areas should collabora
 
 Treasury is highlighting "<a href="{{ site.baseurl }}/promising-practice-guides/">promising practices</a>" inspired by successes achieved in the field, including partnerships with local court systems and legal services to prevent evictions and housing instability; options for reducing documentation barriers that might keep eligible families from accessing ERA; and application procedures that speed eligibility determinations through increased reliance on automation and fact-specific proxies.
 
+
+### Fact Sheet May 7, 2021
+
+From the <a href="https://home.treasury.gov/system/files/136/FACT_SHEET-Emergency-Rental-Assistance-Program_May2021.pdf">May 7, 2021 Fact sheet</a>
+
+#### Protects Renters from Eviction While Payments Are Being Made on Their Behalf.
+
+Starting with today’s guidance, programs must prohibit the eviction of renters for nonpayment in months for which they receive emergency rental assistance. While most landlords are working to secure relief and help renters stay in place, Treasury strongly encourages grantees to require that landlords not evict tenants for nonpayment of rent for 30 to 90 days longer than the period covered by the emergency rental assistance as a condition of receiving payment.
 
 ## Example self-attestation forms
 

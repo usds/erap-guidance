@@ -1288,7 +1288,7 @@
     "last-updated": "5/3/2021 5:45pm"
   },
   {
-    "recipient-name": "State of Florida, Department of Financial Services",
+    "recipient-name": "State of Florida - Department of Financial Services",
     "name": "Florida",
     "URL": "https://www.ourflorida.com/",
     "recipient-type": "State/DC",
@@ -1500,7 +1500,7 @@
   {
     "recipient-name": "City of Miami",
     "name": "Miami",
-    "URL": "https://www.miamigov.com/Government/Departments-Organizations/Housing-Community-Development",
+    "URL": "https://www.miamigov.com/Residents/Housing/ERA-Program",
     "recipient-type": "Local Government",
     "state-territory": "FL",
     "state": "Florida",
@@ -1509,7 +1509,7 @@
     "non-ERA-program-URL": "",
     "assistance-phone-number": "",
     "assistance-email": "",
-    "last-updated": "5/3/2021 6:08pm"
+    "last-updated": "7/8/2021 11:34am"
   },
   {
     "recipient-name": "Miami-Dade County",
@@ -5642,7 +5642,7 @@
     "last-updated": "6/3/2021 5:32pm"
   },
   {
-    "recipient-name": "State of Utah, Department of Workforce Services",
+    "recipient-name": "State of Utah - Department of Workforce Services",
     "name": "Utah",
     "URL": "https://rentrelief.utah.gov/",
     "recipient-type": "State/DC",
@@ -5712,7 +5712,7 @@
     "last-updated": "5/12/2021 6:26pm"
   },
   {
-    "recipient-name": "State of Vermont, Office of the Treasurer",
+    "recipient-name": "State of Vermont - Office of the Treasurer",
     "name": "Vermont",
     "URL": "https://erap.vsha.org/",
     "recipient-type": "State/DC",
@@ -5896,7 +5896,7 @@
   {
     "recipient-name": "Snohomish County",
     "name": "Snohomish",
-    "URL": "https://www.voaww.org/",
+    "URL": "https://snohomish-county-coronavirus-response-snoco-gis.hub.arcgis.com/pages/emergency-rental-assistance",
     "recipient-type": "Local Government",
     "state-territory": "WA",
     "state": "Washington ",
@@ -5905,7 +5905,7 @@
     "non-ERA-program-URL": "",
     "assistance-phone-number": "",
     "assistance-email": "rentassistance@voaww.org",
-    "last-updated": "5/28/2021 10:37am"
+    "last-updated": "7/20/2021 3:49pm"
   },
   {
     "recipient-name": "Spokane County",
