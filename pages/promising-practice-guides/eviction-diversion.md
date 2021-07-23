@@ -22,7 +22,7 @@ The State of Massachusetts has developed a two-tiered eviction process that has 
 
 <div class="grid-row grid-gap">
   <div class="tablet:grid-col-7">
-    <h4 id="Shelby">The city of Memphis and Shelby County</h4>
+    <h4 id="Shelby">The city of Memphis and Shelby County, TN</h4>
     <p>
       The city of Memphis and Shelby County’s joint program has developed a data sharing relationship with the local court system. This partnership allows for ERA program administrators to have real-time information about neighborhoods with increased numbers of evictions. This information supports more targeted tenant and landlord outreach activities. Using this data, the ERA program administrators have been able build relationships with larger apartment complexes, leading to direct engagement with tenants on the premises. Memphis and Shelby County have also contracted with a local nonprofit organization with experience providing legal services to tenants facing evictions, helping them to reach settlements and avoid evictions. Further grantee efforts to expand access to legal services include engaging with volunteers from the local law school in order to extend tenants’ access to legal services. The Memphis and Shelby County ERA program expedites ERA applications that come through these channels, which has allowed to many households to use ERA funds to stay in stable housing when faced with imminent eviction.
     </p>
@@ -37,9 +37,15 @@ The State of Massachusetts has developed a two-tiered eviction process that has 
   </div>
 </div>
 
-<h4 id="PHL">The city of Philadelphia</h4>
+<h4 id="PHL">The city of Philadelphia, PA</h4>
 
 The city of Philadelphia’s ERA program is also integrated directly into the city’s eviction court system. The court requires defendants to apply for the city’s ERA program before allowing the eviction to proceed. Further, all landlords who enroll in the city’s ERA program are automatically enrolled in the eviction diversion system, alerting them to the resources offered by the city to help avoid tenant evictions, such as nonprofit mediation services.
+
+### Focus on a multi-faceted approach
+
+<h4 id="SDF">The city of Louisville, KY</h4>
+
+Louisville, KY is utilizing a multi-pronged approach to eviction diversion that includes legal representation for tenants, community based outreach, and collaboration with local courts. The city has allocated $400,000 of their ARP funding to enact a right to counsel program for tenants with children who are facing eviction. Their Office of Resilience and Community Services has partnered with the Office of Women, Office of Housing, Neighborhood Place, and the Coalition for the Homeless to target and reach out to Louisville residents at risk of eviction. The collaboration with the Office of Women was born out of the acknowledgement that female led households, and in particular Black female headed households are disproportionately targeted for eviction. Outreach includes knocking on doors, sending texts, and making phone calls to encourage these tenants not to miss their court dates. Staff also attend eviction court on a daily basis and can coordinate with the judges to stay eviction for tenants who could benefit from ERA. To aid tenants who "self-evict", by moving when they receive an eviction notice, the city has put in place a rapid-rehousing program that provides a rental deposit and the first month’s rent to help people relocate.
 
 ### Eviction diversion maturity levels
 
@@ -47,238 +53,21 @@ The following maturity model can help grantees shape a strategy and have actiona
 
 <div class="era-guidance-maturity-model">
   <div class="era-guidance-maturity-model__col">
-    <h4 class="era-guidance-maturity-model__category" id="prioritizing">
-      Prioritize eviction cases for ERA
-    </h4>
-    <div class="era-guidance-maturity-level era-guidance-maturity-level--maturing">
-      <h5 class="era-guidance-maturity-level__title">Maturing</h5>
-      <div class="era-guidance-maturity-level__list">
-        <p class="era-guidance-maturity-level__action">Proactively address</p>
-        <ul>
-          <li>Knowledge base/case management system with input from different data streams</li>
-          <li>Preventive analytics that pulls applications to the top- prioritizing people who are behind on utilities/other risks</li>
-        </ul>
-      </div>
-    </div>
-    <div class="era-guidance-maturity-level era-guidance-maturity-level--adapting">
-      <h5 class="era-guidance-maturity-level__title">Adapting</h5>
-      <div class="era-guidance-maturity-level__list">
-        <p class="era-guidance-maturity-level__action">Partner to expedite</p>
-        <ul>
-          <li><a href="#Shelby">MOU or data sharing agreement in place between entire ecosystem of providers</a></li>
-          <li>Connect with at-risk people who are missing documentation</li>
-          <li>Transparent prioritization and processing times</li>
-          <li>Accessible databases</li>
-        </ul>
-      </div>
-    </div>
-    <div class="era-guidance-maturity-level era-guidance-maturity-level--emerging">
-      <h5 class="era-guidance-maturity-level__title">Emerging</h5>
-      <div class="era-guidance-maturity-level__list">
-        <p class="era-guidance-maturity-level__action">Engage courts in the crisis</p>
-        <ul>
-          <li>MOU between courts and ERA grantee</li>
-          <li>Check to see if people at eviction court  have gone through ERA/are eligible</li>
-          <li>Help courts increase their digital capacity</li>
-          <li>Use legal providers to prioritize upcoming cases on the eviction docket for ERA</li>
-        </ul>
-      </div>
-    </div>
-    <div class="era-guidance-maturity-level era-guidance-maturity-level--starting">
-      <h5 class="era-guidance-maturity-level__title">Starting</h5>
-      <div class="era-guidance-maturity-level__list">
-        <p class="era-guidance-maturity-level__action">Flag evicted tenants</p>
-        <ul>
-          <li>Asking tenants to attach an eviction notice, if they have one, to their application</li>
-        </ul>
-      </div>
-    </div>
-  </div>
-
-  <div class="era-guidance-maturity-model__col">
-    <h4 class="era-guidance-maturity-model__category" id="interventions">
-      Housing provider interventions
-    </h4>
-    <div class="era-guidance-maturity-level era-guidance-maturity-level--maturing">
-      <h5 class="era-guidance-maturity-level__title">Maturing</h5>
-      <div class="era-guidance-maturity-level__list">
-        <p class="era-guidance-maturity-level__action">Incentivize and support</p>
-        <ul>
-          <li><a href="#PHL">Court order for landlords to seek assistance before being able to file for an eviction</a></li>
-          <li>Housing provider receives assistance or temporary funds to reduce financial burden</li>
-        </ul>
-      </div>
-    </div>
-    <div class="era-guidance-maturity-level era-guidance-maturity-level--adapting">
-      <h5 class="era-guidance-maturity-level__title">Adapting</h5>
-      <div class="era-guidance-maturity-level__list">
-        <p class="era-guidance-maturity-level__action">Engage and educate</p>
-        <ul>
-          <li>Landlord walks away with payment and payment plan in place</li>
-          <li>Strong local eviction moratoriums</li>
-          <li>Court-based educational opportunities</li>
-          <li>Targeting housing providers of large buildings in low-income areas</li>
-        </ul>
-      </div>
-    </div>
-    <div class="era-guidance-maturity-level era-guidance-maturity-level--emerging">
-      <h5 class="era-guidance-maturity-level__title">Emerging</h5>
-      <div class="era-guidance-maturity-level__list">
-        <p class="era-guidance-maturity-level__action">Use targeted outreach</p>
-        <ul>
-          <li>Leverage local community organizations to get the word out on ERA (ie. real estate groups, property management resource centers)</li>
-          <li>Create messaging around the community benefits around keeping people in homes and the important role that housing providers play</li>
-        </ul>
-      </div>
-    </div>
-    <div class="era-guidance-maturity-level era-guidance-maturity-level--starting">
-      <h5 class="era-guidance-maturity-level__title">Starting</h5>
-      <div class="era-guidance-maturity-level__list">
-        <p class="era-guidance-maturity-level__action">
-          Accept ERA applications from landlords
-        </p>
-        <ul>
-          <li>Accept applications from landlords on the behalf of their tenants</li>
-        </ul>
-      </div>
-    </div>
-  </div>
-
-  <div class="era-guidance-maturity-model__col">
-    <h4 class="era-guidance-maturity-model__category" id="tenant-interventions">
-      Tenant interventions
-    </h4>
-    <div class="era-guidance-maturity-level era-guidance-maturity-level--maturing">
-      <h5 class="era-guidance-maturity-level__title">Maturing</h5>
-      <div class="era-guidance-maturity-level__list">
-        <p class="era-guidance-maturity-level__action">
-          Advocate for and empower
-        </p>
-        <ul>
-          <li>Legal representation in court and consistent advocacy throughout the process</li>
-          <li>Educational centers/courses that are accessible and promoted even before eviction begins</li>
-          <li>Right to counsel legislation</li>
-        </ul>
-      </div>
-    </div>
-    <div class="era-guidance-maturity-level era-guidance-maturity-level--adapting">
-      <h5 class="era-guidance-maturity-level__title">Adapting</h5>
-      <div class="era-guidance-maturity-level__list">
-        <p class="era-guidance-maturity-level__action">
-          Connect to options
-        </p>
-        <ul>
-          <li>Court-based interventions/connections to services and education</li>
-          <li>Connect tenants to a housing counselor</li>
-          <li>Deliver wrap-around services to meet the social determinants of health throughout the process</li>
-        </ul>
-      </div>
-    </div>
-    <div class="era-guidance-maturity-level era-guidance-maturity-level--emerging">
-      <h5 class="era-guidance-maturity-level__title">Emerging</h5>
-      <div class="era-guidance-maturity-level__list">
-        <p class="era-guidance-maturity-level__action">
-          Use targeted outreach
-        </p>
-        <ul>
-          <li>Data-informed/targeted outreach to populations that are at high risk of evictions or are currently being evicted</li>
-          <li>Partnering with grassroots organizations who have relationships with tenants and are supporting with other housing resources</li>
-        </ul>
-      </div>
-    </div>
-    <div class="era-guidance-maturity-level era-guidance-maturity-level--starting">
-      <h5 class="era-guidance-maturity-level__title">Starting</h5>
-      <div class="era-guidance-maturity-level__list">
-        <p class="era-guidance-maturity-level__action">
-          Do community-based outreach
-        </p>
-        <ul>
-          <li>Outreach to populations who are at high risk of evictions</li>
-          <li>Work closely with housing advocates and local community organizations</li>
-        </ul>
-      </div>
-    </div>
-  </div>
-
-  <div class="era-guidance-maturity-model__col">
-    <h4 class="era-guidance-maturity-model__category" id="relationship-interventions">
-      Housing provider &amp; tenant relationship-based interventions
-    </h4>
-    <div class="era-guidance-maturity-level era-guidance-maturity-level--maturing">
-      <h5 class="era-guidance-maturity-level__title">Maturing</h5>
-      <div class="era-guidance-maturity-level__list">
-        <p class="era-guidance-maturity-level__action">Incentivize resolutions</p>
-        <ul>
-          <li>"Loan programs" - tenant pays back local government what they owe the landlord and  local government pays landlord to reduce financial burden/delay with payment plan</li>
-          <li>Change success metric for courts, properties and lawyers so that they are rewarded for dismissal of evictions</li>
-        </ul>
-      </div>
-    </div>
-    <div class="era-guidance-maturity-level era-guidance-maturity-level--adapting">
-      <h5 class="era-guidance-maturity-level__title">Adapting</h5>
-      <div class="era-guidance-maturity-level__list">
-        <p class="era-guidance-maturity-level__action">
-          Build bridges between parties
-        </p>
-        <ul>
-          <li><a href="#MA">Offer landlord/tenant mediation before eviction process (as a preventative measure) and during eviction process</a></li>
-          <li>Landlord walks away with tenant payment plan</li>
-          <li>Connect advocacy groups of both parties to participate in the mediation process</li>
-        </ul>
-      </div>
-    </div>
-    <div class="era-guidance-maturity-level era-guidance-maturity-level--emerging">
-      <h5 class="era-guidance-maturity-level__title">Emerging</h5>
-      <div class="era-guidance-maturity-level__list">
-        <p class="era-guidance-maturity-level__action">
-          Create connected applications
-        </p>
-        <ul>
-          <li>Create connectivity on the backend to connect landlord and tenant applications by address for system integrity and expedited processing</li>
-          <li>Create incentives for cooperation in application (ie. communicate expedited processing time)</li>
-        </ul>
-      </div>
-    </div>
-    <div class="era-guidance-maturity-level era-guidance-maturity-level--starting">
-      <h5 class="era-guidance-maturity-level__title">Starting</h5>
-      <div class="era-guidance-maturity-level__list">
-        <p class="era-guidance-maturity-level__action">
-          Advocate for early communication
-        </p>
-        <ul>
-          <li>Landlord required to provide tenants 15 days notice, dollar amount owed, and information on where to find rental assistance</li>
-        </ul>
-      </div>
-    </div>
-  </div>
-
-  <div class="era-guidance-maturity-model__col">
     <h4 class="era-guidance-maturity-model__category" id="resourcing">
       Resourcing & shaping programs
     </h4>
-    <div class="era-guidance-maturity-level era-guidance-maturity-level--maturing">
-      <h5 class="era-guidance-maturity-level__title">Maturing</h5>
+    <div class="era-guidance-maturity-level era-guidance-maturity-level--starting">
+      <h5 class="era-guidance-maturity-level__title">Starting</h5>
       <div class="era-guidance-maturity-level__list">
         <p class="era-guidance-maturity-level__action">
-          Sustain for the future
+          Leverage existing system assets
         </p>
+        <p>Practices might include:</p>
         <ul>
-          <li>Sustainability planning for longevity of the eviction diversion program</li>
-          <li>Displacement resources set up for households that have been evicted</li>
-          <li>Pooled funding from justice, health, and housing services</li>
-        </ul>
-      </div>
-    </div>
-    <div class="era-guidance-maturity-level era-guidance-maturity-level--adapting">
-      <h5 class="era-guidance-maturity-level__title">Adapting</h5>
-      <div class="era-guidance-maturity-level__list">
-        <p class="era-guidance-maturity-level__action">
-          Prepare for volume of evictions
-        </p>
-        <ul>
-          <li>Hire data scientists and technologist to manage processing systems and volume</li>
-          <li>Using ARP funds to staff up legal assistance for housing court</li>
-          <li>Establish living experience groups for continuous ongoing feedback</li>
+          <li>Listen to community organizations and advocates and host conversations</li>
+          <li>Utilize existing system resources, programs, staff and contract vehicles to help manage program</li>
+          <li>Use fact-specific proxy and categorical eligibility to speed processing assistance</li>
+          <li>Apply for HUD grant  to support legal aid for tenants at risk of eviction</li>
         </ul>
       </div>
     </div>
@@ -288,22 +77,279 @@ The following maturity model can help grantees shape a strategy and have actiona
         <p class="era-guidance-maturity-level__action">
           Build with the community
         </p>
+        <p>Practices might include:</p>
         <ul>
-          <li>Listen to residents and people you are serving needs at a local level</li>
+          <li>Listen to residents and people you are serving to understand needs at a local level</li>
           <li>Leverage partners outside the traditional housing system to help deliver services and outreach- ie. librarians, churches</li>
           <li>Determine how to best use funding sources</li>
+          <li>Establish living experience groups for continuous ongoing feedback</li>
         </ul>
       </div>
     </div>
+    <div class="era-guidance-maturity-level era-guidance-maturity-level--adapting">
+      <h5 class="era-guidance-maturity-level__title">Adapting</h5>
+      <div class="era-guidance-maturity-level__list">
+        <p class="era-guidance-maturity-level__action">
+          Prepare for volume of evictions
+        </p>
+        <p>Practices might include:</p>
+        <ul>
+          <li>Hire data scientists and technologist to manage processing systems and volume</li>
+          <li>Using ARP funds to staff up legal assistance for housing court</li>
+          <li>Develop capacity and means to immediately connect with tenants that are on the docket for eviction so they show up to court (and can intervene)</li>
+          <li>Create a payment vehicle that can quickly send out rental assistance; have ERA back-pay program</li>
+        </ul>
+      </div>
+    </div>
+    <div class="era-guidance-maturity-level era-guidance-maturity-level--maturing">
+      <h5 class="era-guidance-maturity-level__title">Maturing</h5>
+      <div class="era-guidance-maturity-level__list">
+        <p class="era-guidance-maturity-level__action">
+          Sustain for the future
+        </p>
+        <p>Practices might include:</p>
+        <ul>
+          <li>Create a sustainability plan for longevity of the eviction diversion program beyond ERA</li>
+          <li>Set up displacement resources and funds for households that have been evicted</li>
+          <li>Pool funding from justice, health, and housing services to create a holistic approach to housing stability</li>
+          <li>Create a review process where households can have evictions removed from their records</li>
+        </ul>
+      </div>
+    </div>
+  </div>
+
+  <div class="era-guidance-maturity-model__col">
+    <h4 class="era-guidance-maturity-model__category" id="tenant-interventions">
+      Tenant interventions
+    </h4>
     <div class="era-guidance-maturity-level era-guidance-maturity-level--starting">
       <h5 class="era-guidance-maturity-level__title">Starting</h5>
       <div class="era-guidance-maturity-level__list">
         <p class="era-guidance-maturity-level__action">
-          Leverage existing system assets
+          Do community-based outreach
         </p>
+        <p>Practices might include:</p>
         <ul>
-          <li>Listen to community organizations and advocates and host conversations</li>
-          <li>Utilize existing system resources, programs, staff and contract vehicles to help manage program</li>
+          <li>Reach out to populations who are at high risk of evictions</li>
+          <li>Work closely with housing advocates and local community organizations</li>
+          <li>Inform tenants about the CDC eviction moratorium and form and alert them that they need to give it to their landlord</li>
+          <li>Debunk common myths on ERA</li>
+          <li>Follow up directly with tenants who are missing documentation but have started applications</li>
+        </ul>
+      </div>
+    </div>
+    <div class="era-guidance-maturity-level era-guidance-maturity-level--emerging">
+      <h5 class="era-guidance-maturity-level__title">Emerging</h5>
+      <div class="era-guidance-maturity-level__list">
+        <p class="era-guidance-maturity-level__action">
+          Use targeted outreach
+        </p>
+        <p>Practices might include:</p>
+        <ul>
+          <li>Use data-informed/ targeted outreach to populations that are at high risk of evictions or are currently being evicted in multiple formats (digital, media, door to door, peer to peer; clinics, facebook live, etc.)</li>
+          <li>Partner with grassroots organizations who have relationships with tenants and are supporting with other services and resources</li>
+          <li>Provide in-person assistance for people who are not able to navigate the site on their own (office or their homes)</li>
+          <li>Use place-based outreach (ie. grocery stores, clinics, etc.)</li>
+        </ul>
+      </div>
+    </div>
+    <div class="era-guidance-maturity-level era-guidance-maturity-level--adapting">
+      <h5 class="era-guidance-maturity-level__title">Adapting</h5>
+      <div class="era-guidance-maturity-level__list">
+        <p class="era-guidance-maturity-level__action">
+          Connect to options
+        </p>
+        <p>Practices might include:</p>
+        <ul>
+          <li>Court-based interventions/connections to services and education</li>
+          <li>Connect tenants to a housing counselor</li>
+          <li>Deliver wrap-around services to meet the social determinants of health throughout the process</li>
+          <li>Offer a hotline for legal aid across agencies and include the number on eviction notices</li>
+          <li>Provide information about legal aid and resources online</li>
+        </ul>
+      </div>
+    </div>
+    <div class="era-guidance-maturity-level era-guidance-maturity-level--maturing">
+      <h5 class="era-guidance-maturity-level__title">Maturing</h5>
+      <div class="era-guidance-maturity-level__list">
+        <p class="era-guidance-maturity-level__action">
+          Advocate for and empower
+        </p>
+        <p>Practices might include:</p>
+        <ul>
+          <li>Provide legal representation in court and consistent advocacy throughout the process</li>
+          <li>Establish educational centers/courses that are accessible and promoted even before eviction begins</li>
+          <li>Provide a universal and codified right to counsel</li>
+        </ul>
+      </div>
+    </div>
+  </div>
+  <div class="era-guidance-maturity-model__col">
+    <h4 class="era-guidance-maturity-model__category" id="interventions">
+      Landlord &amp; property manager interventions
+    </h4>
+    <div class="era-guidance-maturity-level era-guidance-maturity-level--starting">
+      <h5 class="era-guidance-maturity-level__title">Starting</h5>
+      <div class="era-guidance-maturity-level__list">
+        <p class="era-guidance-maturity-level__action">
+          Accept ERA applications from landlords
+        </p>
+        <p>Practices might include:</p>
+        <ul>
+          <li>Encourage applications from landlords even if tenants have not applied</li>
+          <li>Allow landlords to provide documentation in their files on behalf of their tenants</li>
+          <li>Require landlords who receive ERA to agree not to evict those tenants for nonpayment of rent in the following 30-90 days</li>
+          <li>Make bulk ERA payments to landlords to speed payment processing</li>
+        </ul>
+      </div>
+    </div>
+    <div class="era-guidance-maturity-level era-guidance-maturity-level--emerging">
+      <h5 class="era-guidance-maturity-level__title">Emerging</h5>
+      <div class="era-guidance-maturity-level__list">
+        <p class="era-guidance-maturity-level__action">Use targeted outreach</p>
+        <p>Practices might include:</p>
+        <ul>
+          <li>Leverage local community organizations to get the word out on ERA (ie. real estate groups, property management resource centers)</li>
+          <li>Message the community benefits of keeping people in homes and the important role that housing providers play</li>
+          <li>Outreach and message so landlords know they are included in "rental assistance"</li>
+        </ul>
+      </div>
+    </div>
+    <div class="era-guidance-maturity-level era-guidance-maturity-level--adapting">
+      <h5 class="era-guidance-maturity-level__title">Adapting</h5>
+      <div class="era-guidance-maturity-level__list">
+        <p class="era-guidance-maturity-level__action">Engage and educate</p>
+        <p>Practices might include:</p>
+        <ul>
+          <li>Establish strong local eviction moratoriums</li>
+          <li>Establish court-based educational opportunities and courses</li>
+          <li>Target housing providers of large buildings in low-income areas and encourage them to apply for ERA</li>
+        </ul>
+      </div>
+    </div>
+    <div class="era-guidance-maturity-level era-guidance-maturity-level--maturing">
+      <h5 class="era-guidance-maturity-level__title">Maturing</h5>
+      <div class="era-guidance-maturity-level__list">
+        <p class="era-guidance-maturity-level__action">Incentivize and support</p>
+        <p>Practices might include:</p>
+        <ul>
+          <li>Reduce financial burden on property managers and landlords and provide immediate assistance or temporary funds</li>
+          <li><a href="#PHL">Court order for landlords to seek assistance before being able to file for an eviction</a></li>
+        </ul>
+      </div>
+    </div>
+  </div>
+
+
+  <div class="era-guidance-maturity-model__col">
+    <h4 class="era-guidance-maturity-model__category" id="relationship-interventions">
+      Relationship-based interventions
+    </h4>
+    <div class="era-guidance-maturity-level era-guidance-maturity-level--starting">
+      <h5 class="era-guidance-maturity-level__title">Starting</h5>
+      <div class="era-guidance-maturity-level__list">
+        <p class="era-guidance-maturity-level__action">
+          Advocate for early communication
+        </p>
+        <p>Practices might include:</p>
+        <ul>
+          <li>Require landlords to provide tenants sufficient notice of eviction, dollar amount owed, and information on where to find rental assistance</li>
+          <li>Encourage landlords to inform their tenants about ERA</li>
+          <li>Inform landlords that evicting tenants prevents them from collecting rental arrears via ERA</li>
+        </ul>
+      </div>
+    </div>
+    <div class="era-guidance-maturity-level era-guidance-maturity-level--emerging">
+      <h5 class="era-guidance-maturity-level__title">Emerging</h5>
+      <div class="era-guidance-maturity-level__list">
+        <p class="era-guidance-maturity-level__action">
+          Create connected applications
+        </p>
+        <p>Practices might include:</p>
+        <ul>
+          <li>Create connectivity on the backend to connect landlord and tenant applications by address for system integrity and expedited processing</li>
+          <li>Create incentives for landlord/tenant cooperation in application (ie. communicate expedited processing time)</li>
+        </ul>
+      </div>
+    </div>
+    <div class="era-guidance-maturity-level era-guidance-maturity-level--adapting">
+      <h5 class="era-guidance-maturity-level__title">Adapting</h5>
+      <div class="era-guidance-maturity-level__list">
+        <p class="era-guidance-maturity-level__action">
+          Build bridges between parties
+        </p>
+        <p>Practices might include:</p>
+        <ul>
+          <li><a href="#MA">Offer landlord/tenant mediation before eviction process (as a preventative measure) and during eviction process</a></li>
+          <li>Landlord walks away with tenant payment plan</li>
+          <li>Connect advocacy groups of both parties to participate in the mediation process</li>
+        </ul>
+      </div>
+    </div>
+    <div class="era-guidance-maturity-level era-guidance-maturity-level--maturing">
+      <h5 class="era-guidance-maturity-level__title">Maturing</h5>
+      <div class="era-guidance-maturity-level__list">
+        <p class="era-guidance-maturity-level__action">Incentivize resolutions</p>
+        <p>Practices might include:</p>
+        <ul>
+          <li>"Loan programs" where tenant pays back local government what they owe landlord; government pays landlord to reduce burden/delay with payment plan</li>
+          <li>Change success metric and incentives for courts, properties and lawyers so that they are rewarded for dismissal of evictions</li>
+          <li>Offer landlord/tenant mediation before eviction process (as a preventative measure) and during eviction process</li>
+        </ul>
+      </div>
+    </div>
+  </div>
+
+  <div class="era-guidance-maturity-model__col">
+    <h4 class="era-guidance-maturity-model__category" id="prioritizing">
+      Prioritize eviction cases for ERA
+    </h4>
+    <div class="era-guidance-maturity-level era-guidance-maturity-level--starting">
+      <h5 class="era-guidance-maturity-level__title">Starting</h5>
+      <div class="era-guidance-maturity-level__list">
+        <p class="era-guidance-maturity-level__action">Flag tenants in imminent danger of eviction</p>
+        <p>Practices might include:</p>
+        <ul>
+          <li>Ask tenants to attach an eviction notice, if they have one, to their application</li>
+          <li>Prioritize processing applicants who receive an eviction or utility shut off notice while waiting for a decision on their application</li>
+        </ul>
+      </div>
+    </div>
+    <div class="era-guidance-maturity-level era-guidance-maturity-level--emerging">
+      <h5 class="era-guidance-maturity-level__title">Emerging</h5>
+      <div class="era-guidance-maturity-level__list">
+        <p class="era-guidance-maturity-level__action">Involve courts to address eviction crisis</p>
+        <p>Practices might include:</p>
+        <ul>
+          <li>Establish MOU between courts and ERA grantee</li>
+          <li>Check to see if people at eviction court have gone through ERA/are eligible</li>
+          <li>Help courts increase their digital capacity</li>
+          <li>Use legal service providers  to flag  upcoming cases on the eviction docket for rental assistance</li>
+          <li>Pause hearing eviction cases until their ERA applications are process</li>
+        </ul>
+      </div>
+    </div>
+    <div class="era-guidance-maturity-level era-guidance-maturity-level--adapting">
+      <h5 class="era-guidance-maturity-level__title">Adapting</h5>
+      <div class="era-guidance-maturity-level__list">
+        <p class="era-guidance-maturity-level__action">Partner to expedite</p>
+        <p>Practices might include:</p>
+        <ul>
+          <li><a href="#Shelby">Establish MOU/ data sharing agreement in place between entire ecosystem of providers</a></li>
+          <li>Connect with at-risk people who are missing documentation</li>
+          <li>Transparent prioritization and processing times</li>
+          <li>Create accessible databases that partners can access on their own, without having to go through partner parties</li>
+        </ul>
+      </div>
+    </div>
+    <div class="era-guidance-maturity-level era-guidance-maturity-level--maturing">
+      <h5 class="era-guidance-maturity-level__title">Maturing</h5>
+      <div class="era-guidance-maturity-level__list">
+        <p class="era-guidance-maturity-level__action">Proactively address</p>
+        <p>Practices might include:</p>
+        <ul>
+          <li>Connect different data streams to knowledge base/case management system with input from different data streams</li>
+          <li>Use  analytics to pull applications to the top- prioritizing people who are behind on utilities/other risks</li>
         </ul>
       </div>
     </div>

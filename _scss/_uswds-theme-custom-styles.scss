@@ -503,7 +503,7 @@ sup a {
   
   &__title {
     position: absolute;
-    top: 67%;
+    top: 60%;
     left: 0;
     margin-left: -30px;
     font-size: 1rem;
@@ -525,8 +525,8 @@ sup a {
 
 .era-guidance-maturity-level--maturing {
   border: 2px solid color($theme-maturity-maturing);
-  border-bottom: 0px;
   border-left: 40px solid color($theme-maturity-maturing);
+  border-bottom-right-radius: 6px;
 }
 
 .era-guidance-maturity-level--adapting {
@@ -543,7 +543,9 @@ sup a {
 
 .era-guidance-maturity-level--starting {
   border: 2px solid color($theme-maturity-starting);
+  border-bottom: 0px;
   border-left: 40px solid color($theme-maturity-starting);
+  border-top-right-radius: 6px;
 }
 
 .usa-alert {

@@ -29975,7 +29975,7 @@ sup a{
 }
 .era-guidance-maturity-level__title{
   position:absolute;
-  top:67%;
+  top:60%;
   left:0;
   margin-left:-30px;
   font-size:1rem;
@@ -29995,26 +29995,28 @@ sup a{
 }
 
 .era-guidance-maturity-level--maturing{
-  border:2px solid #52daf2;
-  border-bottom:0px;
-  border-left:40px solid #52daf2;
+  border:2px solid #a1d3ff;
+  border-left:40px solid #a1d3ff;
+  border-bottom-right-radius:6px;
 }
 
 .era-guidance-maturity-level--adapting{
-  border:2px solid #98d035;
+  border:2px solid #70e17b;
   border-bottom:0px;
-  border-left:40px solid #98d035;
+  border-left:40px solid #70e17b;
 }
 
 .era-guidance-maturity-level--emerging{
-  border:2px solid #f3bf90;
+  border:2px solid #face00;
   border-bottom:0px;
-  border-left:40px solid #f3bf90;
+  border-left:40px solid #face00;
 }
 
 .era-guidance-maturity-level--starting{
-  border:2px solid #ff8d7b;
-  border-left:40px solid #ff8d7b;
+  border:2px solid #fdb8ae;
+  border-bottom:0px;
+  border-left:40px solid #fdb8ae;
+  border-top-right-radius:6px;
 }
 
 .usa-alert{
