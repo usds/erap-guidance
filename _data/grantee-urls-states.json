@@ -112,6 +112,20 @@
     "last-updated": "6/1/2021 2:51pm"
   },
   {
+    "recipient-name": "Tuscaloosa County Commission",
+    "name": "Tuscaloosa County ",
+    "URL": "https://www.tuscco.com/erap/",
+    "recipient-type": "Local Government",
+    "state-territory": "AL",
+    "state": "Alabama",
+    "locality": "County",
+    "no-program": "",
+    "non-ERA-program-URL": "",
+    "assistance-phone-number": "(833) 620-2434",
+    "assistance-email": "",
+    "last-updated": "7/22/2021 8:06pm"
+  },
+  {
     "recipient-name": "State of Alaska",
     "name": "Alaska",
     "URL": "https://www.alaskahousingrelief.org/",
@@ -1104,6 +1118,20 @@
     "assistance-phone-number": "",
     "assistance-email": "",
     "last-updated": "5/3/2021 5:45pm"
+  },
+  {
+    "recipient-name": "Boulder County",
+    "name": "",
+    "URL": "https://www.bouldercounty.org/departments/housing-and-human-services/emerg-rent-assistance/",
+    "recipient-type": "Local Government",
+    "state-territory": "CO",
+    "state": "Colorado",
+    "locality": "",
+    "no-program": "",
+    "non-ERA-program-URL": "General rent or utility assistance",
+    "assistance-phone-number": "",
+    "assistance-email": "",
+    "last-updated": "7/22/2021 8:08pm"
   },
   {
     "recipient-name": "Adams County Government",
@@ -2620,7 +2648,7 @@
   {
     "recipient-name": "City of Baltimore",
     "name": "Baltimore",
-    "URL": "https://dhcd.baltimorecity.gov/baltimore-covid-19-emergency-rental-assistance-program",
+    "URL": "https://www.bmorechildren.com/residents",
     "recipient-type": "Local Government",
     "state-territory": "MD",
     "state": "Maryland",
@@ -2629,7 +2657,7 @@
     "non-ERA-program-URL": "",
     "assistance-phone-number": "",
     "assistance-email": "",
-    "last-updated": "5/12/2021 6:21pm"
+    "last-updated": "7/23/2021 9:46am"
   },
   {
     "recipient-name": "Baltimore County",
@@ -3651,7 +3679,7 @@
     "non-ERA-program-URL": "",
     "assistance-phone-number": "",
     "assistance-email": "",
-    "last-updated": "5/14/2021 11:25am"
+    "last-updated": "7/22/2021 9:01pm"
   },
   {
     "recipient-name": "Town of Brookhaven",
@@ -3665,7 +3693,7 @@
     "non-ERA-program-URL": "",
     "assistance-phone-number": "",
     "assistance-email": "",
-    "last-updated": "5/14/2021 11:25am"
+    "last-updated": "7/22/2021 9:01pm"
   },
   {
     "recipient-name": "City of Buffalo",
@@ -3679,7 +3707,7 @@
     "non-ERA-program-URL": "",
     "assistance-phone-number": "",
     "assistance-email": "",
-    "last-updated": "5/14/2021 11:25am"
+    "last-updated": "7/22/2021 9:00pm"
   },
   {
     "recipient-name": "County of Dutchess",
@@ -3693,7 +3721,7 @@
     "non-ERA-program-URL": "",
     "assistance-phone-number": "",
     "assistance-email": "",
-    "last-updated": "5/14/2021 11:25am"
+    "last-updated": "7/22/2021 9:00pm"
   },
   {
     "recipient-name": "Erie County",
@@ -3707,7 +3735,7 @@
     "non-ERA-program-URL": "",
     "assistance-phone-number": "(716) 881-6543",
     "assistance-email": "swatson@caowny.org",
-    "last-updated": "5/20/2021 8:54am"
+    "last-updated": "7/22/2021 9:00pm"
   },
   {
     "recipient-name": "Town of Hempstead",
@@ -3735,7 +3763,7 @@
     "non-ERA-program-URL": "",
     "assistance-phone-number": "",
     "assistance-email": "",
-    "last-updated": "5/14/2021 11:26am"
+    "last-updated": "7/22/2021 9:01pm"
   },
   {
     "recipient-name": "Town of Islip",
@@ -3777,7 +3805,7 @@
     "non-ERA-program-URL": "",
     "assistance-phone-number": "",
     "assistance-email": "",
-    "last-updated": "5/14/2021 11:26am"
+    "last-updated": "7/22/2021 9:00pm"
   },
   {
     "recipient-name": "New York City",
@@ -3805,7 +3833,7 @@
     "non-ERA-program-URL": "",
     "assistance-phone-number": "",
     "assistance-email": "",
-    "last-updated": "5/14/2021 11:26am"
+    "last-updated": "7/22/2021 9:00pm"
   },
   {
     "recipient-name": "Town of North Hempstead",
@@ -3819,7 +3847,7 @@
     "non-ERA-program-URL": "",
     "assistance-phone-number": "",
     "assistance-email": "",
-    "last-updated": "5/14/2021 11:25am"
+    "last-updated": "7/22/2021 9:00pm"
   },
   {
     "recipient-name": "Oneida County",
@@ -3833,7 +3861,7 @@
     "non-ERA-program-URL": "",
     "assistance-phone-number": "",
     "assistance-email": "",
-    "last-updated": "5/14/2021 11:25am"
+    "last-updated": "7/22/2021 9:00pm"
   },
   {
     "recipient-name": "Onondaga County",
@@ -3864,6 +3892,20 @@
     "last-updated": "5/14/2021 11:23am"
   },
   {
+    "recipient-name": "Town of Oyster Bay",
+    "name": "Oyster Bay",
+    "URL": "https://oysterbaytown.com/rentalassistance/",
+    "recipient-type": "Local Government",
+    "state-territory": "NY",
+    "state": "New York",
+    "locality": "",
+    "no-program": "",
+    "non-ERA-program-URL": "",
+    "assistance-phone-number": "",
+    "assistance-email": "",
+    "last-updated": "7/22/2021 8:06pm"
+  },
+  {
     "recipient-name": "City of Rochester",
     "name": "Rochester",
     "URL": "https://www.rochesterhousing.org/",
@@ -3889,7 +3931,7 @@
     "non-ERA-program-URL": "",
     "assistance-phone-number": "",
     "assistance-email": "",
-    "last-updated": "5/14/2021 11:25am"
+    "last-updated": "7/22/2021 9:00pm"
   },
   {
     "recipient-name": "Saratoga County Department of Social Service",
@@ -3903,7 +3945,7 @@
     "non-ERA-program-URL": "",
     "assistance-phone-number": "",
     "assistance-email": "",
-    "last-updated": "5/14/2021 11:25am"
+    "last-updated": "7/22/2021 9:00pm"
   },
   {
     "recipient-name": "Suffolk County",
@@ -3931,7 +3973,7 @@
     "non-ERA-program-URL": "",
     "assistance-phone-number": "",
     "assistance-email": "",
-    "last-updated": "5/18/2021 3:56pm"
+    "last-updated": "7/22/2021 9:01pm"
   },
   {
     "recipient-name": "City of Yonkers",
@@ -4242,20 +4284,6 @@
     "last-updated": "5/3/2021 5:34pm"
   },
   {
-    "recipient-name": "Butler County, OH Board of Commissioners",
-    "name": "Butler",
-    "URL": "https://selfhelps.org/covid-19/",
-    "recipient-type": "Local Government",
-    "state-territory": "OH",
-    "state": "Ohio",
-    "locality": "County",
-    "no-program": "",
-    "non-ERA-program-URL": "",
-    "assistance-phone-number": "(513) 868-9300",
-    "assistance-email": "info@selfhelps.org",
-    "last-updated": "6/2/2021 8:26am"
-  },
-  {
     "recipient-name": "Butler County",
     "name": "Butler",
     "URL": "https://selfhelps.org/",
@@ -4265,9 +4293,9 @@
     "locality": "County",
     "no-program": "",
     "non-ERA-program-URL": "",
-    "assistance-phone-number": "",
-    "assistance-email": "",
-    "last-updated": "5/24/2021 12:03pm"
+    "assistance-phone-number": "(513) 868-9300",
+    "assistance-email": "info@selfhelps.org",
+    "last-updated": "7/22/2021 8:04pm"
   },
   {
     "recipient-name": "City of Cincinnati",
@@ -4380,6 +4408,20 @@
     "assistance-phone-number": "",
     "assistance-email": "",
     "last-updated": "5/20/2021 2:51pm"
+  },
+  {
+    "recipient-name": "Lake County, Ohio",
+    "name": "Lake County",
+    "URL": "https://www.lakecountyil.gov/4578/Federal-Emergency-Rental-Assistance-Prog",
+    "recipient-type": "Local Government",
+    "state-territory": "OH",
+    "state": "Ohio",
+    "locality": "County",
+    "no-program": "",
+    "non-ERA-program-URL": "",
+    "assistance-phone-number": "",
+    "assistance-email": "",
+    "last-updated": "7/22/2021 8:08pm"
   },
   {
     "recipient-name": "Lorain County",
@@ -4534,6 +4576,20 @@
     "assistance-phone-number": "",
     "assistance-email": "",
     "last-updated": "5/5/2021 10:23am"
+  },
+  {
+    "recipient-name": "Oklahoma County, Oklahoma",
+    "name": "Oklahoma County",
+    "URL": "https://www.caaofokc.org/services/emergency-needs/rent-mortgage-assistance/",
+    "recipient-type": "Local Government",
+    "state-territory": "OK",
+    "state": "Oklahoma",
+    "locality": "County",
+    "no-program": "",
+    "non-ERA-program-URL": "",
+    "assistance-phone-number": "",
+    "assistance-email": "",
+    "last-updated": "7/22/2021 8:09pm"
   },
   {
     "recipient-name": "Tulsa County",
@@ -4888,7 +4944,7 @@
   {
     "recipient-name": "City of Pittsburgh",
     "name": "Pittsburgh",
-    "URL": "https://www.ura.org/pages/housing-opportunity-fund-programs",
+    "URL": "https://covidrentrelief.alleghenycounty.us/",
     "recipient-type": "Local Government",
     "state-territory": "PA",
     "state": "Pennsylvania",
@@ -4897,7 +4953,7 @@
     "non-ERA-program-URL": "",
     "assistance-phone-number": "",
     "assistance-email": "",
-    "last-updated": "5/3/2021 6:13pm"
+    "last-updated": "7/22/2021 8:21pm"
   },
   {
     "recipient-name": "County of Washington",
@@ -5446,6 +5502,20 @@
     "last-updated": "5/3/2021 5:49pm"
   },
   {
+    "recipient-name": "Hays County",
+    "name": "Hays County",
+    "URL": "https://hayscountytx.com/departments/veteran-services/emergency-rental-assistance-program/",
+    "recipient-type": "Local Government",
+    "state-territory": "TX",
+    "state": "Texas",
+    "locality": "",
+    "no-program": "",
+    "non-ERA-program-URL": "",
+    "assistance-phone-number": "",
+    "assistance-email": "",
+    "last-updated": "7/22/2021 8:06pm"
+  },
+  {
     "recipient-name": "County of Hidalgo",
     "name": "Hidalgo",
     "URL": "https://www.hidalgocounty.us/2855/COVID-19-RENTAL-AND-MORTGAGE-ASSISTANCE",
@@ -5556,6 +5626,34 @@
     "assistance-phone-number": "",
     "assistance-email": "",
     "last-updated": "5/4/2021 2:58pm"
+  },
+  {
+    "recipient-name": "Montgomery County",
+    "name": "Montgomery",
+    "URL": "https://texasrentrelief.com/",
+    "recipient-type": "Local Government",
+    "state-territory": "TX",
+    "state": "Texas",
+    "locality": "County",
+    "no-program": "",
+    "non-ERA-program-URL": "",
+    "assistance-phone-number": "",
+    "assistance-email": "",
+    "last-updated": "7/22/2021 8:10pm"
+  },
+  {
+    "recipient-name": "Nueces County",
+    "name": "Nueces County",
+    "URL": "http://www.nuecescountyerap.com/",
+    "recipient-type": "Local Government",
+    "state-territory": "TX",
+    "state": "Texas",
+    "locality": "County",
+    "no-program": "",
+    "non-ERA-program-URL": "",
+    "assistance-phone-number": "",
+    "assistance-email": "",
+    "last-updated": "7/22/2021 8:14pm"
   },
   {
     "recipient-name": "City of Plano",
