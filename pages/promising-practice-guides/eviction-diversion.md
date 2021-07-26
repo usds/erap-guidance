@@ -96,7 +96,7 @@ The following maturity model can help grantees shape a strategy and have actiona
         <ul>
           <li>Hire data scientists and technologist to manage processing systems and volume</li>
           <li>Using ARP funds to staff up legal assistance for housing court</li>
-          <li>Develop capacity and means to immediately connect with tenants that are on the docket for eviction so they show up to court (and can intervene)</li>
+          <li><a href="#SDF">Develop capacity and means to immediately connect with tenants that are on the docket for eviction so they show up to court (and can intervene)</a></li>
           <li>Create a payment vehicle that can quickly send out rental assistance; have ERA back-pay program</li>
         </ul>
       </div>
@@ -425,11 +425,18 @@ Not all tenants will have access to or will be able to submit the documentation 
       <li class="usa-collection__item">
         <div class="usa-collection__body">
           <h3 class="usa-collection__heading era-guidance-collection__heading">
-            <a class="usa-link era-guidance-collection__link" href="https://elkhartcounty.com/documents/1993/FINAL_Elkhart_County_Dependent_Care_Hardship_Attestation_Form_english_v5.pdf">Dependent care hardship (English)</a>
+            Dependent care hardship
           </h3>
           <ul class="usa-collection__meta" aria-label="More information">
+            <li class="usa-collection__meta-item position-relative era-guidance-collection__doc">
+              <a class="usa-link era-guidance-collection__link" href="https://elkhartcounty.com/documents/1993/FINAL_Elkhart_County_Dependent_Care_Hardship_Attestation_Form_english_v5.pdf">
+                <img src="{{ site.baseurl }}/assets/img/treasury-pdf.svg" class="usa-icon era-guidance-collection__icon">English</a>
+            </li>
+            <li class="usa-collection__meta-item position-relative era-guidance-collection__doc">
+              <a class="usa-link era-guidance-collection__link" href="https://elkhartcounty.com/documents/1997/Elkhart_County_Dependent_Care_Hardship_Attestation_Form_spanish_v5_002_1.pdf?download=True">Spanish</a>
+            </li>
             <li class="usa-collection__meta-item position-relative">
-              <img src="{{ site.baseurl }}/assets/img/treasury-pdf.svg" class="usa-icon era-guidance-collection__icon"> Elkhart County, IN
+              Elkhart County, IN
             </li>
           </ul>
         </div>
@@ -437,11 +444,15 @@ Not all tenants will have access to or will be able to submit the documentation 
       <li class="usa-collection__item">
         <div class="usa-collection__body">
           <h3 class="usa-collection__heading era-guidance-collection__heading">
-            <a class="usa-link era-guidance-collection__link" href="https://elkhartcounty.com/documents/1997/Elkhart_County_Dependent_Care_Hardship_Attestation_Form_spanish_v5_002_1.pdf?download=True">Dependent care hardship (Spanish)</a>
+            Financial distress certification
           </h3>
           <ul class="usa-collection__meta" aria-label="More information">
+            <li class="usa-collection__meta-item position-relative era-guidance-collection__doc">
+              <a class="usa-link era-guidance-collection__link" href="{{ site.baseurl }}/assets/forms/income/financial-distress-certification-spartanburg.docx">
+                <img src="{{ site.baseurl }}/assets/img/treasury-doc.svg" class="usa-icon era-guidance-collection__icon">English</a>
+            </li>
             <li class="usa-collection__meta-item position-relative">
-              <img src="{{ site.baseurl }}/assets/img/treasury-pdf.svg" class="usa-icon era-guidance-collection__icon"> Elkhart County, IN
+              Spartanburg, SC
             </li>
           </ul>
         </div>
@@ -449,11 +460,39 @@ Not all tenants will have access to or will be able to submit the documentation 
       <li class="usa-collection__item">
         <div class="usa-collection__body">
           <h3 class="usa-collection__heading era-guidance-collection__heading">
-            <a class="usa-link era-guidance-collection__link" href="{{ site.baseurl }}/assets/forms/income/financial-distress-certification-spartanburg.docx">Financial distress certification</a>
+            Income
           </h3>
           <ul class="usa-collection__meta" aria-label="More information">
+            <li class="usa-collection__meta-item position-relative era-guidance-collection__doc">
+              <a class="usa-link era-guidance-collection__link" href="{{ site.baseurl }}/assets/forms/income/income-boston-Arabic.pdf">
+                <img src="{{ site.baseurl }}/assets/img/treasury-pdf.svg" class="usa-icon era-guidance-collection__icon">Arabic</a> 
+            </li>
+            <li class="usa-collection__meta-item position-relative era-guidance-collection__doc">
+              <a class="usa-link era-guidance-collection__link" href="{{ site.baseurl }}/assets/forms/income/income-boston-Chinese.pdf">Chinese</a> 
+            </li>
+            <li class="usa-collection__meta-item position-relative era-guidance-collection__doc">
+              <a class="usa-link era-guidance-collection__link" href="{{ site.baseurl }}/assets/forms/income/income-boston-EN.pdf">English</a> 
+            </li>
+            <li class="usa-collection__meta-item position-relative era-guidance-collection__doc">
+              <a class="usa-link era-guidance-collection__link" href="{{ site.baseurl }}/assets/forms/income/income-boston-French.pdf">French</a> 
+            </li>
+            <li class="usa-collection__meta-item position-relative era-guidance-collection__doc">
+              <a class="usa-link era-guidance-collection__link" href="{{ site.baseurl }}/assets/forms/income/income-boston-Portuguese.pdf">Portuguese</a> 
+            </li>
+            <li class="usa-collection__meta-item position-relative era-guidance-collection__doc">
+              <a class="usa-link era-guidance-collection__link" href="{{ site.baseurl }}/assets/forms/income/income-boston-Russian.pdf">Russian</a>
+            </li>
+            <li class="usa-collection__meta-item position-relative era-guidance-collection__doc">
+              <a class="usa-link era-guidance-collection__link" href="{{ site.baseurl }}/assets/forms/income/income-boston-Somali.pdf">Somali</a>
+            </li>
+            <li class="usa-collection__meta-item position-relative era-guidance-collection__doc">
+              <a class="usa-link era-guidance-collection__link" href="{{ site.baseurl }}/assets/forms/income/income-boston-ES.pdf">Spanish</a>
+            </li>
+            <li class="usa-collection__meta-item position-relative era-guidance-collection__doc">
+              <a class="usa-link era-guidance-collection__link" href="{{ site.baseurl }}/assets/forms/income/income-boston-Vietnamese.pdf">Vietnamese</a>
+            </li>
             <li class="usa-collection__meta-item position-relative">
-              <img src="{{ site.baseurl }}/assets/img/treasury-doc.svg" class="usa-icon era-guidance-collection__icon"> Spartanburg, SC
+              Boston, MA
             </li>
           </ul>
         </div>
@@ -461,23 +500,18 @@ Not all tenants will have access to or will be able to submit the documentation 
       <li class="usa-collection__item">
         <div class="usa-collection__body">
           <h3 class="usa-collection__heading era-guidance-collection__heading">
-            <a class="usa-link era-guidance-collection__link" href="{{ site.baseurl }}/assets/forms/income/income-lakecounty.pdf">Income (English)</a>
+            Income
           </h3>
           <ul class="usa-collection__meta" aria-label="More information">
-            <li class="usa-collection__meta-item position-relative">
-              <img src="{{ site.baseurl }}/assets/img/treasury-pdf.svg" class="usa-icon era-guidance-collection__icon"> Lack County, IL
+            <li class="usa-collection__meta-item position-relative era-guidance-collection__doc">
+              <a class="usa-link era-guidance-collection__link" href="{{ site.baseurl }}/assets/forms/income/income-lakecounty.pdf">
+                <img src="{{ site.baseurl }}/assets/img/treasury-pdf.svg" class="usa-icon era-guidance-collection__icon">English</a> 
             </li>
-          </ul>
-        </div>
-      </li>
-      <li class="usa-collection__item">
-        <div class="usa-collection__body">
-          <h3 class="usa-collection__heading era-guidance-collection__heading">
-            <a class="usa-link era-guidance-collection__link" href="{{ site.baseurl }}/assets/forms/income/income-lakecounty-ES.pdf">Income (Spanish)</a>
-          </h3>
-          <ul class="usa-collection__meta" aria-label="More information">
+            <li class="usa-collection__meta-item position-relative era-guidance-collection__doc">
+              <a class="usa-link era-guidance-collection__link" href="{{ site.baseurl }}/assets/forms/income/income-lakecounty-ES.pdf">Spanish</a>
+            </li>
             <li class="usa-collection__meta-item position-relative">
-              <img src="{{ site.baseurl }}/assets/img/treasury-pdf.svg" class="usa-icon era-guidance-collection__icon"> Lack County, IL
+              Lack County, IL
             </li>
           </ul>
         </div>
@@ -489,11 +523,15 @@ Not all tenants will have access to or will be able to submit the documentation 
       <li class="usa-collection__item">
         <div class="usa-collection__body">
           <h3 class="usa-collection__heading era-guidance-collection__heading">
-            <a class="usa-link era-guidance-collection__link" href="{{ site.baseurl }}/assets/forms/income/income-spartanburg.docx">Income</a>
+            Income
           </h3>
           <ul class="usa-collection__meta" aria-label="More information">
+            <li class="usa-collection__meta-item position-relative era-guidance-collection__doc">
+              <a class="usa-link era-guidance-collection__link" href="{{ site.baseurl }}/assets/forms/income/income-spartanburg.docx">
+                <img src="{{ site.baseurl }}/assets/img/treasury-doc.svg" class="usa-icon era-guidance-collection__icon">English</a>
+            </li>
             <li class="usa-collection__meta-item position-relative">
-              <img src="{{ site.baseurl }}/assets/img/treasury-doc.svg" class="usa-icon era-guidance-collection__icon"> Spartanburg, SC
+              Spartanburg, SC
             </li>
           </ul>
         </div>
@@ -501,11 +539,15 @@ Not all tenants will have access to or will be able to submit the documentation 
       <li class="usa-collection__item">
         <div class="usa-collection__body">
           <h3 class="usa-collection__heading era-guidance-collection__heading">
-            <a class="usa-link era-guidance-collection__link" href="{{ site.baseurl }}/assets/forms/income/income-self-employment-VA.pdf">Self-employment</a>
+            Self-employment
           </h3>
           <ul class="usa-collection__meta" aria-label="More information">
+            <li class="usa-collection__meta-item position-relative era-guidance-collection__doc">
+              <a class="usa-link era-guidance-collection__link" href="{{ site.baseurl }}/assets/forms/income/income-self-employment-VA.pdf">
+                <img src="{{ site.baseurl }}/assets/img/treasury-pdf.svg" class="usa-icon era-guidance-collection__icon">English</a>
+            </li>
             <li class="usa-collection__meta-item position-relative">
-              <img src="{{ site.baseurl }}/assets/img/treasury-pdf.svg" class="usa-icon era-guidance-collection__icon"> State of Virginia 
+              State of Virginia 
             </li>
           </ul>
         </div>
@@ -513,11 +555,18 @@ Not all tenants will have access to or will be able to submit the documentation 
       <li class="usa-collection__item">
         <div class="usa-collection__body">
           <h3 class="usa-collection__heading era-guidance-collection__heading">
-            <a class="usa-link era-guidance-collection__link" href="{{ site.baseurl }}/assets/forms/income/income-zero-lakecounty.pdf">Zero income (English)</a>
+            <a class="usa-link era-guidance-collection__link" href="{{ site.baseurl }}/assets/forms/income/income-zero-lakecounty.pdf">Zero income</a>
           </h3>
           <ul class="usa-collection__meta" aria-label="More information">
+            <li class="usa-collection__meta-item position-relative era-guidance-collection__doc">
+              <a class="usa-link era-guidance-collection__link" href="{{ site.baseurl }}/assets/forms/income/income-zero-lakecounty.pdf">
+                <img src="{{ site.baseurl }}/assets/img/treasury-pdf.svg" class="usa-icon era-guidance-collection__icon">English</a>
+            </li>
+            <li class="usa-collection__meta-item position-relative era-guidance-collection__doc">
+              <a class="usa-link era-guidance-collection__link" href="{{ site.baseurl }}/assets/forms/income/income-zero-lakecounty-ES.pdf">Spanish</a>
+            </li>
             <li class="usa-collection__meta-item position-relative">
-              <img src="{{ site.baseurl }}/assets/img/treasury-pdf.svg" class="usa-icon era-guidance-collection__icon"> Lack County, IL
+              Lack County, IL
             </li>
           </ul>
         </div>
@@ -525,23 +574,15 @@ Not all tenants will have access to or will be able to submit the documentation 
       <li class="usa-collection__item">
         <div class="usa-collection__body">
           <h3 class="usa-collection__heading era-guidance-collection__heading">
-            <a class="usa-link era-guidance-collection__link" href="{{ site.baseurl }}/assets/forms/income/income-zero-lakecounty-ES.pdf">Zero income (Spanish)</a>
+            Zero income
           </h3>
           <ul class="usa-collection__meta" aria-label="More information">
-            <li class="usa-collection__meta-item position-relative">
-              <img src="{{ site.baseurl }}/assets/img/treasury-pdf.svg" class="usa-icon era-guidance-collection__icon"> Lack County, IL
+            <li class="usa-collection__meta-item position-relative era-guidance-collection__doc">
+              <a class="usa-link era-guidance-collection__link" href="{{ site.baseurl }}/assets/forms/income/income-zero-spartanburg.docx">
+                <img src="{{ site.baseurl }}/assets/img/treasury-doc.svg" class="usa-icon era-guidance-collection__icon">English</a> 
             </li>
-          </ul>
-        </div>
-      </li>
-      <li class="usa-collection__item">
-        <div class="usa-collection__body">
-          <h3 class="usa-collection__heading era-guidance-collection__heading">
-            <a class="usa-link era-guidance-collection__link" href="{{ site.baseurl }}/assets/forms/income/income-zero-spartanburg.docx">Zero income</a>
-          </h3>
-          <ul class="usa-collection__meta" aria-label="More information">
             <li class="usa-collection__meta-item position-relative">
-              <img src="{{ site.baseurl }}/assets/img/treasury-doc.svg" class="usa-icon era-guidance-collection__icon"> Spartanburg, SC
+              Spartanburg, SC
             </li>
           </ul>
         </div>
@@ -562,11 +603,15 @@ Not all tenants will have access to or will be able to submit the documentation 
       <li class="usa-collection__item">
         <div class="usa-collection__body">
           <h3 class="usa-collection__heading era-guidance-collection__heading">
-            <a class="usa-link era-guidance-collection__link" href="https://f.hubspotusercontent20.net/hubfs/19539973/Resources/SampleNoLandlordNoLease_Final.pdf">Landlord/tenant relationship and rent owed</a>
+            Landlord/tenant relationship and rent owed
           </h3>
           <ul class="usa-collection__meta" aria-label="More information">
+            <li class="usa-collection__meta-item position-relative era-guidance-collection__doc">
+              <a class="usa-link era-guidance-collection__link" href="https://f.hubspotusercontent20.net/hubfs/19539973/Resources/SampleNoLandlordNoLease_Final.pdf">
+                <img src="{{ site.baseurl }}/assets/img/treasury-pdf.svg" class="usa-icon era-guidance-collection__icon">English</a>
+            </li>
             <li class="usa-collection__meta-item position-relative">
-              <img src="{{ site.baseurl }}/assets/img/treasury-pdf.svg" class="usa-icon era-guidance-collection__icon"> State of Minnesota
+              State of Minnesota
             </li>
           </ul>
         </div>
@@ -574,11 +619,18 @@ Not all tenants will have access to or will be able to submit the documentation 
       <li class="usa-collection__item">
         <div class="usa-collection__body">
           <h3 class="usa-collection__heading era-guidance-collection__heading">
-            <a class="usa-link era-guidance-collection__link" href="https://www.oregon.gov/ohcs/housing-assistance/Documents/05-13-2021-OERAP-Self-Verification-Rent-Owed.pdf">Landlord/tenant relationship and rent owed</a>
+            Landlord/tenant relationship and rent owed
           </h3>
           <ul class="usa-collection__meta" aria-label="More information">
+            <li class="usa-collection__meta-item position-relative era-guidance-collection__doc">
+              <a class="usa-link era-guidance-collection__link" href="https://www.oregon.gov/ohcs/housing-assistance/Documents/05-13-2021-OERAP-Self-Verification-Rent-Owed.pdf">
+                <img src="{{ site.baseurl }}/assets/img/treasury-pdf.svg" class="usa-icon era-guidance-collection__icon">English</a>
+            </li>
+            <li class="usa-collection__meta-item position-relative era-guidance-collection__doc">
+              <a class="usa-link era-guidance-collection__link" href="{{ site.baseurl }}/assets/forms/rental-obligation/self-verification-rent-owed-OR-ES.pdf">Spanish</a>
+            </li>
             <li class="usa-collection__meta-item position-relative">
-              <img src="{{ site.baseurl }}/assets/img/treasury-pdf.svg" class="usa-icon era-guidance-collection__icon"> State of Oregon
+              State of Oregon
             </li>
           </ul>
         </div>
@@ -590,11 +642,15 @@ Not all tenants will have access to or will be able to submit the documentation 
       <li class="usa-collection__item">
         <div class="usa-collection__body">
           <h3 class="usa-collection__heading era-guidance-collection__heading">
-            <a class="usa-link era-guidance-collection__link" href="{{ site.baseurl }}/assets/forms/rental-obligation/roommate-VA.pdf">Roommate certification</a>
+            Roommate certification
           </h3>
           <ul class="usa-collection__meta" aria-label="More information">
+            <li class="usa-collection__meta-item position-relative era-guidance-collection__doc">
+              <a class="usa-link era-guidance-collection__link" href="{{ site.baseurl }}/assets/forms/rental-obligation/roommate-VA.pdf">
+                <img src="{{ site.baseurl }}/assets/img/treasury-pdf.svg" class="usa-icon era-guidance-collection__icon">English</a>
+            </li>
             <li class="usa-collection__meta-item position-relative">
-              <img src="{{ site.baseurl }}/assets/img/treasury-pdf.svg" class="usa-icon era-guidance-collection__icon"> State of Virginia
+              State of Virginia
             </li>
           </ul>
         </div>
@@ -602,11 +658,15 @@ Not all tenants will have access to or will be able to submit the documentation 
       <li class="usa-collection__item">
         <div class="usa-collection__body">
           <h3 class="usa-collection__heading era-guidance-collection__heading">
-            <a class="usa-link era-guidance-collection__link" href="{{ site.baseurl }}/assets/forms/rental-obligation/lease-WV.pdf">Tenant self-certification of lease</a>
+            Tenant self-certification of lease
           </h3>
           <ul class="usa-collection__meta" aria-label="More information">
+            <li class="usa-collection__meta-item position-relative era-guidance-collection__doc">
+              <a class="usa-link era-guidance-collection__link" href="{{ site.baseurl }}/assets/forms/rental-obligation/lease-WV.pdf">
+                <img src="{{ site.baseurl }}/assets/img/treasury-pdf.svg" class="usa-icon era-guidance-collection__icon">English</a> 
+            </li>
             <li class="usa-collection__meta-item position-relative">
-              <img src="{{ site.baseurl }}/assets/img/treasury-pdf.svg" class="usa-icon era-guidance-collection__icon"> State of West Virginia
+              State of West Virginia
             </li>
           </ul>
         </div>
@@ -625,13 +685,18 @@ Not all tenants will have access to or will be able to submit the documentation 
       <li class="usa-collection__item">
         <div class="usa-collection__body">
           <h3 class="usa-collection__heading era-guidance-collection__heading">
-            <a class="usa-link era-guidance-collection__link" href="{{ site.baseurl }}/assets/forms/multiple/multiple-brazoria-county-TX.pdf">
-              Household income, lease, unemployment eligibility, and reduction in household income
-            </a>
+            Household income, lease, unemployment eligibility, and reduction in household income
           </h3>
           <ul class="usa-collection__meta" aria-label="More information">
+            <li class="usa-collection__meta-item position-relative era-guidance-collection__doc">
+              <a class="usa-link era-guidance-collection__link" href="{{ site.baseurl }}/assets/forms/multiple/multiple-brazoria-county-TX.pdf">
+                <img src="{{ site.baseurl }}/assets/img/treasury-pdf.svg" class="usa-icon era-guidance-collection__icon">English</a>
+            </li>
+            <li class="usa-collection__meta-item position-relative era-guidance-collection__doc">
+              <a class="usa-link era-guidance-collection__link" href="{{ site.baseurl }}/assets/forms/multiple/multiple-brazoria-county-TX-ES.pdf">Spanish</a>
+            </li>
             <li class="usa-collection__meta-item position-relative">
-              <img src="{{ site.baseurl }}/assets/img/treasury-pdf.svg" class="usa-icon era-guidance-collection__icon"> Brazoria County, TX
+              Brazoria County, TX
             </li>
           </ul>
         </div>
@@ -639,13 +704,15 @@ Not all tenants will have access to or will be able to submit the documentation 
       <li class="usa-collection__item">
         <div class="usa-collection__body">
           <h3 class="usa-collection__heading era-guidance-collection__heading">
-            <a class="usa-link era-guidance-collection__link" href="{{ site.baseurl }}/assets/forms/multiple/multiple-DC-EN.pdf">
-              Rental obligation, financial impact, housing impact, and income qualification
-            </a>
+            Income, housing status, financial hardship, rent payment amount, and utility arrears
           </h3>
           <ul class="usa-collection__meta" aria-label="More information">
+            <li class="usa-collection__meta-item position-relative era-guidance-collection__doc">
+              <a class="usa-link era-guidance-collection__link" href="{{ site.baseurl }}/assets/forms/multiple/multiple-WA.pdf">
+                <img src="{{ site.baseurl }}/assets/img/treasury-pdf.svg" class="usa-icon era-guidance-collection__icon">English</a>
+            </li>
             <li class="usa-collection__meta-item position-relative">
-              <img src="{{ site.baseurl }}/assets/img/treasury-pdf.svg" class="usa-icon era-guidance-collection__icon"> Washington, DC (English)
+              State of Washington
             </li>
           </ul>
         </div>
@@ -657,27 +724,33 @@ Not all tenants will have access to or will be able to submit the documentation 
       <li class="usa-collection__item">
         <div class="usa-collection__body">
           <h3 class="usa-collection__heading era-guidance-collection__heading">
-            <a class="usa-link era-guidance-collection__link" href="{{ site.baseurl }}/assets/forms/multiple/multiple-DC-ES.pdf">
-              Rental obligation, financial impact, housing impact, and income qualification
-            </a>
+            Rental obligation, financial impact, housing impact, and income qualification
           </h3>
           <ul class="usa-collection__meta" aria-label="More information">
-            <li class="usa-collection__meta-item position-relative">
-              <img src="{{ site.baseurl }}/assets/img/treasury-pdf.svg" class="usa-icon era-guidance-collection__icon"> Washington, DC (Spanish)
+            <li class="usa-collection__meta-item position-relative era-guidance-collection__doc">
+              <a class="usa-link era-guidance-collection__link" href="{{ site.baseurl }}/assets/forms/multiple/multiple-DC-Amaric.pdf">
+                <img src="{{ site.baseurl }}/assets/img/treasury-pdf.svg" class="usa-icon era-guidance-collection__icon">Amaric</a> 
             </li>
-          </ul>
-        </div>
-      </li>
-      <li class="usa-collection__item">
-        <div class="usa-collection__body">
-          <h3 class="usa-collection__heading era-guidance-collection__heading">
-            <a class="usa-link era-guidance-collection__link" href="{{ site.baseurl }}/assets/forms/multiple/multiple-WA.pdf">
-              Income, housing status, financial hardship, rent payment amount, and utility arrears
-            </a>
-          </h3>
-          <ul class="usa-collection__meta" aria-label="More information">
+            <li class="usa-collection__meta-item position-relative era-guidance-collection__doc">
+              <a class="usa-link era-guidance-collection__link" href="{{ site.baseurl }}/assets/forms/multiple/multiple-DC-Chinese.pdf">Chinese</a>
+            </li>
+            <li class="usa-collection__meta-item position-relative era-guidance-collection__doc">
+              <a class="usa-link era-guidance-collection__link" href="{{ site.baseurl }}/assets/forms/multiple/multiple-DC-EN.pdf">English</a>
+            </li>
+            <li class="usa-collection__meta-item position-relative era-guidance-collection__doc">
+              <a class="usa-link era-guidance-collection__link" href="{{ site.baseurl }}/assets/forms/multiple/multiple-DC-FR.pdf">French</a>
+            </li>
+            <li class="usa-collection__meta-item position-relative era-guidance-collection__doc">
+              <a class="usa-link era-guidance-collection__link" href="{{ site.baseurl }}/assets/forms/multiple/multiple-DC-Korean.pdf">Korean</a>
+            </li>
+            <li class="usa-collection__meta-item position-relative era-guidance-collection__doc">
+              <a class="usa-link era-guidance-collection__link" href="{{ site.baseurl }}/assets/forms/multiple/multiple-DC-ES.pdf">Spanish</a>
+            </li>
+            <li class="usa-collection__meta-item position-relative era-guidance-collection__doc">
+              <a class="usa-link era-guidance-collection__link" href="{{ site.baseurl }}/assets/forms/multiple/multiple-DC-Vietnamese.pdf">Vietnamese</a>
+            </li>
             <li class="usa-collection__meta-item position-relative">
-              <img src="{{ site.baseurl }}/assets/img/treasury-pdf.svg" class="usa-icon era-guidance-collection__icon"> State of Washington
+              Washington, DC
             </li>
           </ul>
         </div>

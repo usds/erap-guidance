@@ -29949,13 +29949,20 @@ sup a{
   text-transform:inherit;
   letter-spacing:inherit;
   font-size:1.13rem;
+  color:#3d4551;
 }
 .era-guidance-collection__link[href$=".docx"]:after, .era-guidance-collection__link[href$=".pdf"]:after{
   background:none;
+  width:0;
+  height:0;
 }
 .era-guidance-collection__icon{
   height:1.5rem;
   width:1.5rem;
+  margin-right:0.5rem;
+}
+.era-guidance-collection__doc{
+  display:inline-block;
 }
 
 .era-guidance-maturity-model{

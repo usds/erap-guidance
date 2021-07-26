@@ -470,16 +470,24 @@ sup a {
     text-transform: inherit;
     letter-spacing: inherit;
     font-size: 1.13rem; // this is what is in use in the examples on the USWDS page for this component but it comes through in the code as 1.33rem. I suspect this is a bug so overriding here.
+    color: color($theme-color-base-darker);
   }
 
   &__link[href$=".docx"]:after,
   &__link[href$=".pdf"]:after {
     background: none;
+    width: 0;
+    height: 0;
   }
 
   &__icon {
     height: 1.5rem;
     width: 1.5rem;
+    margin-right: .5rem;
+  }
+  
+  &__doc {
+    display: inline-block;
   }
 }
 

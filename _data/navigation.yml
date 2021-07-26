@@ -1,4 +1,10 @@
 programs:
+- text: Allocations and payments
+  href: /allocations-and-payments/
+  name: allocations
+- text: Application process
+  href: /application-process/
+  name: applications
 - text: FAQs
   href: /faqs/
   desc: The original format for this guidance provided here as reference.
