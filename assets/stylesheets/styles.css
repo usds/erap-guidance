@@ -29834,7 +29834,8 @@ a[href$=".xlsx"]:after{
   }
 }
 .era-article p + h3,
-.era-article ul + h3{
+.era-article ul + h3,
+.era-article .grid-row + h3{
   margin-top:3rem;
 }
 .era-article h4{

@@ -329,7 +329,8 @@ h4 {
 
 .era-article {
   p + h3,
-  ul + h3 {
+  ul + h3,
+  .grid-row + h3 {
     margin-top: 3rem;
   }
 
