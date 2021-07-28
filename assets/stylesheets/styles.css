@@ -30001,6 +30001,9 @@ sup a{
 .era-guidance-maturity-level__list{
   margin:0;
 }
+.era-guidance-maturity-level__grantee{
+  font-weight:bold;
+}
 
 .era-guidance-maturity-level--maturing{
   border:2px solid #a1d3ff;

@@ -51,6 +51,10 @@ Louisville, KY is utilizing a multi-pronged approach to eviction diversion that 
 
 The following maturity model can help grantees shape a strategy and have actionable steps to address eviction diversion. A maturity model is a tool that helps organize strategy, practices, and process into a framework that can act as a blueprint for building up stronger capabilities. This model is intended to aid you in determining which stage of development your program is at and how to iterate and improve aspects of your program to become more robust and comprehensive so that you can be effective in stabilizing households.
 
+The practices in <strong>bold</strong> are known to have been adopted by one or more grantees.  
+
+**Disclaimer**: The practices referenced in this model may contemplate the leveraging of ERA funding with other federal, state, and local resources. The model's reference to an example practice should not be construed as confirming such practice's eligibility for any particular type or category of federal funding. Grantees should consult the governing federal program authorities for additional guidance before expending funds for such purposes to confirm eligibility.
+
 <div class="era-guidance-maturity-model">
   <div class="era-guidance-maturity-model__col">
     <h3 class="era-guidance-maturity-model__category" id="resourcing">
@@ -64,10 +68,10 @@ The following maturity model can help grantees shape a strategy and have actiona
         </p>
         <p>Practices might include:</p>
         <ul>
-          <li>Listen to community organizations and advocates and host conversations</li>
-          <li>Utilize existing system resources, programs, staff and contract vehicles to help manage program</li>
-          <li>Use fact-specific proxy and categorical eligibility to speed processing assistance</li>
-          <li>Apply for HUD grant  to support legal aid for tenants at risk of eviction</li>
+          <li class="era-guidance-maturity-level__grantee">Listen to community organizations and advocates and host conversations</li>
+          <li class="era-guidance-maturity-level__grantee">Utilize existing system resources, programs, staff, and contract vehicles to help manage the program</li>
+          <li>Use fact-specific proxy and categorical eligibility to expedite processing assistance</li>
+          <li>Apply for HUD grants to support legal aid for tenants at risk of eviction</li>
         </ul>
       </div>
     </div>
@@ -79,10 +83,10 @@ The following maturity model can help grantees shape a strategy and have actiona
         </p>
         <p>Practices might include:</p>
         <ul>
-          <li>Listen to residents and people you are serving to understand needs at a local level</li>
-          <li>Leverage partners outside the traditional housing system to help deliver services and outreach- ie. librarians, churches</li>
-          <li>Determine how to best use funding sources</li>
-          <li>Establish living experience groups for continuous ongoing feedback</li>
+          <li class="era-guidance-maturity-level__grantee">Listen to local residents to understand needs</li>
+          <li class="era-guidance-maturity-level__grantee">Leverage partners outside the traditional housing system to help deliver services and outreach, e.g. Libraries and faith-based organizations</li>
+          <li class="era-guidance-maturity-level__grantee">Determine how to best use funding sources</li>
+          <li>Establish living experience groups for continuous feedback</li>
         </ul>
       </div>
     </div>
@@ -95,9 +99,9 @@ The following maturity model can help grantees shape a strategy and have actiona
         <p>Practices might include:</p>
         <ul>
           <li>Hire data scientists and technologist to manage processing systems and volume</li>
-          <li>Using ARP funds to staff up legal assistance for housing court</li>
-          <li><a href="#SDF">Develop capacity and means to immediately connect with tenants that are on the docket for eviction so they show up to court (and can intervene)</a></li>
-          <li>Create a payment vehicle that can quickly send out rental assistance; have ERA back-pay program</li>
+          <li class="era-guidance-maturity-level__grantee">Use ERA funds to staff up legal assistance for housing court programs</li>
+          <li class="era-guidance-maturity-level__grantee"><a href="#SDF">Develop capacity and means to immediately connect with tenants who are on the docket for eviction to facilitate pre-eviction interventions</a></li>
+          <li class="era-guidance-maturity-level__grantee">Create a payment vehicle that can quickly send out rental assistance to prevent eviction, even if ERA application is still being processed</li>
         </ul>
       </div>
     </div>
@@ -130,11 +134,11 @@ The following maturity model can help grantees shape a strategy and have actiona
         </p>
         <p>Practices might include:</p>
         <ul>
-          <li>Reach out to populations who are at high risk of evictions</li>
-          <li>Work closely with housing advocates and local community organizations</li>
-          <li>Inform tenants about the CDC eviction moratorium and form and alert them that they need to give it to their landlord</li>
-          <li>Debunk common myths on ERA</li>
-          <li>Follow up directly with tenants who are missing documentation but have started applications</li>
+          <li class="era-guidance-maturity-level__grantee">Reach out to populations at high risk of eviction</li>
+          <li class="era-guidance-maturity-level__grantee">Work closely with local housing advocates and organizations</li>
+          <li class="era-guidance-maturity-level__grantee">Inform tenants about the CDC eviction moratorium and alert them that <a href="https://www.cdc.gov/coronavirus/2019-ncov/downloads/evictiondeclare_d508.pdf">they need to give a form to their landlord</a></li>
+          <li class="era-guidance-maturity-level__grantee">Debunk common myths on ERA</li>
+          <li class="era-guidance-maturity-level__grantee">Follow up directly with tenants who are missing documentation but have started applications</li>
         </ul>
       </div>
     </div>
@@ -146,10 +150,11 @@ The following maturity model can help grantees shape a strategy and have actiona
         </p>
         <p>Practices might include:</p>
         <ul>
-          <li>Use data-informed/ targeted outreach to populations that are at high risk of evictions or are currently being evicted in multiple formats (digital, media, door to door, peer to peer; clinics, facebook live, etc.)</li>
-          <li>Partner with grassroots organizations who have relationships with tenants and are supporting with other services and resources</li>
-          <li>Provide in-person assistance for people who are not able to navigate the site on their own (office or their homes)</li>
-          <li>Use place-based outreach (ie. grocery stores, clinics, etc.)</li>
+          <li>Use data-informed/ targeted outreach to high risk households and households being evicted</li> 
+          <li>Share information through a diverse portfolio of channels (digital, media, door to door, peer to peer; clinics, Facebook live, etc.)</li>
+          <li class="era-guidance-maturity-level__grantee">Partner with grassroots organizations to deliver services related to housing stability</li> 
+          <li class="era-guidance-maturity-level__grantee">Provide in-person assistance for people who are not able to navigate the site on their own (office or their homes)</li>
+          <li class="era-guidance-maturity-level__grantee">Use place-based outreach (i.e., grocery stores, clinics, etc.)</li>
         </ul>
       </div>
     </div>
@@ -161,11 +166,11 @@ The following maturity model can help grantees shape a strategy and have actiona
         </p>
         <p>Practices might include:</p>
         <ul>
-          <li>Court-based interventions/connections to services and education</li>
-          <li>Connect tenants to a housing counselor</li>
-          <li>Deliver wrap-around services to meet the social determinants of health throughout the process</li>
-          <li>Offer a hotline for legal aid across agencies and include the number on eviction notices</li>
-          <li>Provide information about legal aid and resources online</li>
+          <li class="era-guidance-maturity-level__grantee">Court-based interventions/connections to services and education</li>
+          <li class="era-guidance-maturity-level__grantee">Connect tenants to a housing counselor</li>
+          <li class="era-guidance-maturity-level__grantee">Deliver wrap-around services supporting the social determinants of health</li>
+          <li class="era-guidance-maturity-level__grantee">Offer a hotline for legal aid across agencies and include phone number on eviction notices</li>
+          <li class="era-guidance-maturity-level__grantee">Provide information about legal aid and resources online</li>
         </ul>
       </div>
     </div>
@@ -179,7 +184,7 @@ The following maturity model can help grantees shape a strategy and have actiona
         <ul>
           <li>Provide legal representation in court and consistent advocacy throughout the process</li>
           <li>Establish educational centers/courses that are accessible and promoted even before eviction begins</li>
-          <li>Provide a universal and codified right to counsel</li>
+          <li>Provide a universal and codified right to counsel for tenants</li>
         </ul>
       </div>
     </div>
@@ -197,9 +202,9 @@ The following maturity model can help grantees shape a strategy and have actiona
         <p>Practices might include:</p>
         <ul>
           <li>Encourage applications from landlords even if tenants have not applied</li>
-          <li>Allow landlords to provide documentation in their files on behalf of their tenants</li>
-          <li>Require landlords who receive ERA to agree not to evict those tenants for nonpayment of rent in the following 30-90 days</li>
-          <li>Make bulk ERA payments to landlords to speed payment processing</li>
+          <li>Accept documentation provided by landlords on a tenant's behalf</li>
+          <li>Require a landlord's agreement not to evict assisted tenants for nonpayment of rent for at least 30-90 days as a condition to receiving ERA assistance</li>
+          <li class="era-guidance-maturity-level__grantee">Make bulk ERA payments to landlords to expedite payment processing</li>
         </ul>
       </div>
     </div>
@@ -209,9 +214,9 @@ The following maturity model can help grantees shape a strategy and have actiona
         <p class="era-guidance-maturity-level__action">Use targeted outreach</p>
         <p>Practices might include:</p>
         <ul>
-          <li>Leverage local community organizations to get the word out on ERA (ie. real estate groups, property management resource centers)</li>
-          <li>Message the community benefits of keeping people in homes and the important role that housing providers play</li>
-          <li>Outreach and message so landlords know they are included in "rental assistance"</li>
+          <li>Leverage local community organizations to publicize ERA (i.e., real estate groups and property management resource centers)</li>
+          <li>Message the community benefits of keeping people in their homes and the important role that housing providers play</li>
+          <li>Outreach and messaging so landlords know they are included in "rental assistance"</li>
         </ul>
       </div>
     </div>
@@ -221,9 +226,9 @@ The following maturity model can help grantees shape a strategy and have actiona
         <p class="era-guidance-maturity-level__action">Engage and educate</p>
         <p>Practices might include:</p>
         <ul>
-          <li>Establish strong local eviction moratoriums</li>
+          <li class="era-guidance-maturity-level__grantee">Establish strong local eviction moratoriums</li>
           <li>Establish court-based educational opportunities and courses</li>
-          <li>Target housing providers of large buildings in low-income areas and encourage them to apply for ERA</li>
+          <li class="era-guidance-maturity-level__grantee">Target housing providers of large buildings in low-income areas and encourage them to apply for emergency rental assistance</li>
         </ul>
       </div>
     </div>
@@ -234,7 +239,7 @@ The following maturity model can help grantees shape a strategy and have actiona
         <p>Practices might include:</p>
         <ul>
           <li>Reduce financial burden on property managers and landlords and provide immediate assistance or temporary funds</li>
-          <li><a href="#PHL">Court order for landlords to seek assistance before being able to file for an eviction</a></li>
+          <li class="era-guidance-maturity-level__grantee"><a href="#PHL">Provide a court order for landlords to seek assistance before being able to file for an eviction of tenants</a></li>
         </ul>
       </div>
     </div>
@@ -253,9 +258,9 @@ The following maturity model can help grantees shape a strategy and have actiona
         </p>
         <p>Practices might include:</p>
         <ul>
-          <li>Require landlords to provide tenants sufficient notice of eviction, dollar amount owed, and information on where to find rental assistance</li>
-          <li>Encourage landlords to inform their tenants about ERA</li>
-          <li>Inform landlords that evicting tenants prevents them from collecting rental arrears via ERA</li>
+          <li class="era-guidance-maturity-level__grantee">Require landlords to provide tenants sufficient notice of eviction, dollar amount owed, and information on where to find rental assistance</li>
+          <li>Encourage landlords to inform their tenants about emergency rental assistance</li>
+          <li>Remind landlords that evicting tenants prevents them from collecting rental arrears via ERA programs</li>
         </ul>
       </div>
     </div>
@@ -267,8 +272,8 @@ The following maturity model can help grantees shape a strategy and have actiona
         </p>
         <p>Practices might include:</p>
         <ul>
-          <li>Create connectivity on the backend to connect landlord and tenant applications by address for system integrity and expedited processing</li>
-          <li>Create incentives for landlord/tenant cooperation in application (ie. communicate expedited processing time)</li>
+          <li>Create connectivity on the backend to connect landlord and tenant applications by street address for system integrity and expedited processing</li>
+          <li>Create incentives for landlord/tenant cooperation in application (i.e., communicate expedited processing time)</li>
         </ul>
       </div>
     </div>
@@ -310,8 +315,8 @@ The following maturity model can help grantees shape a strategy and have actiona
         <p class="era-guidance-maturity-level__action">Flag tenants in imminent danger of eviction</p>
         <p>Practices might include:</p>
         <ul>
-          <li>Ask tenants to attach an eviction notice, if they have one, to their application</li>
-          <li>Prioritize processing applicants who receive an eviction or utility shut off notice while waiting for a decision on their application</li>
+          <li class="era-guidance-maturity-level__grantee">Ask tenants to attach an eviction notice, if they have one, to their application</li>
+          <li class="era-guidance-maturity-level__grantee">Prioritize processing applicants who receive an eviction or utility shut off notice while waiting for a decision on their application</li>
         </ul>
       </div>
     </div>
@@ -322,10 +327,10 @@ The following maturity model can help grantees shape a strategy and have actiona
         <p>Practices might include:</p>
         <ul>
           <li>Establish MOU between courts and ERA grantee</li>
-          <li>Check to see if people at eviction court have gone through ERA/are eligible</li>
+          <li>Check to see if people at eviction court have applied for emergency rental assistance or are eligible</li>
           <li>Help courts increase their digital capacity</li>
-          <li>Use legal service providers  to flag  upcoming cases on the eviction docket for rental assistance</li>
-          <li>Pause hearing eviction cases until their ERA applications are process</li>
+          <li>Use legal service providers to flag upcoming cases on the eviction docket that are likely candidates for rental assistance</li>
+          <li>Pause hearing eviction cases until their ERA applications are processed</li>
         </ul>
       </div>
     </div>
@@ -335,10 +340,10 @@ The following maturity model can help grantees shape a strategy and have actiona
         <p class="era-guidance-maturity-level__action">Partner to expedite</p>
         <p>Practices might include:</p>
         <ul>
-          <li><a href="#Shelby">Establish MOU/ data sharing agreement in place between entire ecosystem of providers</a></li>
+          <li><a href="#Shelby">Establish MOU/data sharing agreements among the entire ecosystem of providers</a></li>
           <li>Connect with at-risk people who are missing documentation</li>
-          <li>Transparent prioritization and processing times</li>
-          <li>Create accessible databases that partners can access on their own, without having to go through partner parties</li>
+          <li>Make public prioritization and processing times</li>
+          <li>Create accessible databases that partners can access on their own without having to go through partner parties</li>
         </ul>
       </div>
     </div>
@@ -349,7 +354,7 @@ The following maturity model can help grantees shape a strategy and have actiona
         <p>Practices might include:</p>
         <ul>
           <li>Connect different data streams to knowledge base/case management system with input from different data streams</li>
-          <li>Use  analytics to pull applications to the top- prioritizing people who are behind on utilities/other risks</li>
+          <li>Use analytics to pull applications to the top- prioritizing people who are behind on utilities/other risks</li>
         </ul>
       </div>
     </div>
