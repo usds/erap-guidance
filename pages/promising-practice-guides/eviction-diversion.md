@@ -45,17 +45,17 @@ The city of Philadelphia’s ERA program is also integrated directly into the ci
 
 <h4 id="SDF">The city of Louisville, KY</h4>
 
-Louisville, KY is utilizing a multi-pronged approach to eviction diversion that includes legal representation for tenants, community based outreach, and collaboration with local courts. The city has allocated $400,000 of their ARP funding to enact a right to counsel program for tenants with children who are facing eviction. Their Office of Resilience and Community Services has partnered with the Office of Women, Office of Housing, Neighborhood Place, and the Coalition for the Homeless to target and reach out to Louisville residents at risk of eviction. The collaboration with the Office of Women was born out of the acknowledgement that female led households, and in particular Black female headed households are disproportionately targeted for eviction. Outreach includes knocking on doors, sending texts, and making phone calls to encourage these tenants not to miss their court dates. Staff also attend eviction court on a daily basis and can coordinate with the judges to stay eviction for tenants who could benefit from ERA. To aid tenants who "self-evict", by moving when they receive an eviction notice, the city has put in place a rapid-rehousing program that provides a rental deposit and the first month’s rent to help people relocate.
+Louisville, KY is utilizing a multi-pronged approach to eviction diversion that includes legal representation for tenants, community based outreach, and collaboration with local courts. The city has allocated $400,000 of their ERA funding to enact a right to counsel program for tenants with children who are facing eviction. Their Office of Resilience and Community Services has partnered with the Office of Women, Office of Housing, Neighborhood Place, and the Coalition for the Homeless to target and reach out to Louisville residents at risk of eviction. The collaboration with the Office of Women was born out of the recognition that female led households, especially those headed by African-Americans, are disproportionately targeted for eviction. Outreach includes knocking on doors, sending texts, and making phone calls to encourage these tenants not to miss their court dates. Staff also attend eviction court on a daily basis and can coordinate with the judges to stay eviction for tenants who could benefit from emergency rental assistance. To aid tenants who "self-evict", by moving when they receive an eviction notice, the city has put in place a rapid-rehousing program that provides a rental deposit and the first month’s rent to help people relocate.
 
-### Eviction diversion maturity levels
+## Eviction diversion maturity levels
 
 The following maturity model can help grantees shape a strategy and have actionable steps to address eviction diversion. A maturity model is a tool that helps organize strategy, practices, and process into a framework that can act as a blueprint for building up stronger capabilities. This model is intended to aid you in determining which stage of development your program is at and how to iterate and improve aspects of your program to become more robust and comprehensive so that you can be effective in stabilizing households.
 
 <div class="era-guidance-maturity-model">
   <div class="era-guidance-maturity-model__col">
-    <h4 class="era-guidance-maturity-model__category" id="resourcing">
+    <h3 class="era-guidance-maturity-model__category" id="resourcing">
       Resourcing & shaping programs
-    </h4>
+    </h3>
     <div class="era-guidance-maturity-level era-guidance-maturity-level--starting">
       <h5 class="era-guidance-maturity-level__title">Starting</h5>
       <div class="era-guidance-maturity-level__list">
@@ -119,9 +119,9 @@ The following maturity model can help grantees shape a strategy and have actiona
   </div>
 
   <div class="era-guidance-maturity-model__col">
-    <h4 class="era-guidance-maturity-model__category" id="tenant-interventions">
+    <h3 class="era-guidance-maturity-model__category" id="tenant-interventions">
       Tenant interventions
-    </h4>
+    </h3>
     <div class="era-guidance-maturity-level era-guidance-maturity-level--starting">
       <h5 class="era-guidance-maturity-level__title">Starting</h5>
       <div class="era-guidance-maturity-level__list">
@@ -185,9 +185,9 @@ The following maturity model can help grantees shape a strategy and have actiona
     </div>
   </div>
   <div class="era-guidance-maturity-model__col">
-    <h4 class="era-guidance-maturity-model__category" id="interventions">
+    <h3 class="era-guidance-maturity-model__category" id="interventions">
       Landlord &amp; property manager interventions
-    </h4>
+    </h3>
     <div class="era-guidance-maturity-level era-guidance-maturity-level--starting">
       <h5 class="era-guidance-maturity-level__title">Starting</h5>
       <div class="era-guidance-maturity-level__list">
@@ -242,9 +242,9 @@ The following maturity model can help grantees shape a strategy and have actiona
 
 
   <div class="era-guidance-maturity-model__col">
-    <h4 class="era-guidance-maturity-model__category" id="relationship-interventions">
+    <h3 class="era-guidance-maturity-model__category" id="relationship-interventions">
       Relationship-based interventions
-    </h4>
+    </h3>
     <div class="era-guidance-maturity-level era-guidance-maturity-level--starting">
       <h5 class="era-guidance-maturity-level__title">Starting</h5>
       <div class="era-guidance-maturity-level__list">
@@ -301,9 +301,9 @@ The following maturity model can help grantees shape a strategy and have actiona
   </div>
 
   <div class="era-guidance-maturity-model__col">
-    <h4 class="era-guidance-maturity-model__category" id="prioritizing">
+    <h3 class="era-guidance-maturity-model__category" id="prioritizing">
       Prioritize eviction cases for ERA
-    </h4>
+    </h3>
     <div class="era-guidance-maturity-level era-guidance-maturity-level--starting">
       <h5 class="era-guidance-maturity-level__title">Starting</h5>
       <div class="era-guidance-maturity-level__list">

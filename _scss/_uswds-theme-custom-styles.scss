@@ -507,7 +507,7 @@ sup a {
   display: block;
   min-height: 130px;
   max-width: 768px;
-  padding: units(2);
+  padding: units(2) units(4);
   font-size: size('body', '2xs');
   
   &__title {
