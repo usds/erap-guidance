@@ -30030,6 +30030,20 @@ sup a{
   border-top-right-radius:6px;
 }
 
+.era-guidance-card-highlight{
+  margin:2rem 0 1rem;
+}
+
+.era-guidance-card-highlight--docs__icon{
+  width:8rem;
+  height:100%;
+  fill:#565c65;
+}
+
+.era-guidance-card-highlight--docs .era-guidance-card-highlight--docs__media{
+  width:inherit;
+}
+
 .usa-alert{
   margin-bottom:2rem;
 }

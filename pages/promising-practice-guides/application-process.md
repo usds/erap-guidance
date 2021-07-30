@@ -20,3 +20,4 @@ The State of Alaska, the Municipality of Anchorage and 15 agencies representing 
 
 The State of Virginia has implemented efforts to address incomplete applications with outreach phone calls. Combined with translation services, this targeted and direct phone outreach helps to push many applicants in high need areas to complete their application. Program administrators have noted that many applicants had not realized that their applications were incomplete, and these outbound efforts have a direct correlation with improvements in application completion.
 
+{% include _card-example-forms.html %}

@@ -26,6 +26,7 @@ title: Promising practices for ERA programs
 * [Using Fact-Specific Proxies to Establish Applicant Income](fact-specific-proxies/)
 * [Automation Supporting Application Prioritization](application-prioritization/)
 * [Data-Driven Program Strategies](data/)
+* [Example self-attestation forms](forms/)
 * [Program Web sites](program-web-sites/)
 
 Across the country, local grantee administrators are working hard to implement programs to provide rental assistance to their constituents. While this is not an exhaustive list of promising practices, these insights may be useful to ERA grantees as they build out programs to help households maintain their housing, despite the financial uncertainty experienced during the COVID-19 pandemic.

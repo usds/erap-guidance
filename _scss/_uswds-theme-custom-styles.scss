@@ -561,6 +561,22 @@ sup a {
   border-top-right-radius: 6px;
 }
 
+.era-guidance-card-highlight {
+  margin: units(4) 0 units(2);
+}
+
+.era-guidance-card-highlight--docs {
+  &__icon {
+    width: 8rem;
+    height: 100%;
+    fill: color($theme-color-base-dark);
+  }
+}
+
+.era-guidance-card-highlight--docs .era-guidance-card-highlight--docs__media {
+  width: inherit;
+}
+
 .usa-alert {
   margin-bottom: 2rem;
 }
@@ -569,6 +585,7 @@ sup a {
 .usa-alert h4 {
   padding: 0;
 }
+
 
 // Program index styles
 // ---------------------------------------------------------------------------
