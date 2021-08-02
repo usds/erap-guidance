@@ -370,6 +370,18 @@ Treasury strongly encourages grantees to develop partnerships with courts in the
 
 <a href="{{ site.baseurl }}/implementation-guidance/changes/" class="era-guidance__datestamp">Added on June 24, 2021</a>
 
+### Can grantees prohibit landlords from pursuing eviction for nonpayment of rent for some period after receiving ERA assistance?
+
+With respect to landlords that receive funds under an ERA program for prospective rent, the grantee must prohibit the landlord from evicting the tenant for nonpayment of rent during the period covered by the assistance.
+
+In addition, with respect to landlords that receive funds for rental arrears, to promote the purpose of the program the grantee is encouraged to prohibit the landlord from evicting the tenant for nonpayment of rent for some period of time, consistent with applicable law.
+
+In all cases, Treasury strongly encourages grantees to require landlords that receive funds under the ERA, as a condition of receiving the funds, not to evict tenants for nonpayment of rent for 30 to 90 days longer than the period covered by the rental assistance.
+
+<a href="{{ site.baseurl }}/faqs#32" class="era-guidance__faq-reference"><span class="usa-tag">FAQ #32</span></a>
+<a href="{{ site.baseurl }}/implementation-guidance/changes/" class="era-guidance__datestamp">Added on May 7, 2021</a>
+
+<!--
 ### Fact Sheet June 24, 2021
 
 From the <a href="https://home.treasury.gov/system/files/136/Treasury_Fact_Sheet_6-24-21.pdf">June 24, 2021 Fact sheet</a>
@@ -409,6 +421,7 @@ From the <a href="https://home.treasury.gov/system/files/136/FACT_SHEET-Emergenc
 #### Protect renters from eviction while payments are being made on their behalf.
 
 Starting with today’s guidance, programs must prohibit the eviction of renters for nonpayment in months for which they receive emergency rental assistance. While most landlords are working to secure relief and help renters stay in place, Treasury strongly encourages grantees to require that landlords not evict tenants for nonpayment of rent for 30 to 90 days longer than the period covered by the emergency rental assistance as a condition of receiving payment.
+-->
 
 ## White House Eviction Prevention Summit
 
