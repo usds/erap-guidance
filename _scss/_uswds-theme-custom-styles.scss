@@ -368,6 +368,12 @@ h4 {
   }
 }
 
+a[href$=".pdf"].era-guidance__remove-pdf-icon:after {
+  background: none;
+  width: 0;
+  height: 0;
+}
+
 .era-guidance-home__section {
   margin-bottom: units(5);
 
@@ -529,10 +535,6 @@ sup a {
 
   &__list {
     margin: 0;
-  }
-
-  &__grantee {
-    font-weight: bold;
   }
 }
 

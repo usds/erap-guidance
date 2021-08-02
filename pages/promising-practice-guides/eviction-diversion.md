@@ -28,11 +28,12 @@ The State of Massachusetts has developed a two-tiered eviction process that has 
     </p>
   </div>
   <div class="tablet:grid-col-5">
-    <a href="{{ site.baseurl }}/assets/img/case-study-shelby-county-workflow.png" target="_blank">
+    <a class="era-guidance__remove-pdf-icon" href="https://www.usdigitalresponse.org/wp-content/uploads/2021/08/NPI-High-Level-Workflow_July-2021.pdf" target="_blank">
       <img src="{{ site.baseurl }}/assets/img/case-study-shelby-county-workflow.png" alt="A diagram showing the workflow for the City of Memphis and Shelby County ERA program">
     </a>
     <p>
-      <a href="{{ site.baseurl }}/assets/img/case-study-shelby-county-workflow.png" target="_blank">View the workflow</a> established by Memphis and Shelby County with help from <a href="https://www.usdigitalresponse.org/success-stories/memphis-eviction-fund/">U.S. Digital Response</a>.
+      <a href="https://www.usdigitalresponse.org/success-stories/emergency-rental-assistance/">
+      View the full case study from U.S. Digital Response that details their work with Memphis and Shelby County: "Keeping Families in Their Homes by Scaling Workflows"</a>
     </p>
   </div>
 </div>
@@ -50,8 +51,6 @@ Louisville, KY is utilizing a multi-pronged approach to eviction diversion that 
 ## Eviction diversion maturity levels
 
 The following maturity model can help grantees shape a strategy and have actionable steps to address eviction diversion. A maturity model is a tool that helps organize strategy, practices, and process into a framework that can act as a blueprint for building up stronger capabilities. This model is intended to aid you in determining which stage of development your program is at and how to iterate and improve aspects of your program to become more robust and comprehensive so that you can be effective in stabilizing households.
-
-The practices in <strong>bold</strong> are known to have been adopted by one or more grantees.  
 
 **Disclaimer**: The practices referenced in this model may contemplate the leveraging of ERA funding with other federal, state, and local resources. The model's reference to an example practice should not be construed as confirming such practice's eligibility for any particular type or category of federal funding. Grantees should consult the governing federal program authorities for additional guidance before expending funds for such purposes to confirm eligibility.
 
@@ -136,7 +135,7 @@ The practices in <strong>bold</strong> are known to have been adopted by one or 
         <ul>
           <li class="era-guidance-maturity-level__grantee">Reach out to populations at high risk of eviction</li>
           <li class="era-guidance-maturity-level__grantee">Work closely with local housing advocates and organizations</li>
-          <li class="era-guidance-maturity-level__grantee">Inform tenants about the CDC eviction moratorium and alert them that <a href="https://www.cdc.gov/coronavirus/2019-ncov/downloads/evictiondeclare_d508.pdf">they need to give a form to their landlord</a></li>
+          <li class="era-guidance-maturity-level__grantee">Inform tenants about any locally-based eviction moratorium and alert them that they may need to give a form to their landlord</li>
           <li class="era-guidance-maturity-level__grantee">Debunk common myths on ERA</li>
           <li class="era-guidance-maturity-level__grantee">Follow up directly with tenants who are missing documentation but have started applications</li>
         </ul>
@@ -371,8 +370,6 @@ Treasury strongly encourages grantees to develop partnerships with courts in the
 
 <a href="{{ site.baseurl }}/implementation-guidance/changes/" class="era-guidance__datestamp">Added on June 24, 2021</a>
 
-{% include _cdc-eviction-form-slim-banner.html %}
-
 ### Fact Sheet June 24, 2021
 
 From the <a href="https://home.treasury.gov/system/files/136/Treasury_Fact_Sheet_6-24-21.pdf">June 24, 2021 Fact sheet</a>
@@ -409,11 +406,9 @@ Treasury is highlighting "<a href="{{ site.baseurl }}/promising-practice-guides/
 
 From the <a href="https://home.treasury.gov/system/files/136/FACT_SHEET-Emergency-Rental-Assistance-Program_May2021.pdf">May 7, 2021 Fact sheet</a>
 
-#### Protects Renters from Eviction While Payments Are Being Made on Their Behalf.
+#### Protect renters from eviction while payments are being made on their behalf.
 
 Starting with today’s guidance, programs must prohibit the eviction of renters for nonpayment in months for which they receive emergency rental assistance. While most landlords are working to secure relief and help renters stay in place, Treasury strongly encourages grantees to require that landlords not evict tenants for nonpayment of rent for 30 to 90 days longer than the period covered by the emergency rental assistance as a condition of receiving payment.
-
-{% include _card-example-forms.html %}
 
 ## White House Eviction Prevention Summit
 

@@ -29866,6 +29866,12 @@ a[href$=".xlsx"]:after{
   margin-top:2rem;
 }
 
+a[href$=".pdf"].era-guidance__remove-pdf-icon:after{
+  background:none;
+  width:0;
+  height:0;
+}
+
 .era-guidance-home__section{
   margin-bottom:2.5rem;
 }
@@ -30000,9 +30006,6 @@ sup a{
 }
 .era-guidance-maturity-level__list{
   margin:0;
-}
-.era-guidance-maturity-level__grantee{
-  font-weight:bold;
 }
 
 .era-guidance-maturity-level--maturing{
