@@ -1,31 +1,5 @@
 ﻿[
   {
-    "recipient-name": "Mescalero Apache Tribe",
-    "name": "",
-    "URL": "https://mescaleroapachetribe.com/15268/update-emergency-rental-assistance-program/",
-    "recipient-type": "Indian Tribe or Tribally Designated Housing Entity",
-    "state-territory": "NM",
-    "state": "",
-    "FLAG": "No clear link",
-    "non-ERA-program-URL": "",
-    "assistance-phone-number": "",
-    "assistance-email": "",
-    "last-updated": "8/13/2021 11:39am"
-  },
-  {
-    "recipient-name": "Taos Pueblo",
-    "name": "",
-    "URL": "https://www.taospueblohousingauthority.org/",
-    "recipient-type": "Indian Tribe or Tribally Designated Housing Entity",
-    "state-territory": "NM",
-    "state": "",
-    "FLAG": "Additional Investigation",
-    "non-ERA-program-URL": "",
-    "assistance-phone-number": "",
-    "assistance-email": "",
-    "last-updated": "8/13/2021 11:50am"
-  },
-  {
     "recipient-name": "Agua Caliente Band of Cahuilla Indians",
     "name": "Agua Caliente Band of Cahuilla Indians",
     "URL": "http://www.aguacaliente.org",
@@ -1729,6 +1703,19 @@
     "last-updated": "6/7/2021 4:39pm"
   },
   {
+    "recipient-name": "Mescalero Apache Tribe",
+    "name": "Mescalero Apache Tribe",
+    "URL": "https://mescaleroapachetribe.com/15268/update-emergency-rental-assistance-program/",
+    "recipient-type": "Indian Tribe or Tribally Designated Housing Entity",
+    "state-territory": "NM",
+    "state": "New Mexico",
+    "FLAG": "",
+    "non-ERA-program-URL": "",
+    "assistance-phone-number": "",
+    "assistance-email": "",
+    "last-updated": "8/13/2021 12:05pm"
+  },
+  {
     "recipient-name": "Metlakatla Housing Authority",
     "name": "Metlakatla Housing Authority",
     "URL": "http://www.metlakatla.com",
@@ -2949,6 +2936,19 @@
     "assistance-phone-number": "",
     "assistance-email": "",
     "last-updated": "5/7/2021 10:09am"
+  },
+  {
+    "recipient-name": "Taos Pueblo",
+    "name": "Taos Pueblo",
+    "URL": "https://www.taospueblohousingauthority.org/",
+    "recipient-type": "Indian Tribe or Tribally Designated Housing Entity",
+    "state-territory": "NM",
+    "state": "New Mexico",
+    "FLAG": "",
+    "non-ERA-program-URL": "",
+    "assistance-phone-number": "",
+    "assistance-email": "",
+    "last-updated": "8/13/2021 12:06pm"
   },
   {
     "recipient-name": "The Klamath Tribes",
