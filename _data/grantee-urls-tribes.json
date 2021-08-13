@@ -1,5 +1,31 @@
 ﻿[
   {
+    "recipient-name": "Mescalero Apache Tribe",
+    "name": "",
+    "URL": "https://mescaleroapachetribe.com/15268/update-emergency-rental-assistance-program/",
+    "recipient-type": "Indian Tribe or Tribally Designated Housing Entity",
+    "state-territory": "NM",
+    "state": "",
+    "FLAG": "No clear link",
+    "non-ERA-program-URL": "",
+    "assistance-phone-number": "",
+    "assistance-email": "",
+    "last-updated": "8/13/2021 11:39am"
+  },
+  {
+    "recipient-name": "Taos Pueblo",
+    "name": "",
+    "URL": "https://www.taospueblohousingauthority.org/",
+    "recipient-type": "Indian Tribe or Tribally Designated Housing Entity",
+    "state-territory": "NM",
+    "state": "",
+    "FLAG": "Additional Investigation",
+    "non-ERA-program-URL": "",
+    "assistance-phone-number": "",
+    "assistance-email": "",
+    "last-updated": "8/13/2021 11:50am"
+  },
+  {
     "recipient-name": "Agua Caliente Band of Cahuilla Indians",
     "name": "Agua Caliente Band of Cahuilla Indians",
     "URL": "http://www.aguacaliente.org",
@@ -1432,7 +1458,7 @@
   {
     "recipient-name": "Kodiak Island Housing Authority",
     "name": "Kodiak Island Housing Authority",
-    "URL": "http://www.kodiakislandhousing.com/",
+    "URL": "http://www.kodiakislandhousing.org/",
     "recipient-type": "Indian Tribe or Tribally Designated Housing Entity",
     "state-territory": "AK",
     "state": "Alaska",
@@ -1440,7 +1466,7 @@
     "non-ERA-program-URL": "",
     "assistance-phone-number": "(907) 486-8111",
     "assistance-email": "",
-    "last-updated": "7/1/2021 4:47pm"
+    "last-updated": "8/13/2021 11:49am"
   },
   {
     "recipient-name": "Native Village of Kotzebue",
@@ -1900,7 +1926,7 @@
   {
     "recipient-name": "Nome Eskimo Community",
     "name": "Nome Eskimo Community",
-    "URL": "http://www.necalaska.org",
+    "URL": "https://www.necalaska.org/emergency-rental-assistance-program/",
     "recipient-type": "Indian Tribe or Tribally Designated Housing Entity",
     "state-territory": "AK",
     "state": "Alaska",
@@ -1908,7 +1934,7 @@
     "non-ERA-program-URL": "",
     "assistance-phone-number": "",
     "assistance-email": "",
-    "last-updated": "7/22/2021 9:30am"
+    "last-updated": "8/13/2021 11:47am"
   },
   {
     "recipient-name": "Nooksack Housing Authority",
@@ -2628,7 +2654,7 @@
   {
     "recipient-name": "Sault Tribe Housing Authority",
     "name": "Sault Tribe",
-    "URL": "https://www.saulttribe.com/",
+    "URL": "https://www.saulttribe.com/newsroom/207-housing-news/7234-housing-offers-emergency-rental-assistance",
     "recipient-type": "Indian Tribe or Tribally Designated Housing Entity",
     "state-territory": "MI",
     "state": "Michigan",
@@ -2636,7 +2662,7 @@
     "non-ERA-program-URL": "",
     "assistance-phone-number": " 800‑794‑4072",
     "assistance-email": "",
-    "last-updated": "5/10/2021 2:21pm"
+    "last-updated": "8/13/2021 11:43am"
   },
   {
     "recipient-name": "Housing Authority of Seminole Nation of Oklahoma",

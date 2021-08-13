@@ -20,4 +20,4 @@ The States of Indiana and Massachusetts also have found significant efficiencies
 
 #### The State of Kentucky
 
-The State of Kentucky has started to implement a zip-code based fact-specific proxy to reduce income documentation requirements in high need areas. The state-based grantee has worked with Louisville and Lexington to aligned program design and policies. These shared practices have also helped reduce the administrative burden of the urban county governments. 
+The State of Kentucky has started to implement a zip-code based fact-specific proxy to reduce income documentation requirements in high need areas. The state-based grantee has worked with Louisville and Lexington to align program design and policies. These shared practices have also helped reduce the administrative burden of the urban county governments. 

@@ -333,12 +333,12 @@
     "non-ERA-program-URL": "",
     "assistance-phone-number": "",
     "assistance-email": "",
-    "last-updated": "5/18/2021 8:12am"
+    "last-updated": "8/13/2021 11:48am"
   },
   {
     "recipient-name": "State of Arkansas Department of Human Services",
     "name": "Arkansas",
-    "URL": "https://humanservices.arkansas.gov/covid-19/dhs-response-to-covid-19/updates-for-clients/rental-assistance/",
+    "URL": "http://ar.gov/rentrelief",
     "recipient-type": "State/DC",
     "state-territory": "AR",
     "state": "Arkansas",
@@ -347,7 +347,7 @@
     "non-ERA-program-URL": "",
     "assistance-phone-number": "",
     "assistance-email": "",
-    "last-updated": "5/3/2021 4:32pm"
+    "last-updated": "8/13/2021 10:27am"
   },
   {
     "recipient-name": "Benton County",
@@ -1131,7 +1131,7 @@
     "non-ERA-program-URL": "General rent or utility assistance",
     "assistance-phone-number": "",
     "assistance-email": "",
-    "last-updated": "7/22/2021 8:08pm"
+    "last-updated": "8/13/2021 11:52am"
   },
   {
     "recipient-name": "Adams County Government",
@@ -2102,7 +2102,7 @@
   {
     "recipient-name": "Illinois Dept of Commerce & Economic Opportunity",
     "name": "Illinois",
-    "URL": "https://www.ihda.org/about-ihda/illinois-rental-payment-program/",
+    "URL": "https://www.illinoisrentalassistance.org/",
     "recipient-type": "State/DC",
     "state-territory": "IL",
     "state": "Illinois",
@@ -2111,7 +2111,7 @@
     "non-ERA-program-URL": "",
     "assistance-phone-number": "",
     "assistance-email": "",
-    "last-updated": "5/3/2021 9:16pm"
+    "last-updated": "8/13/2021 10:26am"
   },
   {
     "recipient-name": "Champaign County Regional Planning Commission",
@@ -2620,7 +2620,7 @@
   {
     "recipient-name": "State of Maryland",
     "name": "Maryland",
-    "URL": "https://dhcd.maryland.gov/Pages/EvictionPrevention/default.aspx",
+    "URL": "http://rentrelief.maryland.gov/",
     "recipient-type": "State/DC",
     "state-territory": "MD",
     "state": "Maryland",
@@ -2629,7 +2629,7 @@
     "non-ERA-program-URL": "",
     "assistance-phone-number": "",
     "assistance-email": "",
-    "last-updated": "5/3/2021 5:42pm"
+    "last-updated": "8/13/2021 11:40am"
   },
   {
     "recipient-name": "Anne Arundel County",
@@ -3264,7 +3264,7 @@
   {
     "recipient-name": "City of Reno",
     "name": "Reno",
-    "URL": "https://www.reno.gov/community/emergency-preparedness/covid-19/coronavirus-relief-programs",
+    "URL": "https://portal.neighborlysoftware.com/ERAP-RENONV/Participant",
     "recipient-type": "Local Government",
     "state-territory": "NV",
     "state": "Nevada",
@@ -3273,7 +3273,7 @@
     "non-ERA-program-URL": "",
     "assistance-phone-number": "(775) 334-3310",
     "assistance-email": "housingassistance@reno.gov",
-    "last-updated": "5/4/2021 1:11pm"
+    "last-updated": "8/13/2021 11:44am"
   },
   {
     "recipient-name": "Washoe County",
@@ -4370,7 +4370,7 @@
   {
     "recipient-name": "Delaware County",
     "name": "Delaware",
-    "URL": "https://www.delco-era.com/",
+    "URL": "https://www.delawarecountypathways.org/",
     "recipient-type": "Local Government",
     "state-territory": "OH",
     "state": "Ohio",
@@ -4379,7 +4379,7 @@
     "non-ERA-program-URL": "",
     "assistance-phone-number": "",
     "assistance-email": "",
-    "last-updated": "6/3/2021 5:27pm"
+    "last-updated": "8/13/2021 10:31am"
   },
   {
     "recipient-name": "Franklin County",
@@ -4412,7 +4412,7 @@
   {
     "recipient-name": "Lake County, Ohio",
     "name": "Lake County",
-    "URL": "https://www.lakecountyil.gov/4578/Federal-Emergency-Rental-Assistance-Prog",
+    "URL": "https://fhrc.org/emergency-rental-assistance-program/",
     "recipient-type": "Local Government",
     "state-territory": "OH",
     "state": "Ohio",
@@ -4421,7 +4421,7 @@
     "non-ERA-program-URL": "",
     "assistance-phone-number": "",
     "assistance-email": "",
-    "last-updated": "7/22/2021 8:08pm"
+    "last-updated": "8/13/2021 11:37am"
   },
   {
     "recipient-name": "Lorain County",
@@ -4468,7 +4468,7 @@
   {
     "recipient-name": "Montgomery County",
     "name": "Montgomery",
-    "URL": "https://montgomerycountymd.gov/HHS/RightNav/COVID19_RentReliefProgram.html",
+    "URL": "https://www.mcohio.org/alert_detail.php",
     "recipient-type": "Local Government",
     "state-territory": "OH",
     "state": "Ohio",
@@ -4477,7 +4477,7 @@
     "non-ERA-program-URL": "",
     "assistance-phone-number": "",
     "assistance-email": "",
-    "last-updated": "5/3/2021 6:05pm"
+    "last-updated": "8/13/2021 11:37am"
   },
   {
     "recipient-name": "County of Stark",
@@ -5364,7 +5364,7 @@
   {
     "recipient-name": "City of Dallas",
     "name": "Dallas",
-    "URL": "https://unitedwaydallas.org/rental-assistance/",
+    "URL": "http://www.dallascityhall.com/rentrelief",
     "recipient-type": "Local Government",
     "state-territory": "TX",
     "state": "Texas",
@@ -5373,7 +5373,7 @@
     "non-ERA-program-URL": "",
     "assistance-phone-number": "",
     "assistance-email": "",
-    "last-updated": "5/3/2021 5:32pm"
+    "last-updated": "8/13/2021 11:46am"
   },
   {
     "recipient-name": "Dallas County",
