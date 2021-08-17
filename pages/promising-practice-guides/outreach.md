@@ -10,7 +10,7 @@ Across the country, grantees are identifying strategies to reach communities whe
 
 Some grantees have achieved significant benefits by partnering with trusted community organizations with high levels of cultural and linguistic competencies.  Intentional partnerships with trusted organizations can especially help support outreach efforts to serve harder to reach populations that face technological, cultural, and linguistic barriers to ERA participation. These partnerships can be especially critical when working with immigrant populations, the elderly, survivors of domestic violence or human trafficking, and other marginalized communities.  In some cases, these organizations have provided in-person application support while maintaining social distancing protocols.  
 
-Many grantees have reported that these partnerships are occur through sub-contracts and engagement with smaller nonprofits that work with specific vulnerable populations disproportionally affected by the COVID-19 pandemic.
+Many grantees have reported that these partnerships occur through sub-contracts and engagement with smaller nonprofits that work with specific vulnerable populations disproportionally affected by the COVID-19 pandemic.
 
 ### Examples
 
@@ -24,7 +24,7 @@ The State of Maine has translated their application and program materials into e
 
 #### The State of Illinois
 
-The State of Illinois has started working on program outreach efforts using grassroots networks and trusted local businesses. Outreach partners have included small grocery stores, laundry mats, local faith-based organizations, and the Latino consulates, and have resulted in greater ERA visibility in the community and through ethnic media. 
+The State of Illinois has started working on program outreach efforts using grassroots networks and trusted local businesses. Outreach partners have included small grocery stores, laundromats, local faith-based organizations, and the Latino consulates, and have resulted in greater ERA visibility in the community and through ethnic media. 
 
 #### The State of North Carolina
 

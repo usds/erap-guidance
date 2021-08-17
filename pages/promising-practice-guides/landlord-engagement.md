@@ -18,4 +18,4 @@ The State of Kentucky and other Kentucky grantees engaged in proactive outreach 
 
 #### State of Massachusetts
 
-The State of Massachusetts's ERA program has started to collaborate with local state housing partnerships to reduce some paperwork requirements for income eligibility when the tenant lives in subsidized housing. This effort has resulted in payment processes that allow e batched payments to larger landlords. Approximately two-thirds of Massachusetts’s ERA applications live in subsidized housing units, and grantees report that these batched payments allow many tenants and landlords to receive ERA assistance more efficiently.  
+The State of Massachusetts's ERA program has started to collaborate with local state housing partnerships to reduce some paperwork requirements for income eligibility when the tenant lives in subsidized housing. This effort has resulted in payment processes that allow batched payments to larger landlords. Approximately two-thirds of Massachusetts’s ERA applications live in subsidized housing units, and grantees report that these batched payments allow many tenants and landlords to receive ERA assistance more efficiently.  
