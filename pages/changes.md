@@ -8,6 +8,24 @@ title: Change log
 
 This document logs changes made to guidance since the start of the Emergency Rental Assistance Programs.
 
+## August
+
+On August 25, 2021, these FAQs were revised to provide further clarification on the use of self-attestation and to describe methods of speeding payments to eligible households. Specifically, substantive revisions were made to:
+
+### Additions
+* On August 25, 2021, <a href="{{ site.baseurl }}/faqs#42">FAQ 42</a> was added.
+* On August 25, 2021, <a href="{{ site.baseurl }}/faqs#41">FAQ 41</a> was added.
+* On August 25, 2021, <a href="{{ site.baseurl }}/faqs#40">FAQ 40</a> was added.
+
+### Changes
+* On August 25, 2021, <a href="{{ site.baseurl }}/faqs#3">FAQ 3</a> was revised.
+* On August 25, 2021, <a href="{{ site.baseurl }}/faqs#4">FAQ 4</a> was revised.
+* On August 25, 2021, <a href="{{ site.baseurl }}/faqs#7">FAQ 7</a> was revised.
+* On August 25, 2021, <a href="{{ site.baseurl }}/faqs#11">FAQ 11</a> was revised.
+* On August 25, 2021, <a href="{{ site.baseurl }}/faqs#38">FAQ 38</a> was revised.
+
+Additional edits were made for clarity.
+
 ## June
 
 On June 24, 2021, these FAQs were revised to further clarify how to promote housing stability for eligible households; specifically the changes noted below, in addition to other nonsubstantive changes.
