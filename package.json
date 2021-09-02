@@ -54,7 +54,7 @@
     "lodash.template": ">=4.5.0",
     "minimist": "^1.2.5",
     "normalize.css": "^8.0.1",
-    "object-path": ">=0.11.5",
+    "object-path": ">=0.11.6",
     "path": "^0.12.7",
     "postcss-csso": "^5.0.0",
     "postcss-discard-comments": "^4.0.2",
