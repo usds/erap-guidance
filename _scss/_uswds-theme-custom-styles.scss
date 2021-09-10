@@ -498,6 +498,24 @@ sup a {
   }
 }
 
+.era-guidance__diagram {
+  max-width: 480px;
+}
+
+// Guidelines
+.era-guidelines-icon--not-ok,
+.era-guidelines__do-not {
+  fill: color($theme-color-error-dark);
+  color: color($theme-color-error-dark);
+}
+
+.era-guidelines-icon--ok,
+.era-guidelines__do {
+  fill: color($theme-color-success-dark);
+  color: color($theme-color-success-dark);
+}
+
+
 // Maturity model 
 
 .era-guidance-maturity-model {

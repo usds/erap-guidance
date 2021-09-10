@@ -12,6 +12,8 @@ This document logs changes made to guidance since the start of the Emergency Ren
 
 On August 25, 2021, these FAQs were revised to provide further clarification on the use of self-attestation and to describe methods of speeding payments to eligible households. Specifically, substantive revisions were made to:
 
+<a href="/system/files/136/ERA-FAQ-8-25-2021.pdf">All FAQs (8/25/2021)</a>
+
 ### Additions
 * On August 25, 2021, <a href="{{ site.baseurl }}/faqs#42">FAQ 42</a> was added.
 * On August 25, 2021, <a href="{{ site.baseurl }}/faqs#41">FAQ 41</a> was added.
@@ -29,6 +31,10 @@ Additional edits were made for clarity.
 ## June
 
 On June 24, 2021, these FAQs were revised to further clarify how to promote housing stability for eligible households; specifically the changes noted below, in addition to other nonsubstantive changes.
+
+<a href="https://home.treasury.gov/system/files/136/ERA_FAQs_6-24-21.pdf">
+  All FAQs (6/24/2021)
+</a>
 
 ### Additions
 * On June 24, 2021, <a href="{{ site.baseurl }}/faqs#39">FAQ 39</a> was added.

@@ -1,0 +1,31 @@
+---
+layout: default-one-col
+permalink: /digital-service-delivery/application-web-sites/
+section: digital-service-delivery
+sidenav: programs
+title: Guidelines for ERA program online applications
+---
+
+{% assign content = site.data.application-websites.content %}
+
+<p class="usa-intro">
+It’s critically important that tenants and landlords be able get through the ERA application process quickly and without undue burden. Online applications must be designed thoughtfully and intentionally to collect the information you need from the applicant. 
+</p>
+<p>
+  To help accomplish these goals, Treasury has prepared these guidelines for creating and improving  ERA applications to be easy-to-use by ERA applicants.  These best practices were created in conjunction with the U.S. Digital Service to help Emergency Rental Assistance (ERA) program grantees with developing ERA applications<sup><a href="#fn1" id="ref1">1</a></sup>.  
+</p>
+<p>
+These application practices are for grantees and for their contractors building ERA applications. 
+</p>
+
+<h2 id="guidelines">Guidelines for successful iteration on your ERA application</h2>
+{% for principle in content.principles %}
+<h3>{{ principle.title }}</h3>
+<ul>
+  {% for detail in principle.details %}
+    <li>{{ detail.text }}</li>
+  {% endfor %}
+</ul>
+{% endfor %}
+
+<sup id="fn1">1 The program information provided herein is intended solely to illuminate “promising practices” that grantees might consider when developing their jurisdiction’s program policies and infrastructure.  All such policy development must proceed in accordance with the governing legal authorities and published policy guidance.  Nothing herein should be construed as (i) altering these requirements or (ii) confirming that any specific grantee’s program policies or administrative practices have been fully reviewed and found compliant.</sup>

@@ -1,0 +1,34 @@
+content:
+  principles:
+  - title: Design with and for your audience
+    text: The most successful systems and services are shaped and informed by the needs of those who use them. Assumptions about others’ experience are often wrong, inflected with personal bias, or overlook details critical to making your program effective. The best way to understand your applicants’ perspective is to engage with them directly through applicant research and co-design sessions, which enable you to gain insights, assess usability, and get feedback on areas to improve.
+    details:
+      - text: Co-design your application with tenants and landlords to understand their needs and challenges.
+      - text: Alleviate accessibility & barriers to access such as lack of access or familiarity with technology by providing phone help, in-person navigators,  PDF versions of the app, as well versions of the app and instructions in different languages.
+      - text: Use plain language at an 8th grade reading level to reach a broad public.
+      - text: When adapting a commercial off-the-shelf product, adjust the standard language so that the applicant can identify themselves and their role in the interface. 
+  - title: Reduce the cognitive load on applicants
+    details:
+      - text: The cognitive load imposed by a user interface is the amount of mental resources that an applicant has to use to operate the system.
+      - text: There is already a cognitive burden to poverty and/or experiences of crisis, so the application should not add to that already stressful cognitive load.
+      - text: Minimize the cognitive load by identifying tasks that the system can perform and removing those from the responsibility of the user.
+      - text: For example, showing an AMI table and asking the user to determine whether or not their income and household size meets the eligibility requirements puts the onus on the user to find the appropriate range. Instead, asking the user for their address or county and household size gives the system the information it needs to make this determination for the user. 
+      - text: If you find an element of your application requires a great deal of explanatory text to tell the user how to use the interface or how to enter information then that is a good sign that this element of your application needs to be redesigned. For example, if a dropdown menu requires a paragraph to explain how to make a selection then this is likely going to be a friction point for users. Consider using additional or different form elements or splitting the question into sub-steps.
+  - title: Give users control, freedom and autonomy
+    details:
+      - text: Applicants should be able to quickly correct mistakes or backtrack on choices made in their application (as well as undo/redo).
+      - text: Applicants should have a way to save their information and come back to an incomplete portion of the application.
+      - text: When the application does not support these actions, users feel trapped and typically report dissatisfaction.
+      - text: Applicants should should be able to easily to find exits. 
+  - title: Visibility and transparency of the process
+    details:
+      - text: Operational transparency of the ERA Application and application processing can fundamentally reshape the ways tenants and landlords understand, perceive, and engage with the grantees and community-based organizations that serve them.
+      - text: Set expectations before and during the application of what steps are ahead.
+      - text: Grantees should know when and how applicants and advocates want opened up transparency to the process.
+      - text: When people see the work going on behind the scenes, they value the service more, will go to the website again in the future, and will trust grantees and involved community-based organizations more.
+  - title: Reduce friction and barriers
+    details:
+    - text: Application friction and barriers are obstacles that prevent applicants from accessing or completing their ERA applications (eg. back and forth with documentation; internet challenges; etc.)
+    - text: People's coping resources can be depleted under stress already. With too much stress people can lose sight of their future goals and spiral into hopelessness. 
+    - text: Friction and barriers to access the help they need during a crisis only exacerbate this stress and take up time that people in crisis can’t afford.
+    - text: Applications should reduce friction and barrier bust for applicants in order to increase access to assistance, manage applicants' stressors, and increase the likelihood of applicant’s follow-through and action.

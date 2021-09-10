@@ -29972,6 +29972,22 @@ sup a{
   display:inline-block;
 }
 
+.era-guidance__diagram{
+  max-width:480px;
+}
+
+.era-guidelines-icon--not-ok,
+.era-guidelines__do-not{
+  fill:#b50909;
+  color:#b50909;
+}
+
+.era-guidelines-icon--ok,
+.era-guidelines__do{
+  fill:#4d8055;
+  color:#4d8055;
+}
+
 .era-guidance-maturity-model{
   margin-top:2.5rem;
 }

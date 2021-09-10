@@ -1,16 +1,16 @@
 ---
 layout: default-one-col
-permalink: /promising-practice-guides/program-web-sites/
-section: promising-practice-guides
+permalink: /digital-service-delivery/program-web-sites/
+section: digital-service-delivery
 sidenav: programs
-title: Best practices for program web sites
+title: Guidelines for program web sites
 ---
 
 <p class="usa-intro">
   It is important that renters and landlords are able to both find and understand the rental assistance that you are offering. The provided information must clearly explain the purpose of the assistance, as well as what is needed to apply and what can be expected in return.  
 </p>
 <p>
-  To help accomplish these goals, Treasury has prepared this “best practices” guide.  It was created in conjunction with the <a href="https://usds.gov/">U. S. Digital Service</a> to help Emergency Rental Assistance (ERA) program grantees with developing web sites and web pages to inform renters<sup><a href="#fn1" id="ref1">1</a></sup>, landlords, and utility providers about the ERA program. <sup><a href="#fn2" id="ref2">2</a></sup>
+  To help accomplish these goals, Treasury has prepared these guidelines in conjunction with the <a href="https://usds.gov/">U. S. Digital Service</a> to help Emergency Rental Assistance (ERA) program grantees with developing web sites and web pages to inform renters<sup><a href="#fn1" id="ref1">1</a></sup>, landlords, and utility providers about the ERA program. <sup><a href="#fn2" id="ref2">2</a></sup>
 </p>
 
 ## Important principles to keep in mind
@@ -85,13 +85,9 @@ This information should address each audience &mdash; renters and landlords &mda
 * **Which documentation is required and which are alternative forms**: If self-attestation can be used instead of a certain document, be clear about that option.
 * **What will be done with the information:** It is also critical to address privacy concerns.  This section should detail how the applicant’s information will be used, who it will be shared with, and what information will or will not be shared.
 
-### When applications are being accepted
-
-Be clear if applications are or are not currently being accepted. If applications are not currently being accepted, indicate when the program will begin, reopen, or if the program accepts applications in cycles.
-
 ### How to apply
 
-This section should clearly confirm whether the potential applicant is in the right place to apply. Be sure to include the following
+This section should clearly confirm whether the potential applicant is in the right place to apply. Be sure to include the following:
 
 #### One or two large, clear, "Apply" buttons
 * Many grantees provide separate application buttons for renters and landlords.
@@ -102,8 +98,27 @@ This section should clearly confirm whether the potential applicant is in the ri
 * Beneath the "apply" button link to another section on alternative ways to apply.
 * Not all applicants will be capable of applying online and will require an alternative method to apply. Some applicants will have irregular computer access, may be uncomfortable with providing personal information over the internet, or are inquiring on behalf of another person.
 
-#### If appropriate, advise where else to seek assistance
-* If households, utility providers, or landlords first sought assistance from a different grantee (the state, county, city, or Tribal government) and were found to be ineligible, this section should redirect them to other resources available in the area for housing and utility assistance accordingly. In these situations, the “apply” button may link to the other grantee’s webpage.
+### When and where applications are being accepted
+
+Be clear if applications are or are not currently being accepted. If applications are not currently being accepted, indicate when the program will begin, reopen, or if the program accepts applications in cycles. If you’re closed, direct applicants to other programs they may be eligible for in the interim.
+
+Here are some examples to avoid that have been revised to show how to better handle the situation.
+
+#### Avoid "ineligible" and instead redirect applicants appropriately
+
+<h5 class="era-guidelines__do-not">{% include icons/error.svg %} Do not</h5>
+<img src="{{ site.baseurl }}/assets/img/site-examples/ineligible.png" alt="A mock up of a screen that tells applicants that they are not eligible instead of just redirecting them to other programs with available assistance." />
+
+<h5 class="era-guidelines__do">{% include icons/check.svg %} Do</h5>
+<img src="{{ site.baseurl }}/assets/img/site-examples/ineligible-revised.png" alt="A mock up of a screen that clearly directs applicants to available assistance." />
+
+#### When not accepting applications provide helpful information and next steps
+
+<h5 class="era-guidelines__do-not">{% include icons/error.svg %} Do not</h5>
+<img src="{{ site.baseurl }}/assets/img/site-examples/closed.png" alt="A mock up of a screen that tells applicants that the ERA program is closed." />
+
+<h5 class="era-guidelines__do">{% include icons/check.svg %} Do</h5>
+<img src="{{ site.baseurl }}/assets/img/site-examples/closed-revised.png" alt="A mock up of a screen that tells applicants that the ERA program is closed but also when the program will reopen, where else they might apply, and how to be notified when applications open again." />
 
 ### What to expect next
 
@@ -131,14 +146,17 @@ This section should further clarify the program's intent and discuss how it may 
 
 This section can also help provide background context for decisions made about how assistance is being prioritized and the length of the program.
 
-## Other items to address or include
+## Guidance in multiple languages
 
-* Include translation capabilities or other appropriate avenues <a href="{{ site.baseurl }}/faqs/#37">for ensuring the information is easily available</a> to all tenants, landlords, and utility providers in your area regardless of their primary language.
-* Application checklists identifying all information and documents the applicant will need to provide.
-* Some qualified applicants will not be able to access or will not feel comfortable completing the ERA application online. To ensure that all eligible applicants have equal access to apply for assistance under the ERA program it's important to provide an alternate means of applying, such as a paper form or with support from ERA counselors. Some grantees have contracted with 2-1-1 systems or provided phone numbers for specialized ERA housing counselors.
-* Information around federal and state taxes. The [IRS has provided answers to federal tax questions](https://www.irs.gov/newsroom/emergency-rental-assistance-frequently-asked-questions).
-* Additional housing and homeowner resources.
-* A "frequently asked questions" section addressing any local issues, special concerns, and/or further clarifying your program guidance.
+To ensure your ERA program is <a href="{{ site.baseurl }}/faqs/#37">accessible to all that qualify</a>, you will need to translate your program website, online and printed information about your program, and your ERA application into the languages spoken in your local area. In doing so, you’ll also want to adapt your content to take into account the cultural context of the population who speaks it. Before you publish your translation, it’s best to have a translator or a native speaker to review your whole interface, not just the text.
+
+Here are a few things to consider:
+
+**Make switching to a preferred language easy**: You can make it easy for applicants to switch to their preferred language by offering a language menu or switcher in a prominent location on your site. Refer to a new language in its native language. For example, use 'Español’ instead of 'Spanish’.  Similarly, links to content in languages other than English should be written out in that language.
+
+**Check your layout in other languages**: When designing, you’ll want to keep in mind that some languages are wordier than others. When text is translated from one language to another the length of that text may changes dramatically. Ensure that your layout can expand or contract accordingly.  In languages that read right to left, your user interface elements, such as a back button, will also need to be reversed.
+
+**Some elements of language are culturally specific**: Not every country uses the same date format. When translating your materials, be sure to clearly indicate which field is intended for the day, month and year. Idioms also, can have one meaning in English and a very different meaning in another language.
 
 ## Providing information about your ERA program in plain language
 
@@ -158,6 +176,14 @@ You may also want to consider the [Snack, Bite, Meal](https://en.wikipedia.org/w
 1. **Bite**: A headline sentence or two.
 2. **Snack**: A summary or abstract of the information.
 3. **Meal**: The full details.
+
+## Other items to address or include
+
+* Application checklists identifying all information and documents the applicant will need to provide.
+* Some qualified applicants will not be able to access or will not feel comfortable completing the ERA application online. To ensure that all eligible applicants have equal access to apply for assistance under the ERA program it's important to provide an alternate means of applying, such as a paper form or with support from ERA counselors. Some grantees have contracted with 2-1-1 systems or provided phone numbers for specialized ERA housing counselors.
+* Information around federal and state taxes. The [IRS has provided answers to federal tax questions](https://www.irs.gov/newsroom/emergency-rental-assistance-frequently-asked-questions).
+* Additional housing and homeowner resources.
+* A "frequently asked questions" section addressing any local issues, special concerns, and/or further clarifying your program guidance.
 
 ## Examples of ERA grantee program web sites
 

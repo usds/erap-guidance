@@ -24,7 +24,7 @@ programs:
   name: program-index
 - text: Promising practice guides
   href: /promising-practice-guides/
-  desc: Provides practices for program implementation and creating your online presence.
+  desc: Provides practices for program implementation and policies.
   name: promising-practice-guides
   subnav: 
   - text: Partnerships
@@ -60,9 +60,17 @@ programs:
   - text: Example forms
     href: /promising-practice-guides/forms/
     name: forms
+- text: Digital Service Delivery
+  href: /digital-service-delivery/
+  desc: Provides guidelines for iterating on ERA program web sites and applications.
+  name: digital-service-delivery
+  subnav: 
   - text: Program web sites
-    href: /promising-practice-guides/program-web-sites/
+    href: /digital-service-delivery/program-web-sites/
     name: program-web-site
+  - text: Online applications
+    href: /digital-service-delivery/application-web-sites/
+    name: online-application
 - text: Promote the program
   href: /outreach/
   desc: Provides resources for program promotion.
