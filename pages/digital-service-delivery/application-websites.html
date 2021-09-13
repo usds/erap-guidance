@@ -19,13 +19,47 @@ These application practices are for grantees and for their contractors building 
 </p>
 
 <h2 id="guidelines">Guidelines for successful iteration on your ERA application</h2>
+<ol class="era-guidelines-principles">
 {% for principle in content.principles %}
-<h3>{{ principle.title }}</h3>
+  <li class="era-guidelines-principles__item">
+    <a class="era-guidelines-principle__{{principle.slug}}" href="#{{ principle.slug }}">
+      {{ principle.title }}
+    </a>
+  </li>
+{% endfor %}
+</ol>
+
+{% for principle in content.principles %}
+<h3 id="{{ principle.slug }}" class="era-guidelines-principle__title era-guidelines-principle__{{principle.slug}}">
+  {{ forloop.index }}. {{ principle.title }}
+</h3>
+<p>{{ principle.text }}</p>
 <ul>
   {% for detail in principle.details %}
     <li>{{ detail.text }}</li>
   {% endfor %}
 </ul>
+
+  {% if principle.practices %}
+<h4 class="era-guidelines-principle__sub-title era-guidelines-principle__{{principle.slug}}">
+  Practices to make this happen
+</h4>
+    {% for practice in principle.practices %}
+<h5 class="era-guidelines-practice__title">{{ practice.title }}</h5>
+<p>
+  {{ practice.text }}
+</p>
+      {% if practice.details %}
+      <ul>
+        {% for detail in practice.details %}
+        <li>{{ detail.text }}</li>
+        {% endfor %}
+      </ul>
+      {% endif %}
+    {% endfor %}
+  {% endif %}
 {% endfor %}
 
-<sup id="fn1">1 The program information provided herein is intended solely to illuminate “promising practices” that grantees might consider when developing their jurisdiction’s program policies and infrastructure.  All such policy development must proceed in accordance with the governing legal authorities and published policy guidance.  Nothing herein should be construed as (i) altering these requirements or (ii) confirming that any specific grantee’s program policies or administrative practices have been fully reviewed and found compliant.</sup>
+<div class="era-guidelines__footnotes-container">
+  <sup id="fn1">1 The program information provided herein is intended solely to illuminate “guidelines” that grantees might consider when developing their jurisdiction’s program policies and infrastructure.  All such policy development must proceed in accordance with the governing legal authorities and published policy guidance.  Nothing herein should be construed as (i) altering these requirements or (ii) confirming that any specific grantee’s program policies or administrative practices have been fully reviewed and found compliant.</sup>
+</div>

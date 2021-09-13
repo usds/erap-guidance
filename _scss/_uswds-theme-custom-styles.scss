@@ -503,6 +503,12 @@ sup a {
 }
 
 // Guidelines
+.era-guidelines {
+  &__footnotes-container {
+    margin-top: units(6);
+  }
+}
+
 .era-guidelines-icon--not-ok,
 .era-guidelines__do-not {
   fill: color($theme-color-error-dark);
@@ -513,6 +519,74 @@ sup a {
 .era-guidelines__do {
   fill: color($theme-color-success-dark);
   color: color($theme-color-success-dark);
+}
+
+.era-guidelines-principles {
+  &__item {
+    font-size: size('body', 'sm');
+    line-height: lh('body', 6);
+  }
+}
+
+.era-article .era-guidelines-principle {
+  &__title {
+    position: relative;
+    margin: 3.5em 0 0 0;
+
+    &:before {
+      content: "";
+      position: absolute;
+      height: 1rem;
+      width: 60px;
+      top: -2.5rem;
+    }
+  }
+
+  &__design {
+    color: color($theme-principle-design);
+
+    &:before {
+      background: color($theme-principle-design);
+    }
+  }
+
+  &__cognitive {
+    color: color($theme-principle-cognitive);
+
+    &:before {
+      background: color($theme-principle-cognitive);
+    }
+  }
+
+  &__control {
+    color: color($theme-principle-control);
+
+    &:before {
+      background: color($theme-principle-control);
+    }
+  }
+
+  &__visibility {
+    color: color($theme-principle-visibility);
+
+    &:before {
+      background: color($theme-principle-visibility);
+    }
+  }
+
+  &__friction {
+    color: color($theme-principle-friction);
+
+    &:before {
+      background: color($theme-principle-friction);
+    }
+  }
+}
+
+.era-guidelines-practice {
+  &__title {
+    margin: 1.5em 0 0 0;
+  }
 }
 
 
