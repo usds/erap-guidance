@@ -2,8 +2,8 @@ programs:
 - text: Allocations and payments
   href: /allocations-and-payments/
   name: allocations
-- text: Application process
-  href: /application-process/
+- text: Award terms
+  href: /award-terms/
   name: applications
 - text: FAQs
   href: /faqs/
@@ -33,7 +33,7 @@ programs:
   - text: Outreach
     href: /promising-practice-guides/outreach/
     name: outreach
-  - text: Landlord Engagement
+  - text: Landlord engagement
     href: /promising-practice-guides/landlord-engagement/
     name: landlord-engagement
   - text: Eviction diversion
@@ -42,25 +42,25 @@ programs:
   - text: Utilities
     href: /promising-practice-guides/utilities/
     name: utilities
-  - text: Adjusting Program Strategies
+  - text: Adjusting program strategies
     href: /promising-practice-guides/strategies/
     name: strategies
-  - text: Making the Application Process Simple and User Friendly
+  - text: Making the application process simple and user friendly
     href: /promising-practice-guides/application-process/
     name: application-process
-  - text: Using Fact-Specific Proxies
+  - text: Using fact-specific proxies
     href: /promising-practice-guides/fact-specific-proxies/
     name: fact-specific-proxies
-  - text: Application Prioritization
+  - text: Application prioritization
     href: /promising-practice-guides/application-prioritization/
     name: application-prioritization
-  - text: Data-Driven 
+  - text: Data-informed iteration
     href: /promising-practice-guides/data/
     name: data
   - text: Example forms
     href: /promising-practice-guides/forms/
     name: forms
-- text: Digital Service Delivery
+- text: Digital service delivery
   href: /digital-service-delivery/
   desc: Provides guidelines for iterating on ERA program web sites and applications.
   name: digital-service-delivery

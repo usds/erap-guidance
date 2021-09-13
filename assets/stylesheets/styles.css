@@ -30021,16 +30021,16 @@ sup a{
   background:#a72f10;
 }
 .era-article .era-guidelines-principle__control{
-  color:#ab2165;
-}
-.era-article .era-guidelines-principle__control:before{
-  background:#ab2165;
-}
-.era-article .era-guidelines-principle__visibility{
   color:#3e4ded;
 }
-.era-article .era-guidelines-principle__visibility:before{
+.era-article .era-guidelines-principle__control:before{
   background:#3e4ded;
+}
+.era-article .era-guidelines-principle__visibility{
+  color:#ab2165;
+}
+.era-article .era-guidelines-principle__visibility:before{
+  background:#ab2165;
 }
 .era-article .era-guidelines-principle__friction{
   color:#00687d;
