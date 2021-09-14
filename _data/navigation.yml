@@ -5,11 +5,19 @@ programs:
 - text: Award terms
   href: /award-terms/
   name: applications
-- text: FAQs
-  href: /faqs/
-  desc: The original format for this guidance provided here as reference.
-  name: faqs
+- text: Guidance 
+  href: /guidance/
+  desc: Guidance index 
+  name: guidance
   subnav:
+  - text: FAQs
+    href: /faqs/
+    desc: Frequently Asked Questions in the order in which they were created.
+    name: faqs
+  - text: Latest FAQs
+    href: https://home.treasury.gov/system/files/136/ERA-FAQ-8-25-2021.pdf
+    desc: Latest FAQs in PDF format
+    name: latest-pdf
   - text: FAQs by category
     href: /faqs/by-category/
     desc: FAQs categorized into sections.
@@ -18,14 +26,14 @@ programs:
     href: /faqs/changes/
     desc: Details dates on which FAQs were added or updated.
     name: changes
-- text: Find rental assistance
-  href: /program-index/
-  desc: View an index of all emergency rental assistance programs to find assistance near you.
-  name: program-index
+- text: Reporting
+  href: /reporting/
+  desc: Guidance and data
+  name: reporting
 - text: Promising practices
-  href: /promising-practice-guides/
+  href: /promising-practices/
   desc: Provides practices for program implementation and policies.
-  name: promising-practice-guides
+  name: promising-practices
   subnav: 
   - text: Partnerships
     href: /promising-practice-guides/partnerships-in-program-implementation/
