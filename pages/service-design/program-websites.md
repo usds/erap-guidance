@@ -1,7 +1,7 @@
 ---
 layout: default-one-col
-permalink: /digital-service-delivery/program-web-sites/
-section: digital-service-delivery
+permalink: /service-design/program-web-sites/
+section: service-design
 sidenav: programs
 title: Guidelines for program web sites
 ---

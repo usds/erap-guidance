@@ -68,17 +68,20 @@ programs:
   - text: Example forms
     href: /promising-practice-guides/forms/
     name: forms
-- text: Digital service delivery
-  href: /digital-service-delivery/
+- text: Service design
+  href: /service-design/
   desc: Provides guidelines for iterating on ERA program web sites and applications.
-  name: digital-service-delivery
+  name: service-design
   subnav: 
   - text: Program web sites
-    href: /digital-service-delivery/program-web-sites/
+    href: /service-design/program-web-sites/
     name: program-web-site
   - text: Online applications
-    href: /digital-service-delivery/application-web-sites/
+    href: /service-design/application-web-sites/
     name: online-application
+  - text: Example application screens
+    href: /service-design/example-application-screens/
+    name: example-application-screens
 - text: Promote the program
   href: /outreach/
   desc: Provides resources for program promotion.
