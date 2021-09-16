@@ -1,7 +1,7 @@
 ---
 layout: default-one-col
-permalink: /promising-practice-guides/
-section: promising-practice-guides
+permalink: /promising-practices/
+section: promising-practices
 sidenav: programs
 title: Promising practices for ERA programs
 ---
@@ -16,18 +16,67 @@ title: Promising practices for ERA programs
   Last updated: 7/31/2021
 </p>
 
-*	[Partnerships in Program Implementation](partnerships-in-program-implementation/)
-*	[Culturally and Linguistically Competent Outreach](outreach/)
-* [Intentional Landlord Engagement](landlord-engagement/)
-* [Partnerships with Broader Eviction Diversion Programs](eviction-diversion/)
-* [Collaboration with Local Utility Companies](utilities/)
-* [Adjusting Program Strategies to Meet Local Needs](strategies/)
-* [Making the Application Process Simple and User Friendly](application-process/)
-* [Using Fact-Specific Proxies to Establish Applicant Income](fact-specific-proxies/)
-* [Automation Supporting Application Prioritization](application-prioritization/)
-* [Data-Driven Program Strategies](data/)
-* [Example self-attestation forms](forms/)
-* [Program Web sites](program-web-sites/)
+<div class="grid-row grid-gap">
+  <div class="tablet:grid-col-6">
+    <ul>
+      <li>
+        <a href="{{ site.baseurl }}/promising-practice-guides/partnerships-in-program-implementation/">
+          Partnerships in program implementation
+        </a>
+      </li>
+      <li>
+        <a href="{{ site.baseurl }}/promising-practice-guides/outreach/">
+          Culturally and linguistically competent outreach
+        </a>
+      </li>
+      <li>
+        <a href="{{ site.baseurl }}/promising-practice-guides/landlord-engagement/">
+          Intentional landlord engagement
+        </a>
+      </li>
+      <li>
+        <a href="{{ site.baseurl }}/promising-practice-guides/eviction-diversion/">
+          Partnerships with broader eviction diversion programs
+        </a>
+      </li>
+      <li>
+        <a href="{{ site.baseurl }}/promising-practice-guides/utilities/">
+          Collaboration with local utility companies
+        </a>
+      </li>
+      <li>
+        <a href="{{ site.baseurl }}/promising-practice-guides/strategies/">
+          Adjusting Program Strategies to Meet Local Needs
+        </a>
+      </li>
+    </ul>
+  </div>
+  <div class="tablet:grid-col-6">
+    <ul>
+      <li>
+        <a href="{{ site.baseurl }}/promising-practice-guides/application-process/">
+          Making the application process simple and user friendly
+        </a>
+      </li>
+      <li>
+        <a href="{{ site.baseurl }}/promising-practice-guides/fact-specific-proxies/">
+          Using fact-specific proxies to establish applicant income
+        </a>
+      </li>
+      <li>
+        <a href="{{ site.baseurl }}/promising-practice-guides/application-prioritization/">
+          Automation supporting application prioritization
+        </a>
+      </li>
+      <li>
+        <a href="{{ site.baseurl }}/promising-practice-guides/data/">
+          Data-informed iteration
+        </a>
+      </li>
+    </ul>
+  </div>
+</div>
+{% include _card-example-forms.html %}
 
 Across the country, local grantee administrators are working hard to implement programs to provide rental assistance to their constituents. While this is not an exhaustive list of promising practices, these insights may be useful to ERA grantees as they build out programs to help households maintain their housing, despite the financial uncertainty experienced during the COVID-19 pandemic.
 
