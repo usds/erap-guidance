@@ -60,6 +60,7 @@
     "postcss-discard-comments": "^4.0.2",
     "run-sequence": "^2.2.1",
     "sass": "^1.32.5",
+    "set-value": ">=4.0.1",
     "socket.io": ">=2.4.0",
     "tar": "^6.1.9",
     "uswds": "^2.12.0",
