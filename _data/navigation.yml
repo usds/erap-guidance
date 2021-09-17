@@ -8,12 +8,12 @@ programs:
 - text: Guidance 
   href: /guidance/
   desc: Guidance index 
-  name: guidance
+  name: faqs
   subnav:
   - text: FAQs
     href: /faqs/
     desc: Frequently Asked Questions in the order in which they were created.
-    name: faqs
+    name: faqs-in-order
   - text: Latest FAQs
     href: https://home.treasury.gov/system/files/136/ERA-FAQ-8-25-2021.pdf
     desc: Latest FAQs in PDF format

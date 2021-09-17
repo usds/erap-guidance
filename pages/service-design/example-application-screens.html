@@ -3,8 +3,164 @@ layout: default-one-col
 permalink: /service-design/example-application-screens/
 section: service-design
 sidenav: programs
-title: Example application screens
+title: Example screens for ERA program online applications
 ---
 
-Placeholder
+<div class="abstract field field--name-field-page-abstract field--type-text-long field--label-hidden field__item">
+  <p>
+    Treasury is providing example reference screens to help grantees with implementing ERA program online applications.
+  </p>
+</div>
 
+<p>
+  These examples demonstrate best practices for service delivery and can be inspiration for how grantees may iterate and evolve their applications and programs to better serve tenants and landlords. Provided below are examples of a documentation strategy that leverages self-attestation within the ERA application itself. These serve as models that grantees may be able to learn from and/or replicate to help reduce their processing bottlenecks, barrier bust documentation hurdles for tenants, and therefore, keep people stably housed. 
+</p>
+<p>
+  These example pages are the first step to building a full reference application. 
+</p>
+<p>
+  The goal is to create a user-friendly, succinct, plain language model application that includes a design system for building and configuring an ERA application. This application model would introduce a set of styled and coded application components that grantees can mix and match to meet their localized needs and program requirements. The components of that application could be pulled off the shelf and used with minimal integration work. 
+</p>
+<p>
+  Highlighted within these eligibility screens are the practices detailed in “<a href="{{ site.baseurl }}/service-design/application-web-sites/">Guidelines for ERA program online applications</a>”
+</p>
+
+<h3 id="covid-19-pandemic-impact" class="era-guidelines-example__title">
+  COVID-19 pandemic impact
+</h3>
+<div class="grid-row grid-gap">
+  <div class="desktop:grid-col-9">
+    <img src="{{ site.baseurl }}/assets/img/example-application-screens/covid-impact-example-preferred.png" class="era-guidelines-example__img" alt="Example screen showing a user interface for handling the COVID-19 pandemic impact eligibility questions for Emergency Rental Assistance. The screen includes annotations A thru F" />
+  </div>
+</div>
+
+<div class="era-guidelines-annotation">
+  <ol class="era-guidelines-annotation__list">
+    <li class="era-guidelines-annotation__item">
+      <span class="era-guidelines-annotation__text">
+        <a href="{{ site.baseurl }}/service-design/application-web-sites/#step-indicator">Break the process into steps and indicate where the user is in the process using a step indicator</a>
+      </span>
+    </li>
+    <li class="era-guidelines-annotation__item">
+      <span class="era-guidelines-annotation__text">
+        <a href="{{ site.baseurl }}/service-design/application-web-sites/#one-thing-per-page">One thing per page</a>
+      </span>
+    </li>
+    <li class="era-guidelines-annotation__item">
+      <span class="era-guidelines-annotation__text">
+        <a href="{{ site.baseurl }}/service-design/application-web-sites/#examples-and-lists">Use examples and lists instead of requiring blocks of text</a>
+      </span>
+    </li>
+    <!-- li class="era-guidelines-annotation__item">
+      <span class="era-guidelines-annotation__text">
+        [Placeholder for ERA-1 vs. ERA-2 language]
+      </span>
+    </li -->
+    <li class="era-guidelines-annotation__item">
+      <span class="era-guidelines-annotation__text">
+        It can be difficult to prove a negative. Instead of requiring document upload, <a href="{{ site.baseurl }}/service-design/application-web-sites/#self-attestation">lean on self-attestation</a> to demonstrate financial hardship due to the COVID-19 pandemic.
+      </span>
+    </li>
+    <li class="era-guidelines-annotation__item">
+      <span class="era-guidelines-annotation__text">
+        <a href="{{ site.baseurl }}/service-design/application-web-sites/#human-support">Provide human interaction and support to applicants</a>
+      </span>
+    </li>
+  </ol>
+</div>
+
+<h3 id="residence-and-monthly-rent" class="era-guidelines-example__title">
+  Residence and monthly rent
+</h3>
+
+<div class="grid-row grid-gap">
+  <div class="desktop:grid-col-9">
+    <img src="{{ site.baseurl }}/assets/img/example-application-screens/residence-and-monthly-rent-example-1.png" class="era-guidelines-example__img" />
+  </div>
+</div>
+
+<div class="era-guidelines-annotation">
+  <ol class="era-guidelines-annotation__list is-list-2">
+    <li class="era-guidelines-annotation__item">
+      <span class="era-guidelines-annotation__text">
+        When a lease is unavailable, add the ability to provide written documentation from a landlord.
+      </span>
+    </li>
+    <li class="era-guidelines-annotation__item">
+      <span class="era-guidelines-annotation__text">
+        When documentation of a rental agreement is unavailable, focus on proving residence and monthly rental amount.
+      </span>
+    </li>
+    <li class="era-guidelines-annotation__item">
+      <span class="era-guidelines-annotation__text">
+        <a href="{{ site.baseurl }}/service-design/application-web-sites/#document-upload">Offer document upload</a>
+      </span>
+    </li>
+  </ol>
+</div>
+
+<div class="grid-row grid-gap">
+  <div class="desktop:grid-col-9">
+    <img src="{{ site.baseurl }}/assets/img/example-application-screens/residence-and-monthly-rent-example-2.png" class="era-guidelines-example__img" />
+  </div>
+</div>
+<div class="era-guidelines-annotation">
+  <ol class="era-guidelines-annotation__list is-list-3">
+    <li class="era-guidelines-annotation__item">
+      <span class="era-guidelines-annotation__text">
+        <a href="{{ site.baseurl }}/service-design/application-web-sites/#progressive-disclosure">Hide complexity from an applicant until or unless they must take action.</a> <!-- Use progressive disclosure to hide the upload document component and reveal the self-attestation checkbox based on the answer to “Do you have documents that show your past rent payments?” -->
+      </span>
+    </li>
+    <li class="era-guidelines-annotation__item">
+      <span class="era-guidelines-annotation__text">
+        <a href="{{ site.baseurl }}/service-design/application-web-sites/#progress-and-self-attest">Allow applicants to progress and self-attest if they cannot provide documentation</a> <!-- and <a href="{{ site.baseurl }}/service-design/application-web-sites/#self-attestation">offer self-attestation when prompting applicants for documents.</a> -->
+      </span>
+    </li>
+  </ol>
+</div>
+
+<h3 class="era-guidelines-example__title">Risk of Housing Instability or Homelessness</h3>
+<div class="grid-row grid-gap">
+  <div class="desktop:grid-col-9">
+    <p>
+      This example illustrates progressive disclosure, by revealing one question at a time, dependent on the previous answer the applicant provided.
+    </p>
+    <p>
+      Applicants indicate they have received a past due or eviction notice and then are asked if they can provide and upload that document. Whereas, applicants who reply that they haven’t received a past due or eviction notice, are instead asked whether they have experienced other housing risks.
+    </p>
+    <img src="{{ site.baseurl }}/assets/img/example-application-screens/housing-instability-example-1.png" class="era-guidelines-example__img" />
+  </div>
+</div>
+
+<div class="grid-row grid-gap">
+  <div class="desktop:grid-col-9">
+    <p>
+      This example attempts to capture a range of factors that can lead to risk of housing instability or homelessness. The intention is to help tenants see themselves and/or their situation within the checklist options offered and to avoid asking tenants to provide a narrative. Any additional program policy decisions could be captured in this checklist, or other parts of the interface, as needed.
+    </p>
+    <img src="{{ site.baseurl }}/assets/img/example-application-screens/housing-instability-example-2.png" class="era-guidelines-example__img" />
+  </div>
+</div>
+
+<h3 class="era-guidelines-example__title">Income - Fact-based proxy</h3>
+<div class="grid-row grid-gap">
+  <div class="desktop:grid-col-9">
+    <p>
+      This example shows one way grantees can cross-reference household size and income against a proxy data source on the backend, without putting this onus on the applicant. This would require using AMI data from a source such as: 
+    </p>
+    <ul>
+      <li>Department of Housing and Urban Development’s "<a href="https://www.huduser.gov/portal/datasets/il.html#2021_data">Access Individual Income Limits Areas</a>" data</li>
+      <li>American Community Survey (ACS), specifically US Census 2019 5-Year Estimates Tables <a href="https://data.census.gov/cedsci/table?q=S1901&tid=ACSST1Y2019.S1901">S1901</a> and <a href="https://data.census.gov/cedsci/table?q=S2503&tid=ACSST1Y2019.S2503">S2503</a>, or the most recent version of that data when available</li>
+    </ul>
+    <img src="{{ site.baseurl }}/assets/img/example-application-screens/income-fact-based-proxy-example-1.png" class="era-guidelines-example__img" />
+  </div>
+</div>
+
+<h3 class="era-guidelines-example__title">Income - Categorical eligibility</h3>
+<div class="grid-row grid-gap">
+  <div class="desktop:grid-col-9">
+    <p>
+      This example illustrates how you can use proof of a tenant’s participation in another government assistance program to meet the income documentation requirement.
+    </p>
+    <img src="{{ site.baseurl }}/assets/img/example-application-screens/income-docs-example-1.png" class="era-guidelines-example__img" />
+  </div>
+</div>

@@ -45,7 +45,9 @@ title: Guidelines for ERA program online applications
   Practices to make this happen
 </h4>
     {% for practice in principle.practices %}
-<h5 class="era-guidelines-practice__title">{{ practice.title }}</h5>
+<h5 {% if practice.slug %}id="{{practice.slug}}"{% endif %} class="era-guidelines-practice__title">
+  {{ practice.title }}
+</h5>
 <p>
   {{ practice.text }}
 </p>
