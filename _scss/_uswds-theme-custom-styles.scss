@@ -596,7 +596,7 @@ sup a {
 
   &__img {
     max-width: 90%;
-    margin-bottom: 2em;
+    margin: 1em 0 2em;
 
     @include at-media(desktop) {
       max-width: 100%;

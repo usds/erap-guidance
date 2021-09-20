@@ -30048,7 +30048,7 @@ sup a{
 }
 .era-guidelines-example__img{
   max-width:90%;
-  margin-bottom:2em;
+  margin:1em 0 2em;
 }
 @media all and (min-width: 64em){
   .era-guidelines-example__img{
