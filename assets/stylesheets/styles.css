@@ -30072,7 +30072,10 @@ sup a{
   counter-increment:era-guidelines-annotation 5;
 }
 .era-guidelines-annotation .era-guidelines-annotation__list.is-list-3{
-  counter-increment:era-guidelines-annotation 7;
+  counter-increment:era-guidelines-annotation 6;
+}
+.era-guidelines-annotation .era-guidelines-annotation__list.is-list-4{
+  counter-increment:era-guidelines-annotation 8;
 }
 .era-guidelines-annotation__item{
   position:relative;
