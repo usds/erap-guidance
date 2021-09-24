@@ -29972,8 +29972,10 @@ sup a{
   display:inline-block;
 }
 
-.era-guidance__diagram{
-  max-width:480px;
+@media all and (min-width: 40em){
+  .era-guidance__diagram{
+    max-width:480px;
+  }
 }
 
 .era-guidelines__footnotes-container{

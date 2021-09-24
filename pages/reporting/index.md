@@ -21,7 +21,14 @@ title: Reporting
 <h2>Program data reported by grantees</h2>
 <ul>
   <li>
-    <a href="https://home.treasury.gov/system/files/136/July-ERA-data.xlsx">Emergency Rental Assistance Monthly Compliance Report: July 1- 31, 2021</a>
+    <a href="https://home.treasury.gov/system/files/136/August-ERA-Data.xlsx">
+      Emergency Rental Assistance Monthly Compliance Report: August 1- 31, 2021
+    </a>
+  </li>
+  <li>
+    <a href="https://home.treasury.gov/system/files/136/July-ERA-data.xlsx">
+      Emergency Rental Assistance Monthly Compliance Report: July 1- 31, 2021
+    </a>
   </li>
   <li>
     <a href="https://home.treasury.gov/system/files/136/ERA-Compliance-Report-07202021.xlsx">

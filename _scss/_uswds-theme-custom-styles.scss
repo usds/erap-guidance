@@ -499,7 +499,9 @@ sup a {
 }
 
 .era-guidance__diagram {
-  max-width: 480px;
+  @include at-media(tablet) {
+    max-width: 480px;
+  }
 }
 
 // Guidelines

@@ -6,6 +6,12 @@ sidenav: programs
 title: Guidance
 ---
 
+<div class="abstract field field--name-field-page-abstract field--type-text-long field--label-hidden field__item">
+  <p>
+    ERA grantees must comply with requirements outlined in their ERA financial assistance agreement, the ERA statute, and Treasury’s guidance (FAQs, reporting guidance, etc.).
+  </p>
+</div>
+
 <h2>Frequently Asked Questions (FAQs)</h2>
 <ul>
   <li>
