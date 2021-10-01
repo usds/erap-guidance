@@ -11,7 +11,7 @@ source "http://rubygems.org"
 # gem "jekyll", "~> 3.7.3"
 
 gem "rubyzip", "~> 1.3.0"
-gem "nokogiri", ">= 1.11.4"
+gem "nokogiri", ">= 1.12.5"
 gem "addressable", ">= 2.8.0"
 
 gem "html-proofer"
