@@ -8,7 +8,7 @@ title: Guidance
 
 <div class="abstract field field--name-field-page-abstract field--type-text-long field--label-hidden field__item">
   <p>
-    ERA grantees must comply with requirements outlined in their ERA financial assistance agreement, the ERA statute, and Treasury’s guidance (FAQs, reporting guidance, etc.).
+    ERA grantees must comply with the requirements outlined in their ERA Award Terms, including the relevant ERA statute, all other applicable federal statutes, regulations, executive orders, and Treasury’s guidance (FAQs, reporting guidance, etc.).
   </p>
 </div>
 
