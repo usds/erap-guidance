@@ -8,11 +8,11 @@ title: Example screens for ERA program online applications
 
 <div class="abstract field field--name-field-page-abstract field--type-text-long field--label-hidden field__item">
   <p>
-    Treasury is providing example reference screens to help grantees with implementing ERA program online applications. These are the first in a series of examples demonstrating best practices for service delivery and can be an inspiration for how grantees may iterate and evolve their applications and programs to better serve tenants and landlords. 
+    Treasury is providing example reference screens to help grantees with implementing ERA program online applications. These screens demonstrate best practices for service delivery and can be an inspiration for how grantees may iterate and evolve their applications and programs to better serve tenants and landlords. 
   </p>
 </div>
 <p>
-  These example pages can be used by program administrators and staff or vendors in building or modifying ERA applications. The goal is to demonstrate ways grantees and their partners can create more user-friendly, succinct, and plain language applications.
+  These example pages can be used by program administrators and staff or vendors in building or modifying ERA applications. The goal is to demonstrate ways grantees and their partners can create online application forms that are user-friendly, succinct, and easily understood.
 </p>
 
 <h2>Example eligibility screens</h2>
@@ -22,9 +22,20 @@ title: Example screens for ERA program online applications
 <p>
   Within these examples is a documentation strategy that leverages self-attestation within the ERA application itself. These can be a model that grantees may be able to learn from and use to help reduce their processing bottlenecks, barrier bust documentation hurdles for tenants, and therefore, keep people stably housed. 
 </p>
-  <p>
-    Highlighted within these initial eligibility screens are the practices detailed in “<a href="{{ site.baseurl }}/service-design/application-web-sites/">Guidelines for ERA program online applications</a>”. Each of the following examples demonstrates elements of those guidelines.
-  </p>
+<p>
+  Highlighted within these initial eligibility screens are the practices detailed in “<a href="{{ site.baseurl }}/service-design/application-web-sites/">Guidelines for ERA program online applications</a>”. Each of the following examples demonstrates elements of those guidelines.
+</p>
+<h4>Screen list</h4>
+<ul>
+  <li><a href="#covid-19-pandemic-impact">COVID-19 pandemic impact</a></li>
+  <li><a href="#residence-and-monthly-rent">Residence and monthly rent</a></li>
+  <li><a href="#risk-of-housing-instability">Risk of housing instability or homelessness</a></li>
+  <li><a href="#income-fact-specific-proxy">Income - Fact-specific proxy</a></li>
+  <li><a href="#income-categorical-eligibility">Income - Categorical eligibility</a></li>
+  <li><a href="#income-self-attestation">Income - Self-attestation</a></li>
+  <li><a href="#rent-assistance-request">Rent assistance request</a></li>
+  <li><a href="#utility-assistance-request">Utility assistance request</a></li>
+</ul>
 
 <h3 id="covid-19-pandemic-impact" class="era-guidelines-example__title">
   COVID-19 pandemic impact
@@ -81,7 +92,7 @@ title: Example screens for ERA program online applications
   <ol class="era-guidelines-annotation__list is-list-2">
     <li class="era-guidelines-annotation__item">
       <span class="era-guidelines-annotation__text">
-        If an applicant indicates they did not have any expenses "due to" the pandemic then it would be appropriate to prompt them again changing "due to" to "during" in order to meet the <a href="{{ site.baseurl }}/faqs/#1">eligibility language alteration between ERA1 and ERA2</a>. If the applicant was to answer "Yes" to this follow-on question the same list of checkboxes could be presented.
+        If an applicant indicates they did not have any expenses "due to" the pandemic, the online application should prompt with a follow-up question asking if the applicant has experienced a financial hardship "during" the pandemic to reflect <a href="{{ site.baseurl }}/faqs/#1">the less restrictive standard established for ERA2</a>. If the applicant answer’s "yes", the list of checkboxes reflecting the ERA2 standard would be presented.
       </span>
     </li>
   </ol>
@@ -94,7 +105,7 @@ title: Example screens for ERA program online applications
 <div class="grid-row grid-gap">
   <div class="desktop:grid-col-9">
     <p>
-      The simplest way to capture a tenant’s rental obligation is with a current lease or an equivalent letter from their landlord. However, in many cases tenants may not be in a position to provide these documents. This example shows how in these instances, you can ask for documentation of the rental address and evidence of past rental payments or allow tenants to self-attest.
+      The simplest ways to document that a tenant has a rental obligation are to obtain a copy of the tenant’s current lease or a verification letter from the landlord. However, some tenants may be unable to provide these documents. This example illustrates how confirmation of a tenant’s address at a rental property or a documented history of rental payments may be used as a substitute form of verification.
     </p>
     <a href="{{ site.baseurl }}/assets/img/example-application-screens/residence-and-monthly-rent-example-1.png" target="_blank">
       <img src="{{ site.baseurl }}/assets/img/example-application-screens/residence-and-monthly-rent-example-1.png" class="era-guidelines-example__img" alt="Example screen showing a user interface for handling the residence and monthly rent eligibility questions for Emergency Rental Assistance. The screen includes annotations F thru H." />
@@ -106,7 +117,7 @@ title: Example screens for ERA program online applications
   <ol class="era-guidelines-annotation__list is-list-3">
     <li class="era-guidelines-annotation__item">
       <span class="era-guidelines-annotation__text">
-        If a tenant has a lease or a letter from their landlord there’s no need to ask for further documentation. When documentation of a rental agreement is unavailable, focus on proving residence and monthly rental amount.
+        If a tenant has a lease or a letter from their landlord, there's no need to request additional documentation to confirm that a rental obligation exists. When these documents are not available, the focus shifts to proving the tenant’s residence at a rental property through other means.
       </span>
     </li>
     <li class="era-guidelines-annotation__item">
@@ -139,14 +150,16 @@ title: Example screens for ERA program online applications
   </ol>
 </div>
 
-<h3 id="risk-of-housing-instability" class="era-guidelines-example__title">Risk of Housing Instability or Homelessness</h3>
+<h3 id="risk-of-housing-instability" class="era-guidelines-example__title">
+  Risk of housing instability or homelessness
+</h3>
 <div class="grid-row grid-gap">
   <div class="desktop:grid-col-9">
     <p>
-      This example illustrates progressive disclosure, by revealing one question at a time, dependent on the previous answer the applicant provided.
+      The following example illustrates the use of <a href="{{ site.baseurl }}/service-design/application-web-sites/#progressive-disclosure">progressive disclosure</a> in an application form. This approach reveals questions one at a time and based on the applicant’s prior response.
     </p>
     <p>
-      Applicants indicate they have received a past due or eviction notice and then are asked if they can provide and upload that document. Whereas, applicants who reply that they haven’t received a past due or eviction notice, are instead asked whether they have experienced other housing risks.
+      As shown in the example, applicants who indicate they have received a past due or eviction notice are asked if they are able to provide and upload the document. Applicants who indicate they have not received a notice are prompted to identify their experiences with other housing risks.
     </p>
     <a href="{{ site.baseurl }}/assets/img/example-application-screens/housing-instability-example-1.png" target="_blank">
       <img src="{{ site.baseurl }}/assets/img/example-application-screens/housing-instability-example-1.png" class="era-guidelines-example__img" alt="Example screen showing a user interface for handling the risk of housing instability or homelessness questions for Emergency Rental Assistance when the applicant can upload documentation." />
@@ -157,7 +170,7 @@ title: Example screens for ERA program online applications
 <div class="grid-row grid-gap">
   <div class="desktop:grid-col-9">
     <p>
-      This example attempts to capture a range of factors that can lead to risk of housing instability or homelessness. The intention is to help tenants see themselves and/or their situation within the checklist options offered and to avoid asking tenants to provide a narrative. Any additional program policy decisions could be captured in this checklist, or other parts of the interface, as needed.
+      This example attempts to capture a range of factors that can lead to risk of housing instability or homelessness. The intention is to help tenants see themselves and/or their situation within the checklist options offered and to avoid asking tenants to provide a narrative. The checklist may be expanded to capture other program policy elections, as applicable.
     </p>
     <a href="{{ site.baseurl }}/assets/img/example-application-screens/housing-instability-example-2.png" target="_blank">
       <img src="{{ site.baseurl }}/assets/img/example-application-screens/housing-instability-example-2.png" class="era-guidelines-example__img" alt="Example screen showing a user interface for handling the risk of housing instability or homelessness questions for Emergency Rental Assistance when the applicant does not have documentation."  />
@@ -169,7 +182,7 @@ title: Example screens for ERA program online applications
 <div class="grid-row grid-gap">
   <div class="desktop:grid-col-9">
     <p>
-      The use of fact-specific proxy describes the scenario where a grantee re-affirms a tenant's income self-attestation by cross-referencing it with income data about a particular population and/or a particular geographic area. This example shows one way grantees can cross-reference household size and income against a proxy data source on the backend, without putting this onus on the applicant. This would require using AMI data from sources such as: 
+      Grantees may rely on a fact-specific proxy to further validate the amount of household income that a tenant represents through self-attestation. This approach involves cross-checking the tenant’s stated income against statistical data for a particular population group or geographic area relevant to the household. The following example shows how grantees can cross-reference household size and income against statistical data published by federal agencies. Useful resources include:
     </p>
     <ul>
       <li>Department of Housing and Urban Development’s "<a href="https://www.huduser.gov/portal/datasets/il.html#2021_data">Access Individual Income Limits Areas</a>" data</li>
@@ -185,10 +198,109 @@ title: Example screens for ERA program online applications
 <div class="grid-row grid-gap">
   <div class="desktop:grid-col-9">
     <p>
-      This example illustrates how you can use proof of a tenant’s participation in another government assistance program to meet the income documentation requirement. Treasury expects that grantees will adjust the list of assistance programs to include programs available in their jurisdiction (e.g. Medicaid, USDA Rural Development, local housing assistance, etc.)
+      This example involves confirming income eligibility by relying on the applicant’s participation in other income-tested federal or state assistance programs.  
     </p>
-    <a href="{{ site.baseurl }}/assets/img/example-application-screens/income-docs-example-1.png" target="_blank">
-      <img src="{{ site.baseurl }}/assets/img/example-application-screens/income-docs-example-1.png" class="era-guidelines-example__img" alt="Example screen showing a user interface for handling income eligibility questions for Emergency Rental Assistance when the applicant is categorically eligible."  />
+    <a href="{{ site.baseurl }}/assets/img/example-application-screens/income-attestation-example-checklist-cat-eligibility.png" target="_blank">
+      <img src="{{ site.baseurl }}/assets/img/example-application-screens/income-attestation-example-checklist-cat-eligibility.png" class="era-guidelines-example__img" alt="Example screen showing a user interface for handling income eligibility questions for Emergency Rental Assistance when the applicant is categorically eligible." />
     </a>
   </div>
+</div>
+<div class="era-guidelines-annotation">
+  <ol class="era-guidelines-annotation__list is-list-5">
+    <li class="era-guidelines-annotation__item">
+      <span class="era-guidelines-annotation__text">
+        Grantees should adjust the list of programs to reflect additional programs available in their jurisdiction.
+      </span>
+    </li>
+  </ol>
+</div>
+
+<h3 id="income-self-attestation" class="era-guidelines-example__title">
+  Income - Self-attestation
+</h3>
+<div class="grid-row grid-gap">
+  <div class="desktop:grid-col-9">
+    <a href="{{ site.baseurl }}/assets/img/example-application-screens/income-attestation-example-checklist.png" target="_blank">
+      <img src="{{ site.baseurl }}/assets/img/example-application-screens/income-attestation-example-checklist.png" class="era-guidelines-example__img" alt="Example screen showing a user interface for handling income eligibility questions for Emergency Rental Assistance offering self-attestation." />
+    </a>
+  </div>
+</div>
+<div class="era-guidelines-annotation">
+  <ol class="era-guidelines-annotation__list is-list-6">
+    <li class="era-guidelines-annotation__item">
+      <span class="era-guidelines-annotation__text">
+        Be sure to offer self-attestation if the applicant cannot provide any documentation.
+      </span>
+    </li>
+  </ol>
+</div>
+
+<h3 id="rent-assistance-request" class="era-guidelines-example__title">
+  Rent assistance request
+</h3>
+<div class="grid-row grid-gap">
+  <div class="desktop:grid-col-9">
+    <p>
+      This example shows a way to structure the rent assistance portion of an application. It allows the applicant to fill in each month they are asking for assistance on, as well as any fees, and calculates the total amount of assistance requested for them.
+    </p>
+    <a href="{{ site.baseurl }}/assets/img/example-application-screens/rent-assistance-request-example-v5.png" target="_blank">
+      <img src="{{ site.baseurl }}/assets/img/example-application-screens/rent-assistance-request-example-v5.png" class="era-guidelines-example__img" alt="Example screen showing a user interface for handling the rental assistance an applicant is requesting." />
+    </a>
+  </div>
+</div>
+<div class="era-guidelines-annotation">
+  <ol class="era-guidelines-annotation__list is-list-7">
+    <li class="era-guidelines-annotation__item">
+      <span class="era-guidelines-annotation__text">
+        Including a section on past assistance that was received from other programs can help identify and prevent any overlap in assistance given to the applicant.
+      </span>
+    </li>
+    <li class="era-guidelines-annotation__item">
+      <span class="era-guidelines-annotation__text">
+        Including a list of the potential months helps applicants think through each month. It also provides more granular data for program administrators.
+      </span>
+    </li>
+  </ol>
+</div>
+<div class="grid-row grid-gap">
+  <div class="desktop:grid-col-9">
+    <a href="{{ site.baseurl }}/assets/img/example-application-screens/rent-assistance-request-example-v5-modal-partial.png" target="_blank">
+      <img src="{{ site.baseurl }}/assets/img/example-application-screens/rent-assistance-request-example-v5-modal-partial.png" class="era-guidelines-example__img" alt="Example snippet of a screen showing a modal window prompt for the applicant to confirm their request." />
+    </a>
+  </div>
+</div>
+<div class="era-guidelines-annotation">
+  <ol class="era-guidelines-annotation__list is-list-8">
+    <li class="era-guidelines-annotation__item">
+      <span class="era-guidelines-annotation__text">
+        It is appropriate to get applicants to confirm their rent assistance request and to underline the importance of making an accurate and truthful request.
+      </span>
+    </li>
+  </ol>
+</div>
+
+<h3 id="utility-assistance-request" class="era-guidelines-example__title">
+  Utility assistance request
+</h3>
+<div class="grid-row grid-gap">
+  <div class="desktop:grid-col-9">
+    <p>
+      This example illustrates how you can structure the section on utility assistance. It utilizes <a href="{{ site.baseurl }}/service-design/application-web-sites/#progressive-disclosure">progressive disclosure</a>, only showing applicable sections. For example, if the applicant only checks that they need assistance with gas bills, only additional fields pertaining to the gas bill will be shown.
+    </p>
+    <a href="{{ site.baseurl }}/assets/img/example-application-screens/utility-assistance-request-example-v1.png" target="_blank">
+      <img src="{{ site.baseurl }}/assets/img/example-application-screens/utility-assistance-request-example-v1.png" class="era-guidelines-example__img" alt="Example screen showing a user interface for handling the utility assistance an applicant is requesting." />
+    </a>
+    <a href="{{ site.baseurl }}/assets/img/example-application-screens/utility-assistance-request-example-v2-gas.png" target="_blank">
+      <img src="{{ site.baseurl }}/assets/img/example-application-screens/utility-assistance-request-example-v2-gas.png" class="era-guidelines-example__img" alt="Example screen showing a user interface for handling a gas utility assistance request." />
+    </a>
+  </div>
+</div>
+<div class="era-guidelines-annotation">
+  <ol class="era-guidelines-annotation__list is-list-9">
+    <li class="era-guidelines-annotation__item">
+      <span class="era-guidelines-annotation__text">
+        Asking for the total amount that the tenant owes for the utility allows all fees needed to maintain that utility to be included.
+      </span>
+    </li>
+  </ol>
 </div>
