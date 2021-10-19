@@ -30094,6 +30094,9 @@ sup a{
 .era-guidelines-annotation .era-guidelines-annotation__list.is-list-9{
   counter-increment:era-guidelines-annotation 15;
 }
+.era-guidelines-annotation .era-guidelines-annotation__list.is-list-10{
+  counter-increment:era-guidelines-annotation 16;
+}
 .era-guidelines-annotation__item{
   position:relative;
   display:block;
