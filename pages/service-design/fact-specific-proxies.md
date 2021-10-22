@@ -47,7 +47,7 @@ Using the above, we can lookup the median renter income (or median income, if ne
   - Categorical eligibility, based on the use of other local, state, or federal government assistance programs, can and should be used as well; and
   - self-attestation alone is available and encouraged during this public health emergency.
 
-If, however, your program has determined it will not use self-attestation alone, a fact-specific proxy supporting self-attestation can provide a valuable middle-ground between requiring documentation for all applicants and self-attestation alone.
+If, however, your program has determined it will not use self-attestation alone, a fact-specific proxy supporting self-attestation can provide a valuable middle-ground between requiring documentation for all applicants and self-attestation alone. Additionally, by using a fact-specific proxy that supports self-attestation, there is no need to collection additional documentation three months after the first application.
 
 
 ### Determining a geographic resolution for your proxy
@@ -94,7 +94,7 @@ Using our example proxy from the beginning, we would
 1. use an applicant's address to locate their census tract, then
 2. find the median income of renters in that tract. 
 
-If the median renter income in the tract falls below the 80% AMI limit for the area, we can say that the proxy has returned that fact and allow the applicant to use self-attestation for their income.
+If the median renter income in the tract falls below the 80% AMI limit for the area, we can say that the proxy has returned that fact and allow the applicant to use self-attestation for their income. This fact will support the use of self-attestation, and the applicant should be presented the option to self-attest to income without providing additional documentation. Because the attestation is supported by the fact-specific proxy, there is no need to collect additional income documentation three months after the attestation, in contrast to pure self-attestation.
 
 The precise mechanism for accessing the proxy data will depend on your application itself. Some options include
 
