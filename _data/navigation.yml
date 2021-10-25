@@ -82,6 +82,9 @@ programs:
   - text: Example application screens
     href: /service-design/example-application-screens/
     name: example-application-screens
+  - text: Example application flow
+    href: /service-design/example-application-flow/
+    name: example-application-flow
 - text: Promote the program
   href: /outreach/
   desc: Provides resources for program promotion.

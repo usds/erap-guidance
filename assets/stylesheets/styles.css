@@ -30058,46 +30058,58 @@ sup a{
   }
 }
 
-.era-guidelines-annotation{
+.era-guidelines-annotation,
+.era-guidelines-flow{
   font-family:Source Sans Pro Web, Helvetica Neue, Helvetica, Roboto, Arial, sans-serif;
   font-size:1.06rem;
   line-height:1.1;
   margin-bottom:2rem;
 }
-.era-guidelines-annotation__list{
+.era-guidelines-annotation__list,
+.era-guidelines-flow__list{
   counter-reset:era-guidelines-annotation;
   list-style:none;
   margin:0;
   padding:0;
 }
-.era-guidelines-annotation .era-guidelines-annotation__list.is-list-2{
+.era-guidelines-annotation .era-guidelines-annotation__list.is-list-2,
+.era-guidelines-flow .era-guidelines-annotation__list.is-list-2{
   counter-increment:era-guidelines-annotation 5;
 }
-.era-guidelines-annotation .era-guidelines-annotation__list.is-list-3{
+.era-guidelines-annotation .era-guidelines-annotation__list.is-list-3,
+.era-guidelines-flow .era-guidelines-annotation__list.is-list-3{
   counter-increment:era-guidelines-annotation 6;
 }
-.era-guidelines-annotation .era-guidelines-annotation__list.is-list-4{
+.era-guidelines-annotation .era-guidelines-annotation__list.is-list-4,
+.era-guidelines-flow .era-guidelines-annotation__list.is-list-4{
   counter-increment:era-guidelines-annotation 8;
 }
-.era-guidelines-annotation .era-guidelines-annotation__list.is-list-5{
+.era-guidelines-annotation .era-guidelines-annotation__list.is-list-5,
+.era-guidelines-flow .era-guidelines-annotation__list.is-list-5{
   counter-increment:era-guidelines-annotation 10;
 }
-.era-guidelines-annotation .era-guidelines-annotation__list.is-list-6{
+.era-guidelines-annotation .era-guidelines-annotation__list.is-list-6,
+.era-guidelines-flow .era-guidelines-annotation__list.is-list-6{
   counter-increment:era-guidelines-annotation 11;
 }
-.era-guidelines-annotation .era-guidelines-annotation__list.is-list-7{
+.era-guidelines-annotation .era-guidelines-annotation__list.is-list-7,
+.era-guidelines-flow .era-guidelines-annotation__list.is-list-7{
   counter-increment:era-guidelines-annotation 12;
 }
-.era-guidelines-annotation .era-guidelines-annotation__list.is-list-8{
+.era-guidelines-annotation .era-guidelines-annotation__list.is-list-8,
+.era-guidelines-flow .era-guidelines-annotation__list.is-list-8{
   counter-increment:era-guidelines-annotation 14;
 }
-.era-guidelines-annotation .era-guidelines-annotation__list.is-list-9{
+.era-guidelines-annotation .era-guidelines-annotation__list.is-list-9,
+.era-guidelines-flow .era-guidelines-annotation__list.is-list-9{
   counter-increment:era-guidelines-annotation 15;
 }
-.era-guidelines-annotation .era-guidelines-annotation__list.is-list-10{
+.era-guidelines-annotation .era-guidelines-annotation__list.is-list-10,
+.era-guidelines-flow .era-guidelines-annotation__list.is-list-10{
   counter-increment:era-guidelines-annotation 17;
 }
-.era-guidelines-annotation__item{
+.era-guidelines-annotation__item,
+.era-guidelines-flow__item{
   position:relative;
   display:block;
   min-height:1.5rem;
@@ -30105,7 +30117,8 @@ sup a{
   counter-increment:era-guidelines-annotation;
   list-style:none;
 }
-.era-guidelines-annotation__item::before{
+.era-guidelines-annotation__item::before,
+.era-guidelines-flow__item::before{
   position:absolute;
   top:calc((1.8rem - .5rem)/-2);
   left:0;
@@ -30126,11 +30139,36 @@ sup a{
   text-align:center;
   z-index:100;
 }
-.era-guidelines-annotation__text{
+.era-guidelines-annotation__text,
+.era-guidelines-flow__text{
   display:inline-block;
   margin-top:-0.8rem;
   margin-left:2.5rem;
   vertical-align:top;
+}
+
+.era-guidelines-flow__list{
+  margin:2rem 0;
+  counter-reset:era-guidelines-flow;
+}
+.era-guidelines-flow__item{
+  display:block;
+  margin-bottom:2rem;
+  counter-increment:era-guidelines-flow;
+}
+.era-guidelines-flow__item::before{
+  content:counter(era-guidelines-flow, upper-latin);
+  background-color:#00bde3;
+}
+.era-guidelines-flow__text{
+  font-size:1.33rem;
+  font-weight:bold;
+}
+.era-guidelines-flow__sub-list{
+  margin:0 0 0 2rem;
+}
+.era-guidelines-flow__sub-sub-list{
+  list-style-type:lower-latin;
 }
 
 .era-guidance-maturity-model{

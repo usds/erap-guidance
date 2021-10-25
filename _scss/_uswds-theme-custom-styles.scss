@@ -606,7 +606,10 @@ sup a {
   }
 }
 
-.era-guidelines-annotation {
+
+
+.era-guidelines-annotation,
+.era-guidelines-flow {
   font-family: Source Sans Pro Web,Helvetica Neue,Helvetica,Roboto,Arial,sans-serif;
   font-size: 1.06rem;
   line-height: 1.1;
@@ -683,6 +686,38 @@ sup a {
     vertical-align: top;
   }
 }
+
+.era-guidelines-flow {
+  &__list {
+    margin: 2rem 0;
+    counter-reset: era-guidelines-flow;
+  }
+
+  &__item {
+    display: block;
+    margin-bottom: 2rem;
+    counter-increment: era-guidelines-flow;
+  }
+
+  &__item::before {
+    content: counter(era-guidelines-flow, upper-latin);
+    background-color: color($theme-flow);
+  }
+
+  &__text {
+    font-size: size('body', $theme-h4-font-size);
+    font-weight: bold;
+  }
+
+  &__sub-list {
+    margin: 0 0 0 2rem;
+  }
+
+  &__sub-sub-list {
+    list-style-type: lower-latin;
+  }
+}
+
 
 // Maturity model 
 
