@@ -7,10 +7,10 @@ title: Guidelines for fact-specific proxies
 ---
 
 <p class="usa-intro">
-  It is important that the application process be as simple for renters as possible (within the program's guidelines) to ensure that renters in need are able to apply for assistance without getting deterred by documentation they might not have.  
+  It is important that the application process be as simple for renters as possible, while staying within ERA program guidance, to ensure that renters in need are able to apply for assistance without getting deterred by documentation they might not have.  
 </p>
 <p>
-  To help accomplish these goals, Treasury has prepared these guidelines in conjunction with the <a href="https://usds.gov/">U. S. Digital Service</a> to help Emergency Rental Assistance (ERA) program grantees with developing fact-specific proxies for verifying applicant income, as described in <a href="https://home.treasury.gov/policy-issues/coronavirus/assistance-for-state-local-and-tribal-governments/emergency-rental-assistance-program/faqs#4">FAQ #4</a>.
+  To help accomplish these goals, Treasury has prepared these guidelines in conjunction with the <a href="https://usds.gov/">U. S. Digital Service</a> to help Emergency Rental Assistance (ERA) program grantees with developing fact-specific proxies for verifying applicant income, as described in <a href="https://home.treasury.gov/policy-issues/coronavirus/assistance-for-state-local-and-tribal-governments/emergency-rental-assistance-program/faqs#4">FAQ #4</a>. The use of a fact-specific proxy would allow a grantee to cross-reference household size and income against a proxy data source on the backend thus alleviating the onus on the applicant to provide income documentation.
 </p>
 
 ## An overview of developing a proxy
@@ -26,7 +26,7 @@ Steps 1-3 inform each other and do not need be done precisely in the order prese
 
 ### An example proxy
 
-As a working example of the sorts of specific choices a grantee could make in designing a fact-specific proxy, consider the following design that would be suitable for any grantee to use. **There are a variety of choices a grantee can make while designing a fact-specific proxy**, so this is not the *only* reasonable proxy design. It is, however, an option that can be used or adapted by grantees who wish to simplify their application process using Federal data and resources. After the example, we will discuss the thinking that goes into making each choice.
+As a working example of the sorts of specific choices a grantee could make in designing a fact-specific proxy, consider the following design that would be suitable for any grantee to use. **There are a variety of choices a grantee can make while designing a fact-specific proxy**, so this is not the *only* reasonable proxy design. It is, however, an option that can be used or adapted by grantees who wish to simplify their application process using Federal data and resources. After the example, we will discuss the considerations that go into making each choice.
 
 For this example, we make the following choices:
 
@@ -45,7 +45,7 @@ Using the above, we can look up the median renter income (or median income, if r
 - The specific design of a dataproxy can be adjusted to the needs of your location; while we focus on Federal data sources and a system that would work generically for any locality, we also recognize that there are many ways to develop a reasonable fact-specific income proxy.
 - A proxy is one of several tools available to grantees to simplify the application process: 
   - Categorical eligibility, based on the use of other local, state, or federal government assistance programs, can and should be used as well
-  - self-attestation alone is available and encouraged during this public health emergency.
+  - Self-attestation alone is available and encouraged during this public health emergency.
 
 If, however, your program has determined it will not use self-attestation alone, a fact-specific proxy supporting self-attestation can provide a valuable middle-ground between requiring documentation for all applicants and self-attestation alone. Additionally, by using a fact-specific proxy that supports self-attestation, there is no need to collect additional documentation three months after the first application.
 
@@ -70,7 +70,11 @@ Alternatively, a grantee could construct a proxy using the Department of Housing
 
 Grantees are not limited to federal data in designing a proxy. If your state has data assets or products that give insight into incomes for an area or allow for modeling of the probable income or financial hardship for a participant on the basis of information provided in the application, these sources are permissible.
 
+#### Margin of error strategry
+
 <a name="moe"></a>If a grantee is using a data source based on sampling, such as ACS detailed tables, there will also be sample-error estimates included with the data. Because the error inversely correlates with sample size (that is, smaller samples will tend to have higher error), and any fact-specific proxy will rely on estimated data, it is acceptable to disregard the sample error in the interest of equity; when looking at all census tracts across the US, taking the margin-of-error into account when building a proxy will systematically disadvantage lower-population areas. That said, grantees are welcome to do analysis on their specific geographic areas and determine an approach to error that is reasonable and equitable.
+
+#### Combining multiple data sources
 
 It is acceptable to combine multiple data sources for a variety of reasons, as long as it is done in a statistically valid manner. For example, if using median renter incomes from ACS table B25119, not all areas have data at the census-tract level. As such, it is reasonable to fall back to a larger section of the population, such as area median income from table B19013. A grantee may also combine income data, such as HUD Qualified Census Tracts, with other signs of area economic distress from local utilities, tax collections, or other locally available data sources, to determine geographic areas that are experiencing acute financial hardship. Similarly, a grantee could combine multiple census tables to gain access to features beyond just location to forecast an income for an applicant based on other data in their application. While the design of a more sophisticated proxy using multiple tables is beyond the scope of this document, a grantee designing such a model will need to carefully test for systematic bias along any protected categories and carefully weigh the additional predictive power against the risk of model bias compared to a simpler model based purely on location.
 
