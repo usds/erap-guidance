@@ -79,12 +79,15 @@ programs:
   - text: Online applications
     href: /service-design/application-web-sites/
     name: online-application
-  - text: Example application screens
-    href: /service-design/example-application-screens/
-    name: example-application-screens
   - text: Example application flow
     href: /service-design/example-application-flow/
     name: example-application-flow
+  - text: Example application screens
+    href: /service-design/example-application-screens/
+    name: example-application-screens
+  - text: Fact-specific proxies
+    href: /service-design/fact-specific-proxies/
+    name: fact-specific-proxies
 - text: Promote the program
   href: /outreach/
   desc: Provides resources for program promotion.
