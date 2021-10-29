@@ -607,9 +607,7 @@ sup a {
 }
 
 
-
-.era-guidelines-annotation,
-.era-guidelines-flow {
+.era-guidelines-annotation {
   font-family: Source Sans Pro Web,Helvetica Neue,Helvetica,Roboto,Arial,sans-serif;
   font-size: 1.06rem;
   line-height: 1.1;
@@ -687,6 +685,7 @@ sup a {
   }
 }
 
+/*
 .era-guidelines-flow {
   &__list {
     margin: 2rem 0;
@@ -717,6 +716,7 @@ sup a {
     list-style-type: lower-latin;
   }
 }
+*/
 
 
 // Maturity model 
