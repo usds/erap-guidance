@@ -30197,13 +30197,24 @@ sup a{
   margin:2rem 0 1rem;
 }
 
-.era-guidance-card-highlight--docs__icon{
+.era-guidance-card-highlight--docs__icon,
+.era-guidance-card-highlight--maturity-model__icon{
   width:8rem;
   height:100%;
   fill:#565c65;
 }
 
-.era-guidance-card-highlight--docs .era-guidance-card-highlight--docs__media{
+.era-guidance-card-highlight--maturity-model__container{
+  margin-left:0;
+  margin-right:0;
+}
+.era-guidance-card-highlight--maturity-model__link[href$=".pdf"]:after{
+  content:none;
+  background:none;
+}
+
+.era-guidance-card-highlight--docs .era-guidance-card-highlight--docs__media,
+.era-guidance-card-highlight--maturity-model .era-guidance-card-highlight--maturity-model__media{
   width:inherit;
 }
 

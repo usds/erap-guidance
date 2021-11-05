@@ -56,6 +56,9 @@ The following maturity model can help grantees shape a strategy and have actiona
 
 **Disclaimer**: The practices referenced in this model may contemplate the leveraging of ERA funding with other federal, state, and local resources. The model's reference to an example practice should not be construed as confirming such practice's eligibility for any particular type or category of federal funding. Grantees should consult the governing federal program authorities for additional guidance before expending funds for such purposes to confirm eligibility.
 
+{% include _card-eviction-prevention-maturity-model.html %}
+
+
 <div class="era-guidance-maturity-model">
   <div class="era-guidance-maturity-model__col">
     <h3 class="era-guidance-maturity-model__category" id="resourcing">
