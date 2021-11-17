@@ -366,6 +366,24 @@ h4 {
   &__cfpb {
     margin-top: 2rem;
   }
+
+  &__blockquote {
+    margin-left: 0;
+    margin-right: 0;
+    padding: 0.5rem 10px;
+    quotes: "“" "”" "‘" "’";
+    border-left: 0.25em solid color($theme-color-base-lighter);
+    color: #6a737d;
+  }
+
+  &__blockquote:before {
+    content: open-quote;
+    font-size: 6rem;
+    line-height: .1em;
+    margin-right: 0.25rem;
+    vertical-align: -2rem;
+    color: color($theme-color-base-lighter);
+  }
 }
 
 a[href$=".pdf"].era-guidance__remove-pdf-icon:after {

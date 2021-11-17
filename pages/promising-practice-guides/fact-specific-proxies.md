@@ -10,7 +10,7 @@ title: Using Fact-Specific Proxies to Simplify Documentation Requirements
   For applicants to be eligible for rental assistance, they must meet income criteria. While self-attestation alone is available during the COVID-19 crisis, it is not the only tool a grantee can use to simplify income verification --- per <a href="https://home.treasury.gov/policy-issues/coronavirus/assistance-for-state-local-and-tribal-governments/emergency-rental-assistance-program/faqs#4">FAQ #4</a>:
 </p>
 
-<blockquote>
+<blockquote class="usa-intro era-guidance__blockquote">
   A grantee may rely on a written attestation from the applicant as to household income if the grantee also uses any reasonable fact-specific proxy for household income, such as reliance on data regarding average incomes in the household’s geographic area.
 </blockquote>
 

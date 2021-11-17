@@ -29865,6 +29865,22 @@ a[href$=".xlsx"]:after{
 .era-guidance__cfpb{
   margin-top:2rem;
 }
+.era-guidance__blockquote{
+  margin-left:0;
+  margin-right:0;
+  padding:0.5rem 10px;
+  quotes:"“" "”" "‘" "’";
+  border-left:0.25em solid #dfe1e2;
+  color:#6a737d;
+}
+.era-guidance__blockquote:before{
+  content:open-quote;
+  font-size:6rem;
+  line-height:0.1em;
+  margin-right:0.25rem;
+  vertical-align:-2rem;
+  color:#dfe1e2;
+}
 
 a[href$=".pdf"].era-guidance__remove-pdf-icon:after{
   background:none;
