@@ -20,32 +20,32 @@ title: Promising practices for ERA programs
   <div class="tablet:grid-col-6">
     <ul>
       <li>
-        <a href="{{ site.baseurl }}/promising-practice-guides/partnerships-in-program-implementation/">
+        <a href="{{ site.baseurl }}/promising-practices/partnerships-in-program-implementation/">
           Partnerships in program implementation
         </a>
       </li>
       <li>
-        <a href="{{ site.baseurl }}/promising-practice-guides/outreach/">
+        <a href="{{ site.baseurl }}/promising-practices/outreach/">
           Culturally and linguistically competent outreach
         </a>
       </li>
       <li>
-        <a href="{{ site.baseurl }}/promising-practice-guides/landlord-engagement/">
+        <a href="{{ site.baseurl }}/promising-practices/landlord-engagement/">
           Intentional landlord engagement
         </a>
       </li>
       <li>
-        <a href="{{ site.baseurl }}/promising-practice-guides/eviction-diversion/">
+        <a href="{{ site.baseurl }}/promising-practices/eviction-diversion/">
           Partnerships with broader eviction diversion programs
         </a>
       </li>
       <li>
-        <a href="{{ site.baseurl }}/promising-practice-guides/utilities/">
+        <a href="{{ site.baseurl }}/promising-practices/utilities/">
           Collaboration with local utility companies
         </a>
       </li>
       <li>
-        <a href="{{ site.baseurl }}/promising-practice-guides/strategies/">
+        <a href="{{ site.baseurl }}/promising-practices/strategies/">
           Adjusting Program Strategies to Meet Local Needs
         </a>
       </li>
@@ -54,22 +54,22 @@ title: Promising practices for ERA programs
   <div class="tablet:grid-col-6">
     <ul>
       <li>
-        <a href="{{ site.baseurl }}/promising-practice-guides/application-process/">
+        <a href="{{ site.baseurl }}/promising-practices/application-process/">
           Making the application process simple and user friendly
         </a>
       </li>
       <li>
-        <a href="{{ site.baseurl }}/promising-practice-guides/fact-specific-proxies/">
+        <a href="{{ site.baseurl }}/promising-practices/fact-specific-proxies/">
           Using fact-specific proxies to establish applicant income
         </a>
       </li>
       <li>
-        <a href="{{ site.baseurl }}/promising-practice-guides/application-prioritization/">
+        <a href="{{ site.baseurl }}/promising-practices/application-prioritization/">
           Automation supporting application prioritization
         </a>
       </li>
       <li>
-        <a href="{{ site.baseurl }}/promising-practice-guides/data/">
+        <a href="{{ site.baseurl }}/promising-practices/data/">
           Data-informed iteration
         </a>
       </li>

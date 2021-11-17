@@ -36,37 +36,37 @@ programs:
   name: promising-practices
   subnav: 
   - text: Partnerships
-    href: /promising-practice-guides/partnerships-in-program-implementation/
+    href: /promising-practices/partnerships-in-program-implementation/
     name: partnerships-in-program-implementation
   - text: Outreach
-    href: /promising-practice-guides/outreach/
+    href: /promising-practices/outreach/
     name: outreach
   - text: Landlord engagement
-    href: /promising-practice-guides/landlord-engagement/
+    href: /promising-practices/landlord-engagement/
     name: landlord-engagement
   - text: Eviction diversion
-    href: /promising-practice-guides/eviction-diversion/
+    href: /promising-practices/eviction-diversion/
     name: eviction-diversion
   - text: Utilities
-    href: /promising-practice-guides/utilities/
+    href: /promising-practices/utilities/
     name: utilities
   - text: Adjusting program strategies
-    href: /promising-practice-guides/strategies/
+    href: /promising-practices/strategies/
     name: strategies
   - text: Making the application process simple and user friendly
-    href: /promising-practice-guides/application-process/
+    href: /promising-practices/application-process/
     name: application-process
   - text: Using fact-specific proxies
-    href: /promising-practice-guides/fact-specific-proxies/
+    href: /promising-practices/fact-specific-proxies/
     name: fact-specific-proxies
   - text: Application prioritization
-    href: /promising-practice-guides/application-prioritization/
+    href: /promising-practices/application-prioritization/
     name: application-prioritization
   - text: Data-informed iteration
-    href: /promising-practice-guides/data/
+    href: /promising-practices/data/
     name: data
   - text: Example forms
-    href: /promising-practice-guides/forms/
+    href: /promising-practices/forms/
     name: forms
 - text: Program &amp; service design
   href: /service-design/

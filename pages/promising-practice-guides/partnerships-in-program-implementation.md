@@ -1,7 +1,7 @@
 ---
 layout: default-one-col
-permalink: /promising-practice-guides/partnerships-in-program-implementation/
-section: promising-practice-guides
+permalink: /promising-practices/partnerships-in-program-implementation/
+section: promising-practices
 sidenav: programs
 title: Partnerships in Program Implementation
 ---

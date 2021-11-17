@@ -1,7 +1,7 @@
 ---
 layout: default-one-col
-permalink: /promising-practice-guides/application-prioritization/
-section: promising-practice-guides
+permalink: /promising-practices/application-prioritization/
+section: promising-practices
 sidenav: programs
 title: Automation Supporting Application Prioritization
 ---

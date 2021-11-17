@@ -29978,6 +29978,14 @@ sup a{
   }
 }
 
+.era-guidance-process-list__heading{
+  margin-bottom:1rem;
+}
+.era-guidance-process-list__image-link{
+  display:block;
+  margin:0.5rem 0;
+}
+
 .era-guidelines__footnotes-container{
   margin-top:3rem;
 }
@@ -30071,31 +30079,31 @@ sup a{
   padding:0;
 }
 .era-guidelines-annotation .era-guidelines-annotation__list.is-list-2{
-  counter-increment:era-guidelines-annotation 5;
-}
-.era-guidelines-annotation .era-guidelines-annotation__list.is-list-3{
   counter-increment:era-guidelines-annotation 6;
 }
+.era-guidelines-annotation .era-guidelines-annotation__list.is-list-3{
+  counter-increment:era-guidelines-annotation 7;
+}
 .era-guidelines-annotation .era-guidelines-annotation__list.is-list-4{
-  counter-increment:era-guidelines-annotation 8;
+  counter-increment:era-guidelines-annotation 9;
 }
 .era-guidelines-annotation .era-guidelines-annotation__list.is-list-5{
-  counter-increment:era-guidelines-annotation 10;
-}
-.era-guidelines-annotation .era-guidelines-annotation__list.is-list-6{
   counter-increment:era-guidelines-annotation 11;
 }
-.era-guidelines-annotation .era-guidelines-annotation__list.is-list-7{
+.era-guidelines-annotation .era-guidelines-annotation__list.is-list-6{
   counter-increment:era-guidelines-annotation 12;
 }
-.era-guidelines-annotation .era-guidelines-annotation__list.is-list-8{
-  counter-increment:era-guidelines-annotation 14;
+.era-guidelines-annotation .era-guidelines-annotation__list.is-list-7{
+  counter-increment:era-guidelines-annotation 13;
 }
-.era-guidelines-annotation .era-guidelines-annotation__list.is-list-9{
+.era-guidelines-annotation .era-guidelines-annotation__list.is-list-8{
   counter-increment:era-guidelines-annotation 15;
 }
+.era-guidelines-annotation .era-guidelines-annotation__list.is-list-9{
+  counter-increment:era-guidelines-annotation 16;
+}
 .era-guidelines-annotation .era-guidelines-annotation__list.is-list-10{
-  counter-increment:era-guidelines-annotation 17;
+  counter-increment:era-guidelines-annotation 18;
 }
 .era-guidelines-annotation__item{
   position:relative;
@@ -30132,6 +30140,7 @@ sup a{
   margin-left:2.5rem;
   vertical-align:top;
 }
+
 .era-guidance-maturity-model{
   margin-top:2.5rem;
 }

@@ -1,7 +1,7 @@
 ---
 layout: default-one-col
-permalink: /promising-practice-guides/landlord-engagement/
-section: promising-practice-guides
+permalink: /promising-practices/landlord-engagement/
+section: promising-practices
 sidenav: programs
 title: Intentional Landlord Engagement
 ---

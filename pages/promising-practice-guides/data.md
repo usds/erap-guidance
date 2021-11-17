@@ -1,7 +1,7 @@
 ---
 layout: default-one-col
-permalink: /promising-practice-guides/data/
-section: promising-practice-guides
+permalink: /promising-practices/data/
+section: promising-practices
 sidenav: programs
 title: Data-Driven Program Strategies
 ---

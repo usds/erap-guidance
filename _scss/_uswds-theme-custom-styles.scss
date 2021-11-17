@@ -504,6 +504,17 @@ sup a {
   }
 }
 
+.era-guidance-process-list {
+  &__heading {
+    margin-bottom: units(2);
+  }
+
+  &__image-link {
+    display: block;
+    margin: units(1) 0;
+  }
+}
+
 // Guidelines
 .era-guidelines {
   &__footnotes-container {
@@ -621,31 +632,31 @@ sup a {
   }
 
   .era-guidelines-annotation__list.is-list-2 {
-    counter-increment: era-guidelines-annotation 5;
-  }
-  .era-guidelines-annotation__list.is-list-3 {
     counter-increment: era-guidelines-annotation 6;
   }
+  .era-guidelines-annotation__list.is-list-3 {
+    counter-increment: era-guidelines-annotation 7;
+  }
   .era-guidelines-annotation__list.is-list-4 {
-    counter-increment: era-guidelines-annotation 8;
+    counter-increment: era-guidelines-annotation 9;
   }
   .era-guidelines-annotation__list.is-list-5 {
-    counter-increment: era-guidelines-annotation 10;
-  }
-  .era-guidelines-annotation__list.is-list-6 {
     counter-increment: era-guidelines-annotation 11;
   }
-  .era-guidelines-annotation__list.is-list-7 {
+  .era-guidelines-annotation__list.is-list-6 {
     counter-increment: era-guidelines-annotation 12;
   }
-  .era-guidelines-annotation__list.is-list-8 {
-    counter-increment: era-guidelines-annotation 14;
+  .era-guidelines-annotation__list.is-list-7 {
+    counter-increment: era-guidelines-annotation 13;
   }
-  .era-guidelines-annotation__list.is-list-9 {
+  .era-guidelines-annotation__list.is-list-8 {
     counter-increment: era-guidelines-annotation 15;
   }
+  .era-guidelines-annotation__list.is-list-9 {
+    counter-increment: era-guidelines-annotation 16;
+  }
   .era-guidelines-annotation__list.is-list-10 {
-    counter-increment: era-guidelines-annotation 17;
+    counter-increment: era-guidelines-annotation 18;
   }
 
   &__item {
@@ -684,40 +695,6 @@ sup a {
     vertical-align: top;
   }
 }
-
-/*
-.era-guidelines-flow {
-  &__list {
-    margin: 2rem 0;
-    counter-reset: era-guidelines-flow;
-  }
-
-  &__item {
-    display: block;
-    margin-bottom: 2rem;
-    counter-increment: era-guidelines-flow;
-  }
-
-  &__item::before {
-    content: counter(era-guidelines-flow, upper-latin);
-    background-color: color($theme-flow);
-  }
-
-  &__text {
-    font-size: size('body', $theme-h4-font-size);
-    font-weight: bold;
-  }
-
-  &__sub-list {
-    margin: 0 0 0 2rem;
-  }
-
-  &__sub-sub-list {
-    list-style-type: lower-latin;
-  }
-}
-*/
-
 
 // Maturity model 
 

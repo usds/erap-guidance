@@ -1,7 +1,7 @@
 ---
 layout: default-one-col
-permalink: /promising-practice-guides/eviction-diversion/
-section: promising-practice-guides
+permalink: /promising-practices/eviction-diversion/
+section: promising-practices
 sidenav: programs
 title: Eviction diversion
 ---
@@ -476,7 +476,7 @@ Grantees providing services to overlapping or neighboring areas should collabora
 
 #### Lifting up grantees implementing effective practices to ensure that assistance quickly reaches the renters who need it most.
 
-Treasury is highlighting "<a href="{{ site.baseurl }}/promising-practice-guides/">promising practices</a>" inspired by successes achieved in the field, including partnerships with local court systems and legal services to prevent evictions and housing instability; options for reducing documentation barriers that might keep eligible families from accessing ERA; and application procedures that speed eligibility determinations through increased reliance on automation and fact-specific proxies.
+Treasury is highlighting "<a href="{{ site.baseurl }}/promising-practices/">promising practices</a>" inspired by successes achieved in the field, including partnerships with local court systems and legal services to prevent evictions and housing instability; options for reducing documentation barriers that might keep eligible families from accessing ERA; and application procedures that speed eligibility determinations through increased reliance on automation and fact-specific proxies.
 
 
 ### Fact Sheet May 7, 2021

@@ -1,7 +1,7 @@
 ---
 layout: default-one-col
-permalink: /promising-practice-guides/outreach/
-section: promising-practice-guides
+permalink: /promising-practices/outreach/
+section: promising-practices
 sidenav: programs
 title: Culturally and Linguistically Competent Outreach
 ---

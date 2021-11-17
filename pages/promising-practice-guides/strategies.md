@@ -1,7 +1,7 @@
 ---
 layout: default-one-col
-permalink: /promising-practice-guides/strategies/
-section: promising-practice-guides
+permalink: /promising-practices/strategies/
+section: promising-practices
 sidenav: programs
 title: Adjusting Program Strategies to Meet Local Needs 
 ---

@@ -1,7 +1,7 @@
 ---
 layout: default-one-col
-permalink: /promising-practice-guides/application-process/
-section: promising-practice-guides
+permalink: /promising-practices/application-process/
+section: promising-practices
 sidenav: programs
 title: Making the Application Process Simple and User Friendly
 ---
