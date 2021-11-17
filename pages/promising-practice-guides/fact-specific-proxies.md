@@ -26,9 +26,19 @@ title: Using Fact-Specific Proxies to Simplify Documentation Requirements
 </p>
 
 <h3>It can reduce your application processing time</h3>
-<p>
-  The Kentucky Housing Corporation was able to clear out a significant backlog of applications that lacked complete income documentation thereby improving their monthly total of assistance from $9,784,364 in September to $18,296,443 in October, a remarkable 87% increase.
-</p>
+<div class="grid-row grid-gap">
+  <div class="tablet:grid-col-5">
+    <div class="era-guidance-data__number">87%</div> 
+    <p class="era-guidance-data__detail">
+      Increase in assistance distributed by Kentucky Housing Corporation from September to October 2021.
+    </p>
+  </div>
+  <div class="tablet:grid-col-5">
+    <p>
+      The Kentucky Housing Corporation was able to clear out a significant backlog of applications that lacked complete income documentation thereby improving their monthly total of assistance from $9,784,364 in September to $18,296,443 in October, a remarkable 87% increase.
+    </p>
+  </div>
+</div>
 <p>
   Grantees such as Indiana and Washington State are integrating proxies into their application processing workflows so that application processors will see that a grantee is from a qualified area and can skip follow-ups on income documentation. This cuts down on application processing time and the back-and-forth involved with following up with applicants to get specific documents.
 </p>

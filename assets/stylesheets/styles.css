@@ -30002,6 +30002,17 @@ sup a{
   margin:0.5rem 0;
 }
 
+.era-guidance-data__number{
+  color:#216e1f;
+  font-size:80px;
+  font-weight:bold;
+  text-align:center;
+}
+.era-guidance-data__detail{
+  font-size:0.93rem;
+  color:#3d4551;
+}
+
 .era-guidelines__footnotes-container{
   margin-top:3rem;
 }

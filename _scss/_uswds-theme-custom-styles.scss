@@ -533,6 +533,20 @@ sup a {
   }
 }
 
+.era-guidance-data {
+  &__number {
+    color: color($theme-principle-design);
+    font-size: 80px;
+    font-weight: bold;
+    text-align: center;
+  }
+
+  &__detail {
+    font-size: size('body', '2xs');
+    color: color($theme-color-base-darker);
+  }
+}
+
 // Guidelines
 .era-guidelines {
   &__footnotes-container {
