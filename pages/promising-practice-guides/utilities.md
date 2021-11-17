@@ -19,7 +19,7 @@ Strategic coordination and data sharing with utility companies can help promote 
 * Collaborating with grantees of other energy assistance programs to build out parallel operations that can help make it easier for utility companies to cooperate with the programs while increasing the incentives for the utility companies to engage in consumer-friendly practices.
 * Expediting payments through partnerships with non-profits to prevent the loss of utility services when the rapid delivery of a payment could reasonably be necessary to prevent the loss of utility services, [FAQ 42]({{ site.baseurl}}/faqs#42) provides guidance designed to give grantees flexibility to partner with nonprofit organizations for the purpose of making immediate payments while a household’s application is still being processed.
 
-## Example 
+## Examples 
 
 ### Richland County, SC
 
