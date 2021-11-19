@@ -30001,6 +30001,9 @@ sup a{
   display:block;
   margin:0.5rem 0;
 }
+.era-guidance-process-list__supporting-text{
+  font-size:1.06rem;
+}
 
 .era-guidance-data__number{
   color:#216e1f;
