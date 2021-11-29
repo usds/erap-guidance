@@ -43,11 +43,6 @@ title: Using Fact-Specific Proxies to Simplify Documentation Requirements
   Grantees such as Indiana and Washington State are integrating proxies into their application processing workflows so that application processors will see that a grantee is from a qualified area and can skip follow-ups on income documentation. This has cut down on application processing time and the back-and-forth involved with following up with applicants to get specific documents.
 </p>
 
-<h3>Eliminates the need to re-verify income</h3>
-<p>
-  As explained in the <a href="https://home.treasury.gov/policy-issues/coronavirus/assistance-for-state-local-and-tribal-governments/emergency-rental-assistance-program/service-design/fact-specific-proxies">Guidelines for fact-specific proxies</a>, by using a fact-specific proxy that supports self-attestation, grantees would only have to gather an updated self-attestation to recertify the income eligibility requirement when determining a households continued eligibility to receive additional assistance.
-</p>
-
 <h2>Steps to take</h2>
 
 <h3>Income proxy</h3>
