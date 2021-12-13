@@ -5,7 +5,7 @@ content:
     slug: design
     details:
       - text: Co-design your application with tenants and landlords to understand their needs and challenges.
-      - text: Alleviate accessibility and barriers to access, such as lack of access or familiarity with technology by providing phone help, in-person navigators, PDF versions of the application, as well as versions of the application and instructions in different languages.
+      - text: "Alleviate accessibility and barriers to access, such as lack of access or familiarity with technology by providing phone help, in-person navigators, PDF versions of the application, as well as versions of the <a href=\"https://www.lep.gov/sites/lep/files/media/document/2021-12/2021_12_07_Website_Language_Access_Guide_508.pdf\">application and instructions in different languages</a>."
       - text: Use plain language at an 8th grade reading level to reach a broad public.
       - text: When adapting a commercial off-the-shelf product, adjust the standard language so that the applicant can identify themselves and their role in the interface. 
       - text: Usability test with applicants to discover pitfalls and make improvements.
