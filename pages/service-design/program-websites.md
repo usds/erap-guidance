@@ -158,6 +158,8 @@ Here are a few things to consider:
 
 **Some elements of language are culturally specific**: Not every country uses the same date format. When translating your materials, be sure to clearly indicate which field is intended for the day, month and year. Idioms also, can have one meaning in English and a very different meaning in another language.
 
+## Improve access for those with limited English proficiency
+
 "<a href="https://www.lep.gov/sites/lep/files/media/document/2021-12/2021_12_07_Website_Language_Access_Guide_508.pdf">Improving Access to Public Websites and Digital Services for Limited English Proficient (LEP) Persons</a>" is a resource created by the Limited English Proficiency Committee, a multi-agency working group housed at the Department of Justice. The guide details best practices for developing multilingual websites and digital services, effective design strategies to attract and keep LEP visitors on websites, and how to handle translation and usability testing. The guide also provides some signs of possible trouble regarding your website and digital services:
 
 * Some digital content is translated, but the directions to navigate to it are in English only.
