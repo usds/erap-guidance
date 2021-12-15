@@ -65,6 +65,9 @@ programs:
   - text: Data-informed iteration
     href: /promising-practices/data/
     name: data
+  - text: Commitment letters
+    href: /promising-practices/commitment-letters/
+    name: commitment-letters
   - text: Example forms
     href: /promising-practices/forms/
     name: forms

@@ -13,7 +13,7 @@ title: Promising practices for ERA programs
   Treasury has engaged with ERA grantees across the country to identify program strategies that promise to speed up program implementation, more efficiently  deliver program benefits, enhance program integrity, and improve tenant and landlord access to programs—particularly for vulnerable and harder to reach populations. As grantees across the country build program infrastructure designed to meet the specific needs of their communities, many have reported that early successes have relied on leveraging local resources, data-driven operational analyses, and incorporating continuous operational improvement strategies into their regular practices. Specific promising practices include: <sup><a href="#fn1" id="ref1">1</a></sup> 
 </p>
 <p>
-  Last updated: 7/31/2021
+  Last updated: 12/17/2021
 </p>
 
 <div class="grid-row grid-gap">
@@ -71,6 +71,11 @@ title: Promising practices for ERA programs
       <li>
         <a href="{{ site.baseurl }}/promising-practices/data/">
           Data-informed iteration
+        </a>
+      </li>
+      <li>
+        <a href="{{ site.baseurl }}/promising-practices/commitment-letters/">
+          Using Commitment Letters to Assist Prospective Renters
         </a>
       </li>
     </ul>
