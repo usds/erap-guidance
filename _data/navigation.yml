@@ -26,10 +26,6 @@ programs:
     href: /faqs/changes/
     desc: Details dates on which FAQs were added or updated.
     name: changes
-- text: Reporting
-  href: /reporting/
-  desc: Guidance and data
-  name: reporting
 - text: Promising practices
   href: /promising-practices/
   desc: Provides practices for program implementation and policies.
@@ -95,3 +91,11 @@ programs:
   href: /outreach/
   desc: Provides resources for program promotion.
   name: outreach
+- text: Report fraud, waste, and abuse
+  href: /fraud/
+  desc: How to report fraud, waste, and abuse
+  name: fraud
+- text: Reporting
+  href: /reporting/
+  desc: Guidance and data
+  name: reporting
