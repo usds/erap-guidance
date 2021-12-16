@@ -94,6 +94,10 @@ The City of Denver provides a “[Letter of Intent to Provide Rental Assistance]
 
 The State of Rhode Island provides [a letter addressed to the tenant]({{site.basurl}}/assets/forms/commitment-letter/commitment-letter-RI-EN.pdf). The letter states that the applicant has successfully submitted their application and that they qualify for assistance with a security deposit and up to three months of forward facing rent. It also informs them that they have 90 days from the date on the letter to secure a unit and instructs them to print out the letter to show potential landlords as evidence of their ability to provide a security deposit and first month’s rent. They also include a phone number that prospective landlords can call to learn more about the program.
 
+### Vermont
+
+Placeholder.
+
 ## What's next
 
 ### Make sure landlords are willing to accept the documentation presented
