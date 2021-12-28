@@ -63,7 +63,7 @@ By implementing this practice, the program can reach those who are in need and n
       If the applicant is preliminarily qualified for assistance, allow the applicant to download and print the prepared document that shows they are eligible for rent assistance
     </h4>
     <ul class="era-guidance-process-list__supporting-text">
-      <li>The State of Rhode Island provides a [letter addressed to the applicant]({{site.basurl}}/assets/forms/commitment-letter/commitment-letter-RI-EN.pdf) and instructs them to print the letter to show prospective landlords.</li>
+      <li>The State of Rhode Island provides a letter addressed to the applicant and instructs them to print the letter to show prospective landlords.</li>
       <li>The City of Denver provides a letter addressed to the landlord/property owner and confirms that the tenant has applied to the ERA program and is eligible to receive assistance.</li>
     </ul>
   </li>
@@ -102,7 +102,9 @@ The state of Vermont provides a [letter of intent addressed to the tenant]({{sit
 
 ### Northern Circle Indian Housing Authority (NCIHA)
 
-NCIHA is a Tribally Designated Housing Entity that works on behalf of seven Federally Recognized Tribes in Northern California to carry out housing related programs. Rather than provide applicants with a commitment letter, NCIHA works directly and proactively with prospective tenants, private landlords, and property managers to house members who do not have a current lease. NCIHA connects members who are unhoused with landlords and utilizes ERA funding to help those tenants get a start on their new housing. NCIHA builds trust with landlords by providing additional support beyond rent, such as financial counseling, to prospective tenants, ensuring they will experience increased housing stability. By taking a holistic and human-centered approach to program management, NCIHA has been able to secure new leases for over 100 individuals who were previously unhoused.
+NCIHA is a Tribally Designated Housing Entity that works on behalf of seven Federally Recognized Tribes in Northern California to carry out housing related programs. Rather than provide applicants with a commitment letter, NCIHA works directly and proactively with prospective tenants, private landlords, and property managers to house members who do not have a current lease. 
+
+NCIHA connects members who are unhoused with landlords and utilizes ERA funding to help those tenants get a start on their new housing. NCIHA builds trust with landlords by providing additional support beyond rent, such as financial counseling, to prospective tenants, ensuring they will experience increased housing stability. By taking a holistic and human-centered approach to program management, NCIHA has been able to secure new leases for over 100 individuals who were previously unhoused.
 
 ## What's next
 
