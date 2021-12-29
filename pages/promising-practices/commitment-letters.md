@@ -80,7 +80,7 @@ By implementing this practice, the program can reach those who are in need and n
 
 ### The state of Connecticut
 
-The state of Connecticut uses [their screener](https://docs.google.com/forms/d/e/1FAIpQLSf0nrBC0TeYiK0wmp2WRuRel0chBYhvcU_Zn-uyDrjON-0ePA/viewform) as a form of documentation that tenants may show a landlord to demonstrate that they have been pre-approved for assistance. This practice may help applicants who are currently unhoused and therefore do not have a current rental agreement. It may also help applicants that face eviction and need more immediate proof of future rental assistance while they wait for their application to be processed.
+The state of Connecticut uses [a self-service pre-eligibility survey tool](https://docs.google.com/forms/d/e/1FAIpQLSf0nrBC0TeYiK0wmp2WRuRel0chBYhvcU_Zn-uyDrjON-0ePA/viewform), accessible on the UniteCT website, as a form of documentation that tenants may show a landlord to demonstrate that they are eligible for assistance. This practice may help applicants who are currently unhoused and therefore do not have a current rental agreement. It may also help applicants that face eviction and need more immediate proof of future rental assistance while they wait for their application to be processed.
 
 ### The state of Colorado
 
