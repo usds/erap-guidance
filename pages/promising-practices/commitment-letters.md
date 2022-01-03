@@ -84,7 +84,7 @@ The state of Connecticut uses [a self-service pre-eligibility survey tool](https
 
 ### The state of Colorado
 
-The state of Colorado provides a commitment letter that clearly states how much will be paid out to the landlord. The form has placeholders for the actual dollar amount that will be paid for three months rent, estimated average utilities, security deposit, additional three months rent, and rental application fees. This makes it very clear how much the landlord will be able to receive by accepting the application of a potential tenant that will be receiving assistance with ERA funds. 
+The state of Colorado makes available to their grantees a commitment letter that clearly states how much will be paid out to the landlord. The form has placeholders for the actual dollar amount that will be paid for three months rent, estimated average utilities, security deposit, additional three months rent, and rental application fees. This makes it very clear how much the landlord will be able to receive by accepting the application of a potential tenant that will be receiving assistance with ERA funds. 
 
 ### The city of Denver
 
