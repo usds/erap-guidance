@@ -160,6 +160,8 @@ Here are a few things to consider:
 
 ## Improve access for those with limited English proficiency
 
+The language spoken by an individual is considered a characteristic of their national origin. Under Title VI of the Civil Rights Act, recipients must address the language needs of the limited English proficient (LEP) persons they serve to ensure their meaningful participation in their program.  The Department of the Treasury <a href="https://www.federalregister.gov/documents/2005/02/04/05-2156/guidance-to-federal-financial-assistance-recipients-regarding-title-vi-prohibition-against-national">Guidance to Federal Financial Assistance Recipients Regarding Title VI Prohibition Against National Origin Discrimination Affecting Limited English Proficient Persons</a> (LEP Guidance), was issued on February 4, 2005. The LEP Guidance provides additional information and a structure through which a program or activity can be consistently evaluated to ensure meaningful access.
+
 "<a href="https://www.lep.gov/sites/lep/files/media/document/2021-12/2021_12_07_Website_Language_Access_Guide_508.pdf">Improving Access to Public Websites and Digital Services for Limited English Proficient (LEP) Persons</a>" is a resource created by the LEP Committee of the Federal Title VI Interagency Working Group housed at the Department of Justice. The guide provides best practices for developing multilingual websites and digital services, effective design strategies to improve language access for LEP persons on websites, and how to handle translation and usability testing. The guide also provides some signs of possible trouble regarding your website and digital services:
 
 * Some digital content is translated, but the directions to navigate to it are in English only.
