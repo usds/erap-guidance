@@ -99,3 +99,7 @@ programs:
   href: /reporting/
   desc: Guidance and data
   name: reporting
+- text: Tenants and Landlords
+  href: /tenants-and-landlords/
+  desc: Resources for tenants and landlords
+  name: tenants-and-landlords
