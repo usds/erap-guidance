@@ -1,9 +1,9 @@
 ---
 layout: default-one-col
-permalink: /tenants-and-landlords/
-section: tenants-and-landlords
+permalink: /renters-and-landlords/
+section: renters-and-landlords
 sidenav: programs
-title: Tenants and landlords
+title: Renters and landlords
 ---
 
 <div class="abstract field field--name-field-page-abstract field--type-text-long field--label-hidden field__item">
@@ -26,7 +26,7 @@ title: Tenants and landlords
 </p>
 
  <address> 
-  <h5>Director, <a href="https://home.treasury.gov/about/offices/management/civil-rights-and-diversity/federally-assisted-programs-and-federally-conducted-programs">Office of Civil rights and Diversity</a></h5>
+  <h5>Director, <a href="https://home.treasury.gov/about/offices/management/civil-rights-and-diversity/federally-assisted-programs-and-federally-conducted-programs">Office of Civil Rights and Diversity</a></h5>
   <p>
     1500 Pennsylvania Ave, N.W.<br>
     Washington, DC 20220
@@ -37,5 +37,5 @@ title: Tenants and landlords
     What the Department of the Treasury will do to ensure nondiscrimination
   </h4>
   <p>
-    The Department of the Treasury will conduct investigations of civil rights complaints filed against recipients of financial assistance under any of its programs, and will conduct pre and post award compliance reviews.  If discrimination is found, the Department of the Treasury can defer action on an application for federal financial assistance, issue a cautionary letter, or as an ultimate consequence deny funding.  Independently of any possible actions to be taken by the Department of the Treasury, courts have interpreted that Title VI provides a private right of action.
+    The Department of the Treasury will conduct investigations of civil rights complaints filed against recipients of financial assistance under any of its programs, and will conduct pre and post award compliance reviews. If discrimination is found, the Department of the Treasury can defer action on an application for federal financial assistance, issue a cautionary letter, or as an ultimate consequence deny funding. Independently of any possible actions to be taken by the Department of the Treasury, courts have interpreted that Title VI provides a private right of action.
   </p>
