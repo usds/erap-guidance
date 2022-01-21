@@ -100,6 +100,30 @@ programs:
   desc: Guidance and data
   name: reporting
 - text: Renters and landlords
-  href: /renters-and-landlords/
+  href: https://home.treasury.gov/policy-issues/coronavirus/assistance-for-American-families-and-workers/emergency-rental-assistance-program
   desc: Resources for renters and landlords
   name: renters-and-landlords
+
+policy:
+- text: Assistance for American Workers & Families
+  href: https://home.treasury.gov/policy-issues/cares/assistance-for-american-workers-and-families
+  name: workers
+  subnav:
+    - text: Economic Impact Payments
+      href: https://home.treasury.gov/policy-issues/coronavirus/assistance-for-american-families-and-workers/economic-impact-payments
+      name: eip
+    - text: Unemployment Compensation
+      href: https://home.treasury.gov/policy-issues/coronavirus/assistance-for-american-families-and-workers/unemployment-compensation
+      name: uic
+    - text: Child Tax Credit
+      href: https://home.treasury.gov/policy-issues/coronavirus/assistance-for-american-families-and-workers/child-tax-credit
+      name: ctc
+    - text: Emergency Rental Assistance Program
+      href: /
+      name: era
+- text: Assistance for Small Business
+  href: https://home.treasury.gov/policy-issues/cares/assistance-for-small-businesses
+  name: small-biz
+- text: Assistance for State, Local, and Tribal Governments
+  href: https://home.treasury.gov/policy-issues/cares/assistance-for-small-businesses
+  name: local
