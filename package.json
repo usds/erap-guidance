@@ -67,6 +67,7 @@
     "xmlhttprequest-ssl": ">=1.6.1"
   },
   "dependencies": {
+    "del": "^6.0.0",
     "postcss": "^8.2.4"
   }
 }

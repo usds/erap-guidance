@@ -100,7 +100,7 @@ programs:
   desc: Guidance and data
   name: reporting
 - text: Renters and landlords
-  href: https://home.treasury.gov/policy-issues/coronavirus/assistance-for-American-families-and-workers/emergency-rental-assistance-program
+  href: /renter-and-landlords-index/
   desc: Resources for renters and landlords
   name: renters-and-landlords
 
